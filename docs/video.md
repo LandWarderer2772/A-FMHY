@@ -433,8 +433,8 @@
 * [Streamex](http://streamex.cc/) or [CrackStreams](https://crackstreams.li/), [2](https://streameast.art/), [3](https://hesgoal.lol/) - Stream Aggregator / [Discord](https://discord.gg/G4HxTYejNT)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [SportDB](https://sportdb.pro/) - Stream Aggregator
-* [TotalSportek.to](https://totalsportek.es/), [2](https://buffstreams.app/) - Stream Aggregator
-* [CricHD.to](https://crichd.at/), [2](https://crichd.com.co/)
+* [TotalSportek.es](https://totalsportek.es/), [2](https://streameast.cz/) - Stream Aggregator
+* [CricHD](https://crichd.at/), [2](https://crichd.com.co/)
 * [MainPortal66](https://mainportal66.com/)
 * [⁠GoalieTrend](https://www.goalietrend.com/daily-event) / [Discord](https://discord.gg/VKbvRcjDwa)
 * [Viprow](https://viprow.cv/) or [NFLBite](https://nflbite.digital/), [2](https://nhlbite.cc/)
@@ -452,7 +452,6 @@
 * [StarLive](https://starlive.click/) - Live MMA Events
 * [TFLIX](https://tv.tflix.app/) - Sports Channels
 * [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
-* [CricHD](https://crichd.at/) - Cricket / Aggregator
 * [WebCric](https://me.webcric.com/) - Cricket
 * [OnHockey](https://onhockey.tv/) - Hockey / Aggregator
 * [OvertakeFans](https://overtakefans.com/) - Motorsports / [Discord](https://discord.gg/ZKwTUbdbmc)
@@ -595,6 +594,7 @@
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama
 * ⭐ **[MKVDrama](https://mkvdrama.org/)** - Asian Drama
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
+* [⁠Medeberiya](https://medeberiya.net/) - Movie / TV
 * [TFPDL](https://tfpdl.se/category/movies/), [2](https://tfpdl.to/category/movies/) - Movies / TV / Anime
 * [P-Stream](https://pstream.mov/) - Movies / TV / Anime / [Discord](https://discord.gg/uHU4knYRPa)
 * [9xFlix](https://www.9xflix.me/) - Movies / TV / Anime
@@ -664,7 +664,6 @@
 * ⭐ **[111477](https://rentry.co/FMHYB64#directory-111477)** - Movies / TV / Anime / [Desktop App](https://playtorrio.pages.dev/) (unofficial) / [Discord](https://discord.gg/YjkP4pANpg)
 * ⭐ **[DramaSuki](https://rentry.co/FMHYB64#dramasuki)** - Asian Drama
 * [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - Movies / TV / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [⁠Medeberiya](https://rentry.co/FMHYB64#medeberiya) - Movie / TV
 * [Vadapav](https://rentry.co/FMHYB64#vadapav) - Movies / TV
 * [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
 * [Cinefy](https://thecinefy.site/) - Movies / TV / Telegram
