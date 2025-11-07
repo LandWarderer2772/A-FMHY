@@ -27,14 +27,14 @@
 * [g4u](https://g4u.to/) - Download / PW: `404`
 * [GLoad](https://gload.to/) - Download
 * [scene cat](https://rentry.co/FMHYB64#scene-cat) - Download / [Discord](https://discord.gg/wXdNEhf73x)
-* [SteamGG](https://steamgg.net/) - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE)
 * [⁠Fluxy Repacks](https://fluxyrepacks.xyz/games) - Download / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#fluxy-repacks) / [Discord](https://discord.gg/TBs8Te5nwn)
+* [AstralGames](https://astral-games.xyz/) - Download / Pre-Installs / [Discord](https://discord.gg/38bRNmKB4v)
 * [⁠GoMorGames](https://gomorgames.com/) - Download / [Discord](https://discord.gg/raWtANAZqF)
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installs / [Telegram](https://t.me/appnetica_info) / [Discord](https://discord.gg/TvKnH6P)
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/KSG9Tg2s7b)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
 * [Reloaded Steam](https://reloadedsteam.com/) - Download / Pre-Installs / [Discord](https://discord.gg/XqMpBdVWvK)
-* [AstralGames](https://astral-games.xyz/) - Download / Pre-Installs / [Discord](https://discord.gg/38bRNmKB4v)
+* [SteamGG](https://steamgg.net/) - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE)
 * [Rexa Games](https://rexagames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/6KWStFYSTj)
 * [SteamOra](https://steamora.net/) - Download / Pre-Installs / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
@@ -770,7 +770,7 @@
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
 * ⭐ **[NZP](https://nzp.gay/)** - Browser COD Zombies
 * ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS
-* [OpenArena Live](https://kosmi.io/openarena) or [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inpired Games
+* [OpenArena Live](https://kosmi.io/openarena) or [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Games
 * [WebLiero](https://www.webliero.com/) - Multiplayer Liero Clone
 * [Venge](https://venge.io/) - PvP FPS
 * [kour.io](https://kour.io/), [2](https://kourio.online/) - PvP FPS
@@ -929,6 +929,7 @@
 * ⭐ **[TETR.IO](https://tetr.io/)** - Multiplayer Browser Tetris / [Discord](https://discord.com/invite/tetrio) / [GitHub](https://github.com/tetrio/) / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/tetrioplus//) / [Stats](https://tsbeta.dan63.by/)
 * [Jstris](https://jstris.jezevec10.com/) - Multiplayer Browser Tetris / [Plus](https://discord.gg/mtX8ek82xb) / [Skin Database](https://docs.google.com/spreadsheets/d/1xO8DTORacMmSJAQicpJscob7WUkOVuaNH0wzkR_X194/htmlview#)
 * [Tetra eSports](https://tetraesports.com/) - Competitive Multiplayer Tetris / [Discord](https://discord.gg/6EFdcGuWKn)
+* [Apotris](https://akouzoukos.com/apotris/play/) - Customizable Browser Tetris w/ Responsive Controls / [Multi-Platform](https://akouzoukos.com/apotris) / [Source](https://gitea.com/akouzoukos/apotris)
 * [Tetris](https://tetris.com/) - Browser Tetris
 * [⁠LazyTetris](https://lazytetris.com/) - Browser Tetris
 * [Tetr.js](http://farter.cn/tetr.js/) - Browser Tetris
