@@ -284,6 +284,7 @@
 # ► Video Generation
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
+* [Sora](https://openai.com/index/sora/) - 29 Daily / [Signup Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#sora) / [Remove Watermarks](https://unmarkit.app/sora), [2](https://colab.research.google.com/drive/1Iqu4RZ9WAhcbO1Jn0wCkMOsw2l1p6z62)
 * [Grok Imagine](https://grok.com/imagine) - Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Opal Veo 3](https://opal.withgoogle.com/?flow=drive:/16qMbrhlc7gjTfI1zpnKbyoBxEcDRi4om&shared&mode=app) - Veo 3 / US IP or VPN Required / Use Alt Account
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
@@ -292,6 +293,7 @@
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 4 Daily
 * [Qwen](https://chat.qwen.ai/) - 10 Daily / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Bing Create](https://www.bing.com/images/create) - Sora 1 / No Image Input
+* [⁠AI4Wallpaper](https://www.ai4wallpaper.com/) - Seedance 1.0 Pro/Lite (JiMeng)
 * [⁠FastVideo](https://hao-ai-lab.github.io/FastVideo/) - Unlimited / [GitHub](https://github.com/hao-ai-lab/FastVideo/)
 * [Vivago](https://vivago.ai/) - 1 Daily
 * [LMArena](https://discord.com/invite/lmarena) - 5 Daily / Random Models / Discord Only / Check #how-to-video-bot / End-Watermark
@@ -306,7 +308,7 @@
 * ⭐ **[AI Studio](https://aistudio.google.com/generate-image)**, [Gemini](https://gemini.google.com/), or [Whisk](https://labs.google/fx/en/tools/whisk) -Nano Banana (editing) / Imagen 4 + Ultra / 100 per day (Gemini) / Sign-Up Required / Region-Based / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT-4o / MAI-Image-1 / Editing / Sign-Up Required
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - 30 Per 24 Hours / Editing / Sign-Up Required / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* ⭐ **[LMArena](https://lmarena.ai/?mode=direct&chat-modality=image)** - Multiple Generators / Editing / Google Login After 3 / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* ⭐ **[LMArena](https://lmarena.ai/?mode=direct&chat-modality=image)** - Multiple Generators / Editing / Login After 3 / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)** - Imagen 3 / Unlimited / Region-Based / Sign-Up Required / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[Grok](https://grok.com/)** - 96 Daily / Editing / Sign-Up Required / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Mage](https://www.mage.space/) - Flux Schnell / Sign-Up Required / [Discord](https://discord.com/invite/GT9bPgxyFP)
@@ -327,6 +329,7 @@
 * [Reve Image](https://app.reve.com) - 20 Daily / Editing / Sign-Up Required / [x](https://x.com/reve) / [Discord](https://discord.gg/Nedxp9fYUZ)
 * [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / SoTA Image Gen / 50 Daily / Sign-Up with Phone # Required/ US Select CA
 * [⁠ZonerAI](https://zonerai.com/) - Unlimited / Editing
+* [⁠AI4Wallpaper](https://www.ai4wallpaper.com/) - Seedream 4 (Editing) / Seedream 3 (Generation)
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up Required
 * [AI Gallery](https://aigallery.app/) - Unlimited / No Sign-Up / [Telegram](https://t.me/aigalleryapp)
 * [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#hugging-face-warning)

@@ -9,7 +9,7 @@
 * ⭐ **[IHaveNoTV](https://ihavenotv.com)**
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
-* ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)**, *[2](https://1337x.cc/top-100-documentaries) / Torrent
+* ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)**, [2](https://1337x.cc/top-100-documentaries) / Torrent
 * [LearnOutLoud](https://www.learnoutloud.com/)
 * [Top Documentary Films](https://topdocumentaryfilms.com/)
 * [Thought Maybe](https://thoughtmaybe.com/)
@@ -1256,6 +1256,7 @@
 * [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
 * [x86re](https://x86re.com/) or [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Guides
 * [CrackMyApp](https://crackmy.app/) or [crackmes](https://crackmes.one/) / [Discord](https://discord.com/invite/2pPV3yq) - Reverse Engineering Challenges
+* [⁠Reverse Engineering Academy](https://reverseengineering.vercel.app/) - Interactive Reverse Engineering Lessons 
 * [John Hammond](https://www.youtube.com/@_JohnHammond) - Cybersecurity YouTube Tutorials
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
 * [How DNS Works](https://howdns.works/) - Learn DNS
