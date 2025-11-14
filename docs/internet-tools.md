@@ -487,9 +487,9 @@
 ## ▷ Email Aliasing
 
 * 🌐 **[⁠Email Aliasing Comparison](https://email-aliasing-comparison.netlify.app/)** / [GitHub](https://github.com/fynks/email-aliasing-comparison)
-* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / 10 Alias Limit / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
-* ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing / [Send Mail](https://duckduckgo.com/duckduckgo-help-pages/email-protection/duck-addresses/how-do-i-compose-a-new-email)
+* [addy.io](https://addy.io/) - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
+* [SimpleLogin](https://simplelogin.io/) - Email Aliasing / 10 Alias Limit / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
 * [Mailgw](https://mailgw.com/) - Email Aliasing
 * [erine.email](https://erine.email/) - Email Aliasing
 * [33mail](https://33mail.com/) - Email Aliasing
@@ -566,7 +566,7 @@
 
 ## ▷ Custom New Tab Pages
 
-* ⭐ **[Anori](https://anori.app/)**
+* ⭐ **[Anori](https://anori.app/)** / [GitHub](https://github.com/OlegWock/anori)
 * ⭐ **[Mue](https://muetab.com/)** / [GitHub](https://github.com/mue/mue)
 * ⭐ **[Bonjourr](https://bonjourr.fr/)** / [GitHub](https://github.com/victrme/Bonjourr)
 * [Renewed Tab](https://renewedtab.com/) / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
@@ -634,7 +634,6 @@
 * ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes
 * ⭐ **Stylus Styles** - [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [OLED](https://github.com/zettaexa/userstyles) / [Oldschool](https://forum.spacehey.com/topic?id=90895) / [Catppuccin](https://github.com/catppuccin/userstyles)
 * ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
-* ⭐ **[Zoom WE](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#zoom-page-addons)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#scrollanywhere-addons)** - Improves Scrolling Functionality
 * ⭐ **[Auto Tab Discard](https://add0n.com/tab-discard.html)** or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler) - Discard Inactive Tabs
 * ⭐ **[Clipboard2File](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#clipboard2file-addons)** - Upload Images from Clipboard
@@ -644,6 +643,7 @@
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [Web Search Navigator](https://github.com/infokiller/web-search-navigator), [Shortkeys](https://www.shortkeys.app/) or [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard Shortcuts
 * [Custom Scrollbars](https://addons.wesleybranton.com/addon/custom-scrollbars/) - Custom Browser Scrollbars
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch Between Current & Recently Closed Tabs
+* [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * [User Agent Switcher](https://webextension.org/listing/useragent-switcher.html) - Switch Your User-Agent
 * [⁠CRXInstaller](https://addons.mozilla.org/en-US/firefox/addon/crxinstaller/) - Use Chrome Extensions in Firefox Forks, Floorp, Librewolf, etc. / [GitHub](https://github.com/FoxRefire/ChromeXPIPorter)
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs

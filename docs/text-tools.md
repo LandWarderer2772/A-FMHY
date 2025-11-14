@@ -36,12 +36,10 @@
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
 * [Text.is](https://text.is/) - Markdown Support / Rentry Clone
-* [Stellular](https://stellular.net/), [2](https://bundlrs.cc/), [3](https://www.sentrytwo.com/) - Markdown Support
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
 * [⁠Ghostbin](https://ghostbin.co/) - Multi-Syntax / Markdown Support
 * [dpaste](https://dpaste.org/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/DarrenOfficial/dpaste)
 * [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [GitHub](https://github.com/cupcakearmy/cryptgeon)
-* [Paste.ee](https://paste.ee/) - Multi-Syntax / Markdown Support
 * [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax / Markdown Support
 * [NoPaste](https://nopaste.boris.sh/) - Multi-Syntax / [GitHub](https://github.com/bokub/nopaste)
