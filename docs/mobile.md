@@ -80,7 +80,7 @@
 * ↪️ **[Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)** - App Giveaway Sites
 * ⭐ **[APKMirror](https://www.apkmirror.com/)** / [Extension Links](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#apkmirror-extensions)
 * ⭐ **[UpToDown](https://en.uptodown.com/android)**
-* ⭐ **[APKCombo](https://apkcombo.app/)**
+* ⭐ **[APKCombo](https://apkcombo.com/)**
 * ⭐ **[Aurora Store](https://auroraoss.com/)** - Google Play Store Alt / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#aurora-note) / [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
 * [APKPure](https://apkpure.net/), [2](https://apkpure.com/) / [Telegram](https://t.me/APKPure_Official_2)
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
@@ -310,7 +310,7 @@
 ## ▷ Root / Flash
 
 * 🌐 **[Awesome Android Root](https://awesome-android-root.org/)** - Rooted App Index / [GitHub](https://github.com/awesome-android-root/awesome-android-root)
-* 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** - Bootlocker Limit Index
+* 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** or [BL List](https://a.zli.li/) - Bootlocker Limit Indexes / Policies / [GitHub](https://github.com/xuemian168/android-locker)
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [⁠Magisk Alpha](https://t.me/magiskalpha), [KernelSU](https://kernelsu.org/), [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [APatch](https://github.com/bmax121/APatch), [MTKClient](https://github.com/bkerler/mtkclient) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
@@ -621,9 +621,9 @@
 
 * ↪️ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_text_tools) / [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_to-do_apps)**
 * ⭐ **[Table Habit](https://github.com/FriesI23/mhabit)** - Habit Tracker
+* [Loop Habit Tracker](https://github.com/iSoron/uhabits) - Habit Tracker
 * [StayFree](https://stayfreeapps.com/) - Digital Productivity Tracker / App Blocker
 * [Folksable](https://folksable.com/) - Social Habit Tracker
-* [Loop Habit Tracker](https://github.com/iSoron/uhabits) - Habit Tracker
 * [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
 * [Grit](https://github.com/shub39/Grit) - Habit Tracker
 * [moreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker
@@ -1084,12 +1084,12 @@
 * ⭐ **[r/jailbreak Discord](https://discord.com/invite/jb)** - Jailbreaking Community / [Subreddit](https://reddit.com/r/jailbreak)
 * ⭐ **[r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/)** - Jailbreak Old Devices (iOS 12 and Below) / [Discord](https://discord.gg/bhDpTAu)
 * ⭐ **[Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)** - Legacy iOS Devices / Downgrade / Save Blobs / Jailbreak / Bypass
-* [CFW iOS Guide](https://ios.cfw.guide/) - Jailbreaking Guide
+* ⭐ **[iOS Jailbreaking Guide](https://ios.cfw.guide/)** - Jailbreaking Guide
 * [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreak
 * [Dopamine](https://ellekit.space/dopamine/) - 15.0-16.6.1 Semi-Untethered Jailbreak (A8-A16 & M1-M2) / [Guide](https://ios.cfw.guide/installing-dopamine/) / [GitHub](https://github.com/opa334/Dopamine)
 * [palera1n](https://palera.in) - 15.0-18.x Semi-Tethered Jailbreak (A8-A11 & T2) / [Guide](https://ios.cfw.guide/installing-palera1n/) / [GitHub](https://github.com/palera1n/palera1n)
 * [nathanlr](https://ios.cfw.guide/installing-nathanlr/) - 16.5.1-16.6.1 Semi-Untethered Semi-Jailbreak (A12) / [Guide](https://ios.cfw.guide/installing-nathanlr/)
-* [checkra1n](https://checkra.in/) - 12.0-14.8.1 Semi-Tethered Jailbreak (5s-X) / [Discord](https://discord.gg/NAxRYvysuc)
+* [checkra1n](https://checkra.in/) - 12.0-14.8.1 Semi-Tethered Jailbreak (5s-X) 
 * [Taurine](https://taurine.app/) - 14-14.8.1 Semi-Untethered Jailbreak
 * [Odyssey](https://theodyssey.dev/) - 13.0-13.7 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-odyssey/)
 * [Chimera](https://chimera.coolstar.org/) - 12.0-12.5.7 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-chimera/)
@@ -1133,7 +1133,7 @@
 ## ▷ iOS Sideloading
 
 * ⭐ **[Sideloading Guide](https://rentry.co/sideloadingguide)**, [ios.cfw.guide](https://ios.cfw.guide/sideloading-apps/) or [Avieshek's Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) - Sideloading Guides
-* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/) / [Discord](https://discord.gg/PrF6XqpGgX)
+* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
 * ⭐ **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Limit Bypass Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#limit-bypass-note) / [Guide](https://docs.sidestore.io/docs/advanced/sparserestore)
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideloading (iOS 7.0 & Above)
 * ⭐ **[Feather](https://github.com/khcrysalis/Feather)** - Sideloading App (iOS 15.0 & Above) / Requires Apple Dev Certificate

@@ -30,7 +30,7 @@
 * [⁠Better xCloud](https://better-xcloud.github.io/) - Add Features to xCloud / [GitHub](https://github.com/redphx/better-xcloud)
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/) or [Lorenzi's Game Boards](https://gb.hlorenzi.com/) - Tournement Creators / Managers
-* [Moments](https://steelseries.com/gg/moments) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
+* [Moments](https://steelseries.com/gg/moments), [Medal](https://medal.tv/) / [Premium Bypass](https://medalbypass.vercel.app/) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
 * [PSNProfiles](https://psnprofiles.com/) - Trophy Guide / PSN Profile Viewer
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
@@ -474,7 +474,7 @@
 * ⭐ **[r/SwitchPirates Wiki](https://www.reddit.com/r/SwitchPirates/wiki/index/)** or **[Switch Hacks Guide](https://switch.hacks.guide/)** (anti-piracy) - Homebrew Guides
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store
 * [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
-* [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
+* [LAN Play Status](http://www.lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
 * [FlagBrew](https://github.com/FlagBrew) - Switch Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
 * [Switch Army Knife](https://www.gamebrew.org/wiki/Switch_Army_Knife) - Switch File Converter
@@ -796,7 +796,7 @@
 * 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Pokémon Resources
 * 🌐 **[r/PTCGP Resource Guide](https://redd.it/1gf94ey)** - Pokémon TCG Pocket Resources
 * ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
-* ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Awesome](https://pokemon-awesome.vercel.app/) or [Pokémon Database](https://pokemondb.net/) - Pokémon Databases
+* ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Awesome](https://pokemon-awesome.vercel.app/), [PocketMonsters.net](https://pocketmonsters.net/) or [Pokémon Database](https://pokemondb.net/) - Pokémon Databases
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)** or [PokeAPI](https://pokeapi.co/) - Pokédexes
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** or [Type Calculator](https://www.pkmn.help/) - Pokémon Type Charts
 * ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/), [Pokemon Blaze Online](https://pokemonblazeonline.com/) / [Discord](https://discord.com/invite/b3ZnXuf5fk) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs
