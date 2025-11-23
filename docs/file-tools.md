@@ -95,7 +95,7 @@
 ## ▷ File Managers
 
 * ⭐ **[Directory Opus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)** (search) - Windows File Manager
-* [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
+* [DoubleCMD](https://doublecmd.sourceforge.io/) / [GitHub](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager
 * [Yazi](https://yazi-rs.github.io/) - Terminal File Manager / [GitHub](https://github.com/sxyazi/yazi)
@@ -300,7 +300,7 @@
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days After Last Download (10% min) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days After Last Download (10% min) / [Speedtest](https://pixeldrain.com/speedtest)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / **Use [Adblock](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
