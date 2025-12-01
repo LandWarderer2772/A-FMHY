@@ -50,7 +50,7 @@
 * [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweaked System Menu
 * [Shell](https://nilesoft.org/) / [GitHub](https://github.com/moudey/shell) or [RCWM](https://github.com/GChuf/RCWM) - Tweaked / Custom Context Menus
-* [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Tweaked File Explorer
+* [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Improved / Tweaked File Explorers
 * [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
 * [yasb](https://github.com/amnweb/yasb) - Tweaked Taskbar
@@ -452,6 +452,7 @@
 * [VSThemes](https://vsthemes.org/en/) - Search Wallpapers
 * [r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
 * [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - 2000s Style Wallpapers
+* [⁠Kawaii Hoshi](https://kawaiihoshi.com/) - Cute Wallpapers
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) - Customizable Wallpapers
 * [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers

@@ -321,7 +321,6 @@
 * [TWRP Root](https://twrp.me/) - TWRP Root / [Telegram](https://t.me/samsung_twrp_root)
 * [Orangefox](https://orangefox.download/) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
 * [Smali Patcher](https://xdaforums.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
-* [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
 * [LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework
 * [PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel Phone Flashing GUI
 
@@ -945,7 +944,7 @@
 * ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)** / [Nightly Builds](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main)
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [Just Player](https://github.com/moneytoo/Player)
-* [⁠mpvEx](https://github.com/marlboro-advance/mpvEx)
+* [⁠mpvEx](https://mpvex.vercel.app/) / [GitHub](https://github.com/marlboro-advance/mpvEx)
 * [⁠Night Video Player](https://play.google.com/store/apps/details?id=com.rz.night.player)
 * [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Codec](https://github.com/USBhost/MX_FFmpeg)
 * [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
