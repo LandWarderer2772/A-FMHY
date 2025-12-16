@@ -185,13 +185,14 @@
 ## ▷ Remakes / Recreations
 
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
+* ⭐ **[Clone Hero](https://clonehero.net/)** - Guitar Hero Clone / [Wiki / Guides](https://wiki.clonehero.net/) / [Setlists](https://rentry.co/FMHYB64#setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online) / [Discord](https://discord.gg/Hsn4Cgu)
+* ⭐ **[OpenMW](https://openmw.org/)** - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
 * ⭐ **[OpenRCT2](https://openrct2.io/)** - Open-Source RollerCoaster Tycoon 2 / [Subreddit](https://www.reddit.com/r/openrct2/) / [Discord](https://discord.gg/ZXZd8D8) / [GitHub](https://github.com/OpenRCT2/OpenRCT2)
 * [Locomalito](https://locomalito.com/) or [RetroSpec](https://retrospec.sgn.net/) - Classic Game Remakes
 * [Super Smash Flash](https://www.supersmashflash.com/) / [Discord](https://discord.com/invite/mcleodgaming) or [Smash Crusade](https://smash-crusade.itch.io/crusade) / [Forum](https://projectcrusade.forumotion.com/) / [Discord](https://discord.com/invite/9WBn6u65Fg) - Flash Super Smash Bros.
 * [Luanti](https://www.luanti.org/) / [Discord](https://discord.gg/minetest) / [GitHub](https://github.com/luanti-org) or [Classicube](https://www.classicube.net/) / [Discord](https://discord.com/invite/DvYYyRw) / [GitHub](https://github.com/UnknownShadow200/ClassiCube) - Open-Source Minecraft Clones / Alternatives
 * [Chrono Divide](https://chronodivide.com/) / [Discord](https://discord.gg/uavJ34JTWY) / [GitHub](https://github.com/chronodivide) or [OpenRA](https://openra.net/) / [Discord](https://discord.com/invite/m5dVWH4aQE) / [GitHub](https://github.com/OpenRA/OpenRA) - Command & Conquer Recreations
 * [The Dark Mod](https://www.thedarkmod.com/) - Modernized Thief Recreation / [Community Missions](https://www.thedarkmod.com/missions/)
-* [OpenMW](https://openmw.org/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
 * [Xonotic](https://xonotic.org/) - Open-Source Modified Quake Engine FPS / [GitLab](https://gitlab.com/xonotic/xonotic/)
 * [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
 * [⁠DevilutionX](https://devilutionx.com/) - Open-Source Modified Diablo 1 / [GitHub](https://github.com/diasurgical/devilutionx)
@@ -211,7 +212,6 @@
 * [EDOPro](https://projectignis.github.io/) - Yu-Gi-Oh! TCG Fangame / [Discord](https://discord.gg/ygopro-percy) / [GitHub](https://github.com/ProjectIgnis)
 * [Pac-Man](https://github.com/masonicGIT/pacman) - Pac-Man with Added Features
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Wiki / Guides](https://wiki.clonehero.net/) / [Setlists](https://rentry.co/FMHYB64#setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online) / [Discord](https://discord.gg/Hsn4Cgu)
 * [Bridge](https://github.com/Geomitron/Bridge) - Download Charts for Rhythm Games / [Discord](https://discord.gg/cqaUXGm)
 * [ITGmania](https://www.itgmania.com/) - DDR Clone / [GitHub](https://github.com/itgmania/itgmania)
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
@@ -230,7 +230,7 @@
 
 * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
-* [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
+* [TF2 Classified](https://tf2classified.com/) - Team Fortress 2 Classified Mod
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project / [Discord](https://discord.gg/GqxxgBj)
 * [r/MinecraftStoryMode](https://www.reddit.com/r/MinecraftStoryMode/) - Minecraft Story Mode Revival Project / [Discord](https://discord.gg/zUuABEc6at)
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation / [Discord](https://discord.com/invite/NvF3pdV)
@@ -673,8 +673,9 @@
 * [Addicting Games](https://www.addictinggames.com/) - Browser Games
 * [Kongregate](https://www.kongregate.com/) - Browser Games
 * [Y8](https://www.y8.com/) - Browser Games
-* [VAPOR](https://vapor.my/) - Browser Games + Ports / [Discord](https://discord.com/invite/BHwm9rrK55)
-* [⁠Truffled](https://truffled.lol/g) - Browser Games + Ports
+* [VAPOR](https://vapor.my/) - Browser Games / Ports / Unblocked / [Discord](https://discord.com/invite/BHwm9rrK55)
+* [⁠Truffled](https://truffled.lol/g) - Browser Games / Ports / Unblocked 
+* [Selenite](https://selenite.cc/), [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / Unblocked / [Discord](https://discord.gg/7jyufnwJNf)
 * [Poki](https://poki.com/) - Browser Games
 * [Crazy Games](https://www.crazygames.com/) - Browser Games
 * [GamezHero](https://www.gamezhero.com/) - Browser Games
@@ -696,12 +697,15 @@
 * [Friv](https://www.friv.com/) - Browser Games
 * [Emupedia](https://emupedia.net/beta/) - Browser Games
 * [Cool Math Games](https://www.coolmathgames.com/) - Browser Games
+* [Unblock KISD](https://sites.google.com/view/unblockkisd/) - Browser Games / Unblocked
+* [⁠gn-math](https://gn-math.github.io/) - Browser Games / Unblocked
+* [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) - Browser Games / Unblocked
+* [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked
 * [r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
-* [Unblock KISD](https://sites.google.com/view/unblockkisd/), [⁠gn-math](https://gn-math.github.io/), [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) or [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked at Schools
 * [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en), [FlashLegacy](https://www.flashlegacy.com/) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/) or [KongHack](https://konghack.com/) - Flash Game Mods
 * [Js13kGames](https://js13kgames.com/entries), [HTML5 Games](https://html5games.com/) or [TheBestarcade](https://html5.thebestarcadescript.com/) - HTML5 Games
@@ -821,7 +825,7 @@
 * [Politics and War](https://politicsandwar.com/) - More Advanced Nation Building Simulation Game / [Discord](https://discord.com/invite/H9XnGxc)
 * [GeoFS](https://www.geo-fs.com/geofs.php) - Plane Simulator
 * [Money Simulator](https://simulator.money) - Money Simulator
-* [BrantSteele](https://brantsteele.net/) or [Simublast](https://www.simublast.com/) - Game Show Simulators
+* [BrantSteele](https://brantsteele.com/index.php) or [Simublast](https://www.simublast.com/) - Game Show Simulators
 
 ***
 

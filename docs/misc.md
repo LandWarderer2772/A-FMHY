@@ -263,6 +263,7 @@
 
 * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org) or [WikiTravel](https://wikitravel.org/) - Travel Guides
+* [⁠CozyCozy](https://www.cozycozy.com/) - Compares 100+ Travel Accommodation Sites 
 * [⁠Ikuyo](https://ikuyo.kenrick95.org/) - Trip / Travel Planning
 * [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Guides
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
@@ -341,6 +342,7 @@
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
+* [Skimap.org](https://skimap.org/) - Detailed Ski Maps
 
 ***
 
@@ -349,6 +351,7 @@
 * [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
 * [trains.fyi](https://trains.fyi/) - Real-Time North America Train Tracker
 * [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
+* [Vanshnookenraggen Track Maps](https://www.vanshnookenraggen.com/_index/category/maps/track-maps/) - Detailed Subway Maps / History
 * [AP Transit](https://aptransit.co/) - NYC Live Subway Map
 * [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
 * [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
@@ -608,7 +611,6 @@
 * ⭐ **[BMI Chart](https://en.wikipedia.org/wiki/Body_mass_index#/media/File:BMI_chart.png)** - BMI Range Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
 * [Sleeping Guide](https://rentry.co/sleepguide) - Practices ⁠Sleeping Guide
-* [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
@@ -1034,7 +1036,7 @@
 ## ▷ Games
 
 * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
-* ⭐ **[GG.deals](https://gg.deals/)** - Multi-Store / MutlMultii-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
+* ⭐ **[GG.deals](https://gg.deals/)** - Multi-Store / Multii-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** - Multi-Store / [Discord](https://discord.com/invite/C3K4bBh)
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales / [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb)
 * [⁠EGData](https://egdata.app/) - Epic Store Sales / [GitHub](https://github.com/nachoaldamav/egdata)
