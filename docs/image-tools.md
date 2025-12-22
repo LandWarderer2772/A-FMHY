@@ -52,7 +52,7 @@
 * [photo.codes](https://www.photo.codes/) - Simple Editor w/ Shareable Colab Codes
 * [Photomate](https://photomate.dev/) - Simple Editor
 * [MiNi Photo Editor](https://mini2-photo-editor.netlify.app/) - Simple Editor / [GitHub](https://github.com/xdadda/mini-photo-editor)
-* [Polotno Studio](https://studio.polotno.com/) - Simple Editor / [GitHub](https://github.com/polotno-project/polotno-studio)
+* [Polotno Studio](https://studio.polotno.com/) - Simple Editor
 * [ILoveImg](https://www.iloveimg.com/photo-editor) - Simple Editor
 * [UpperPix](https://upperpix.com/) - Simple Editor
 * [Online Photo Editor](https://www.freeonlinephotoeditor.com/) - Simple Editor
@@ -198,6 +198,7 @@
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor / Windows, Mac, Linux, Android
 * [GIF to Frames](https://giftoframes.com/) - GIF to Spritesheet
+* [Pixel Snapper](https://www.spritefusion.com/pixel-snapper) - Auto-Fix Pixel Art into Grids / [Discord](https://discord.com/invite/8sCEAspmBV) / [GitHub](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 * [Pixel Reconstructor](https://i-win.neocities.org/pixel/), [Pixel Art Upscaler](https://imaginarycatlab.com/free-pixel-art-upscaler.html) or [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - ⁠Pixel Art Upscalers
 
 ***

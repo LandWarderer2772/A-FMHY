@@ -198,8 +198,6 @@
 * ⭐ **[Censordex](https://censordex.fr.to/)** or [Censorship Bypass](https://rentry.co/chinese-censorship-bypass-guide) - Censorship Bypass Guides
 * [gfwlist](https://github.com/gfwlist/gfwlist) - Blocked Sites List
 * [r/dumbclub](https://www.reddit.com/r/dumbclub/) - GFW Discussion
-* [XX-Net](https://xx-net.com/) - GFW VPN / Paid / [GitHub](https://github.com/XX-net/XX-Net)
-* [New Pac](https://github.com/Alvin9999/new-pac) - Bypass GFW Proxies
 * [gfw.report](https://gfw.report/) - GFW Information
 * [GHProxy](https://ghproxy.link/) - GitHub Proxy (not blocked by GFW)
 * [Accesser](https://github.com/URenko/Accesser/) - SNI RST Solver
@@ -451,7 +449,7 @@
 * [Perspective Monde](https://perspective.usherbrooke.ca/) - Datasets / Statistics
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
 * [Donnons](https://donnons.org/) - Item Donation
-* [Signsuisse](https://www.sgb-fss.ch/signsuisse/) or [LSQ](https://lsq-fr.ca/) - French Sign Language Dictionaries
+* [Signsuisse](https://www.sgb-fss.ch/signsuisse/fr/) or [LSQ](https://lsq-fr.ca/) - French Sign Language Dictionaries
 
 ## ▷ Downloading / Téléchargement
 
@@ -1166,7 +1164,6 @@
 
 * ⭐ **[Cineby](https://www.cineby.gd/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[Gyn Cursos](https://gyncursos.com.br)**, [Curso em Vídeo](https://www.cursoemvideo.com), [iEstudar Cursos](https://iestudar.com) or [Pensar Cursos](https://www.pensarcursos.com.br) - Courses
-* [GoFilmes](https://gofilmes.me/m/) - Movies / TV / Sub / Dub / 1080p
 * [tugaflix](https://tugaflix.best) - Movies / TV / Sub / 1080p
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV / Sub / 720p
 * [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
@@ -1370,6 +1367,7 @@
 
 * ⭐ **[HDrezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / VPN Required
 * ⭐ **[reyohoho](https://reyohoho.github.io/reyohoho/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
+* ⭐ **[yummyani](https://site.yummyani.me/)** - Anime / Sub / 1080p
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
 * [kinokong](https://kinokong.pro/) - Movies / TV / Dub / 1080p
@@ -1388,7 +1386,6 @@
 * [Shiza Project](https://shiza-project.com/) - Anime / Dub / 720p
 * [AniFilm](https://anifilm.net/) - Anime / Sub / 1080p
 * [AniLibria](https://anilibria.top/) - Anime / Sub / 1080p
-* [yummyani](https://site.yummyani.me/) - Anime / Sub / 720p
 * [animego](https://animego.me/) - Anime / Sub / 1080p
 * [Animebuff](https://animebuff.ru/) - Anime / Sub / 1080p
 * [Animestars](https://animestars.org/) - Anime / Sub / 1080p
