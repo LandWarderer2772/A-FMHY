@@ -179,7 +179,8 @@
 * [IT Home](https://www.ithome.com/) - Tech News
 * [jialezi](https://blog.jialezi.net/) - Tech Tutorials
 * [Lofter](https://www.lofter.com) - Novel Fan Art
-* [Baidu](https://www.baidu.com/) / [2](http://hk.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
+* [⁠ScriptCat Index](https://scriptcat.org/) - Userscript Index
+* [Bing China](https://www.bing.com/?mkt=zh-CN), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
 * [ICIBA](https://www.iciba.com/) / [Client](https://cp.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translators
 * [Hack Game](https://hack-games.com/) - Incremental Games
 * [Funn](https://fuun.fun/) - Fun Sites
@@ -471,7 +472,7 @@
 ## ▷ Streaming
 
 * ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
-* ⭐ **[Movix](https://www.movix.site/)** - Movies / TV / Anime / [Status](https://movix.website/)
+* ⭐ **[Movix](https://www.movix.club/)** - Movies / TV / Anime
 * [Darkiworld](https://darkiworld14.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
 * [xalaflix](https://xalaflix.in/) - Movies / TV / Anime / Dub / [Status](https://xalaflix.fun/), [2](https://xalaflix.zip/) / [Discord](https://discord.gg/7myEXg2tQF) / [Telegram](https://t.me/xalaflixofficiel)
 * [P-Stream](https://pstream.mov/) - Movies / TV / Anime / Auto-Next / Use Extension / [Notes](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web) / [Discord](https://discord.gg/uHU4knYRPa) / [GitHub](https://github.com/p-stream)

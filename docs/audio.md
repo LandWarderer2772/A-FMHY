@@ -13,6 +13,7 @@
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[Pear Desktop](https://github.com/pear-devs/pear-desktop)** - YouTube Music Client w/ Adblock
 * [Deezer](https://www.deezer.com/) - Streaming / Sign-Up Required
+* [Moosync](https://moosync.app/) - YouTube / Spotify / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
 * [PlayTorrio](https://playtorrio.pages.dev/) - Streaming / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [pulse](https://473999.net/pulse) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
@@ -354,10 +355,11 @@
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
+* ⭐ **[squid.wtf (Qobuz)](https://qobuz.squid.wtf/)** or **[squid.wtf (tidal)](https://tidal.squid.wtf)** - Qobuz / Tidal / FLAC
 * ⭐ **[Monochrome](https://monochrome.samidy.com/)** - FLAC 
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* ⭐ **[squid.wtf](https://tidal.squid.wtf)**, [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)**, [2](https://dabmusic.xyz/) - FLAC / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
+* [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
 * [⁠YAMS](https://yams.tf/) - Deezer / FLAC / Sign-Up Required
 * [AMP3](https://amp3.cc/) - YouTube / 256kb

@@ -330,6 +330,7 @@
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)** - Bypass Link Shorteners
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
+* [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser
 * [bypass.link](https://bypass.link/) - Bypass Link Shorteners
 * [TimerHooker](https://greasyfork.org/en/scripts/372673) - Skip Timers on File Hosts
 * [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.gg/bypass-city)
@@ -369,6 +370,7 @@
 * [⁠1sh](https://www.1sh.pl/) - `1sh.pl/qIPAbZ`
 * [s.id](https://home.s.id/) - `s.id/EQBsg`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
+* [⁠AnonShort](https://anonshort.com/) - `ash.biz.id/JO8Ou`
 * [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
 * [f1.tf](https://f1.tf/) - `f1.tf/k94R`
 * [u.to](https://u.to/) - `u.to/jc85Ig`
@@ -437,7 +439,7 @@
 
 ***
 
-* ⭐ **[SmailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / 20+ Domains
+* ⭐ **[SmailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / 30+ Domains
 * ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
 * ⭐ **[Gmailnator](https://emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
@@ -832,7 +834,7 @@
 * ↪️ **[YouTube Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_youtube_archiving)**
 * ⭐ **[ArchiveBox](https://archivebox.io)** - Self-Hosted Web Archiving / [GitHub](https://github.com/archivebox/archivebox)
 * ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** or [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
-* ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://claraiscute.neocities.org/Guides/cloneasite/), [2](https://claraiscute.pages.dev/Guides/cloneasite/) - Website Downloader
+* ⭐ **[HTTrack](https://www.httrack.com/)** - Website Downloader
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
 * [Tubeup](https://github.com/bibanon/tubeup) - Multi-VOD Service to IA Uploader
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
