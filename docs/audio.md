@@ -14,7 +14,7 @@
 * ⭐ **[Pear Desktop](https://github.com/pear-devs/pear-desktop)** - YouTube Music Client w/ Adblock
 * [Deezer](https://www.deezer.com/) - Streaming / Sign-Up Required
 * [Moosync](https://moosync.app/) - YouTube / Spotify / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
-* [PlayTorrio](https://playtorrio.pages.dev/) - Streaming / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
+* [PlayTorrio](https://playtorrio.xyz/) - Streaming / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [pulse](https://473999.net/pulse) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
@@ -389,7 +389,6 @@
 * [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free 256 ACC Premium / FLAC / Use Firehawk52
 * [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz / 128kb Free / FLAC / Use Firehawk52
 * [you-get](https://you-get.org/) - SoundCloud / Bilibili / 128kb MP3
-* [tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - Tidal / Use Firehawk52
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kb MP3 / Free Only / [Discord](https://discord.com/invite/nwdT4MP)
 * [AccurateRip](https://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
 
