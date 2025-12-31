@@ -967,8 +967,8 @@
 * [⁠BangYourBuck](https://bangyourbuck.com/) - Unit Shopping Calculator / Comparisons for Amazon 
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
 * [Remove Amazon Sponsored](https://greasyfork.org/en/scripts/536756) - Remove Amazon Sponsored Listings
-* [⁠RedRecs](https://www.redrecs.com/) - Rreddit Product Rankings, Summaries, and Comments / [Methodology](https://www.redrecs.com/how-redrecs-works)
- * [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
+* [⁠RedRecs](https://www.redrecs.com/) - Reddit Product Rankings, Summaries, and Comments / [Methodology](https://www.redrecs.com/how-redrecs-works)
+* [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
 * [⁠NoBids](https://nobids.net/) or [WatchCount](https://www.watchcount.com/) - eBay Advanced Search
 * [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
 * [PicClick](https://picclick.com/) - eBay Quick Search
@@ -1384,6 +1384,7 @@
 * [Genetic Walkers](https://rednuht.org/genetic_walkers/) - Genetic Algorithm Walkers
 * [A Better World](https://abw.blue/index_en.php) - Interactive History Changing Game
 * [OpenGeofiction](https://opengeofiction.net/) - User-Made Fictional Map
+* [⁠The Cursed Library](https://cursed.epic.net/) - Interactive 3D Short Stories
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 3D Driving Simulator
 * [OpenScope](https://www.openscope.io/) - Air Traffic Control Simulator
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
@@ -1571,6 +1572,7 @@
 * 🌐 **[Websites From Hell](https://websitesfromhell.net/)** - Shitty Websites
 * 🌐 **[404PageFound](https://www.404pagefound.com/)** - Old Websites
 * ⭐ **[Neal.fun](https://neal.fun/)** - Toys / Games
+* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
 * ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** - Copypasta Databases
 * ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
