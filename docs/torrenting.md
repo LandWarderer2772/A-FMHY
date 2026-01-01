@@ -110,12 +110,10 @@
 * 🌐 **[QBT Themes](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes)** - Themes Index
 * [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
 * [⁠qui](https://github.com/autobrr/qui) or [VueTorrent](https://github.com/VueTorrent/VueTorrent) - Web Clients / WebUIs
-* [rqBit](https://github.com/ikatson/rqbit/) - Rust Client
 * [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Manager / Automation Tool
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
 * [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
 * [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
-* [qBitEndpoints](https://claraiscute.neocities.org/Guides/qBitEndpoints/), [2](https://claraiscute.pages.dev/Guides/qBitEndpoints/) - API Endpoints
 * [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton
 
 ***
