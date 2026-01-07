@@ -6,6 +6,7 @@
 
 # ► Documentaries
 
+* 🌐 **[Official YT Documentary Channels](https://rentry.co/Free-Official-Youtube-Content#documentaries)** - YouTube Documentary Channels / [GitHub](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#Documentaries)
 * ⭐ **[IHaveNoTV](https://ihavenotv.com)**
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
@@ -326,7 +327,7 @@
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
-* [LizardPoint](https://lizardpoint.com/), [Ekvis](https://ekvis.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/), [Seterra](https://www.seterra.com/#quizzes) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
+* [Ekvis](https://ekvis.com/) / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [The True Size](https://thetruesize.com/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
 * [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
@@ -702,7 +703,7 @@
 * [ISS In Realtime](https://issinrealtime.org/) - Historical ISS Mission Replays / Database
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator
 * [Transit Finder](https://transit-finder.com/), [ISS Tracker](https://isstracker.pl/en), [Spot The Station](https://spotthestation.nasa.gov/) or [Where The ISS At?](https://wheretheiss.at/) - ISS Transit Tracking
-* [Satellite Map](https://satellitemap.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
+* [Satellite Map](https://satellitemap.space/), [KeepTrack](https://keeptrack.space/) / [GitHub](https://github.com/thkruz/keeptrack.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator
 * [Orbiter](https://www.orbiter-forum.com/) - Spaceflight Simulator / [Subreddit](https://www.reddit.com/r/Orbiter/) / [GitHub](https://github.com/orbitersim/orbiter)
 * [Andegraf Rockets](https://rockets.andegraf.com/) - Rocket Diagrams
