@@ -44,7 +44,7 @@
 * [⁠Interpreter](https://github.com/bquenin/interpreter) - Retro Japanese Game Live Translator 
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
-* [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch)
+* [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org)
 
 ***
 
@@ -237,6 +237,7 @@
 * [Gamelib](https://gamelib.app/explore) - Tracking / Database
 * [Backloggery](https://backloggery.com/) - Tracking / Database
 * [Exophase](https://www.exophase.com/) - Tracking / Database
+* [RiotPixels](https://en.riotpixels.com/) - Tracking / Database
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Game Database
 * [GameFAQs](https://gamefaqs.gamespot.com/) - Game Database
 * [Rawg](https://rawg.io/) - Game Database
@@ -325,7 +326,7 @@
 ## ▷ DLC Unlock / DRM Bypass
 
 * ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker
-* ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** - Steam DLC Unlocker / [Manager](https://github.com/3vil3vo/GreenLuma-Manager) / [Family Bypass Guide](https://rentry.org/gzny948p)
+* ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** - Steam DLC Unlocker / [Manager](https://github.com/3vil3vo/GreenLuma-Manager)
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Goldberg Fork](https://github.com/Detanup01/gbe_fork)** / [Guide](https://rentry.co/goldberg_emulator) or [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam / Multiplayer Emulators
@@ -563,10 +564,10 @@
 
 ## ▷ Xbox Homebrew
 
+* ⭐ **[Team Resurgent](https://rentry.co/FMHYB64#team-resurgent)** - Xbox Homebrew Tools
 * [r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
 * [r/XboxModding](https://www.reddit.com/r/XboxModding/) or [r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
 * [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
-* [Team Resurgent](https://rentry.co/FMHYB64#team-resurgent) - Xbox Homebrew Tools
 * [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Decompiler Required
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
 

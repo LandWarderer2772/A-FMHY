@@ -58,7 +58,6 @@
 
 # ► Free Stuff
 
-* ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
 * [AppAgg](https://appagg.com/) - Multi-Platform / Apps / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
 * [FreeCycle](https://www.freecycle.org/), [TrashNothing](https://trashnothing.com/) or [Freegle](https://www.ilovefreegle.org/) - Free Stuff Exchange / Gifting Communities
 * [r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap Apps / Games / [Reddit Bot](https://github.com/a-ton/gpd-bot)
@@ -500,7 +499,7 @@
 * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [EventMap](https://rsoe-edis.org/eventMap) - Emergency and Disaster Maps
 * [Interactive News Map](https://usa.liveuamap.com/) - Geolocated News Alerts / Headlines U.S.
-* [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/) or [WebMD](https://www.webmd.com/) - Health News
+* [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [Medicalxpress](https://medicalxpress.com/) or [WebMD](https://www.webmd.com/) - Health News
 * [MathURLs](https://mathurls.com/) - Math News
 * [Dailynous](https://dailynous.com/) - Philosophy News
 * [Medievalists](https://www.medievalists.net/category/news/) - Medieval History News
@@ -547,6 +546,7 @@
 * [TechURLs](https://techurls.com/) - Tech News
 * [Techmeme](https://www.techmeme.com/) - Tech News
 * [The Brutalist Report](https://brutalist.report/) - Tech News
+* [Techxplore](https://techxplore.com/) - Tech News
 * [⁠ThisWeekInVideoGames](https://thisweekinvideogames.com/news/) - Gaming News
 * [TuxURLs](https://tuxurls.com/) or [⁠LWN](https://lwn.net/Archives/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
@@ -832,7 +832,7 @@
 ## ▷ Tech Jobs
 
 * 🌐 **[30-sec](https://30secondsofinterviews.org/)** - Tech Interview Questions Indexes
-* 🌐 **[Summer 2025 Internships](https://github.com/SimplifyJobs/Summer2025-Internships)** - Tech Internships List / [Notifications](https://swelist.com/)
+* 🌐 **[Summer 2026 Internships](https://github.com/SimplifyJobs/Summer2026-Internships)** - Tech Internships List / [Notifications](https://swelist.com/)
 * 🌐 **[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)** - Free Certifications / Courses Index
 * 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
@@ -963,13 +963,11 @@
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Discord](https://discord.gg/8w5rSNAXRf)
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** or [Dark Patterns](https://hallofshame.design/collection/) - Deceptive Services to Avoid
 * [Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
-* [Kit.co](https://kit.co/), [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
+* [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepperdeals.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
 * [⁠BangYourBuck](https://bangyourbuck.com/) - Unit Shopping Calculator / Comparisons for Amazon 
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
-* [Remove Amazon Sponsored](https://greasyfork.org/en/scripts/536756) - Remove Amazon Sponsored Listings
 * [⁠RedRecs](https://www.redrecs.com/) - Reddit Product Rankings, Summaries, and Comments / [Methodology](https://www.redrecs.com/how-redrecs-works)
-* [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
 * [⁠NoBids](https://nobids.net/) or [WatchCount](https://www.watchcount.com/) - eBay Advanced Search
 * [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
 * [PicClick](https://picclick.com/) - eBay Quick Search
@@ -994,7 +992,7 @@
 
 ## ▷ Electronics
 
-* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [BuildCores](http://www.buildcores.com/) / [Subreddit](https://reddit.com/r/buildcores) / [Discord](https://discord.gg/gxHtZx3Uxe), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
+* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [BuildCores](http://www.buildcores.com/) / [Subreddit](https://reddit.com/r/buildcores) / [Discord](https://discord.gg/gxHtZx3Uxe) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
 * ⭐ **[r/PCMasterrace Builds](https://pcmasterrace.org/builds)**, [r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [PC Tiers](https://pctiers.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
 * ⭐ **[NanoReview](https://nanoreview.net/)**, **[TechPowerup](https://www.techpowerup.com/)**, [TechGearLab](https://www.techgearlab.com/), [ProductChart](https://www.productchart.com/), [Octoparts](https://octopart.com/), [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Tech / Hardware Comparisons
 * ⭐ **[rtings](https://www.rtings.com/)** - Hardware / Tech Reviews / Clear Cookies Reset Limit / [X](https://x.com/rtingsdotcom) / [Discord](https://discord.gg/GFv6FyUcm7)
@@ -1050,18 +1048,14 @@
 * [⁠EGData](https://egdata.app/) - Epic Store Sales / [GitHub](https://github.com/nachoaldamav/egdata)
 * [SteamBase](https://steambase.io/sales) - Steam Sales / [Discord](https://discord.gg/C7fxdbCf6A)
 * [r/SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
-* [SteamSpy](https://steamspy.com/deal/) - Steam Sales
 * [CheapShark](https://www.cheapshark.com/) - Multi-Store / [Discord](https://discord.com/invite/cheapshark)
 * [PSPrices](https://psprices.com/) - Multi-Store / Multi-Platform / [Discord](https://discord.com/invite/hN57zh8Ey2)
+* [DekuDeals](https://www.dekudeals.com/) - Console Game Price Tracker / [Discord](https://discord.gg/WEuq5CTcBa)
 * [AppAgg](https://appagg.com/) - Multi-Store / Multi-Platform / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
 * [CheapCharts](https://games.cheapcharts.com/) - Switch, Xbox and Playstation Price Tracker
 * [r/GameDeals](https://www.reddit.com/r/gamedeals) - Game Deal Subreddit
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
 * [⁠VRDB](https://vrdb.app/) or [QuestStoreDB](https://queststoredb.com/) - VR Game / App Price Tracker
-* [DekuDeals](https://www.dekudeals.com/) / [Discord](https://discord.gg/WEuq5CTcBa), [NTDeals](https://ntdeals.net/) - Switch Price Trackers
-* [PS Deals](https://psdeals.net/) - Playstation Price Tracker
-* [XB Deals](https://xbdeals.net/) - Xbox Price Tracker
-* [⁠r/MacAppStoreDeals](https://www.reddit.com/r/MacAppStoreDeals/) - Mac App Price Tracking
 
 ***
 
