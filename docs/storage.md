@@ -241,7 +241,7 @@
 
 ## LibGen Tools
 
-[Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b)
+[Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Backup](https://redd.it/edwi9b)
 
 ***
 
@@ -303,6 +303,17 @@
 * [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm)
 * [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
 
+### MC Launchers (Account Req)
+
+* **Note** - The following options require a official Minecraft account to use.
+
+***
+
+* [Prism Launcher](https://prismlauncher.org/) - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-dl)
+* [ATLauncher](https://atlauncher.com/) - Modpack Launcher / [Discord](https://discord.com/invite/B7TrrzH)
+* [Bedrock Launcher](https://bedrocklauncher.github.io/) - Bedrock Edition Launcher / [Version Warning](https://ibb.co/7NXBJXX5) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher)
+
+***
 
 ## Multireddits
 
@@ -432,6 +443,7 @@
 * ⭐ **[icons8](https://icons8.com/icons)** - Icon Collections / [Premium Unlock](https://github.com/Kyutefox/Iconify)
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)** - Icon Collections
 * ⭐ **[Noun Project](https://thenounproject.com/)** - Monochrome Icons
+* [useAnimations](https://useanimations.com/index.html), [lucide-animated](https://lucide-animated.com/) or [LordIcon](https://lordicon.com/) - Animated Icons
 * [Dashboard Icons](https://dashboardicons.com/) - Program Icons
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
 * [HealthIcons](https://healthicons.org/) - Medical Icons

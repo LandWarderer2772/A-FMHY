@@ -32,7 +32,7 @@
 * [Archiverse](https://archiverse.pretendo.network/) - Miiverse Archive
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/) or [Lorenzi's Game Boards](https://gb.hlorenzi.com/) - Tournement Creators / Managers
-* [Moments](https://steelseries.com/gg/moments), [Medal](https://medal.tv/) / [Premium Bypass](https://medalbypass.vercel.app/) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
+* [Moments](https://steelseries.com/gg/moments), [Medal](https://medal.tv/) / [Watermark Remover](https://rentry.co/FMHYB64#medel) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
 * [PSNProfiles](https://psnprofiles.com/) - Trophy Guide / PSN Profile Viewer
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
@@ -397,6 +397,7 @@
 * ⭐ **[CnCNet](https://cncnet.org/)** - Multiplayer Command & Conquer, Red Alert & more / [Discord](https://discord.com/invite/aJRJFe5)
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classified](https://tf2classified.com/) - Team Fortress 2 Classified Mod
+* [AlterWare](https://alterware.dev/) - COD BO3, AW, and Ghosts Multiplayer Client / Clean Files Required / [Docs](https://alterware.dev/docs) / [Discord](https://discord.com/invite/2ETE8engZM)
 * [HorizonMW](https://discord.gg/horizonmw) - Modern Warfare Remastered Multiplayer Client / [Guide](https://youtu.be/BgfTZMXeQ8E) / [Servers / Info](https://master.iw4.zip/)
 * [Ezz-BOIII](https://rentry.co/FMHYB64#boiii) - COD Black Ops 3 Multiplayer Client
 * [CoD4x Mod](https://cod4x.ovh/) - COD4 (2007) Multiplayer Project / Requires MP Key / [Discord](https://discord.cod4x.ovh/)
@@ -427,7 +428,6 @@
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds / Signup
 * [OldUnreal](https://www.oldunreal.com/) - Unreal Tournement Servers / [Discord](https://discord.gg/thURucxzs6)
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
-* [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [⁠Warehouse](https://wiki.aiwarehouse.xyz/) - Transformers, DJ Hero, Blur, Grid, GH3, & Singularity Multiplayer
 * [ElDewrito](https://www.eldewrito.org/) - Halo Online / Halo 3 Servers
 * [Project Cartographer](https://www.halo2.online/) - Halo 2 Online Servers
@@ -568,6 +568,8 @@
 * [r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
 * [r/XboxModding](https://www.reddit.com/r/XboxModding/) or [r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
 * [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
+* [xbGuard](https://xbguard.live) - Xbox 360 Stealth Server / [Discord](https://discord.gg/YkpmBHK)
+* [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Decompiler Required
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
 
@@ -645,14 +647,11 @@
 
 ## ▷ Launchers
 
-* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-dl) / [Free Version](https://rentry.co/FMHYB64#prism)
+* 🌐 **[Minecraft Launcher Comparisons](https://mc-launcher.tayou.org/)** - Minecraft Launcher Comparison Chart / [GitHub](https://github.com/TayouVR/MinecraftLauncherComparison)
 * ⭐ **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher), [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism), [ElyPrismLauncher](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher) or [⁠FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher Forks w/ Alt Auth Server Support
-* ⭐ **[ATLauncher](https://atlauncher.com/)** / [Discord](https://discord.com/invite/B7TrrzH) or [Technic Launcher](https://www.technicpack.net/) / [Discord](https://discord.com/invite/technic) - Modpack Launchers
-* ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** - Launcher for Bedrock Edition / [Does Not Work w/ Latest MC Versions](https://ibb.co/7NXBJXX5)
 * [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher), [⁠Mojolauncher](https://github.com/mojolauncher/mojolauncher) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
 * [⁠AstralRinth](https://git.astralium.su/didirus/AstralRinth) - User-friendly Launcher
-* [UltimMC](https://github.com/UltimMC/Launcher) - Launcher
 * [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) or [LegacyFix](https://github.com/betacraftuk/legacyfix) - Patch / Fix Legacy Versions
 * [HMCL](https://hmcl.huangyuhui.net/) - Launcher / [GitHub](https://github.com/HMCL-dev/HMCL)
 * [LabyMod](https://www.labymod.net/) - Launcher / [Discord](https://discord.com/invite/labymod)
@@ -660,6 +659,8 @@
 * [GDLauncher](https://gdlauncher.com/) - Launcher / [Discord](https://discord.com/invite/8n3NnERF22)
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher / [Discord](https://discord.com/invite/W5XVwYY7GQ)
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
+* [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher / [Discord](https://discord.com/invite/technic)
+* [Premium-Only Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mc_launchers_.28account_req.29) - Launchers that Require Official Account
 
 ***
 
@@ -851,14 +852,12 @@
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * ⭐ **[HLTV](https://www.hltv.org/)** or [Dust2](https://www.dust2.us/) - Counter-Strike News
 * ⭐ **[CS Demo Manager](https://cs-demo-manager.com/)** - Counter-Strike Demo Manager
-* ⭐ **[Faceit](https://www.faceit.com/)** - Matchmaking Client
+* ⭐ **[Faceit](https://www.faceit.com/)** - Matchmaking Client / [Account Finder](https://faceitfinder.com/) / [Enhancements](https://repeek.gg/)
 * ⭐ **[CSNADES](https://csnades.gg/)** or [CS2Util](https://www.cs2util.com/) - CS2 Nade Lineups
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [CS2 Weapon Spreadsheet](https://docs.google.com/spreadsheets/d/11tDzUNBq9zIX6_9Rel__fdAUezAQzSnh5AVYzCP060c/) - Weapon Stats / Prices
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config
 * [CS2 Browser](https://cs2browser.net/) or [CS2 Server Picker](https://github.com/FN-FAL113/cs2-server-picker) - Counter-Strike 2 Server Browser
-* [Faceit Finder](https://faceitfinder.com/) - Faceit Account Finder
-* [Repeek](https://repeek.gg/) - Faceit Enhancement Extension
 
 ***
 

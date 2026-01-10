@@ -311,6 +311,7 @@
 * [Draw Mix Paint](https://www.drawmixpaint.com/) - Learn Oil Painting
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
 * [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
+* [Seven Camels](https://sevencamels.blogspot.com/) - Storyboarding Tips / Learning by Disney's Head of Story
 * [Agora](https://agora.community/) - Animation Learning Community / Tutorials / [Discord](https://discord.com/invite/9hJxMyR)
 * [AMV101](https://www.amv101.com/) - Animated Music Video-Making Guides
 
@@ -335,6 +336,7 @@
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
+* [PixelWealth](https://pixelwealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [EverySecond](https://everysecond.io/) - Visualize Per Second Data
@@ -1278,6 +1280,7 @@
 * ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
 * ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
 * [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges
+* [CodeWisp](https://codewisp.net/) - Interactive Beginner Game Dev Learning
 * [Amit’s Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Guide
 * [GameProgramBooks](https://rentry.co/FMHYB64#gameprogrambooks) - Game Programming Books
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Dev Concepts / [Web Version](https://www.pico-8-edu.com/)
@@ -1315,7 +1318,7 @@
 * [r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
 * [r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.com/) - GCSE Exam Help
-* [⁠free-clep-prep](https://free-clep-prep.com/) - Free CLEP / DSST Exam Prep
+* [⁠free-clep-prep](https://free-clep-prep.com/) or [ModernStates](https://modernstates.org/) - Free CLEP / DSST Exam Prep
 * [nzqa.toasting](https://nzqa.toasting.me/) - Download NZQA Past Papers
 * [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
 * [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
@@ -1331,6 +1334,7 @@
 * ⭐ **[OnePrep](https://oneprep.xyz/)** - SAT Practice Exams / Questions
 * [SAT Slayer](https://www.satslayer.org/), [2](https://satslayer.vercel.app/) - SAT Practice Exams / Questions
 * [⁠Mcelroy Tutoring](https://www.mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free) - SAT Practice Exams / Questions
+* [⁠Sat DB](https://www.satdbfor.me/) -  SAT Practice Exams / Questions / Sign-Up Required 
 * [DSATuz](https://t.me/DSATuz) - SAT Practice Exams / Questions / [Telegram](https://t.me/DSATuzchat)
 * [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams / Questions
 * [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
