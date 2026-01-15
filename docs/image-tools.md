@@ -252,7 +252,7 @@
 * 🌐 **[Evernote.Design](https://www.evernote.design/)** - Design Resources
 * 🌐 **[The People's Design Library](https://rentry.co/FMHYB64#design-resources)** - Design Resources
 * ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
-* ⭐ **[awwwards](https://www.awwwards.com/websites)** - Website Design Ideas
+* [People’s Graphic Design Archive](https://peoplesgdarchive.org/) - Graphic Design History Archive
 * [One Page Love](https://onepagelove.com/) - Single Page Site Design Ideas 
 * [SMPoster](https://www.smposter.com/) - Poster Designs
 * [AnotherGraphic](https://anothergraphic.org/) - Typography Designs
@@ -394,6 +394,7 @@
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Reverse Image Search App
 * ⭐ **[Google Lens](https://www.google.com/?olud)** - Reverse Image Search
 * ⭐ **[TinEye](https://tineye.com/)** - Reverse Image Search / [Extension](https://tineye.com/extensions)
+* [⁠Bing Visual Search](https://bing.com/camera) - Reverse Image Search
 * [infini.wtf](https://infini.wtf/) - Reddit Image Search
 * [Visual Search](https://www.bing.com/visualsearch) - Reverse Image Search
 * [IQDB](https://iqdb.org/) - Reverse Image Search
