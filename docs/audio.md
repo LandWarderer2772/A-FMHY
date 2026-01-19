@@ -31,7 +31,7 @@
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [Zozoki](https://zozoki.com/music/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Manager / Deleter](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://spot-transfer.vercel.app/), [2](https://github.com/mahdi-y/Spotify2YoutubeMusic), [3](https://github.com/linsomniac/spotify_to_ytmusic), [4](https://github.com/sigma67/spotify_to_ytmusic) / [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics)
 * ⭐ **[Monochrome](https://monochrome.samidy.com/)**, [2](https://monochrome-back.pages.dev/), [3](https://monochrome.tf/) - HiFi Tidal Instance / [Legacy](https://monochrome.binimum.org/legacy/) / [Discord](https://monochrome.samidy.com/discord)
-* ⭐ **[DAB Music Player](https://dabmusic.xyz/)** - Browser Music / Lossless / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
+* ⭐ **[DAB Music Player](https://dabmusic.xyz/)** - Browser Music / Lossless / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
@@ -46,7 +46,7 @@
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [zvu4no](https://zvu4no.org/) or [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [jiosaavn](https://www.jiosaavn.com/), [Saavn Web](https://saavn-web-ui.vercel.app/) / [GitHub](https://github.com/wiz64/saavn-web-ui) or [Hayasaka](https://hayasaka.vercel.app/) - Browser Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
-* [MTV REWIND](https://wantmymtv.xyz/) - Recreates MTV Experience from Different Eras
+* [MTV REWIND](https://wantmymtv.xyz/) / [2](https://wantmymtv.vercel.app/) - Recreates MTV Experience from Different Eras
 * [Ballsack TV](https://bsky.app/profile/feed.ballsack.tv) - MTV Style User-Submitted Music Video Feed / [Discord](https://discord.gg/KT2Dht4zcZ)
 * [Hype Machine](https://hypem.com/popular) - Rising
 * [Bandcamp](https://bandcamp.com/discover/free-music) - Free Music Release Platform
@@ -362,7 +362,7 @@
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Amazon Music / KHInsider / Qobuz / Soundcloud / Tidal / FLAC
 * ⭐ **[Monochrome](https://monochrome.samidy.com/)**, [2](https://monochrome-back.pages.dev/), [3](https://monochrome.tf/) - FLAC / [Legacy](https://monochrome.binimum.org/legacy/) / [Discord](https://monochrome.samidy.com/discord)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* ⭐ **[DAB Music Player](https://dabmusic.xyz)** - FLAC / Sign-Up Required / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
+* ⭐ **[DAB Music Player](https://dabmusic.xyz)** - FLAC / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - Tidal / FLAC / [Full List](https://github.com/SamidyFR/monochrome/blob/main/INSTANCES.md)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
 * [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / AAC-M4A
