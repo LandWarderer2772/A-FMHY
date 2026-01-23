@@ -11,13 +11,13 @@ const resolvedIcon = computed(() => withBase(props.icon))
 </script>
 
 <template>
-  <VDropdown :triggers="['click', 'touch']" :auto-hide="true" :distance="15" placement="auto">
+  <VDropdown :triggers="['click']" :auto-hide="true" :distance="15" placement="auto">
     <button
       aria-label="Tooltip"
-      class="text-brand-1 inline-flex align-middle items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1em] w-[2em] translate-y-[0.14em]"
+      class="text-brand-1 relative inline-flex align-middle items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1em] w-[1.7em]"
     >
       <div
-        class="size-full bg-current transition-all"
+        class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-2.5 w-[1.6em] h-[1.6em] bg-current transition-all"
         :style="{
            mask: `url(${resolvedIcon}) no-repeat center / contain`,
            '-webkit-mask': `url(${resolvedIcon}) no-repeat center / contain`,
@@ -26,10 +26,12 @@ const resolvedIcon = computed(() => withBase(props.icon))
     </button>
 
     <template #popper>
-      <div class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 max-w-md max-h-md border-2 border-solid p-4 transition-all">
-        <h3 v-if="title" class="text-$vp-c-text-1 mb-2 text-lg font-semibold" v-text="title" />
-        <div class="text-$vp-c-text-1 text-sm content">
-          <slot />
+      <div class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 max-w-md max-h-md border-2 border-solid flex flex-col transition-all overflow-hidden">
+        <div class="overflow-y-auto p-4">
+          <h3 v-if="title" class="text-$vp-c-text-1 mb-2 text-lg font-semibold" v-text="title" />
+          <div class="text-$vp-c-text-1 text-sm content vp-doc">
+            <slot />
+          </div>
         </div>
       </div>
     </template>
@@ -47,20 +49,8 @@ const resolvedIcon = computed(() => withBase(props.icon))
   padding: 0 !important;
 }
 
-.v-popper__popper .content ul {
-  list-style: disc;
-  padding-left: 1.25rem;
-  margin: 0.5rem 0;
+.vp-doc a.tooltip-source-link {
+  color: inherit;
+  text-decoration: none;
 }
-
-.v-popper__popper .content ol {
-  list-style: decimal;
-  padding-left: 1.25rem;
-  margin: 0.5rem 0;
-}
-
-.v-popper__popper .content li {
-  margin: 0.25rem 0;
-}
-
 </style>
