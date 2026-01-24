@@ -173,7 +173,7 @@
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
-* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity / [GitHub](https://github.com/Anon-Planet/thgtoa)
+* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** / [GitHub](https://github.com/Anon-Planet/thgtoa) or [he OPSEC Bible](https://bible.beginnerprivacy.com/opsec/) - Extensive Online Anonymity Guides
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights
 * [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening), [⁠sizeof.cat](https://sizeof.cat/links/) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service 
 Lists
@@ -285,7 +285,7 @@ Lists
 * [Keybase](https://keybase.io/) - All Platforms / [GitHub](https://github.com/keybase/client)
 * [Jami](https://jami.net/) - All Platforms / [GitLab](https://git.jami.net/savoirfairelinux/jami-project)
 * [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore) or [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox) - All Platforms
-* [Cabal](https://cabal.chat/) - P2P / Serverless All Platforms / / [GitHub](https://github.com/cabal-club)
+* [Cabal](https://cabal.chat/) - P2P / Serverless All Platforms / [GitHub](https://github.com/cabal-club)
 * [Linphone](https://www.linphone.org/) - All Platforms / [GitLab](https://gitlab.linphone.org/explore/projects)
 * [Berty](https://berty.tech/) / Android, iOS / [GitHub](https://github.com/berty/berty)
 * [Ricochet Refresh](https://www.ricochetrefresh.net/) / Windows, Mac, Linux / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh)
