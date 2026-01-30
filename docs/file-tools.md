@@ -24,7 +24,7 @@
 
 ***
 
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader.md)**
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)**
 * ⭐ **JDownloader Tools** - [Debloat Guide](https://claraiscute.neocities.org/Guides/jdownloader2/), [2](https://claraiscute.pages.dev/Guides/jdownloader2/) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 * ⭐ **[IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
@@ -73,7 +73,7 @@
 * [videoutils](https://www.videoutils.com/) - File Converter / 500MB
 * [⁠OfflineConvert](https://www.offlineconvert.com/) - File Converter
 * [Xconvert](https://www.xconvert.com) - File Converter / 400MB
-* [FeeConvert](https://www.freeconvert.com/) - Unlimited / Clear Cookies
+* [FreeConvert](https://www.freeconvert.com/) - Unlimited / Clear Cookies
 * [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250MB
 * [Convertio](https://convertio.co/) - File Converter / 100MB
 * [AnyConvert](https://anyconv.com/) - File Converter / 100MB
@@ -226,12 +226,10 @@
 ## ▷ Online PDF Toolkits
 
 * ⭐ **[BentoPDF](https://bentopdf.com/)** - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
+* ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
 * [BreezePDF](https://breezepdf.com/) - Client-Side
-* [⁠ihatepdf](https://www.ihatepdf.cv/) - Client-Side
-* [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
 * [PDFClear](https://www.pdfclear.com/) - Client-Side
-* [SimplePDF](https://simplepdf.com/) - Client-Side
-
+* [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
 * [Sejda](https://www.sejda.com/)
 * [ILovePDF](https://www.ilovepdf.com/)
 * [⁠PDRResizer](https://pdfresizer.com/)
@@ -363,9 +361,12 @@
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
 * [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Requires Sign-Up
+* [FileGo](https://filego.at/) - 5GB / 90 Days After Last Download
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
+* [⁠JuiceBox](https://box.juicey.dev/) - 15GB / 14 Days
+* [⁠reusable.host](https://reusable.host/) - 10GB / 30 Days
 * [UserDrive](https://usersdrive.com/) - 5GB / 65 Days
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Requires Email
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
