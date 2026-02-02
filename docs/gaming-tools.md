@@ -260,6 +260,7 @@
 * [Co-Optimus](https://www.co-optimus.com/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
+* [⁠Backwards Compatible](https://www.backwards-compatible.com/) - PS4 / PS5 Backwards Compatibility Database 
 * [⁠Works on WOA](https://www.worksonwoa.com/en/games/) - Windows on ARM Game Combability Database
 * [CloudBase](https://cloudbase.gg/) - Cloud Game Database
 * [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
@@ -780,6 +781,57 @@
 
 ***
 
+# ► Undertale / Deltarune
+
+* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / [Deltarune Wiki](https://deltarune.wiki/)  - Main Gameplay & Lore Databases
+* ⭐ **[r/Undertale](https://www.reddit.com/r/Undertale/)** or **[r/Deltarune](https://www.reddit.com/r/Deltarune/)** - Community Subreddits 
+* ⭐ **[Toby Fox (X/Twitter)](https://x.com/tobyfox)**, - Primary Creator Updates / [Tumblr](https://fwugradiation.tumblr.com/) / [Bluesky](https://bsky.app/profile/tobyfox.undertale.com)
+* ⭐ **[nochocolate](https://nochocolate.tumblr.com/)** - Foundational Character and Lore Deep-Dives
+* ⭐ **[r/Underminers](https://www.reddit.com/r/Underminers/)** - Datamining Community
+* ⭐ **[The Cutting Room Floor (TCRF)](https://tcrf.net/Undertale)**, [2](https://tcrf.net/Deltarune) - Unused Content / Debug Features
+* [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
+* [Official Undertale Tumblr](https://undertale.tumblr.com/) / [Official Q&A](http://undertaleqa.tumblr.com/) - Archived Developer Posts & Insights
+* [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue) - All Dialogue in Undertale and Deltarune
+* [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Complete Game Dialogue Spreadsheet
+* [Under-Lore](https://under-lore.tumblr.com/) - Monster Biology and Narrative Logic Analysis
+* [Starmen.net Forum](https://forum.starmen.net/forum/RadDog/undertale) - Historical Community / Requires Sign-Up
+* [Steam Undertale Community](https://store.steampowered.com/app/391540/Undertale/) - Discussion Boards & Guides
+* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
+* [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - Undertale Save File Editor
+* [Tenna Project](https://tennaproject.com/welcome) - DELTARUNE Save Editor
+
+***
+
+## ▷ Modding & Fan Content
+
+* ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Essential Datamining / Modding Tool
+* ⭐ **[CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk)** - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [r/Unitale](https://www.reddit.com/r/Unitale/)
+* ⭐ **[Undertale GameBanana](https://gamebanana.com/games/5506)**, [Nexus Undertale](https://www.nexusmods.com/games/undertale) or [Nexus Deltarune](https://www.nexusmods.com/games/deltarune) - Mod Repositories
+* ⭐ **[Undertale AU Wiki](https://undertale-au.fandom.com/)** - AU Documentation / Multiverse Content
+* [Kristal](https://kristal.cc/) - DELTARUNE Fangame & Battle Engine / [GitHub](https://github.com/KristalTeam/Kristal)
+* [Create Your Kris (CYK)](https://github.com/RhenaudTheLukark/CreateYourKris) - CYF Mod for DELTARUNE-Like Encounters
+* [Unitale](https://jevilhumor.itch.io/undertale-engine) - Original Lua-Moddable Undertale Engine
+
+***
+
+## ▷ Fan Games
+
+* 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
+* ⭐ **[Don't Forget](https://gamejolt.com/games/dontforget/150752)** -  Online Multiplayer Fangame / Deltarune Elements
+* ⭐ **[Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)** - Major UNDERTALE Prequel Fan Game / Massive Mod Community / [Wiki](https://undertaleyellow.wiki.gg/) / [Mods](https://gamebanana.com/games/19606) 
+* ⭐ **[Disbelief Papyrus](https://gamejolt.com/games/DisbeliefUnofficial/464116)** - Genocide Route AU / Iconic Papyrus Fight
+* ⭐ **[DustTale](https://gamejolt.com/games/dusttale/308853)** - Popular Dark AU / Murderous Sans Story
+* [DeltaTraveler](https://vyletbunni.itch.io/deltatraveler) - Time-Travel Themed Fan Game 
+* [Facing Demons](https://gamejolt.com/games/igb_dv/343813) - Chara Boss Fight Inspired by StoryShift
+* [No More Deals](https://gamejolt.com/games/ut-nmd/398695) - Chara Boss Fight
+* [Undertale Red & Yellow](https://gamejolt.com/games/undertale-red-yellow/877387) - Undertale Yellow Inspired
+* [HorrorTale](https://www.newgrounds.com/portal/view/677418) / [ALT](https://archive.org/details/horrortale) - Horror AU Fan Game
+* [Ink Sans](https://gamejolt.com/games/inksans025/321332) - AU Multiverse Character Fan Game
+* [ClickerTale](https://gamejolt.com/games/clickertale2/249516) - Cookie Clicker Inspired
+* [Bad Monday Simulator](https://lumpytouch.itch.io/bad-monday-simulator) - Garfield Sans Fan Game
+
+***
+
 # ► Game Specific
 
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
@@ -981,9 +1033,10 @@
 
 ## ▷ RimWorld Tools
 
-* [RimWorld Wiki](https://rimworldwiki.com/) - Official Wiki
+* ⭐ **[RimWorld Wiki](https://rimworldwiki.com/)** - Official Wiki
+* ⭐ **[RimSort](https://rimsort.github.io/RimSort/)** - Mod Manager / [GitHub](https://github.com/RimSort/RimSort)
 * [RimWorld Discord](https://discord.com/invite/rimworld) - Official Community Discord
-* [RimSort](https://rimsort.github.io/RimSort/) - Mod Manager / [GitHub](https://github.com/RimSort/RimSort)
+* [r/RimWorld](https://www.reddit.com/r/RimWorld/) - Official Community Subreddit
 * [Judge My List](https://jumli.sysrqmagician.dev/) - Automated Modlist Feedback / [GitHub](https://github.com/sysrqmagician/jumli)
 * [Workshop Walker](https://workshop-walker.disconsented.com/) - Improved Steam Workshop UI / [GitHub](https://github.com/disconsented/workshop-walker)
 * [Void Archives](https://sites.google.com/view/void-archives/) - RimWorld Guides
