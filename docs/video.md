@@ -84,10 +84,10 @@
 * [Bludclart](https://watch.bludclart.com/), [2](https://watch.streamflix.one/) - Movies / TV / Anime / [Add Sources](https://greasyfork.org/en/scripts/538940) / [Discord](https://discord.gg/5Am2QQW6qZ)
 * [Flicker](https://flickermini.pages.dev/) - Movies / TV / Anime / [Proxy](https://flickerminiproxy.pages.dev/) / [Subreddit](https://www.reddit.com/r/flickermini/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/flicker-proxy.md)
 * [1PrimeShows](https://1primeshow.online/) - Movies / TV / Anime / [Discord](https://discord.gg/7JKJSbnHqf)
+* [ZXCSTREAM](https://zxcprime.icu/) - Movies / TV / [Telegram](https://t.me/zxc_stream) / [Discord](https://discord.gg/yv7wJV97Jd)
 * [Netplay](https://netplayz.live/) or [Cinelove](https://cinelove.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Youflex](https://youflex.live/) - Movies / TV / Anime
 * [Mapple.tv](https://mappl.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
-* [ZXCSTREAM](https://zxcprime.icu/) - Movies / TV / [Telegram](https://t.me/zxc_stream) / [Discord](https://discord.gg/yv7wJV97Jd)
 * [Auto Embed](https://watch-v2.autoembed.cc/) - Movies / TV / Anime
 * [Moviebay](https://moviebay.cc/) - Movies / TV / Anime / [Telegram](https://t.me/artaxnetwork) / [Discord](https://discord.gg/pDGFru7GTE)
 * [QuickWatch](https://www.quickwatch.co/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PHDRg4K7hD)
@@ -212,7 +212,7 @@
 * [Viddsee](https://www.viddsee.com/), [Shortverse](https://www.shortverse.com/explore), [Short of the Week](https://www.shortoftheweek.com/) or [Argo](https://web.watchargo.com/) - Short Films
 * [0xDB](https://0xdb.org/) - Rare Movies
 * [HomeMovies101](https://www.homemovies100.it/en/) - Home Movies
-* [Prelinger Archives](https://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
+* [Prelinger Archives](https://www.panix.com/~footage/) - Ephemeral Films / [Archive](https://archive.org/details/prelinger)
 * [3DS Movies](https://rentry.co/FMHYB64#3dsm) - 3D Movies for 3DS Handhelds
 * [r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
@@ -401,20 +401,20 @@
 ## ▷ Live TV
 
 * 🌐 **[TVCL](https://www.tvchannellists.com/)** - TV Channel Index
-* ⭐ **[PlayTorrio IPTV](https://iptv.playtorrio.xyz/)** / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio) or [Darkness TV](https://tv-channels.pages.dev/) / [GitHub](https://github.com/DarknessShade/TV) - TV / Sports
+* ⭐ **[PlayTorrio IPTV](https://iptv.playtorrio.xyz/)** - TV / Sports / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * ⭐ **[Famelack](https://famelack.com/)** - TV / Sports
 * ⭐ **[NTV](https://ntvstream.cx/)**, [2](http://ntv.cx/) - TV / Sports / Aggregator / [Mirrors](https://ntv.direct/) / [Telegram](https://t.me/ntvstream) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[RgShows](https://www.rgshows.ru/livetv/)** - TV / Sports
 * ⭐ **[DaddyLive TV](https://dlhd.dad/24-7-channels.php)**, [2](https://dlhd.dad/), [3](https://thedaddy.dad/), - TV / [Mirrors](https://daddyny.com/)
 * ⭐ **[TVPass](https://tvpass.org/)**, [2](https://thetvapp.to/), [3](https://the-tv.app/) - TV / Sports / US Only / [Discord](https://discord.gg/4qMfKq6NMH)
-* ⭐ **[StreamSports99](https://streamsports99.su/live-tv)** - TV / Sports / [Mirrors](https://streamsports99.website/) / [Discord](https://discord.gg/QXKvEbyrVc)
+* ⭐ **[StreamSports99](https://streamsports99.su/live-tv)** - TV / Sports / [Mirrors](https://streamsports99.website/) / [Bypass Blocks](https://streamsports99.su/vpns) / [Discord](https://discord.gg/QXKvEbyrVc)
 * [TitanTV](https://titantv.com/) - Live TV Listings / TV Schedule
 * [huhu.to](https://huhu.to/), [vavoo.to](https://vavoo.to/), [kool.to](https://kool.to/) or [oha.to](https://oha.to/) - TV / Sports / European
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
-* [USTVGo](https://ustvgo.click/) - TV / Sports
 * [LiveHDTV](https://www.livehdtv.com/) - TV
+* [⁠TV Freedom](https://tvfreedom.netlify.app/) - TV / Sports
 * [⁠Globe TV](https://globetv.app/) - TV / Sports
 * [uFreeTV](https://ufreetv.com/) - TV
 * [SportDB TV](https://hoofoot.ru/tv/) - TV / Sports
@@ -579,7 +579,7 @@
 
 # ► Smart TV
 
-* 🌐 **[⁠TroyPoint](https://troypoint.com/)** - App Indexe
+* 🌐 **[⁠TroyPoint](https://troypoint.com/)** - App Index
 * ⭐ **[TizenTube](https://tizentube.6513006.xyz/)** - Ad-Free Samsung Smart TV YouTube / [GitHub](https://github.com/reisxd/TizenTube), [2](https://github.com/reisxd/TizenBrew)
 * ⭐ **[webOS Homebrew](https://www.webosbrew.org/)** - LG TV Homebrew / [Guide](https://wispydocs.pages.dev/lg-tv-homebrew/) / [Discord](https://discord.gg/xWqRVEm) / [GitHub](https://github.com/webosbrew/)
 * [Stremio](https://www.stremio.com/) - Torrent Streaming App

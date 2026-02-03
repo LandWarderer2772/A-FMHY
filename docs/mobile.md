@@ -159,10 +159,10 @@
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ⭐ **[Revenge](https://github.com/revenge-mod/revenge-bundle)** - Modded Discord Client / [Plugins](https://plugins-list.pages.dev/) / [Fonts](https://github.com/Rairof/Theme-Fonts), [2](https://github.com/Purple-EyeZ/Bunny-Fonts) / [Discord](https://discord.com/invite/ddcQf3s2Uq)
 * ⭐ **[Xtra](https://github.com/crackededed/Xtra)**, [BTTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) / [GitHub](https://github.com/tommyxchow/frosty) - Twitch Clients
+* ⭐ **[piko](https://github.com/crimera/twitter-apk)**, [2](https://github.com/lluni/twitter-apk) / [Telegram](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko), [⁠QuaX](https://github.com/Teskann/QuaX) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter / X Apps
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients / [Index](https://join-lemmy.org/apps)
 * ⭐ **[Tusky](https://tusky.app/)**, [Dhaaga](https://github.com/suvam0451/dhaaga), [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Moshidon](https://github.com/LucasGGamerM/moshidon) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients
 * [⁠Patcheddit](https://github.com/wchill/patcheddit), [Stealth](https://gitlab.com/cosmosapps/stealth), [Continuum](https://github.com/cygnusx-1-org/continuum) or [RedReader](https://github.com/QuantumBadger/RedReader) - Reddit Clients
-* [⁠QuaX](https://github.com/Teskann/QuaX) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter / X Apps
 * [Watomatic](https://watomatic.app/) / [Subreddit](https://www.reddit.com/r/watomatic/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [⁠Beeper](https://www.beeper.com/) / [GitHub](https://github.com/beeper) or [Openvibe](https://openvibe.social/) / [Discord](https://discord.gg/GduN6fB6NN) - Combine Chat / Social Media Apps
 * [Graysky](https://graysky.app/) - Bluesky Client / [GitHub](https://github.com/mozzius/graysky)
@@ -317,7 +317,7 @@
 
 * 🌐 **[Awesome Android Root](https://awesome-android-root.org/)** - Rooted App Index / [GitHub](https://github.com/awesome-android-root/awesome-android-root)
 * 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** or [BL List](https://a.zli.li/) - Bootlocker Limit Indexes / Policies / [GitHub](https://github.com/xuemian168/android-locker)
-* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [APatch](https://github.com/bmax121/APatch), [⁠Magisk Alpha](https://t.me/magiskalpha), [KernelSU](https://kernelsu.org/), [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [MTKClient](https://github.com/bkerler/mtkclient) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
+* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [APatch](https://github.com/bmax121/APatch), [⁠Magisk Alpha](https://t.me/magiskalpha), [KernelSU](https://kernelsu.org/), [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [ReSukiSU](https://resukisu.github.io/) / [Telegram](https://t.me/ReSukiSU/), [MTKClient](https://github.com/bkerler/mtkclient) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
@@ -501,7 +501,7 @@
 * [NewsBang](https://www.newsbang.com/) - News App / US Only
 * [Glasswire](https://play.google.com/store/apps/details?id=com.glasswire.android), [⁠Traffic Light](https://github.com/leekleak/traffic-light/) or [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitors
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
-* [Linkora](https://github.com/LinkoraApp/Linkora) / [Discord](https://discord.gg/ZDBXNtv8MD), [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager), [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Bookmark Managers
+* [Bookmark Manager Zero](https://bmz.absolutezero.fyi/), [Linkora](https://github.com/LinkoraApp/Linkora) / [Discord](https://discord.gg/ZDBXNtv8MD), [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager), [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Bookmark Managers
 * [NativeAlpha](https://play.google.com/store/apps/details?id=com.cylonid.nativealpha) - Run Websites in Borderless Window
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [PassAndroid](https://github.com/ligi/PassAndroid) - Manage Virtual Tickets / Passes
@@ -567,7 +567,7 @@
 * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
 * ⭐ **[Obsidian](https://obsidian.md/mobile)** - Highly Customizable Note-Taking App
 * ⭐ **[Easy Notes](https://github.com/Kin69/EasyNotes)**, [Notally](https://github.com/OmGodse/Notally), [NotallyX](https://github.com/PhilKes/NotallyX), [Google Keep](https://keep.google.com/) or [ColorNote](https://www.colornote.com/) - Minimalistic Note-Taking Apps
-* ⭐ **[Acode](https://acode.app)** / [GitHub](https://github.com/Acode-Foundation/Acode), **[QuickEdit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Text / Code Editors
+* ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** / [GitHub](https://github.com/Acode-Foundation/Acode), [Acode](https://acode.app), [QuickEdit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or  - Text / Code Editors
 * ⭐ **[FUTO Voice](https://voiceinput.futo.org/)** or [Transcribro](https://github.com/soupslurpr/Transcribro) - Voice-Input Keyboards
 * ⭐ **[Look Up](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
 * [Markor](https://fossdroid.com/a/markor.html) - Text Editor with Markdown Support
@@ -960,7 +960,7 @@
 
 ## ▷ Android Video Players
 
-* ⭐ **[⁠mpvEx](https://mpvex.vercel.app/)** / [GitHub](https://github.com/marlboro-advance/mpvEx)
+* ⭐ **[⁠mpvEx](https://github.com/marlboro-advance/mpvEx)**
 * ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)** / [Nightly Builds](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main)
 * ⭐ **[mpv-android](https://github.com/mpv-android/mpv-android)**
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
@@ -1175,13 +1175,12 @@
 ## ▷ iOS Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[AdGuard](https://adguard.com/en/adguard-ios/overview.html)** - Adblocker / [Guide](https://rentry.co/sideloadingguide) / [Pro](https://t.me/blatants) (requires patch)
+* ⭐ **[AdGuard](https://adguard.com/en/adguard-ios/overview.html)** - Adblocker / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [Pro](https://t.me/blatants) (requires patch)
 * ⭐ **[Brave](https://apps.apple.com/app/id1052879175)** - Adblock Browser
 * [Orion](https://kagi.com/orion/) - Adblock Browser w/ Extensions / [Discord](https://discord.gg/Yk8Aj8AxGw)
 * [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) - Safari Adblocker
 * [1Blocker](https://1blocker.com/) - Adblocker
 * [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblocker / Userscript Manager
-* [Safari Popup Block Guide](https://pastebin.com/4qcEbTP6), [2](https://rentry.co/28rmfnnw) - Stop New Tab + Popup Ads on Safari / iOS 16+
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
 * [SponsorBlock for YT Music](https://github.com/dayanch96/SponsorBlock-YouTubeMusic) - Skip Non-Music Segments in YouTube Music
 
@@ -1248,7 +1247,7 @@
 * ⭐ **[Acorn](https://acorn.blue/)** / [Discord](https://discord.gg/sWzw5GU5RV), [RedditFilter](https://github.com/level3tjg/RedditFilter) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/redditfilter-note.md), [Apollo](https://github.com/Balackburn/Apollo) / [Tweak](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi), [Lurker](https://apps.apple.com/app/lurkur-for-reddit/id6470203216) or [RDX](https://apps.apple.com/app/rdx-for-reddit/id6503479190) - Reddit Clients
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762)** / [GitHub](https://github.com/aeharding/voyager), [Arctic](https://getarctic.app/), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
-* ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)**, **[piko](https://github.com/crimera/twitter-apk)** / [Telegram](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko) or [⁠NeoFreeBird](https://github.com/NeoFreeBird/app) - X.com Apps
+* ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)**, **[piko](https://github.com/crimera/twitter-apk)**, [2](https://github.com/lluni/twitter-apk) / [Telegram](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko) or [⁠NeoFreeBird](https://github.com/NeoFreeBird/app) - X.com Apps
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
 * [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Improved Reddit Comment Navigation

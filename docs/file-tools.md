@@ -284,7 +284,7 @@
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 * [aQRoss](https://aqross.app/) or [qrcp](https://qrcp.sh/) / [GitHub](https://github.com/claudiodangelis/qrcp) - Share Files Using QR Codes
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
-* [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filezilla.md)
+* [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filezilla-warning.md)
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client
 * [⁠robocopy](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) - Windows Built-In File Transfer Guide / [WebUI](https://ar-puuk.github.io/robocopy-gui/)
 
@@ -387,6 +387,7 @@
 * [⁠PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
 * [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
+* [⁠Cocoleech](https://cocoleech.com/premium-link-generator) - Bypass Premium Link Speed Limits
 
 ***
 
