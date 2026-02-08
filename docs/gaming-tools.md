@@ -130,7 +130,7 @@
 * 🌐 **[Big List of Randomizers](https://randomizers.debigare.com/)** - Game Randomizer Index / [Discord](https://discord.com/invite/YREMzGQ3gd) / [GitHub](https://github.com/video-game-randomizers/rando-list)
 * ↪️ **[Game Mods](https://rentry.co/FMHYB64#game-mods)** - Mods for Individual Games
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods / [Discord](https://discord.gg/5DTa2tf)
-* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Download Hidden](https://rentry.org/downloadingdeletednexusmods) / [Discord](https://discord.com/invite/nexusmods)
+* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / Sign-Up Required / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Download Hidden](https://rentry.org/downloadingdeletednexusmods) / [Discord](https://discord.com/invite/nexusmods)
 * ⭐ **[GameBanana](https://gamebanana.com/)** - Game Mods / [Discord](https://discord.com/invite/h5xJv9M)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** / [Discord](https://discord.com/invite/S99Ary5eba) or [⁠Step Modifications](https://stepmodifications.org/) - Bethesda Game Modding Guides
 * [Wand](https://wand.com/) - Mods / Trainer Manager / Single Player Only / [Full](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) / [Discord](https://discord.com/invite/wemod)
@@ -789,7 +789,6 @@
 * ⭐ **[Undertale Wiki](https://undertale.wiki/)** / [Deltarune Wiki](https://deltarune.wiki/) - Main Gameplay & Lore Databases
 * ⭐ **[r/Undertale](https://www.reddit.com/r/Undertale/)** or **[r/Deltarune](https://www.reddit.com/r/Deltarune/)** - Community Subreddits 
 * ⭐ **[Toby Fox (X/Twitter)](https://x.com/tobyfox)** - Primary Creator Updates / [Tumblr](https://fwugradiation.tumblr.com/) / [Bluesky](https://bsky.app/profile/tobyfox.undertale.com)
-* ⭐ **[nochocolate](https://nochocolate.tumblr.com/)** - Foundational Character and Lore Deep-Dives
 * ⭐ **[r/Underminers](https://www.reddit.com/r/Underminers/)** - Datamining Community
 * ⭐ **[The Cutting Room Floor (TCRF)](https://tcrf.net/Undertale)**, [2](https://tcrf.net/Deltarune) - Unused Content / Debug Features
 * [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
@@ -826,6 +825,7 @@
 * ⭐ **[DustTale](https://gamejolt.com/games/dusttale/308853)** - Popular Dark AU / Murderous Sans Story
 * [⁠TS!UNDERSWAP](https://teamswitched.dev/) - Undertale Fangame / Reimagining / [GameJolt](https://gamejolt.com/games/tsunderswap/160094)
 * [DeltaTraveler](https://vyletbunni.itch.io/deltatraveler) - Universe Hopping Fangame
+* [Facing Demons](https://gamejolt.com/games/igb_dv/343813) - Chara Boss Fight Inspired by StoryShift
 * [No More Deals](https://gamejolt.com/games/ut-nmd/398695) - Chara Boss Fight
 * [Undertale Red & Yellow](https://gamejolt.com/games/undertale-red-yellow/877387) - Undertale Yellow Inspired
 * [HorrorTale](https://www.newgrounds.com/portal/view/677418) / [ALT](https://archive.org/details/horrortale) - Horror AU Fan Game
@@ -934,10 +934,10 @@
 * 🌐 **[GTAAll](https://www.gtaall.com/)**, [GTAInside](https://gtainside.de/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Walkthroughs & More
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
-* ⭐ **[FiveM](https://fivem.net/)**, [alt:V](https://altv.mp/) / [Discord](https://discord.com/invite/yQvKgSs) or [RAGE](https://rage.mp/) / [Discord](https://discord.com/invite/tChBaeu) - Modded GTAV Servers / Requires Legit Copy
 * ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** / [Discord](https://discord.com/invite/samp) or [Multi Theft Auto](https://multitheftauto.com/) / [GitHub](https://github.com/multitheftauto/mtasa-blue) - Multiplayer GTA:SA
 * ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin for GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr)
 * ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes for GTA III, VC & SA
+* [FiveM](https://fivem.net/), [alt:V](https://altv.mp/) / [Discord](https://discord.com/invite/yQvKgSs) or [RAGE](https://rage.mp/) / [Discord](https://discord.com/invite/tChBaeu) - Modded GTAV Servers / Requires Legit Copy
 * [GTA Cars](https://gtacars.net/) - GTA Car Database / Stats
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [Gillian's GTA](https://gillian-guide.github.io/) - GTA IV Modding Guide

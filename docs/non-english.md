@@ -214,7 +214,7 @@
 
 ## ▷ Torrenting / 下载种子
 
-* [QBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - QBitorrent for Chinese Users
+* [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - QBitorrent for Chinese Users
 * [Csze BT](https://bt.orzx.im/) - Video / Audio / Books
 * [acgnx](https://www.acgnx.se/) - Video / Audio / Books / NSFW
 * [Share.dmhy](https://share.dmhy.org/) - Video / Anime / NSFW
@@ -754,8 +754,8 @@
 * ⭐ **[Cineby](https://www.cineby.gd/)** - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
-* ⭐ **[ToonStream](https://toonstream.world/)**, [2](https://toonstream.one/) - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[⁠Animelok](https://animelok.site/)** - Anime / Cartoons / 1080p / Auto-Next / [Telegram](https://t.me/animerulz_xyz)
+* ⭐ **[ToonStream](https://toonstream.world/)**, [2](https://toonstream.one/) - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.top/) - Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
 * [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
@@ -1100,7 +1100,6 @@
 ## ▷ Streaming
 
 * 🌐 **[Polish Kodi Addons](https://github.com/mtr81/kodi_addons)**
-* ⭐ **[Kreskowki24](https://kreskowki24.top/)** - Movies / Cartoons / [Discord](https://discord.gg/SB5bdaRNfb)
 * ⭐ **[Obejrzyj](https://www.obejrzyj.to/)** - Movies / TV
 * ⭐ **[OgladajAnime](https://ogladajanime.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.com/invite/XJTq5Ez5Kv)
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
@@ -1114,7 +1113,6 @@
 * [ninateka](https://ninateka.pl/) - Movies
 * [Bajeczki24](https://bajeczki24.pl/) - Movies / TV
 * [Ekino-TV](https://ekino-tv.pl/), [3](https://ekino.sx/), [4](https://ekino.ws/) - Movies / TV / Sub / 720p
-* [iiTV](https://iitv.info/) - TV / Cartoons / Dub / 720p
 * [KreskówkaSubs](https://kreskowkasubs.blogspot.com/) - Cartoons / Sub / Dub
 * [Filman](https://filman.cc/) - Movies / TV
 * [centrum-dramy](https://centrum-dramy.pl/) - Asian Drama
@@ -1137,7 +1135,7 @@
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [radio-polska](https://www.radio-polska.pl/) or [radioyanosik](https://radioyanosik.pl/) - Radio
-* [FlowFlix](https://flowflix.vercel.app/) - Streaming App / Android / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb)
+* [FlowFlix](https://flowflix.vercel.app/) - Streaming App / Windows, Android / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb)
 * [Naikamu](https://naikamu.com/) - Anime Streaming App / Android
 * [adapter](https://adapter.pl/) - Descriptive Audio for Blind Users
 

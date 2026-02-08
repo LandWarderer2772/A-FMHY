@@ -346,7 +346,7 @@
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
 * [Skimap.org](https://skimap.org/) - Detailed Ski Maps
 * [ALPR Watch](https://alprwatch.org/) or [DeFlock](https://deflock.me/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) - AI Automated License Plate Reader Cameras / ALPR Maps
-* [People Over Papers](https://iceout.org/en/), [ICE Map](https://www.icemap.dev/) or [ICE List](https://wiki.icelist.is/) - ICE Activity Information / Maps
+* [People Over Papers](https://iceout.org/en/) or [ICE Map](https://www.icemap.dev/) - ICE Activity Information / Maps
 * [⁠Geo Share](https://github.com/jakubvalenta/geoshare) - Open Map Links in Alt Map Apps / Copy Coordinates
 
 ***
@@ -1249,7 +1249,7 @@
 * [Samay](https://samay.app/) - Meeting Time Polls
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
-* [Proton Calendar](https://proton.me/calendar) - Calendar
+* [Proton Calendar](https://proton.me/calendar) - Calendar / [Discord](https://discord.com/invite/proton)
 * [Tuta Calendar](https://tuta.com/calendar) - Calendar
 * [Tweek](https://tweek.so/) - Calendar
 * [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Calendar
