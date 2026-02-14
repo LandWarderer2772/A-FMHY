@@ -72,8 +72,8 @@
 
 ***
 
-* ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) or [SimplyTranslate](https://st.privacydev.net/) / [.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion/) - Online
 * ⭐ **[DeepL](https://www.deepl.com/translator)** - Online AI-Based Translation
+* ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) or [SimplyTranslate](https://st.privacydev.net/) / [.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion/) - Online
 * ⭐ **[Kagi Translate](https://translate.kagi.com/)** - Online
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** (firefox), [Kagi Extension](https://translate.kagi.com/extension) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
 * ⭐ **[r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
@@ -197,7 +197,7 @@
 
 # ► Text Editors
 
-* 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
+* 🌐 **[List of Text Editors](https://wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
 * 🌐 **[⁠TextEditors](http://texteditors.org/)** - Text Editor Index + Reviews
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
@@ -558,7 +558,7 @@
 * ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
 * [Transfonter](https://transfonter.org/) - Create CSS @font-face Kits
 * [FontBase](https://fontba.se/), [NexusFont](https://www.xiles.app/) or [Linux Font Manager](https://github.com/FontManager/font-manager) - Font Managers
-* [Adobe Fonts](https://fonts.adobe.com/fonts/vs/upload), [Font Finder](https://www.whatfontis.com/), [WhatTheFont](https://www.myfonts.com/pages/whatthefont), [Identifont](http://www.identifont.com/) - Find Similar Fonts
+* [Adobe Fonts](https://fonts.adobe.com/fonts/vs/upload), [Font Analyzer](https://font-analyzer-six.vercel.app/), [Font Finder](https://www.whatfontis.com/), [WhatTheFont](https://www.myfonts.com/pages/whatthefont), [Identifont](http://www.identifont.com/) - Find Similar Fonts
 * [Fonts Ninja](https://fonts.ninja/tools) or [WhatFont](https://whatfonttool.com/) - Find Similar Fonts / Extensions
 * [Unicode Explorer](https://unicode-explorer.com/) or [Compart](https://www.compart.com/en/unicode) - Unicode Character Identification
 * [Colors & Fonts](https://www.colorsandfonts.com/) - Typography Tools

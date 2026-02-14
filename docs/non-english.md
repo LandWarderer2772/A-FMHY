@@ -698,7 +698,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[VegaMovies](https://vegamovies.gripe/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](https://vegamovies.gratis/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[⁠The One Piece](https://m.flixindia.xyz/)** - Movie / TV / Anime / [Telegram](https://telegram.me/TheOnePieceUpdates)
 * ⭐ **[HDHub4u](https://hdhub4u.gd/)** - Movies / TV / 1080p
@@ -1566,7 +1566,6 @@
 * [TioDonghua](https://tiodonghua.com/) - Anime / Sub / Light Novels
 * [Japan Paw!](https://japan-paw.net/) - Anime / Sub
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
-* [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD) - Anime / Telegram
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
 * [punkconpunk](https://punkconpunk.blogspot.com/) - MP3 / Punk Music
 * [Hello-Python](https://github.com/mouredev/Hello-Python) or [python-web](https://github.com/mouredev/python-web) - Python Courses

@@ -227,7 +227,7 @@
 
 ## ▷ Search Engines
 
-* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://en.wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/), [Advanced Search Tools](https://start.me/p/nRADzL/advanced-search-tools) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
+* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/), [Advanced Search Tools](https://start.me/p/nRADzL/advanced-search-tools) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
 * ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_search_engines)**
@@ -410,7 +410,7 @@
 
 # ► Email Tools
 
-* 🌐 **[Email Providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
+* 🌐 **[Email Providers](https://wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
 * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
 * [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) - Number-Free Email Service
@@ -467,7 +467,6 @@
 * [MailTicking](https://www.mailticking.com/) - Gmail / 2 Domains
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [TempMail.Plus](https://tempmail.plus/en/) - Forever / 7 Days / 9 Domains / [.onion](http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion/)
-* [NanoMail](https://nano-mail.vercel.app/) - Forever / 7 Days / 1 Domain
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
 * [NiceMail](https://nicemail.cc/) - Forever / 1 Day / 3 Domains
@@ -680,7 +679,6 @@
 * [Indie Wiki Buddy](https://getindie.wiki/) - Redirect Fandom / Fextralife to Indie Wikis / [Redirect List](https://getindie.wiki/listings/)
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms with Fake Data
 * [External App Button](https://webextension.org/listing/external-application-button.html) - Connect Browser to External Apps
-* [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing
 * [Stylebot](https://stylebot.dev/) - Modify Webpages
 * [SocialFocus](https://socialfocus.app/) - Hide Distracting Elements on Social Media Sites
 * [Always Visible](https://webextension.org/listing/always-active.html) - Always Active / On-Top Window

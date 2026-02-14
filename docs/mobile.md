@@ -8,6 +8,10 @@
 
 ## ▷ Modded APKs
 
+* **Note** - Keep in mind some modded APK sites will list apps with fake names which are generally not worth using.
+
+***
+
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/viewforum.php?f=398) - Free Books / Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [App](https://github.com/slartus/4pdaClient-plus) / [Telegram](https://t.me/real4pda) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
@@ -991,7 +995,7 @@
 * [AniLab](https://anilab.to/) - Use [DNS Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_dns_adblocking)
 * [Animiru](https://github.com/Quickdesh/Animiru)
 * [AnimeTV](https://discord.com/invite/zD6URsM4ms)
-* [Hayase](https://hayase.watch/) - Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase)
+* [Hayase](https://hayase.watch/) - Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Wiki](https://wiki.hayase.watch/)
 
 ***
 
@@ -1251,6 +1255,7 @@
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)**, **[piko](https://github.com/crimera/twitter-apk)**, [2](https://github.com/lluni/twitter-apk) / [Telegram](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko) or [⁠NeoFreeBird](https://github.com/NeoFreeBird/app) - X.com Apps
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
+* [Kettu](https://www.raincord.dev/kettu) - Modded Discord Client / [Discord](https://discord.gg/qkdPGunwjW) / [Codeberg](https://codeberg.org/cocobo1/Kettu) / [GitHub](https://github.com/C0C0B01/Kettu)
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
 * [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Improved Reddit Comment Navigation
 * [SNMessenger](https://github.com/NguyenASang/SNMessenger) - Facebook Messenger Tweak

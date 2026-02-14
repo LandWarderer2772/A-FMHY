@@ -289,7 +289,7 @@
 
 # ► Game Dev Tools
 
-* 🌐 **[PCGamingWiki Engine List](https://www.pcgamingwiki.com/wiki/Category:Engines)**, [Wiki Engine List](https://en.wikipedia.org/wiki/List_of_game_engines), [Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev) or [Game-Engines](https://rentry.co/Game-Engines) - Game Engine Development Resources
+* 🌐 **[PCGamingWiki Engine List](https://www.pcgamingwiki.com/wiki/Category:Engines)**, [Wiki Engine List](https://wikipedia.org/wiki/List_of_game_engines), [Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev) or [Game-Engines](https://rentry.co/Game-Engines) - Game Engine Development Resources
 * 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
 * 🌐 **[Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)** - Game Dev Resources
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
@@ -514,6 +514,7 @@
 
 * ↪️ **[Coding AI Benchmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_benchmarks)**
 * ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** or [AI Studio](https://aistudio.google.com/app/apps) - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
+* [Design Arena](https://www.designarena.ai/) - Multi-LLM Coding AI / No Direct / Side by Side Mode / Reset Limits/ w Temp Mail
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
 * [Pieces](https://pieces.app/) - Multi-LLM Coding AI / GPT-4 / 4o for Free
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
@@ -955,7 +956,8 @@
 ## ▷ SVG Tools
 
 * ↪️ **[SVG / Vector Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
-* [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
+* ↪️ **[Vector Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_painting_.2F_drawing)**
+* [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [FreeSVGEditor](https://freesvgeditor.com/), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
 * [FrameSVG](https://framesvg.romelium.cc/) - GIF to Animated SVG / [GitHub](https://github.com/Romelium/FrameSVG)

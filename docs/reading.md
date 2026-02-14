@@ -13,7 +13,7 @@
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / [Requires Invite](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
 * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
-* [WeLib](https://welib.org/) - Anna's Archive Mirror / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
+* [WeLib](https://welib.org/) / [2](https://welib.st/) - Anna's Archive Mirror / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
 * [eBookBB](https://ebookbb.in/) - Books / Download
 * [iBookPile](https://ibookpile.in/) - Books / Download
 * [Liber3](https://liber3.eth.limo/) - Book Search / Download
@@ -45,7 +45,7 @@
 
 * ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](https://gutenberg.net.au/) / [Canada](https://gutenberg.ca/index.html) / [Nordic](https://runeberg.org/)
 * ⭐ **[Unglue.it](https://unglue.it/)**
-* [Wikisource](https://en.wikisource.org)
+* [Wikisource](https://wikisource.org)
 * [Open Library](https://openlibrary.org/)
 * [OpenChapter](https://openchapter.io/)
 * [FreeEditorial](https://www.freeditorial.com/en/) / [Spanish](https://www.freeditorial.com)
@@ -253,7 +253,7 @@
 
 * ⭐ **[Archive of Our Own](https://archiveofourown.org/)** - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * ⭐ **[Short Stories](https://short-stories.co/)**
-* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Collabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
+* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Collabs / [Wiki](https://wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
 * [Fork Read](https://forkread.com/) - Publish Short Stories
 * [Booksie](https://www.booksie.com/) - Short Stories
@@ -408,6 +408,7 @@
 * [Find Audiobook](https://findaudiobook.app/)
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
+* [Project Gutenberg](https://www.gutenberg.org/browse/categories/1) - Historical Fiction / Nonfiction
 * [PlayTorrio](https://playtorrio.xyz/) - Audiobook App / Windows / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Select Playlists
 
@@ -610,7 +611,7 @@
 * [OpenStax College Textbooks](https://philschatz.com/books/) - Textbooks
 * [⁠ReadYourFlow](https://readyourflow.com/) - Textbooks
 * [TextBookGo](http://textbookgo.com/) - TextBooks
-* [Wikibooks](https://en.wikibooks.org/) - Open-Content Texbooks
+* [Wikibooks](https://wikibooks.org/) - Open-Content Texbooks
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
 
@@ -673,7 +674,7 @@
 
 ## ▷ Quotes / Poetry
 
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**
+* ⭐ **[Wikiquote](https://wikiquote.org)**
 * ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
 * [⁠Eudaimonia](https://www.eudaimonia.wiki/) - Collaborative Book of Wisdom / Quotes
 * [BrainyQuote](https://www.brainyquote.com/)
