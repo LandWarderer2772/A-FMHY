@@ -90,7 +90,7 @@
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
 * [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
-* [⁠Adventure Game Studio](https://www.adventuregamestudio.co.uk/#play) - Point-And-Click Games [Discord](https://discord.gg/BSvN5ZF) / [GitHub](https://github.com/adventuregamestudio/ags)
+* [⁠Adventure Game Studio](https://www.adventuregamestudio.co.uk/#play) - Point-And-Click Games / [Discord](https://discord.gg/BSvN5ZF) / [GitHub](https://github.com/adventuregamestudio/ags)
 * [vgperson](https://vgperson.com/games/) - Simple Japanese Games
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [Ninja Kiwi Archive](https://ninjakiwi.com/archive) - Ninja Kiwi / Bloons Archive / [Subreddit](https://www.reddit.com/r/NinjaKiwiOfficial/) / [Discord](https://discord.com/invite/ninjakiwi)
@@ -373,6 +373,7 @@
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch
 * [SwitchROMS](https://switchroms.io/) - ROMs / Switch
+* [SwitchGamesMall](https://switchgamesmall.icu/), [2](https://smallgames.ch/) - ROMs / Switch
 * [RetroNDS](https://t.me/retronds) - ROMs / Switch / Requires Telegram
 * [⁠NSWTL](https://nswtl.info/) - ROMs / Switch / Torrents / Requires Telegram
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker

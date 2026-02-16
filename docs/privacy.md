@@ -120,7 +120,7 @@
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything / [Discord](https://discord.com/invite/zYTM3rZM4T)
 * [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
-* [Jotti](https://virusscan.jotti.org/en) - 
+* [Jotti](https://virusscan.jotti.org/en) -  Online File Scanner
 * [⁠Threat Insights Portal](https://www.threat.rip/) - Online File Scanner / [Discord](https://discord.gg/5z5HYpKx)
 * [Filescan.io](https://www.filescan.io/) or [⁠MetaDefender Cloud](https://metadefender.com/) - Online File Scanner / [X](https://x.com/filescan_itsec) / [GitHub](https://github.com/filescanio)
 * [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) - Local File Scanner / [Guide](https://www.bleepingcomputer.com/forums/t/781976/)
@@ -169,7 +169,7 @@
 
 ## ▷ Privacy Indexes
 
-* ⭐ **[Privacy Guides](https://www.privacyguides.org/)**, [2](https://privacyguides.github.io/privacyguides.org/), [3](https://privacyguides-org-production.b-cdn.net/en/) - Educational Guide / [Discuss](https://discuss.privacyguides.net/) [.onion](http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/) / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
+* ⭐ **[Privacy Guides](https://www.privacyguides.org/)**, [2](https://privacyguides.github.io/privacyguides.org/), [3](https://privacyguides-org-production.b-cdn.net/en/) - Educational Guide / [Discuss](https://discuss.privacyguides.net/) / [.onion](http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/) / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)

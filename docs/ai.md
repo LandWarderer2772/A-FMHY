@@ -44,7 +44,6 @@
 * ⭐ **[Arena](https://arena.ai/?mode=direct)** - Multiple Models / No Sign-Up / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat)** - GPT-5.2 / Gemini 3 Pro / Claude Sonnet 4.5 / Multiple Chatbots
 * [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [Discord](https://discord.com/invite/yuppai)
-* [Design Arena](https://www.designarena.ai/) - Multiple Models / Requires Sign-Up / No Direct / Side by Side Mode / Reset Limits/ w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠ISH](https://beta.ish.chat/) - GPT-5.2 / Gemini 3 Pro / Claude Opus 4.5 / Unlimited Ad-Based / Github Login / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-V3.2 / GLM-4.7 / Kimi K2.5 / Mistral Large 3 / Multiple Models / No Sign-Up
 * [Khoj](https://app.khoj.dev/) - Gemini 3 Flash / DeepSeek V3.2 / Grok 4.1 Fast (non-reasoning) / Reset Limits w/ Temp Mail
@@ -198,7 +197,7 @@
 # ► AI Benchmarks
 
 * 🌐 **[⁠LM Council](https://lmcouncil.ai/benchmarks)** - AI Benchmark Index / Comparisons 
-* ⭐ **[Artificial Analysis](https://artificialanalysis.ai/)** - Chatbot, Image, and Video Benchmarks / [X](https://x.com/ArtificialAnlys)
+* ⭐ **[Artificial Analysis](https://artificialanalysis.ai/)** - Chatbot, Image, and Video Benchmarks / [X](https://x.com/ArtificialAnlys) / [Discord](https://discord.gg/aAvvUqxGjM)
 * ⭐ **[⁠Kaggle Benchmarks](https://www.kaggle.com/benchmarks)** - Chatbot Leaderboards / Benchmarks
 * ⭐ **[Arena](https://arena.ai/leaderboard)** - Chatbot Leaderboards / Benchmarks / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [OpenRouter](https://openrouter.ai/rankings) - Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
@@ -263,12 +262,12 @@
 ***
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
-* ⭐ **[⁠GeminiGenAI](https://geminigen.ai/app/video-gen)** - Veo 3.1 / Sora 2 / Grok / 10s-15s/ Login required / Reset Limits w/ Temp Mail / [Discord](https://discord.gg/vJnYe86T8F)
+* ⭐ **[⁠GeminiGenAI](https://geminigen.ai/app/video-gen)** - Veo 3.1 / Sora 2 / Grok / 10s-15s / Login required / Reset Limits w/ Temp Mail / [Discord](https://discord.gg/vJnYe86T8F)
 * ⭐ **[Grok Imagine](https://grok.com/imagine)** - Traffic-Based / Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[⁠Klipy](https://klipy.com/create/gif-maker/)** - Veo 3 / GIF Only / 4s-5s / Unlimited / Requires Sign-Up
 * [Bing Create](https://www.bing.com/images/create) - Sora 1 / No Image Input
 * [Arena](https://arena.ai/?chat-modality=video) - 3 Daily / Requires Sign-Up / Random Models / Reset Limits w/ Temp Mail / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Design Arena](https://www.designarena.ai/) - Multiple Models / No Direct / Side by Side Mode / Reset Limits/ w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
+* [Design Arena](https://www.designarena.ai/) - Multiple Models / No Direct / Side by Side Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [Sora](https://openai.com/index/sora/) - 6 Daily / [Remove Watermarks](https://unmarkit.app/sora) / [Signup Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sora.md)
 * [Wan AI](https://wan.video/) / Wan AI / Wan 2.6 / Image to Video / [GitHub](https://github.com/Wan-Video/Wan2.1)
 * [Qwen](https://chat.qwen.ai/) - 5/12 Per Hour / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
@@ -296,11 +295,11 @@
 * ⭐ **[Gemini](https://gemini.google.com/)** - Nano Banana (100 per day) / Nano Banana Pro (5 per day) / Google Login Required / Region-Based / [Remove Watermarks](https://banana.ovo.re/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[AI Studio](https://aistudio.google.com/generate-image)** or [Whisk](https://labs.google/fx/en/tools/whisk) - Imagen 4 + Ultra / Nano Banana / Google Login Required / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Khoj](https://app.khoj.dev/?v=app)** - Nano Banana / Imagen 4 / Unlimited
-* ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT-4o / DALL-E-3 / Editing /Unlimited /Generating/ Sign-Up Required 
+* ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT-4o / DALL-E-3 / Editing / Generating / Sign-Up Required 
 * ⭐ **[Dreamina](https://dreamina.capcut.com/ai-tool/home)** - 120 Credits Daily / Seedream 4.5 / Nano Banana / Sign-Up Required
 * ⭐ **[Perchance](https://perchance.org/ai-photo-generator)** / [2](https://perchance.org/ai-text-to-image-generator) - Chroma-Based / Unlimited / No Sign-Up / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
 * [Yupp.ai](https://yupp.ai/) - GPT Image 1.5 / Nano Banana Pro / Multiple Generators / Google Login Required / [Discord](https://discord.com/invite/yuppai)
-* [Design Arena](https://www.designarena.ai/) - Multiple Generators / Editing / Sign-up Required / No Direct / Side by Side Mode / Reset Limits/ w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
+* [Design Arena](https://www.designarena.ai/) - Multiple Generators / Editing / Sign-up Required / No Direct / Side by Side Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠GeminiGenAI](https://geminigen.ai/app/imagen) - Nano Banana Pro /  Login Required / Reset Limits w/ Temp Mail / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/gemai.md)
 * [⁠Hunyuan Image Generation](https://hunyuan.tencent.com/image/en) - HunyuanImage 3.0-Instruct / Unlimited
 * [Grok](https://grok.com/) - Traffic-Based / Editing / Generating / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
@@ -310,7 +309,7 @@
 * [ImageFX](https://labs.google/fx/tools/image-fx) - Imagen 4 / Unlimited / Region-Based / Requires Sign-Up / [Discord](https://discord.com/invite/googlelabs)
 * [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) - Unlimited / Editing / Flux Kontext Dev
 * [AIGazou](https://muryou-aigazou.com/) - Flux / Z-Image Turbo / Unlimited / No Sign-Up / Seedream 3 / GPT Image 1 / 10 Daily / Requires Sign-Up / [Discord](https://discord.gg/v6KzUbPeKh)
-* [⁠ZonerAI](https://zonerai.com/) - Flux Schnell /Unlimited / Editing / 4k / Sign-up-required
+* [⁠ZonerAI](https://zonerai.com/) - Flux Schnell / Unlimited / Editing / 4k / Sign-up-required
 * [Meta AI](https://www.meta.ai/) - Unlimited / Requires Sign-Up
 * [⁠Vheer](https://vheer.com/) - Unlimited / Flux Kontext Dev / Flux Schnell
 * [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
@@ -341,6 +340,7 @@
 * [Easy Diffusion](https://easydiffusion.github.io/) / [Discord](https://discord.com/invite/u9yhsFmEkB) / [GitHub](https://github.com/easydiffusion/easydiffusion)
 * [Makeayo](https://makeayo.com) / [Discord](https://discord.gg/FbdSxdeV8m)
 * [biniou](https://github.com/Woolverine94/biniou)
+* [Dione](https://getdione.app/) / [GitHub](https://github.com/dioneapp/dioneapp)
 * [Sygil WebUI](https://sygil-dev.github.io/sygil-webui/) / [Colab](https://colab.research.google.com/github/Sygil-Dev/sygil-webui/blob/main/Web_based_UI_for_Stable_Diffusion_colab.ipynb) / [Discord](https://discord.com/invite/ttM8Tm6wge) / [GitHub](https://github.com/Sygil-Dev/sygil-webui)
 * [Radiata](https://ddpn08.github.io/Radiata/en/)
 * [SD WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
@@ -394,7 +394,7 @@
 
 ## ▷ Text to Speech
 
-* 🌐 **[Arena TTS](https://arena.ai4bharat.org/#/tts)** -  Text to Speech Model Benchmarks / Leaderboards
+* 🌐 **[Arena TTS](https://arena.ai4bharat.org/#/tts)** - Text to Speech Model Benchmarks / Leaderboards
 * ⭐ **[TTS Online](https://www.text-to-speech.online/)** / No Sign-Up
 * [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook) / [2](https://huggingface.co/spaces/drewThomasson/ebook2audiobook), [ElevenReader](https://elevenreader.io/), [⁠Paper2Audio](https://www.paper2audio.com/) or [ReadWise](https://readwise.io/read) (reset trial) - Convert Books / Documents to Audiobooks
 * [Google Illuminate](https://illuminate.google.com/) - Generate AI Conversations
