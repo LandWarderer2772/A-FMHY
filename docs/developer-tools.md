@@ -517,12 +517,12 @@
 ***
 
 * ⭐ **[Aider](https://aider.chat/)** - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
-* ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** - Coding AI / [GitHub](https://github.com/google-gemini/gemini-cli)
-* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Opus 4.6 / Limits Reset Weekly / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
-* [GitHub Copilot](https://github.com/features/copilot) - Coding AI
+* ⭐ **[Gemini CLI](https://google-gemini.github.io/gemini-cli/)** - Coding AI / Gemini 3 Flash/Pro / [GitHub](https://github.com/google-gemini/gemini-cli)
+* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
+* [GitHub Copilot](https://github.com/features/copilot) - Coding AI / Claude Haiku 4.5 / GPT-5 mini
 * [Windsurf](https://www.windsurf.com/) - Agentic IDE With Tab Completion / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
-* [OpenCode](https://opencode.ai/) - Coding AI / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/sst/opencode)
-* [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / 60 Per Minute / 1K Daily / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
+* [OpenCode](https://opencode.ai/) - Coding AI / GPT-5 nano / Minimax-M2.5 [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/sst/opencode)
+* [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / Qwen3-Coder / Qwen3.5-Plus (Qwen3.5-397B-A17B) / 60 Per Minute / 1K Daily / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) - Autonomous VS Code Agents
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Continue](https://continue.dev/) - Coding AI / [Discord](https://discord.com/invite/EfJEfdFnDQ) / [GitHub](https://github.com/continuedev/continue)
@@ -539,12 +539,12 @@
 
 ## ▷ Web / App Builders
 
-* [Arena](https://arena.ai/code) - AI Website Builder / Multiple Models / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* ⭐ **[Arena](https://arena.ai/code)** - AI Website Builder / Multiple Models / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro Coding AI / 11 Daily / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [⁠Z.ai](https://chat.z.ai/) - AI Website Builder / GLM-5 / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * [Design Arena](https://www.designarena.ai/) - Multi-LLM Coding AI / No Direct / Side by Side Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [Yupp.ai](https://yupp.ai/) - Multi-LLM Coding AI / Google Login Required / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
-* [Perchance](https://perchance.org/welcome), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Discord](https://discord.gg/websim) / [Reddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
+* [Perchance](https://perchance.org/welcome) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Discord](https://discord.gg/websim) / [Reddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
 * [v0](https://v0.app/) - Text to Site Code
 * [Bolt.new](https://bolt.new/) - AI Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
@@ -1026,8 +1026,8 @@
 ## ▷ Dynamic Page Hosting
 
 * ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth
-* ⭐ **[vercel](https://vercel.com/)**
-* ⭐ **[netlify](https://www.netlify.com/)**
+* ⭐ **[vercel](https://vercel.com/)** - 1GB Storage / 100GB Bandwidth
+* ⭐ **[netlify](https://www.netlify.com/)** - 10GB Storage / 100GB Bandwidth
 * ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 100MB Storage / Unlimited Bandwidth / Unlimited DB
 * ⭐ **[ALCHosting.net](https://www.alchosting.net/)** - 5GB Storage / Unlimited Bandwidth / 2 DB
 * [AwardSpace.com](https://www.awardspace.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
