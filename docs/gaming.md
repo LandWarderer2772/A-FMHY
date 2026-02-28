@@ -43,7 +43,6 @@
 * [World of PC Games](https://worldofpcgames.com/), [⁠The Dark Games](https://the-dark-games.com/) or [GetFreeGames](https://getfreegames.net/) - Download / Pre-Installed / Use Adblock / [Site Info](https://rentry.org/ikc3x8bt) / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games), [⁠TendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
-* [Anti Denuvo Sanctuary](https://rentry.co/FMHYB64#ads) - Denuvo Games / Works Offline
 * [ROM Heaven CSF](https://rentry.co/FMHYB64#csf) - Clean Steam Files
 
 ***
@@ -235,10 +234,10 @@
 * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
 * [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
+* [Sonic Runners Revival](https://sonicrunners.com/) - ⁠Sonic Runners Revival / [Discord](https://discord.gg/T5ytR6T)
 * [ Age of the Ring](https://www.moddb.com/mods/the-horse-lords-a-total-modification-for-bfme) - LOTR: The Battle for Middle-Earth II Revival Mod / [Discord](https://discord.com/invite/MB8Kj9N)
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation / [Discord](https://discord.com/invite/NvF3pdV)
 * [OpenNox](https://github.com/opennox/opennox) - Nox Revival Project / [Discord](https://discord.gg/HgDUeXhAyW)
-* [Sonic Runners Revival](https://sonicrunners.com/) - ⁠Sonic Runners Revival / [Discord](https://discord.gg/T5ytR6T)
 * [r/MinecraftStoryMode](https://www.reddit.com/r/MinecraftStoryMode/) - Minecraft Story Mode Revival Project / [Discord](https://discord.gg/zUuABEc6at)
 * [Peacock](https://thepeacockproject.org/) - Hitman World of Assassination Server Replacement / [GitHub](https://github.com/thepeacockproject/Peacock)
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)

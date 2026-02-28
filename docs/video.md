@@ -49,6 +49,7 @@
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Codes: `mpgh` or `1hack` / Requires Sign-Up
 * ⭐ **[yFlix](https://yflix.to/)** or [1Movies](https://1movies.bz/) - Movies / TV / Anime / Auto-Next / [Clones](https://rentry.co/sflix#yflix-clones)
+* [MovieBox](https://moviebox.ph/) - Movies / TV / Anime
 * [CinemaCity](https://cinemacity.cc/) - Movies / TV / Anime / Requires Sign-Up
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [WatchFlix](https://watchflix.to/) - Movies / TV / Anime / 720p
@@ -404,7 +405,7 @@
 ## ▷ Live TV
 
 * 🌐 **[TVCL](https://www.tvchannellists.com/)** - TV Channel Index
-* ⭐ **[NTV](https://ntvstream.cx/)**, [2](http://ntv.cx/) - TV / Sports / Aggregator / [Mirrors](https://ntv.direct/) / [Telegram](https://t.me/ntvstream) / [Discord](https://discord.gg/uY3ud5gcpW)
+* ⭐ **[NTV](http://ntv.cx/)**, [2](https://ntvstream.cx/) - TV / Sports / Aggregator / [Mirrors](https://ntv.direct/) / [Telegram](https://t.me/ntvstream) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[PlayTorrio IPTV](https://iptv.playtorrio.xyz/)** - TV / Sports / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * ⭐ **[Famelack](https://famelack.com/)** - TV / Sports
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
@@ -457,7 +458,7 @@
 * ⭐ **[SportyHunter](https://sportyhunter.com/)**, [2](https://nflhunter.com/), [3](https://nhlstreams.io/v1/), [4](https://mlbgamepass.com/) / Community Aggregator / [Discord](https://discord.gg/zbxWcejadm)
 * ⭐ **[WatchSports](https://watchsports.to/)** - Stream Aggregator
 * ⭐ **[BINTV](https://bintv.net/)** / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl) / [Discord](https://discord.gg/fMU4hpDjPg)
-* ⭐ **[NTV](https://ntvstream.cx/)**, [2](http://ntv.cx/) - TV / Sports / Aggregator / [Mirrors](https://ntv.direct/) / [Telegram](https://t.me/ntvstream) / [Discord](https://discord.gg/uY3ud5gcpW)
+* ⭐ **[NTV](http://ntv.cx/)**, [2](https://ntvstream.cx/) - TV / Sports / Aggregator / [Mirrors](https://ntv.direct/) / [Telegram](https://t.me/ntvstream) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[Watch Footy](https://watchfooty.st/)**, [2](https://www.watchfooty.top), [3](https://watchfooty.su/) - Stream Aggregator / [Mirrors](https://watchfty.link/) / [Discord](https://discord.gg/T38kUWZHtB)
 * ⭐ **[StreamSports99](https://streamsports99.su)**, [2](https://streamsports99.website/) / [Mirrors](https://streamsports99.website/) / [Bypass Blocks](https://streamsports99.su/vpns)
 * ⭐ **[Sporting77](https://sporting77.ru//)**, [2](https://sport7.pro/) / [Telegram](https://t.me/goatifisports) / [Player Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sport7.md) 
@@ -473,14 +474,15 @@
 * [TotalSportek.es](https://totalsportek.es/), [2](https://streameast.cz/) - Stream Aggregator
 * [CrackStreams24](http://crackstreams24.cfd/) - Stream Aggregator
 * [FootStreams](https://footstreams.xyz/), [2](https://www.footstreams.co/) - Stream Aggregator
+* [Sportive](https://sportive.pages.dev/) - Stream Aggregator
 * [FSL](https://freestreams-live1a.pk/) - Stream Aggregator / [Discord](https://discord.gg/eXXJzDPchU)
 * [Footfy](https://footfy.net/) - Stream Aggregator
 * [StreamCorner](https://streamcorner.info/), [2](https://streamcorner.cfd), [3](https://streamcorner.sbs) / [Status](https://beacons.ai/streamcorner) / [Discord](http://discord.gg/vV6rRFtWhW)
+* [GamesCentral](https://www.gamescentral.top/) / [Discord](https://discord.gg/VKbvRcjDwa)
 * [PlayTorrio IPTV](https://iptv.playtorrio.xyz/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [CosecTV](https://cosectv.com/) / [Discord](https://discord.gg/B89NWfhUZ)
 * [CricHD](https://crichd.at/), [2](https://crichd.com.co/)
 * [MainPortal66](https://mainportal66.com/)
-* [GamesCentral](https://www.gamescentral.top/) / [Discord](https://discord.gg/VKbvRcjDwa)
 * [l1l1](https://l1l1.link/), [2](https://vuen.link/)
 * [⁠FCTV33](https://www.fctv33.lat/), [2](https://may01gu.risenow3mtjt0k.sbs/), [3](https://emmau680.driveraudiencej2zeu49.sbs/), [4](https://www.rbsports77.mom/) / [Telegram](https://t.me/madplay77_b)
 * [MrGamingStreams](http://mrgamingstreams.org/) / [Status](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
