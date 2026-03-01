@@ -432,7 +432,7 @@
 * 🌐 **[YT Channel Spreadsheet](https://docs.google.com/spreadsheets/d/1xZm5BcQTYJx8sfSuqHExHtIOPtSfod8beHKtYzp8DxE/)** or **[YouTube_Channels](https://github.com/PrejudiceNeutrino/YouTube_Channels)** - YouTube Channel Indexes
 * ⭐ **[Favoree](https://www.favoree.io/)** or [ChannelCrawler](https://channelcrawler.com/) - Discover / Search YouTube Channels
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
-* ⭐ **[Filmot](https://filmot.com/)** or [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
+* ⭐ **[Filmot](https://filmot.com/)** or [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Search within YouTube Subs, Captsions & Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [comb.io](https://comb.io/), [clip.cafe](https://clip.cafe/), [InPhrase](https://inphrase.com/) or [Yarn](https://yarn.co/) - Clip / Phrase Search Engines
 * [yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Full-Text Search of Subtitles from Channels / Videos
 * [Icono](https://www.icono-search.com/) - Description-Based Video Search / [Discord](https://discord.gg/RWv7bGKwHr)
@@ -452,7 +452,7 @@
 * [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [yark](https://github.com/Owez/yark) - YouTube Channel Archiver
 * [Filmot](https://filmot.com/unlistedSearch) - Search Unlisted Videos
-* [Hobune](https://hobune.stream/) or [PreserveTube](https://preservetube.com/) - YouTube Video Archives
+* [PreserveTube](https://preservetube.com/), [2](https://preservetube.net/), [3](https://preservetube.org/) or [Hobune](https://hobune.stream/) - YouTube Video Archives
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - Captures of Pages from YouTube (IA)
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer), [quite a playlist](https://quiteaplaylist.com/) or [RecoverMy.Video](https://www.recovermy.video/) - Restore Titles of Deleted / Private Videos
 
