@@ -322,7 +322,7 @@
 * [⁠PandoraLauncher](https://pandora.moulberry.com/) - Launcher / [GitHub](https://github.com/Moulberry/PandoraLauncher)
 * [GDLauncher](https://gdlauncher.com/) - Launcher / [Discord](https://discord.com/invite/8n3NnERF22)
 * [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / macOS / Linux
-* [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) - Mobile Launcher / Android, iOS / [Discord](https://discord.gg/5ptqkyZxEy)
+* [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android), [2]()https://github.com/AngelAuraMC/Amethyst-iOS) - Mobile Launcher / Android, iOS / [Discord](https://discord.gg/5ptqkyZxEy)
 
 ***
 
@@ -478,7 +478,6 @@
 * [NovelsArchive](https://t.me/NovelsArchive) - Popular Novels
 * [Free eBooks](https://t.me/free_ebooks_pdfs) - Educational eBooks
 * [BooksMania](https://t.me/booksmania) - Decorative Worksheets
-* [Alejandria](https://t.me/joinchat/RGzvjJF-0op3SRR1) - Occult Literature / English / Spanish
 * [Dao](https://t.me/Dao_Qigong_Taiji_TCM_ebooks) - Spiritual Eastern Literature
 * [LibraryOfDos](https://t.me/lib_of_dos_old_vk) - Esoteric Russian Literature
 * [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books&ia=web)
