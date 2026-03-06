@@ -112,7 +112,7 @@
 * [JoyToKey](https://joytokey.net/en/) - Controller Emulator
 * [⁠DriftGuard](https://driftguard.app/) - Test / Calibrate Controller Drift 
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
-* [Gamepad-Tester](https://hardwaretester.com/gamepad) or [Test Gamepad](https://testgamepad.online/) - Online Controller Testers
+* [Gamepad-Tester](https://hardwaretester.com/gamepad), [Controller Tester](https://controllertest.io/) or [Test Gamepad](https://testgamepad.online/) - Online Controller Testers
 * [DualSense Tester](https://ds.daidr.me/) - Web ⁠DualSense Tester / [GitHub](https://github.com/daidr/dualsense-tester)
 * [Calibration GUI](https://dualshock-tools.github.io/) - Web DualSense Calibration Tool / Requires Chromium / [GitHub](https://github.com/dualshock-tools/dualshock-tools.github.io)
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Decrease DS4/5 Input Lag / [Video](https://youtu.be/x0wcJM4FtXQ)
@@ -993,7 +993,7 @@
 * [Better Discovery](https://www.roblox.com/games/15317947079/) - Game Discovery
 * [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
 * [RobloxDen](https://robloxden.com/) or [Rocodes](https://rocodes.gg/) - Track Roblox Promo Codes
-* [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) or [Sixteensrc](https://apidocs.sixteensrc.zip/)- Roblox APIs
+* [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 * [Dripzels](https://dripzels.com/) or [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
 
 ***
