@@ -334,8 +334,8 @@
 ## ▷ Redirect Bypass
 
 * ⭐ **[Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated)** - Bypass Link Shorteners
+* ⭐ **[Evade](https://skipped.lol/evade/evade.user.js)** - Ad-Links Bypasser / [Site](https://skipped.lol/) / [Discord](https://discord.gg/aaw9jmw4BC)
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
-* [Evade](https://skipped.lol/evade/evade.user.js) - Ad-Links Bypasser / [Site](https://skipped.lol/) / [Discord](https://discord.gg/aaw9jmw4BC)
 * [Zen Bypass](https://izen.lol/) - Ad Links Bypasser / [Telegram](https://t.me/izenlol) / [Discord](https://discord.com/invite/ua7SCUAg3A)
 * [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Userscript](https://trw.lat/install/userscript/u.user.js) / [Discord](https://discord.gg/5tVkG8eMg)
 * [⁠bypass.tools](https://bypass.tools/) - Ad-Links Bypasser / [Discord](https://discord.gg/NSCEvtCCwF)
@@ -467,7 +467,6 @@
 * [Reusable.email](https://reusable.email/) - Forever / Forever / 1 Domain / [Telegram](https://t.me/reusable)
 * [⁠AltAddress](https://altaddress.org/) - Forever / 3 Days / 14 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
-* [Vortex Email](https://vortex.skyfall.dev/) - Forever / 9 Domains / [GitHub](https://github.com/SkyfallWasTaken/vortex.email)
 * [MailTicking](https://www.mailticking.com/) - Gmail / 2 Domains
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains
