@@ -154,7 +154,7 @@
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [AXM Paper Space Scale Models](https://axmpapermodels.com/) - Spacecraft Paper Models
 * [Erowid](https://www.erowid.org/) - Psychoactive Information
-* [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Psychonautics Wiki
+* [PsychonautWiki](https://psy.st/wiki/Main_Page) - Psychonautics Wiki
 * [Shroomery](https://www.shroomery.org/) - Magic Mushroom Forum
 
 ***
@@ -171,6 +171,7 @@
 * [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
 * [IEoP](https://iep.utm.edu/fallacy/), [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
+* [RationalWiki](https://rationalwiki.org/) -  Pseudoscience Refutation Wiki
 * [YourBias.is](https://yourbias.is/) - Learn about Biases
 * [Kialo](https://www.kialo.com/) - Debates / Discussion
 * [Umsu](https://www.umsu.de/trees/) - Analytic Tableaux Generator
@@ -1610,6 +1611,7 @@
 ## ▷ Dictionaries / Thesaurus
 
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary / Thesaurus Search
+* ⭐ **[Wiktionary](https://www.wiktionary.org/)** - Dictionary
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
 * ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
@@ -1618,7 +1620,6 @@
 * [Wordnik](https://www.wordnik.com/) - Dictionary
 * [Oxford English Dictionary](https://oed.com/) - Dictionary / [Bypass](https://rentry.co/freeoed)
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
-* [Wiktionary](https://www.wiktionary.org/) - Dictionary
 * [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
 * [Historical Thesaurus of English](https://ht.ac.uk/) - Historical Thesaurus
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
@@ -1666,6 +1667,7 @@
 * [wik](https://github.com/yashsinghcodes/wik) - Wiki TUI
 * [CDPedia](https://cdpedia.python.org.ar/index.en.es.html) - Offline View
 * [⁠WikiBoard](https://www.wikiboard.org/) - Pin Board Style Browser
+* [The ⁠Museum of All Things](https://may.as/moat/) - 3D Virtual Wikipedia Museum / [GitHub](https://github.com/m4ym4y/museum-of-all-things)
 * [Substance](https://substance.reorx.com/) - Extract Markdown
 * [UrlShortener](https://meta.wikimedia.org/wiki/Special:UrlShortener) - Shorten URLs
 * [WikiNearby](https://wikinearby.toolforge.org/) - Location Search
