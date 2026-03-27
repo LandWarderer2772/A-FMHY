@@ -335,7 +335,7 @@
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
-* [audiobook-dl](https://github.com/jo1gi/audiobook-dl), [PlayTorrio](https://playtorrio.xyz/ / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
+* [audiobook-dl](https://github.com/jo1gi/audiobook-dl), [PlayTorrio](https://playtorrio.xyz/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 ***
 
 ## ▷ Streaming
@@ -557,7 +557,7 @@
 * [OpenStax College Textbooks](https://philschatz.com/books/) - Textbooks
 * [⁠ReadYourFlow](https://readyourflow.com/) - Textbooks
 * [TextBookGo](http://textbookgo.com/) - Textbooks
-* [Wikibooks](https://wikibooks.org/) - Open-Content Texbooks
+* [Wikibooks](https://wikibooks.org/) - Open-Content Textbooks
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
 
@@ -988,6 +988,7 @@
 * [⁠Manga & Comic Converter](https://www.mangaconverter.com/) - Comic / Manga to Book Converter / Online / [GitHub](https://github.com/NilsLeo/kcc-cloud)
 * [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
 * [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
+* [BookFinder](https://bookfinder.com/) - Online Book Price Comparisons
 * [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/PsychedelicPalimpsest/LibbyRip)
 * [How to Get Library Card Online](https://rentry.co/9b3vdo)
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
