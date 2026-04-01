@@ -33,6 +33,7 @@
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus 70B 
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / [Discord](https://discord.gg/jtjNSD52mf)
 * [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI (not Kimi) / Requires Sign-Up
+* [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2-Pro / MiMo-V2-Flash / MiMo-V2-Omni / Requires Sign-Up
 * [⁠Inception Chat](https://chat.inceptionlabs.ai/) - Mercury 2 / Unlimited
 
 ***
@@ -40,8 +41,7 @@
 ## ▷ Multiple Model Sites
 
 * ⭐ **[Arena](https://arena.ai/text/direct)**, [2](https://canaryarena.ai/text/direct) - Multiple Models / Requires Sign-Up (single mode) / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [Bridge](https://github.com/CloudWaddie/yuppbridge) / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
-* [⁠ISH](https://ish.chat/) - Multiple Generators / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
+* [⁠ISH](https://ish.chat/) - Claude Opus 4.6 / Claude Opus 4.5 / Multiple Generators / [Token Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ish.md) / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [⁠Element Flash](https://flash.kernal.bid/) - Multiple Chatbots / Queue (if traffic is high) / Requires Sign-Up / [Discord](https://discord.gg/RwNb8YrHQX)
 * [Pollinations Chat](https://pollinations-chat.vercel.app/), [2](https://pollinations.ai/play), [3](https://ai-studio.puter.site/index.html), [4](https://hey-hi.space/unified) - GLM-5 / Kimi K2.5 / Deepseek 3.2 / [Limits](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K 2.5 / Multiple Models / ≈1900 Monthly / [Discord](https://discord.gg/rdBN6TYf66)
@@ -59,7 +59,7 @@
 
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search), [2](https://huggingface.co/spaces/Felladrin/awesome-ai-web-search)** - AI Search Engine Index
 * ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=search)**, [2](https://canaryarena.ai/search/direct) - AI Search Engine / Requires Sign-Up / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* ⭐ **[NotebookLM](https://notebooklm.google.com/)** - Document Chatbot / Note-Taking / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
+* ⭐ **[NotebookLM](https://notebooklm.google.com/)** - Document Chatbot / Note-Taking / Slides / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine
 * ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI Search Engine
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
@@ -161,20 +161,20 @@
 ***
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
-* ⭐ **[⁠GeminiGen AI](https://geminigen.ai/app/video-gen)** - Veo 3.1 / Sora 2 / Grok / 10s-15s / Login required / [Discord](https://discord.gg/vJnYe86T8F)
+* ⭐ **[⁠GeminiGen AI](https://geminigen.ai/app/video-gen)** - Veo 3.1 / Sora 2 / Grok / Meta (Image to Video) / Login required / [Discord](https://discord.gg/vJnYe86T8F)
 * ⭐ **[⁠Klipy](https://klipy.com/create/gif-maker/)** - Veo 3 / GIF Only / 4s-5s / Unlimited / Requires Sign-Up
 * ⭐ **[Arena](https://arena.ai/?chat-modality=video)**, [2](https://canaryarena.ai/video) - 3 Daily / Requires Sign-Up / Random Models / Reset Limits w/ Temp Mail / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Design Arena](https://www.designarena.ai/) - Multiple Models / Video Editing / No Direct Mode / Reset Limits / w Temp Mail / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
-* [Bing Create](https://www.bing.com/images/create) - Sora 1 / No Image Input
+* [Bing Create](https://www.bing.com/images/create/ai-video-generator) - Sora 1 / No Image Input
 * [Wan AI](https://wan.video/) / Wan AI / Wan 2.6 / Image to Video / [GitHub](https://github.com/Wan-Video/Wan2.1)
 * [⁠HunyuanVideo](https://hunyuan.tencent.com/modelSquare/home/play?modelId=303&from=/visual) - Unlimited / Requires Sign-Up
 * [Pollinations Chat](https://pollinations-chat.vercel.app/), [2](https://pollinations.ai/play) - Wan 2.2 / LTX-2 / [Limits](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [Meta AI](https://www.meta.ai/) - Unlimited / Requires Sign-Up
-* [⁠Vheer](https://vheer.com/app/image-to-video) - Unlimited / No Sign-Up / [X](https://x.com/VheerAI) / [Discord](https://discord.com/invite/33qfQRCp5j)
+* [⁠Vheer](https://vheer.com/dashboard/tools/image-to-video) - Unlimited / No Sign-Up / [X](https://x.com/VheerAI) / [Discord](https://discord.com/invite/33qfQRCp5j)
 * [Qwen](https://chat.qwen.ai/) - 5/12 Per Hour / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Requires Sign-Up
 * [ModelScope Video](https://modelscope.ai/civision/videoGeneration) - Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
-* [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 120 Credits Daily
+* [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=video&workspace=0) - Seedance 2 / 120 Credits Daily
 * [Google Flow](https://labs.google/fx/tools/flow) - Veo 3.1 (5 Monthly) / [Discord](https://discord.com/invite/googlelabs)
 * [PixVerse](https://pixverse.ai/) - 3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
@@ -189,7 +189,7 @@
 * 🌐 **[Arena Text to Image](https://arena.ai/leaderboard/text-to-image)** or **[Arena Editing](https://arena.ai/leaderboard/image-edit)** - Image Gen Benchmarks / Leaderboards
 * ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - Nano Banana Pro / 20+ Per Day / Varies / Nano Banana 2 / Unlimited / Google Login / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - Nano Banana 2 / Unlimited / Google Login / [Discord](https://discord.com/invite/googlelabs)
-* ⭐ **[⁠GeminiGen AI](https://geminigen.ai/app/imagen)** - Nano Banana Pro / Nano Banana 2 / Sign-up / Unlimited / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/gemai.md) / [Discord](https://discord.com/invite/vJnYe86T8F)
+* ⭐ **[⁠GeminiGen AI](https://geminigen.ai/app/imagen)** - Nano Banana Pro / Nano Banana 2 / Grok Imagine / Sign-up / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/gemai.md) / [Discord](https://discord.com/invite/vJnYe86T8F)
 * ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=image)**, [2](https://canaryarena.ai/image/direct) - Multiple Generators / Editing / Requires Sign-Up / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Nano Banana 2 (20 per day) / Google Login / [Remove Watermarks](https://banana.ovo.re/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT Image 1 / Editing / Generating / Sign-Up
@@ -198,14 +198,13 @@
 * [Yupp.ai](https://yupp.ai/) - Multiple Generators / Google Login / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
 * [Design Arena](https://www.designarena.ai/) - Multiple Generators / Editing / Sign-up / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [Google AI Studio](https://aistudio.google.com/generate-image) - Nano Banana / Google Login / [Discord](https://discord.com/invite/gemini)
-* [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 120 Credits Daily / Seedream 4.5 / Nano Banana / Sign-Up
-* [Khoj](https://app.khoj.dev/?v=app) - Nano Banana / Unlimited / [Discord](https://discord.gg/aP5ZmqCK4g)
+* [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=image&workspace=0) - 120 Credits Daily / Seedream 5.0 lite / Nano Banana / Sign-Up
 * [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours / Editing / Sign-Up / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [OpenSourceGen](https://opensourcegen.com/) - Hunyuan Image 3.0 / Z-Image Turbo / 1000 Credits Per Day / Sign-Up / [Discord](https://discord.gg/W4Svx2QhHb)
+* [OpenSourceGen](https://opensourcegen.com/) - Hunyuan Image 3.0 / Z-Image Turbo / 1500 Credits Per Day / Sign-Up / [Discord](https://discord.gg/W4Svx2QhHb)
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up / [Discord](https://discord.gg/recraft)
 * [Pollinations Chat](https://pollinations-chat.vercel.app/), [2](https://pollinations.ai/play) - Grok Imagine / Flux-2 Klein / [Limits](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [Reve Image](https://app.reve.com) - 20 Daily / Editing / Sign-Up / [X](https://x.com/reve) / [Discord](https://discord.gg/Nedxp9fYUZ)
-* [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) or [⁠Vheer](hhttps://vheer.com/app/flux-kontext) / [X](https://x.com/VheerAI) / [Discord](https://discord.com/invite/33qfQRCp5j) - Editing / Unlimited / Flux Kontext Dev
+* [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) or [⁠Vheer](https://vheer.com/dashboard/tools/image-to-image) / [X](https://x.com/VheerAI) / [Discord](https://discord.com/invite/33qfQRCp5j) - Editing / Unlimited / Flux Kontext Dev
 * [AIGazou](https://muryou-aigazou.com/) - Flux / Z-Image Turbo / Unlimited / GPT Image 1 / 10 Daily / Sign-Up / [Discord](https://discord.gg/v6KzUbPeKh)
 * [⁠ZonerAI](https://zonerai.com/en/image-editor) - Flux Schnell / Unlimited / Editing / 4K / Sign-Up
 * [Meta AI](https://www.meta.ai/) - Unlimited / Sign-Up

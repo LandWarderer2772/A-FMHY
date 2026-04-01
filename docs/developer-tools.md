@@ -379,7 +379,7 @@
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
 * [Trinket](https://trinket.io/) - Web App / Live Preview / Requires Sign-Up / Online Workspace
 * [Firebase](https://studio.firebase.google.com/) - Gemini AI Cloud Webapp
-* [Helix](https://helix-editor.com/) - Kakuone / Neovim-Based Code Editor
+* [Helix](https://helix-editor.com/) - Kakoune & Neovim Inspired Code Editor
 * [HaystackEditor](https://haystackeditor.com/) - Canvas-Based Code Editor
 * [Geany](https://www.geany.org/) - Lightweight Code Editor
 * [Fresh](https://getfresh.dev/) - TUI Code Editor
@@ -621,7 +621,7 @@
 * 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/Heapy/awesome-kotlin)
 * 🌐 **[Obfuscator List](https://github.com/3000IQPlay/obfuscator-list)** - Java Obfuscator Index
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor / [GUI](https://github.com/Col-E/Recaf-Launcher/)
-* [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
+* [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower), [JavaDecompiler](https://www.javadecompilers.com/) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
 * [⁠WhichJDK](https://whichjdk.com/) - JDK Version Cheatsheet / Info
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
@@ -985,7 +985,7 @@
 * ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_self-hosted_wiki_alts)**
 * 🌐 **[Awesome-Web-Hosting](https://nuhmanpk.github.io/Awesome-Web-Hosting/)** - Free Hosting Provider Index / [GitHub](https://github.com/nuhmanpk/Awesome-Web-Hosting)
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resource Index
-* 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)**, [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
+* 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)**, [VPS Rentals](https://vps.rentals/), [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
 * ⭐ **[TLD-List](https://tld-list.com/)**, [TLDES](https://tldes.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Comparisons
 * ⭐ **[censys](https://search.censys.io/)**, [wtfis](https://github.com/pirxthepilot/wtfis), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
@@ -1083,6 +1083,7 @@
 * [⁠AppWrite](https://appwrite.io/) - 2GB Storage / 5GB Bandwidth
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / No Custom Domain
 * [Sevalla](https://sevalla.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domain
+* [Reocities](https://www.reocities.xyz/) - 1GB Storage / Unlimited Bandwidth / No Custom Domain
 
 ***
 
@@ -1109,7 +1110,7 @@
 * [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) - Anti-Malware Stress Test
 * [CVE Details](https://www.cvedetails.com/) or [⁠OpenCVE](https://app.opencve.io/cve/) - CVE Details / Search
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
-* [Anubis](https://anubis.techaro.lol/) / [GitHub](https://github.com/TecharoHQ/anubis) - Anti-Web Crawler Software
+* [⁠Iocaine](https://iocaine.madhouse-project.org/) / [Source Code](https://git.madhouse-project.org/iocaine/iocaine) or [Anubis](https://anubis.techaro.lol/) / [GitHub](https://github.com/TecharoHQ/anubis) - Anti-Web Crawler Software
 
 ***
 
