@@ -14,7 +14,7 @@
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) or [hfs](https://rejetto.com/hfs/) / [2](https://github.com/rejetto/hfs) - HTTP File Systems
 * [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union File System
-* [File-Examples](https://file-examples.com/) - Dummy File Examples
+* [ExampleFile](https://www.examplefile.com/) or [File-Examples](https://file-examples.com/) - Dummy Example Files
 
 ***
 
@@ -24,21 +24,21 @@
 
 ***
 
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)**
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / Windows, Mac, Linux / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)**
 * ⭐ **JDownloader Tools** - [Debloat Guide](https://claraiscute.neocities.org/Guides/jdownloader2/), [2](https://claraiscute.pages.dev/Guides/jdownloader2/) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
-* ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
-* ⭐ **[IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
-* [Go Speed](https://gopeed.com/) - Download Manager / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
-* [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / [Discord](https://discord.gg/hGBDWNDHG3)
-* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant)
-* [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / [GitHub](https://github.com/aria2/aria2)
-* [pyLoad](https://pyload.net/) - Lightweight Download Manager / [GitHub](https://github.com/pyload/pyload)
-* [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager
-* [Varia](https://github.com/giantpinkrobots/varia) - Download Manager
-* [⁠Surge](https://github.com/surge-downloader/surge) - TUI Download Manager
-* [File Centipede](https://filecxx.com/) - Upload / Download Manager
-* [DownThemAll](https://www.downthemall.org/) - Download Management Extension
-* [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
+* ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / Windows, Mac, Linux, Android / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
+* ⭐ **[IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
+* [Go Speed](https://gopeed.com/) - Download Manager / All Platforms / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
+* [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / Windows, Mac, Linux / [Discord](https://discord.gg/hGBDWNDHG3)
+* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/) / [Chrome](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/RK%3D2/RS%3DfQzscgKGm9aMezJJ7Gf2Fcc.JSo-) / Windows, Mac, Linux, Android
+* [aria2](https://aria2.github.io/) - Terminal Download Manager / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / Windows, Mac, Android / [GitHub](https://github.com/aria2/aria2)
+* [Persepolis](https://persepolisdm.github.io/) - Download Manager / Windows, Mac, Linux / [GitHub](https://github.com/persepolisdm/persepolis)
+* [pyLoad](https://pyload.net/) - Lightweight Download Manager / Windows, Mac, Linux / [GitHub](https://github.com/pyload/pyload)
+* [ArrowDL](https://www.arrow-dl.com/) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/arrow-dl/) / [Chrome](https://chrome.google.com/webstore/detail/arrow-dl/modofbhnhlagjmejdbalnijgncppjeio) / Windows, Mac, Linux / [GitHub](https://github.com/setvisible/ArrowDL)
+* [Varia](https://github.com/giantpinkrobots/varia) - Download Manager / [Firefox](https://addons.mozilla.org/firefox/addon/varia-integrator/) / [Chrome](https://chrome.google.com/webstore/detail/dacakhfljjhgdfdlgjpabkkjhbpcmiff) / Windows, Mac, Linux
+* [⁠Surge](https://github.com/surge-downloader/surge) - TUI Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/surge/) / Windows, Mac, Linux
+* [DownThemAll](https://www.downthemall.org/) - Download Management Extension / [Firefox](https://addons.mozilla.org/addon/downthemall/) / [Chrome](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge) / [GitHub](https://github.com/downthemall/downthemall)
+* [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/http-downloader/) / [Chrome](https://github.com/erickutcher/httpdownloader/releases/download/CE_v1.0.2.8/HTTP_Downloader_Chrome_Extension.crx) / Windows / [GitHub](https://github.com/erickutcher/httpdownloader)
 
 ***
 
@@ -251,7 +251,7 @@
 * ⭐ **[Stirling-PDF](https://www.stirlingpdf.com/)** / Windows, Mac, Linux / Requires Sign-Up / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 * ⭐ **[PDF24](https://www.pdf24.org/)** / Web-Based / Windows
 * [⁠PDF4QT](https://jakubmelka.github.io/) / Windows, Linux / [GitHub](https://github.com/JakubMelka/PDF4QT)
-* [Foxit](https://www.foxit.com/pdf-reader/) / Web-Based / Windows, Linux, Android, iOS / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
+* [Foxit](https://www.foxit.com/pdf-reader/) / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
 * [xPDFReader](https://www.xpdfreader.com/) / Windows, Mac, Linux
 * [PDF Arranger](https://github.com/pdfarranger/pdfarranger) / Windows, Linux
 
@@ -272,39 +272,39 @@
 
 # ► File Transfer
 
-* ⭐ **[LocalSend](https://localsend.org/)** - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [Subreddit](https://www.reddit.com/r/localsend/) / [GitHub](https://github.com/localsend/localsend)
-* ⭐ **[Blip](https://blip.net/)** - Desktop / Mobile Transfer / Turn "Searchable by Name" Off in Settings
-* [Photon](https://photondev.netlify.app/) - Desktop / Mobile Transfer / [GitHub](https://github.com/abhi16180/photon)
-* [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
-* [Wormhole](https://wormhole.app/) - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/webtorrent/wormhole-crypto)
-* [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
-* [⁠Phone Link](https://www.microsoft.com/en-us/windows/sync-across-your-devices) - Desktop / Mobile File Transfer 
-* [Sefirah](https://github.com/shrimqy/Sefirah) - Desktop / Mobile Transfer
-* [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
-* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
-* [croc](https://github.com/schollz/croc) - Desktop / Mobile Transfer / [GUI](https://github.com/howeyc/crocgui)
-* [LANDrop](https://landrop.app/) - Desktop / Mobile Transfer
-* [NahrajSoubor](https://nahrajsoubor.cz/) - Desktop / Mobile Transfer
-* [⁠Clip Fish](https://clip.fish/) - Desktop / Mobile Transfer
+* ⭐ **[LocalSend](https://localsend.org/)** - Local / Windows, Mac, Linux, Android, iOS, Web / [Discord](https://discord.com/invite/GSRWmQNP87) / [Subreddit](https://www.reddit.com/r/localsend/) / [GitHub](https://github.com/localsend/localsend)
+* ⭐ **[Blip](https://blip.net/)** - Hybrid / Turn "Searchable by Name" Off in Settings / Windows, Mac, Android, iOS
+* [Photon](https://photondev.netlify.app/) - Local / Windows, Mac, Linux, Android / [GitHub](https://github.com/abhi16180/photon)
+* [KDE Connect](https://kdeconnect.kde.org/) - Local / Windows, Mac, Linux, Android, iOS / [Source](https://kdeconnect.kde.org/get-involved.html)
+* [Wormhole](https://wormhole.app/) - Online / Web / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/webtorrent/wormhole-crypto)
+* [Warpinator](https://github.com/linuxmint/warpinator) - Local / Windows, Linux, Android
+* [⁠Phone Link](https://www.microsoft.com/windows/sync-across-your-devices) - Hybrid / Windows, Android, iOS
+* [Sefirah](https://github.com/shrimqy/Sefirah) - Local / Windows, Android
+* [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Local / Android / [GitHub](https://github.com/uintdev/qrserv)
+* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Online / Windows, Mac, Linux, Android
+* [croc](https://github.com/schollz/croc) - Online / Windows, Mac, Linux, Android / [GUI](https://github.com/howeyc/crocgui)
+* [LANDrop](https://landrop.app/) - Local / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.com/invite/5adm6sPugT) / [X](https://x.com/LANDropApp)
+* [NahrajSoubor](https://new.nahrajsoubor.cz/) - Online / Web
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer / [Discord](https://discord.gg/vj7qWuAyHY)
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
-* [aQRoss](https://aqross.app/) or [qrcp](https://qrcp.sh/) / [GitHub](https://github.com/claudiodangelis/qrcp) - Share Files Using QR Codes
-* [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
-* [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filezilla-warning.md)
-* [WinSCP](https://winscp.net/eng/index.php) - FTP Client
-* [⁠robocopy](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) - Windows Built-In File Transfer Guide / [WebUI](https://ar-puuk.github.io/robocopy-gui/)
+* [aQRoss](https://aqross.app/) / Web or [qrcp](https://qrcp.sh/) / Share Files Using QR Codes / Windows, Mac, Linux / [GitHub](https://github.com/claudiodangelis/qrcp)
+* [OnionShare](https://onionshare.org/) - Share Files Over Tor Network / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/onionshare/onionshare)
+* [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / Windows, Mac, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filezilla-warning.md)
+* [WinSCP](https://winscp.net/eng/index.php) - FTP Client / Windows
+* [⁠robocopy](https://learn.microsoft.com/windows-server/administration/windows-commands/robocopy) - Windows Built-In File Transfer Guide / [WebUI](https://ar-puuk.github.io/robocopy-gui/)
 
 ***
 
 ## ▷ P2P Transfer
 
-* ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop)
-* ⭐ **[JustBeamIt](https://justbeamit.com/)**
-* [Surge](https://getsurge.io/) - P2P App / [GitHub](https://github.com/rule110-io/surge)
-* [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
-* [⁠Station307](https://www.station307.com/)
-* [new.space](https://new.space/)
-* [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
+* ⭐ **[PairDrop](https://pairdrop.net/)** - Web / [GitHub](https://github.com/schlagmichdoch/pairdrop)
+* ⭐ **[JustBeamIt](https://justbeamit.com/)** - Web
+* [Surge](https://getsurge.io/) - P2P App / Windows, Mac / [GitHub](https://github.com/rule110-io/surge)
+* [ToffeeShare](https://toffeeshare.com/) - Web / [GitHub](https://github.com/ToffeeShare)
+* [⁠Station307](https://www.station307.com/) - Web
+* [new.space](https://new.space/) - Web, iOS
+* [WebWormhole](https://webwormhole.io/) - [Chrome](https://chromewebstore.google.com/detail/webwormhole/jhombkhjanncdalcbcahinpjoacaiidn) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webwormhole/) / Web, Windows, Mac, Linux / [GitHub](https://github.com/saljam/webwormhole)
+* [⁠Clip Fish](https://clip.fish/) - Web / [GitHub](https://github.com/clip-fish/web)
 
 ***
 
@@ -424,8 +424,8 @@
 * [CyberFile](https://cyberfile.me/) - 10GB
 * [MrOwl](https://www.mrowl.com/) - 10GB / ~$16.67 (1TB Premium Plus)
 * [Blomp](https://www.blomp.com/) - 40GB / 1 Month / ~$1 for 10TB+
-* [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6 (1TB B6)
-* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB / ~$15 (1TB R2)
+* [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6
+* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB / Forever / ~$15
 * [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$6.94 (4TB Personal Pro)
 * [1Cloud File](https://1cloudfile.com/) - 10GB
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
