@@ -69,7 +69,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 ### Music
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev)**
-* **Downloading: [lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Nicotine+](https://nicotine-plus.org/)**
+* **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://squid.wtf/) / [Nicotine+](https://nicotine-plus.org/)**
 * **Android: [Metrolist](https://metrolist.meowery.eu/) / [Morphe](https://morphe.software/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **iOS: [SpotC++](https://spotc.yodaluca.dev/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
@@ -79,7 +79,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 ### Gaming
 
 * **Download / Torrent: [Virgil Game Search](https://virgil.samidy.com/Games/) / [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
-* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [r/ROMs Mega](https://r-roms.github.io/)**
+* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [Axekin](https://www.axekin.com/) / [r/ROMs Mega](https://r-roms.github.io/)**
 * **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
 
 ***
@@ -158,7 +158,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ### Important Links
 
-* **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2)** / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
+* **Download Managers: [AB Download Manager](https://abdownloadmanager.com/)
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
 * **[Glossary / Terminology ](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding

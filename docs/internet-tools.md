@@ -56,7 +56,7 @@
 
 ## ▷ Paywall Bypass
 
-* ⭐ **[Bypass Paywall Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
+* ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extension / [X](https://x.com/Magnolia1234B)
 * ⭐ **[⁠PressReleased](https://pressreleased.alwaysdata.net/)** - Paywall Bypass Tool / [Discord](https://discord.gg/fn33a5mq8w)
 * ⭐ **[Freedium](https://freedium-mirror.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Instances](https://github.com/wallabag/wallabag/wiki/wallabag-ecosystem#list-of-public-instances-open-for-registration) / [Resources](https://github.com/wallabag/wallabag/wiki/wallabag-ecosystem) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
@@ -276,7 +276,7 @@
 * [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q) - Search YouTube-Like Video Sites
 * [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr), [2](https://cse.google.com/cse?cx=89f2dfcea452fc451), [3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - Search Video Download Sites
 * [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) - Search Video Torrent Sites
-* [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) or [Kuroiru](https://kuroiru.co/) - Search Anime Streaming Sites
+* [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) or [Kuroiru](https://kuroiru.co/) / [Subreddit](https://www.reddit.com/r/StreamingAnime/) / [Discord](https://discord.com/invite/ys6NASYQSd) - Search Anime Streaming Sites
 * [Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8) - Search Anime Download Sites
 * [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - Search Anime Torrent Sites
 * [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w), [3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Search Audio Download Sites
@@ -332,12 +332,9 @@
 * ⭐ **[Evade](https://skipped.lol/evade/evade.user.js)** - Ad-Links Bypasser / [Site](https://skipped.lol/) / [Discord](https://discord.gg/aaw9jmw4BC)
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
 * [Zen Bypass](https://izen.lol/) - Ad Links Bypasser / [Telegram](https://t.me/izenlol) / [Discord](https://discord.com/invite/ua7SCUAg3A)
-* [⁠bypass.tools](https://bypass.tools/) - Ad-Links Bypasser / [Extensions / Script](https://bypass.tools/download) / [Discord](https://discord.gg/NSCEvtCCwF) / [Telegram](https://t.me/BYPSTools)
 * [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Userscript](https://trw.lat/install/userscript/u.user.js)
-* [bypass.link](https://bypass.link/) - Bypass Link Shorteners
 * [TimerHooker](https://greasyfork.org/en/scripts/372673) - Skip Timers on File Hosts
 * [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.gg/bypass-city)
-* [BypassUnlock](https://bypassunlock.com/) - Bypass Link Shorteners
 * [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [GitHub](https://github.com/adsbypasser/adsbypasser)
 * [Bypass-Links](https://bypass-links.vercel.app) - Bypass Links / [GitHub](https://github.com/amitsingh-007/bypass-links)
 * [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Script](https://yuumari.com/m-links/#js-code)
