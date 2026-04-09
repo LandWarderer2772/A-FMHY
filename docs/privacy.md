@@ -212,6 +212,8 @@
 
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/9ScnccuXaZ) / [GitHub](https://github.com/safing)
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [GitLab](https://i2pgit.org/)
+* [Freenet](https://freenet.org/) - Decentralized P2P Web
+* [Hyphanet](https://www.hyphanet.org/) - Decentralized P2P Web / [GitHub](https://github.com/hyphanet)
 * [Simplewall](https://github.com/henrypp/simplewall) - Firewall
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
@@ -246,7 +248,6 @@
 * [tweetXer](https://github.com/lucahammer/tweetXer) - Delete X.com Posts
 * [delete-likes-from-x-com.md](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete X.com Likes / Favorites
 * [Power Delete Suite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
-* [Hyphanet](https://www.hyphanet.org/) - Browse / Publish Freenet Sites / [GitHub](https://github.com/hyphanet)
 * [⁠The TBOTE Project](https://tboteproject.com/) - Age Verification Lobbying Investigative Research
 
 ***
@@ -300,7 +301,7 @@
 ***
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/im_comparison.htm)**, [SecuChart](https://bkil.gitlab.io/secuchart/), [Messenger-Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html) or [Secure Messaging Apps](https://www.securemessagingapps.com/) - Chat App Indexes / Comparisons
-* 🌐 **[Matrix Clients](https://matrix.org/ecosystem/clients/)** / [Mod Bot](https://github.com/matrix-org/mjolnir) / [Resources](https://matrix.org/ecosystem/) / [Servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html), [3](https://gitlab.com/famedly/conduit), [4](https://joinmatrix.org/servers/), [5](https://archive.md/4xZE4), [6](https://wiki.asra.gr/en:public_servers), [7](https://masl.dev/)
+* 🌐 **[Matrix Clients](https://matrix.org/ecosystem/clients/)** / [Mod Bot](https://github.com/matrix-org/mjolnir) / [Resources](https://matrix.org/ecosystem/) / [Servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html), [3](https://gitlab.com/famedly/conduit), [4](https://joinmatrix.org/servers/), [5](https://archive.md/4xZE4), [6](https://wiki.asra.gr/en:public_servers)
 * ⭐ **[SimpleX](https://simplex.chat/)** - All Platforms / [GitHub](https://github.com/simplex-chat)
 * ⭐ **[Signal](https://signal.org/)** - All Platforms / Requires Phone / [GitHub](https://github.com/signalapp) or **[Molly](https://github.com/mollyim/mollyim-android)** / Some NSFW / [Stickers](https://signalstickers.org/)
 * ⭐ **[Briar](https://briarproject.org/)** / [Desktop](https://briarproject.org/download-briar-desktop/) / [GitLab](https://code.briarproject.org/briar/briar)
