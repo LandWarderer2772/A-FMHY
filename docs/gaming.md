@@ -32,7 +32,7 @@
 * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installed / [Discord](https://discord.gg/KSG9Tg2s7b)
 * [⁠Cracked-Games](https://cracked-games.org/) - Download / [Discord](https://discord.com/invite/cgames)
-* [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
+* [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com`/ Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
 * [Rexa Games](https://rexagames.com/) - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
@@ -331,7 +331,7 @@
 * [Player One](https://player1.eu/) - ROMs
 * [HexRom](https://hexrom.com/) - ROMs / [Telegram](https://t.me/Hexrom_Com)
 * [The Old Computer](https://www.theoldcomputer.com/) - ROMs
-* [Myrient Archive](https://rentry.co/FMHYB64#myrient-backup) - ROMs
+* [Myrient Archive](https://rentry.co/FMHYB64#myrient-backup) - ROMs / [Subreddit](https://www.reddit.com/r/savemyrient/)
 * [Emuparadise](https://www.emuparadise.me/) - ROMs / [Forum](https://www.epforums.org/) / [Fix Downloads](https://gist.github.com/infval/c69b479ff0bd590f2dd7e1975fe2fcad/raw/8be1b17f03837939c8baab3b2247eb60a22fa89a/emuparadise.download.user.js)
 * [ROM-Collections](https://rentry.co/FMHYB64#rom-collections) - ROMs
 * [Romspedia](https://www.romspedia.com/) - ROMs

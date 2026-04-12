@@ -238,12 +238,11 @@
 * ⭐ **[Mobile Abyss](https://mobile.alphacoders.com/)** - Wallpapers
 * ⭐ **[⁠WallWidgy](https://www.wallwidgy.app/)** - Minimal Wallpapers / [GitHub](https://github.com/not-ayan/wallwidgy)
 * [RBoard](https://xdaforums.com/t/app-rboard-theme-manager.4331445/) (root) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3) or [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) (requires shizuku)- Theme Managers
-* [PixelXpert](https://github.com/siavash79/PixelXpert) (root), [⁠Essentials](https://github.com/sameerasw/essentials) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
+* [PixelXpert](https://github.com/siavash79/PixelXpert) (root), [⁠Iconify](https://github.com/Mahmud0808/Iconify), [⁠Essentials](https://github.com/sameerasw/essentials) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
 * [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) - Change Wallpaper Depending on System Theme
 * [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers / Live Wallpapers
 * [Muzei](https://muzei.co/), [Doodle](https://patrickzedler.com/doodle/) or [Amoled Backgrounds](https://play.google.com/store/apps/details?id=com.droidheat.amoledbackgrounds) - Live Wallpapers
 * [r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpaper Subs
-* [⁠Fluffy](https://wp.kernal.bid/) - Minimal Wallpapers
 * [wallhaven.cc](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers / Some NSFW
 * [⁠Wallpapers Clan](https://wallpapers-clan.com/) - Wallpapers
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
@@ -476,7 +475,7 @@
 * ⭐ **[Rethink DNS](https://rethinkdns.com/app)** / [Blocklists](https://rethinkdns.com/app#blocklists), [⁠DNSNet](https://github.com/t895/DNSNet) or [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
 * ⭐ **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Adguard](https://adguard.com/en/adguard-android/overview.html) (browser only) - Adblocking App / [Subreddit](https://www.reddit.com/r/Adguard/) / [GitHub](https://github.com/AdguardTeam/AdguardForAndroid)
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock)** - Adblocker / Works Best on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-* [⁠Re-Malwack](https://re-malwack.vercel.app/) - Adblocking App / [GitHub](https://github.com/ZG089/Re-Malwack)
+* [⁠Re-Malwack](https://zg.is-a.dev/re-malwack) - Adblocking App / [GitHub](https://github.com/ZG089/Re-Malwack)
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
 
@@ -1071,7 +1070,7 @@
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
 * ⭐ **[Reincubate Camo](https://camo.com/studio)** or [Iriun](https://iriun.com/) - Use iOS Device as Webcam
 * [iTorrent](https://github.com/XITRIX/iTorrent) / [AltStore](https://therealfoxster.github.io/altsource-viewer/view/?source=https://xitrix.github.io/iTorrent/AltStore.json) or [PikaTorrent](https://www.pikatorrent.com/) / [GitHub](https://github.com/G-Ray/pikatorrent) - Torrent Clients 
-* [⁠iDescriptor](https://github.com/iDescriptor/iDescriptor) - iDevice (iOS/iPad) Management Tool
+* [⁠iDescriptor](https://github.com/iDescriptor/iDescriptor) - iDevice (iPhone/iPad) Management Tool
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iPhone Wallpapers
 * [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
@@ -1098,6 +1097,7 @@
 * [iCustom](https://icustom.tooliphone.net/) - Make Custom Icons without Shortcuts
 * [RoutineHub](https://routinehub.co/) - Shortcuts
 * [Color Widgets](https://apps.apple.com/app/id1531594277) or [WidgetSmith](https://apps.apple.com/app/id1523682319) - iOS Widgets
+* [Wikipedia](https://apps.apple.com/app/wikipedia/id324715238) - Wikipedia App
 * [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) - YouTube Downloader
 * [Keynote](https://apps.apple.com/app/id361285480) or [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) - Make Presentations
 * [WiFi Map](https://apps.apple.com/app/wifi-map-esim-internet-finder/id548925969) - Public WiFi Maps
@@ -1113,7 +1113,6 @@
 * [BlackMagic Camera](https://apps.apple.com/app/id6449580241) - Camera App
 * [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
-* [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Buz](https://www.buzmenow.com/) - Voice Chat
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
 * [NFC Tools](https://apps.apple.com/app/nfc-tools/id1252962749) - Read / Write NFC Tags
@@ -1194,7 +1193,7 @@
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / Semi-Jailbreak / 14.0 - 16.6.1, 16.7 RC, 17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
 * ⭐ **[SideStore](https://sidestore.io/)** - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Limit Bypass](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - WiFi Sideloading (Weekly Refresh) (iOS 7.0 & Above)
-* ⭐ **[Impactor](https://github.com/khcrysalis/Impactor)** - WiFi Sideloading (Weekly Refresh)
+* ⭐ **[Impactor](https://github.com/khcrysalis/Impactor)** - WiFi Sideloading (Weekly Refresh) / iOS 9.0 & Above
 * ⭐ **[Avieshek's Sideloading Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/)**, [2](https://justpaste.it/sideload) - DNS Sideloading Guide / [BlacklistBeGone](https://github.com/jailbreakdotparty/BlacklistBeGone) (Lift Certificate Blacklisting)
 * [ios.cfw.guide](https://ios.cfw.guide/sideloading-apps/) - Sideloading Guides
 * [AltStore Classic](https://altstore.io/) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
@@ -1294,9 +1293,10 @@
 * [Frosty](https://www.frostyapp.io/) - Twitch Client / [GitHub](https://github.com/tommyxchow/frosty)
 * [Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [Discord](https://discord.com/invite/5G8hpgHkXB) / [GitHub](https://github.com/chatsen/chatsen)
 * [Graysky](https://graysky.app/), [Skeets](https://www.skeetsapp.com/) or [Bluesky Social](https://apps.apple.com/app/bluesky-social/id6444370199) - Bluesky Clients
-* [⁠Bluesky Tracker](https://blueskytracker.app/) - Bluesky Network Manager / Insights 
+* [⁠Bluesky Tracker](https://blueskytracker.app/) - Bluesky Network Manager / Insights
 * [Chan](https://github.com/moffatman/chan) - 4chan App
 * [SCInsta](https://github.com/SoCuul/SCInsta) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks
+* [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Watusi](https://watusi.fouadraheb.com/) - WhatsApp Patchers / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp)
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
