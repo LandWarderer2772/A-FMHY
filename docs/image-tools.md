@@ -345,9 +345,9 @@
 * [Designer Candies](https://designercandies.net/category/freebies/)
 * [PSDLY](https://www.psdly.to/)
 * [Unblast](https://unblast.com/)
+* [Gift4Designer](https://gift4designer.net/)
 * [CGPerec](https://t.me/cgperec)
 * [SearchGFX](https://searchgfx.com/)
-* [Quasual](https://m.vk.com/quasual)
 * [designersgan9](https://m.vk.com/designersgan9)
 * [Free_Design_Files](https://t.me/Free_Design_Files)
 * [WockupWorld](https://m.vk.com/mockupworld)
@@ -357,12 +357,8 @@
 * [desiignertm](https://vk.com/desiignertm)
 * [all_psd](https://vk.com/all_psd)
 * [Playersdsg](https://t.me/playersdsg)
-* [designbloody](https://vk.com/designbloody)
-* [designarchiv](https://t.me/designarchiv)
-* [outsideotf](https://t.me/s/outsideotf)
 * [DOPE Editing](https://t.me/DOPE_editing)
 * [desgang](https://t.me/desgang)
-* [grphc dsgn](https://t.me/+xx1YjI6DC4RiZjJk)
 * [creativemrkt](https://t.me/creativemrkt)
 * [freepsdvn](https://freepsdvn.com/)
 * [PrivateDesigner](https://t.me/privatedesigner)
@@ -547,7 +543,7 @@
 * [Vertex](https://vertex.im/) - 3D Icons
 * [Ameede](https://www.ameede.com/) - CNC / Laser Design Vectors
 * [Skybox](https://skybox.blockadelabs.com/) - AI Generated 3D Environments
-* [PoseManiacs](https://www.posemaniacs.com/), [Anatomy Doc](https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3), [Adorkastock](https://www.adorkastock.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
+* [PoseManiacs](https://www.posemaniacs.com/), [Anatomy Doc](https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3) or [Adorkastock](https://www.adorkastock.com/) - Pose References
 
 ***
 
