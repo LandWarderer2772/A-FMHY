@@ -462,10 +462,11 @@
 * [Darkiworld](https://darkiworld14.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
 * [noctaflix](https://noctaflix.lol/) - Movies / TV / Anime / [Telegram](https://t.me/noctaflix)
 * [yablom](https://yablom.com/) - Movies / TV / Anime
+* [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [FS02](https://fs02.lol/) - Movies / TV / Anime
 * [Movix](https://movix.rodeo/), [2](https://movix.llc/) - Movies / TV / Anime / Use Adblocker
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
-* [yakriv](https://yakriv.com/), [Kordoz](https://www.kordoz.com/) or [Deksov](https://deksov.com/) - Movies / TV / Anime
+* [Kordoz](https://www.kordoz.com/) or [Dotriv](https://dotriv.com/) - Movies / TV / Anime
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Requires Sign-Up
@@ -1088,6 +1089,7 @@
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
 * [Academica](https://academica.edu.pl/) - Online Library
 * [Docer PL](https://docer.pl/) - Books / [Downloader](https://github.com/seszele64/docer-downloader) / [Firefox Extension](https://addons.mozilla.org/firefox/addon/docer-downloader/)
+* [Shinden](https://shinden.pl/) - Manga / [Discord](https://discord.gg/xyH5uS6)
 
 ***
 
