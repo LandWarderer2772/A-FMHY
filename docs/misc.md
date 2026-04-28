@@ -666,7 +666,7 @@
 * ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
 * ⭐ **[r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app)
 * ⭐ **[/u/KNightNox Diagram](https://i.imgur.com/gEfyf0q.jpeg)**, [2](https://i.ibb.co/b5TpBHqm/g-Efyf0q.jpg) - Zoomable Exercise Diagram
-* ⭐ **[Boostcamp](https://www.boostcamp.app/)**, [Hevy](https://www.hevyapp.com/), [⁠Tracked](https://www.tracked.gg/), [⁠Hybrid Calisthenics](https://www.hybridcalisthenics.com/app), [FitNotes](https://www.fitnotesapp.com/) or [FitHero](https://fithero.app/) - Workout Trackers
+* ⭐ **[Boostcamp](https://www.boostcamp.app/)**, [Hevy](https://www.hevyapp.com/), [⁠Tracked](https://www.tracked.gg/), [⁠Hybrid Calisthenics](https://www.hybridcalisthenics.com/app), [FitNotes](https://www.fitnotesapp.com/), [⁠Strong App](https://www.strong.app/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) or [⁠Muscle & Strength](https://www.muscleandstrength.com/exercises) - Workout Videos
 * [Calistree](https://calistree.app/) - Exercise Search
 * [FitnessProgramer](https://fitnessprogramer.com/) - Workout Plans
@@ -1015,7 +1015,7 @@
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** or [Dark Patterns](https://hallofshame.design/collection/) - Deceptive Services to Avoid
 * ⭐ **[Fragrantica](https://www.fragrantica.com/)**, [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 * [Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
-* [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
+* [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepperdeals.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
 * [⁠BangYourBuck](https://bangyourbuck.com/) - Unit Shopping Calculator / Comparisons for Amazon
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
@@ -1066,7 +1066,7 @@
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)**, [Toms GPU Hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy) or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
 * ⭐ **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)**, [KeebFinder](https://keeb-finder.com/) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
 * ⭐ **[⁠MouseCTRL](https://mousectrl.com/)** or [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Comparison Chart
-* [Dumbphone Finder](https://www.dumbphones.org/) - Compare Dumbphone (Non-Smartphone) / Prices
+* [Dumbphone Finder](https://joyful-bienenstitch-cb6242.netlify.app/) - Compare Dumbphones (Non-Smartphones) / Prices / [Quiz](https://joyful-bienenstitch-cb6242.netlify.app/quiz)
 * [Prepaid Compare](https://prepaidcompare.net/) - Compare Prepaid Phones / Prices 
 * [⁠LTT Labs](https://www.lttlabs.com/) - Hardware / Tech Reviews
 * [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings

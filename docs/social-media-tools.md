@@ -18,6 +18,7 @@
 * [⁠Pinterest Power Menu](https://github.com/Angel2mp3/Pinterest-Power-Menu) - Pinterest Improvement Script
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [TikTok Tools](https://omar-thing.site/) - TikTok Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
+* [Farscroll](https://farscroll.vercel.app/) - Find Random / Obscure TikTok Videos
 * [Social-Searcher](https://www.social-searcher.com/) or [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) - Social Media Search Engines
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
@@ -445,7 +446,7 @@
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YT Comment Viewer](https://commentviewer.com/) / [GitHub](https://github.com/sameerdash2/comment-viewer), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - Comment Search / View Censored Comments
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
-* [IMG_0001](https://walzr.com/IMG_0001), [YTStalker](https://ytstalker.mov/), [Gloria o Devoto](https://gloriaodevoto.vercel.app/) or [Random Video](https://random-video.com/) - Find Random YouTube Videos
+* [IMG_0001](https://walzr.com/IMG_0001), [Farscroll](https://farscroll.vercel.app/), [YTStalker](https://ytstalker.mov/), [Gloria o Devoto](https://gloriaodevoto.vercel.app/) or [Random Video](https://random-video.com/) - Find Random / Obscure YouTube Videos
 * [YouTube’s Recycle Bin](https://docs.google.com/document/d/1mV5PhumaIJ8mtH8XmohqXkk5fjK_HlqcineMccPQm5A/) / [X](https://x.com/MingKasterMK/), [Project Random](https://0xbeef.co.uk/random), [ObscureTube](https://obscuretube.com/) or [petittube](https://petittube.com/fullscreen.php) - Find Videos with <100 Views
 * [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched Videos
 

@@ -300,7 +300,6 @@
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot / Manifest Downloaders
 * ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
-* [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [⁠Achievement Watcher](https://github.com/darktakayanagi/Achievement-Watcher) - Multi-Platform Achievement Parser / [Setup Guide](https://breadcloud.net/blog/achievements-guide/)

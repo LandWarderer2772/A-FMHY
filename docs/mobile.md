@@ -488,7 +488,7 @@
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[Android Proxy Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_proxy_clients)**
-* ⭐ **[Triage](https://tria.ge/)**, **[Hybrid Analysis](https://hybrid-analysis.com/)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
+* ⭐ **[Hybrid Analysis](https://hybrid-analysis.com/)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
 * ⭐ **[Rethink DNS](https://rethinkdns.com/)** / [GitHub](https://github.com/celzero/rethink-app), [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall), [AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Tarnhelm](https://github.com/lz233/Tarnhelm), [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
 * ⭐ **[Exodus](https://reports.exodus-privacy.eu.org/en/)** - App Tracker Database
@@ -621,7 +621,7 @@
 * [Logseq](https://logseq.com/) - Outlining / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
 * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
 * [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets) - Document Editor / Reader
-* [LibreOffice Viewer](https://www.libreoffice.org/download/android-and-ios/) - Document Reader
+* [⁠Episteme Reader](https://github.com/Aryan-Raj3112/episteme) or [LibreOffice Viewer](https://www.libreoffice.org/download/android-and-ios/) - Document Reader
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [DiaryVault](https://github.com/SankethBK/diaryvault) - Diary App
 * [Read Aloud AI](https://readaloudai.com/android) / [Discord](https://readaloudai.com/discord) or [⁠TTSLexx](https://play.google.com/store/apps/details?id=sia.netttsengine.ttslexx) - Text to Speech 
@@ -813,6 +813,7 @@
 * [Sirin](https://play.google.com/store/apps/details?id=com.sirin.android) - Audiobook Player
 * [PlayBook](https://github.com/Goodwy/PlayBook) - Audiobook Player
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
+* [⁠Episteme Reader](https://github.com/Aryan-Raj3112/episteme) - Ebook Reader
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
 * [Chaka](https://github.com/elementdavv/chaka) - Ebook Reader
 * [Anx Reader](https://anx.anxcye.com/) - Ebook Reader / [GitHub](https://github.com/anxcye/anx-reader)
@@ -857,7 +858,7 @@
 * ⭐ **[AudioRelay](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
-* [Modded Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify Apps / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
+* [Modded Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [⁠SpotiCap](https://gitlab.com/spotihater/spoticap) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify Apps / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
 * Spotify Tools - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/) / [Improved Lyrics](https://github.com/WXRIW/Lyricify-App), [2](https://github.com/LeNerd46/SpotifyPlus)
 * [⁠LibrePods](https://github.com/kavishdevar/librepods) - Add AirPod Features to Android / Requires Root
 * [SongSync](https://github.com/Lambada10/SongSync) - Lyrics App

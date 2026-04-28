@@ -465,7 +465,7 @@
 
 * ⭐ **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)** - Multi-Host / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[PDFMagazines](https://pdfmagazines.club/news/)** - Novafile / Some NSFW
-* ⭐ **[DownMagaz](https://downmagaz.net/)** - Novafile / Turbobit
+* ⭐ **[DownMagaz](https://downmagaz.net/)** - Novafile
 * ⭐ **[MagazineLib](https://magazinelib.com/)** - VK
 * [Calameo](https://calameo.com/) - Online Reading
 * [Magzter](https://www.magzter.com/top-free-magazines) - Online Reading

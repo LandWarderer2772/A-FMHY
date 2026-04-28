@@ -76,7 +76,8 @@
 * [PrivateGPT](https://privategpt.dev/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt)
 * [Onyx](https://www.onyx.app/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx)
 * [DocsGPT](https://www.docsgpt.cloud/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/n5BX8dh8rU) / [GitHub](https://github.com/arc53/DocsGPT)
-* [⁠Anara](https://anara.com/) - Document Chatbot 
+* [⁠Anara](https://anara.com/) - Document Chatbot
+* [⁠Paper2Gal](https://paper2gal.com/) - Turn Academic Papers into Visual Novels via AI
 * [Hyperspace](https://hyper.space/) - P2P AI Network / [GitHub](https://github.com/hyperspaceai)
 
 ***
