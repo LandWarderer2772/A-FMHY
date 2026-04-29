@@ -926,7 +926,6 @@
 * [Fallen London](https://www.fallenlondon.com/) - Text-Based RPG
 * [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
 * [Dynast](https://dynast.io/) - Survival Browser Game
-* [⁠Noxious](https://noxious.gg/) - Multiplayer Sandbox / MMORPG / [Discord](https://discord.gg/JTev3nzeDa)
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG
 * [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy) - Comedy RPG
 * [Gridland](https://gridland.doublespeakgames.com/) - Grid Matching RPG
