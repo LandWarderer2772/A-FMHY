@@ -374,7 +374,7 @@
 
 * 🌐 **[designer](https://start.me/p/jj0JAp/designer)** - Image Download Site Indexes
 * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
-* ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
+* ⭐ **[gallery-dl](https://codeberg.org/mikf/gallery-dl)** / [Discord](https://discord.gg/rSzQwRvGnE), [RipMe](https://github.com/RipMeApp/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [same.energy](https://same.energy/) - Visual Search Engine
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
 * [OpenMoji](https://openmoji.org/) or [JoyPixels](https://www.joypixels.com/) - Emojis
@@ -856,7 +856,7 @@
 
 ## ▷ Palette Generators
 
-* ⭐ **[Color Designer](https://colordesigner.io/tools)**, [Color Palette Pro](https://colorpalette.pro/) / [Guide](https://colorpalette.pro/manual), [TheGoodColors](https://thegoodcolors.com/), [Super Color Palette](https://supercolorpalette.com/), [Nof](https://nofpg.netlify.app/) / [GitHub](https://github.com/Northstrix/nof) or [Coolors](https://coolors.co/) - Color Palette Generators
+* ⭐ **[Color Designer](https://colordesigner.io/tools)**, [Color Palette Pro](https://colorpalette.pro/) / [Guide](https://colorpalette.pro/manual), [TheGoodColors](https://thegoodcolors.com/), [Super Color Palette](https://supercolorpalette.com/), [⁠ColorTones](https://colortones.aashuu.tech/), [Nof](https://nofpg.netlify.app/) / [GitHub](https://github.com/Northstrix/nof) or [Coolors](https://coolors.co/) - Color Palette Generators
 * [Clariss](https://www.clariss.xyz/), [Color Palette Generator](https://www.degraeve.com/color-palette), [Palitra](https://palitra.app/) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
 * [Color Space](https://mycolor.space/) - Generate Gradient Color Palettes
 * [Colors Wall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes

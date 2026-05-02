@@ -114,7 +114,7 @@
 * [Komikku](https://flathub.org/en/apps/info.febvre.Komikku), [Suwayomi-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI) or [Manga Reader](https://flathub.org/apps/com.georgefb.mangareader) - Manga Readers
 * [Mako](https://github.com/emersion/mako) or [dunst](https://dunst-project.org/) / [GitHub](https://github.com/dunst-project/dunst) - Customizable Notification Daemon
 * [Eloquent](https://github.com/sonnyp/Eloquent) or [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check Apps
-* [KTouch](https://apps.kde.org/ktouch/), [typer](https://github.com/maaslalani/typer) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
+* [KTouch](https://apps.kde.org/ktouch/) or [typer](https://github.com/maaslalani/typer) - Typing Practice
 
 ***
 
@@ -293,7 +293,7 @@
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
-* [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - (Run Windows Games on Linux 
+* [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Windows Games on Linux 
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlocker / [Installer](https://github.com/Novattz/creamlinux-installer)
 * [SLSsteam](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=SLSsteam) - Steamclient Mod w/ DLC Unlocker and Emulated Achievements
@@ -426,7 +426,7 @@
 
 * 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
 * ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [rQuickshare](https://github.com/Martichou/rquickshare), [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/) / [Tray Support](https://martchus.github.io/syncthingtray/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/), [Celeste](https://flathub.org/apps/com.hunterwittenborn.Celeste) / [2](https://snapcraft.io/celeste) / [GitHub](https://github.com/hwittenborn/celeste), [Cattail](https://github.com/nerdyslacker/cattail) or [Sharing](https://github.com/parvardegr/sharing) - File Sync / Transfer
-* ⭐ **[lf](https://github.com/gokcehan/lf)**, **[ranger](https://ranger.fm/)** / [Codeberg](https://codeberg.org/ranger/pages), **[nnn](https://github.com/jarun/nnn)**, **[clifm](https://github.com/leo-arch/clifm)**, **[fm](https://github.com/mistakenelf/fm)**, **[superfile](https://github.com/yorukot/superfile)**, **[Joshuto](https://github.com/kamiyaa/joshuto)** - Terminal File Managers
+* ⭐ **[lf](https://github.com/gokcehan/lf)**, [ranger](https://ranger.fm/) / [Codeberg](https://codeberg.org/ranger/pages), [⁠broot](htttps://dystroy.org/broot) / [GitHub](https://github.com/Canop/broot), [nnn](https://github.com/jarun/nnn)**, [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [superfile](https://github.com/yorukot/superfile), [Joshuto](https://github.com/kamiyaa/joshuto) - Terminal File Managers
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[Filelight](https://apps.kde.org/en-gb/filelight/)** - Disk Usage Analyzers / GUI
 * ⭐ **[dut](https://codeberg.org/201984/dut)**, **[gdu](https://github.com/dundee/gdu)**, **[NCDU](https://dev.yorhel.nl/ncdu)** - Disk Usage Analyzers / CLI
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers / Search

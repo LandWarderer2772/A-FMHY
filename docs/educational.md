@@ -1181,7 +1181,8 @@
 ## ▷ Constructed Languages
 
 * 🌐 **[⁠pona.la](https://pona.la/)** - Toki Pona Learning / Resources
-* 🌐 **[Lojban.io](https://lojban.io/)** - Lojban Learning Resources / Focused on Logical Grammatical Structures 
+* 🌐 **[Lojban.io](https://lojban.io/)** - Lojban Learning Resources / Focused on Logical Grammatical Structures
+* 🌐 **[⁠Languages of Arda](https://rentry.co/languages-of-arda)** - Guide to Tolkien Languages
 * [Toki Pona (.net)](https://tokipona.net/), [Toki Pona](https://tokipona.org/) / [Subreddit](https://www.reddit.com/r/tokipona/), [⁠mun!](https://mun.la/), [⁠lipu sona mi pi toki pona](https://lipu-sona.comforttiger.space/en/), [lipu sona pona](https://lipu-sona.pona.la/), [DuoStories Toki](https://duostories.org/tok-en) / [2](https://duostories.org/tok2-en) or [Wasona](https://wasona.com/) / [GitHub](https://github.com/wasona/wasona) - Toki Pona Learning Sites / Minimal Language
 * [⁠ma pona pi toki pona](https://discord.com/invite/mapona) (discord) - Toki Pona Community / Learning 
 * [⁠sona pona](https://sona.pona.la/) - Toki Pona Wiki / Minimal Language
@@ -1193,6 +1194,7 @@
 * [⁠Viossa Diskordseгver](https://discord.com/invite/g3mG2gYjZD) (discord) - Viossa Language Learning Community / Artificial Pidgin Language 
 * [Eberban](https://eberban.github.io/eberban/) / [Discord](https://discord.gg/FChFEHEet8) or [Learn Eberban](https://learn-eberban.github.io/) - Eberban Language Learning / Focused on Simplicity, Expressivness & Regularity
 * [Xextan](https://xextan.github.io/) - Xextan Language Learning / Focused on Simplicity + Ease of Learning / [Wiki](https://xextan.miraheze.org/wiki/Main_Page) / [Discord](https://discord.gg/4Wz7EeQJ2g)
+* [Learn Na'vi](https://learnnavi.org/) - Na’vi (Avatar) Language Learning / Community / [Forum](https://forum.learnnavi.org/) / [Discord](https://discord.gg/LearnNavi)
 
 ***
 
@@ -1658,7 +1660,7 @@
 
 ## ▷ Calculators
 
-* ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
+* ⭐ **[WolframAlpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
 * ⭐ **[GeoGebra](https://www.geogebra.org/)** or [Desmos](https://www.desmos.com/) - Graphing Calculators

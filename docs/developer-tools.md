@@ -161,7 +161,7 @@
 * 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)**, [Forgejo](https://forgejo.org/compare/#only-develops-free-software) or [Forgeperf.org](https://forgeperf.org/) - Git Collab Tool Comparison
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[Fork](https://git-fork.com/)** or [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git Desktop Clients
-* ⭐ **[Codeberg](https://codeberg.org/)** / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [Drift](https://drift.lol/), [GitLab](https://about.gitlab.com/), [⁠Upd.dev](https://upd.dev/), [sourcehut](https://sourcehut.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
+* ⭐ **[Codeberg](https://codeberg.org/)** / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [⁠git.gay](https://git.gay/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [Drift](https://drift.lol/), [GitLab](https://about.gitlab.com/), [⁠Upd.dev](https://upd.dev/), [sourcehut](https://sourcehut.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
 * [Gitea](https://about.gitea.com/) or [Forgejo](https://forgejo.org/) - Self-Hosted Repository Platforms
 * [Git](https://git-scm.com/) or [Jujutsu](https://www.jj-vcs.dev) - Version Control Systems
 * [git-sim](https://github.com/initialcommit-com/git-sim) - Visually Simulate Git Operations Before Running
@@ -381,7 +381,6 @@
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
 * [Trinket](https://trinket.io/) - Web App / Live Preview / Requires Sign-Up / Online Workspace
-* [Firebase](https://studio.firebase.google.com/) - Gemini AI Cloud Webapp
 * [Helix](https://helix-editor.com/) - Kakoune & Neovim Inspired Code Editor
 * [HaystackEditor](https://haystackeditor.com/) - Canvas-Based Code Editor
 * [Geany](https://www.geany.org/) - Lightweight Code Editor
@@ -1082,7 +1081,6 @@
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - 20K Files (25MB Each) / Unlimited / [Discord](https://discord.gg/cloudflaredev)
 * ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
 * ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - 1GB (100MB per File) / 100GB
-* ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB / 10GB
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB / Unlimited
 * ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain
 * ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb.md)

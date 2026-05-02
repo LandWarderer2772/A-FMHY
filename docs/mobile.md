@@ -106,6 +106,7 @@
 * [Discreet Launcher](https://falzonv.github.io/discreet-launcher/) - Minimalist / Clean Launcher / [GitHub](https://github.com/falzonv/discreet-launcher)
 * [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) - Minimalist / Clean Launcher / [Telegram](https://t.me/LunarLauncher_chats)
 * [mLauncher](https://github.com/DroidWorksStudio/mLauncher) - Minimalist / Clean Launcher
+* [⁠Escape launcher](https://github.com/georgeclensy/Escape-Launcher) - Minimalist / Clean Launcher
 * [NeoLauncher](https://github.com/NeoApplications/Neo-Launcher) - Customizable Launcher / [Telegram](https://t.me/neo_launcher)
 * [Unlauncher](https://jkuester.github.io/unlauncher/) - Distraction-Free Launcher / [GitHub](https://github.com/jkuester/unlauncher)
 * [Notcha](https://play.google.com/store/apps/details?id=com.notch.launcher) - Secondary Launcher
@@ -174,7 +175,7 @@
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
-* [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/instaeclipse-note.md) - Modded Instagram Clients / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
+* [⁠piko (Instagram)](https://t.me/pikopatches), [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/instaeclipse-note.md) - Modded Instagram Clients
 * [TikTokModCloud](https://t.me/TikTokModCloud), [2](https://t.me/modsfortt) - Modded TikTok Client
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
@@ -488,7 +489,7 @@
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[Android Proxy Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_proxy_clients)**
-* ⭐ **[Hybrid Analysis](https://hybrid-analysis.com/)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
+* ⭐ **[Triage](https://tria.ge/)**, [Hybrid Analysis](https://hybrid-analysis.com/) or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
 * ⭐ **[Rethink DNS](https://rethinkdns.com/)** / [GitHub](https://github.com/celzero/rethink-app), [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall), [AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [Tarnhelm](https://github.com/lz233/Tarnhelm), [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
 * ⭐ **[Exodus](https://reports.exodus-privacy.eu.org/en/)** - App Tracker Database
@@ -786,6 +787,7 @@
 
 ***
 
+* ↪️ **[Multi-Platform Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
 * ⭐ **[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)** - Torrent Client / Allows Binding / Use Adblock
 * ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - Torrent Client / Doesn't Allow Binding / [Telegram](https://t.me/LibreTorrent) / [GitHub](https://github.com/proninyaroslav/libretorrent)
 * [Tixati](https://tixati.com/android) - Torrent Client / Allows Binding
@@ -1322,6 +1324,7 @@
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotC-Plus-Plus)
 * ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** - Modded YouTube Music / Ad-Free / [Discord](https://discord.gg/BhdUyCbgkZ)
 * ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader / Playlist Extractor
+* [EeveeSpotifyRevivedPublic](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) - Spotify / Ad-Free / Sideloaded
 * [Cosmos Music Player](https://github.com/clquwu/Cosmos-Music-Player), [VOX](https://apps.apple.com/app/id916215494), [Jewelcase](https://jewelcase.app/), [FooBar](https://apps.apple.com/us/app/foobar2000/id1072807669) or [Melodista](https://apps.apple.com/app/id1293175325) - Audio Players
 * [⁠8SPINE](https://testflight.apple.com/join/WpRgRCDm) - Module-Based Streaming / Downloading / [Modules](https://8spine-modules.vercel.app/)
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
@@ -1343,7 +1346,7 @@
 * ⭐ **[PocketCasts](https://www.pocketcasts.com/)** - Podcasts
 * ⭐ **[Triode](https://triode.app/)** - Radio App
 * ⭐ **[Cuterdio](https://cuterdio.com/en)** - Radio App
-* [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) - Spotify / Ad-Free / Sideloaded
+* [EeveeSpotifyRevivedPublic](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) - Spotify / Ad-Free / Sideloaded
 * [Spotify](https://apps.apple.com/app/id324684580) - Podcasts
 * [Podbean](https://apps.apple.com/app/id973361050) - Podcasts
 * [Apple Podcasts](https://apps.apple.com/app/id525463029) - Podcasts
