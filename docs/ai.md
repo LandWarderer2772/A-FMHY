@@ -373,6 +373,7 @@
 * [⁠LightSession](https://github.com/11me/light-session) - Fix ChatGPT Lag 
 * [⁠Privatiser](https://privatiser.net/) - Anonymize Sensitive Data for AI
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
+* [⁠Agent Reach](https://github.com/Panniantong/Agent-Reach) - Connect AI Agents to Popular Internet Platforms
 * [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
 * [ChatGPT Widescreen](https://chatgptevo.com/widescreen/) - ChatGPT Widescreen / Fullscreen / [GitHub](https://github.com/adamlui/chatgpt-widescreen)
 * [screenpipe](https://screenpi.pe/) - AI Screen Recorder / No Sign-Up / [Discord](https://discord.gg/dU9EBuw7Uq) / [GitHub](https://github.com/mediar-ai/screenpipe)

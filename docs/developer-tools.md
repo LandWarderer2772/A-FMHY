@@ -1082,7 +1082,7 @@
 * ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
 * ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - 1GB (100MB per File) / 100GB
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB / Unlimited
-* ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain
+* ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain / [Free Tier Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/neocities.md)
 * ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb.md)
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB / Unlimited
 * [Codeberg Pages](https://codeberg.page/) - 750MB / Unlimited / Only Open-Source Projects
