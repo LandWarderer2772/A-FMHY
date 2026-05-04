@@ -212,7 +212,7 @@
 
 ## ▷ Reddit Search
 
-* [Reveddit](https://www.reveddit.com/), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted Reddit Posts / Comments
+* [Reveddit](https://www.reveddit.com/), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint), [RedditGhost](https://redditghost.pages.dev/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted Reddit Posts / Comments
 * [New PullPush](https://ihsoyct.github.io/), [PullPush Search](https://search.pullpush.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Redditle](https://redditle.com/) - Reddit-Only Google Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
@@ -640,7 +640,7 @@
 
 * ⭐ **[Instaloader](https://instaloader.github.io/)** - CLI Downloader / [GitHub](https://github.com/instaloader/instaloader)
 * [FastDL](https://fastdl.app/en2) or [SaveFromWeb](https://www.savefromweb.com/) - Online Downloaders
-* [Dumpor](https://dumpor.io/) / [2](https://greatfon.io/), [anonyig](https://anonyig.com/) or [mollygram](https://mollygram.com/) - Anonymous Story / Profile Viewers
+* [Dumpor](https://dumpor.io/) / [2](https://greatfon.io/) or [anonyig](https://anonyig.com/) - Anonymous Story / Profile Viewers
 * [IG Helper](https://greasyfork.org/en/scripts/404535) / [GitHub](https://github.com/SN-Koarashi/ig-helper/) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
 * [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) - Chrome Extension
 

@@ -1048,8 +1048,8 @@
 
 ## ▷ Mario Kart Tools
 
-* ⭐ **[Retro Rewind](https://rentry.org/Retro-Rewind)** - Retro MKWii Tracks / Multiplayer / [Discord](https://discord.gg/qbr3Y4PJFH)
-* ⭐ **RR Tools** - [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/TeamWheelWizard/WheelWizard/releases) / [VR Rankings](https://rwfc.net/) / [Troubleshooting](https://rentry.org/RR-Fixes)
+* ⭐ **[Retro Rewind](https://rwfc.net/)** - Retro MKWii Tracks / Multiplayer / [Guides](https://rentry.org/Retro-Rewind) / [Discord](https://discord.gg/qbr3Y4PJFH)
+* ⭐ **RR Tools** - [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/TeamWheelWizard/WheelWizard/releases) / [VR Rankings](https://rwfc.net/vr) / [Troubleshooting](https://rentry.org/RR-Fixes)
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKWii Tracks / Multiplayer / Requires Disc / [Discord](https://discord.com/invite/XMEQGDK)
 * ⭐ **[MKWRs](https://mkwrs.com)** - Mario Kart Records / Videos
 * ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies
