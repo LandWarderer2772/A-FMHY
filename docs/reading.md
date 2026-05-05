@@ -49,7 +49,6 @@
 * [Wikisource](https://wikisource.org)
 * [Open Library](https://openlibrary.org/)
 * [OpenChapter](https://openchapter.io/)
-* [FreeEditorial](https://www.freeditorial.com/en/) / [Spanish](https://www.freeditorial.com)
 * [Page by Page Books](https://www.pagebypagebooks.com/)
 * [Standard EBooks](https://standardebooks.org/)
 * [Manybooks](https://manybooks.net/)
@@ -58,7 +57,6 @@
 * [DPLA](https://dp.la/)
 * [Fadedpage](https://www.fadedpage.com/)
 * [E-Book Mecca](https://ebook-mecca.com/)
-* [Freeditorial](https://freeditorial.com/)
 * [Planet eBook](https://www.planetebook.com/)
 * [Loyal Books](https://www.loyalbooks.com/)
 * [Lit2Go](https://etc.usf.edu/lit2go/)
@@ -546,7 +544,6 @@
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
 * [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - Trading / Stocks
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
-* [VetBooks](https://vetbooks.ir/) - Veterinary
 * [Brill](https://brill.com/) - International Law Books / Free for Students Only
 
 ***
@@ -660,7 +657,6 @@
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Go Books](https://github.com/dariubs/GoBooks) - GoLang Books
 * [JSBooks](https://jsbooks.revolunet.com/) - Javascript Books
-* [X-Files](https://doc.lagout.org/) - Tech / Programming
 * [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
 * [Hacker News Books](https://hackernewsbooks.com/) - Books Mentioned on HN
 
@@ -804,7 +800,6 @@
 * [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
 * [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
 * [Open Payments](https://openpaymentsdata.cms.gov/) - Medical Device Company Payment Reports
-* [Aleph](https://docs.aleph.occrp.org/) - Document Index Tool
 * [Dataset Search](https://datasetsearch.research.google.com/) - Dataset Search Google
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0)
 
@@ -995,7 +990,6 @@
 * [How to Get Library Card Online](https://rentry.co/9b3vdo)
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
-* [⁠IPDL](https://ipdl.cat/) - Monitor Digital Library Torrent Health
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor
