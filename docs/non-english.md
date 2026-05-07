@@ -910,7 +910,6 @@
 * [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Abema](https://abema.tv/) - Live TV
-* [utako](https://web.utako.moe/) - Live TV
 * [iptv-jp](https://rentry.co/fmhyb64#iptv-playlists) - Japanese IPTV Resources
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Movie Archive
 * [SimulRadio](https://simulradio.info/) - Radio
