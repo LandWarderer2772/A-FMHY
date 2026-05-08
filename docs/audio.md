@@ -938,6 +938,7 @@
 * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_removal_.2F_separation)**
 * ⭐ **[AudioSEX](https://audiosex.pro/)**, [KVR Audio](https://www.kvraudio.com/) or [VI-CONTROL](https://vi-control.net/community/) - Audio Production Forums / News
 * [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials
+* [⁠Beat Battle](https://beat-battle.net/) - Browser Beat Battle Game / [Discord](https://discord.com/invite/beatbattle)
 * [⁠OpenUtau](https://www.openutau.com/) - Vocal Synth / Singing Platform / [GitHub](https://github.com/stakira/OpenUtau)
 * [Tonocracy](https://tonocracy.com/), [NeuralAmpModeler](https://www.neuralampmodeler.com/), [GuitarML](https://guitarml.com/index.html) or [TONEX CS](https://www.ikmultimedia.com/products/tonex/#tonexcs) - Guitar Tones, Effects & Virtual Amps
 * [Tone3000](https://tone3000.com/) - Guitar Tone Profiles
