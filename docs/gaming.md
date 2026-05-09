@@ -430,7 +430,7 @@
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
 * ↪️ **[EmulatorJS / NeptunJS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_emulatorjs_.2F_neptunjs)** - Frontends for EmulatorJS / NeptuneJS
 * ⭐ **[GAM.ONL](https://gam.onl/)**, [2](https://www.retrogames.onl/) - Multi-Console
-* ⭐ **[webЯcade](https://play.webrcade.com/)** - Retro Consoles / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
+* ⭐ **[webЯcade](https://play.webrcade.com/)** or [PlayGames](https://playgames.onl/) - Retro Consoles / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console / Archive.org
 * ⭐ **[DOS Zone](https://dos.zone/)** - Retro PC Browser Emulators / [Discord](https://discord.com/invite/hMVYEbG)
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
@@ -954,7 +954,7 @@
 * [⁠Littlewargame](https://littlewargame.com/) - Browser-Based RTS
 * [⁠Feudal Wars](https://feudalwars.net/) - Browser-Based RTS / [Discord](https://discord.com/invite/SQFMnMK)
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
-* [OpenFront](https://openfront.io/) / [Discord](https://discord.gg/k22YrnAzGp) or [Territorial](https://territorial.io/) - Conquest / War Style Games
+* [OpenFront](https://openfront.io/) / [Wiki](https://openfront.wiki/) / [Discord](https://discord.gg/k22YrnAzGp) / [GitHub](https://github.com/openfrontio/openfrontio) or [Territorial](https://territorial.io/) - Conquest / War Style Games
 * [Warzone](https://www.warzone.com/) - RISK Clone
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game

@@ -242,6 +242,7 @@
 * 🌐 **[Awesome Electronics](https://github.com/kitspace/awesome-electronics)** - Electronic Engineering Resources
 * 🌐 **[Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)** - Engineering Blogs
 * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
+* ↪️ **[Vehicle Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_vehicle)**
 * ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_cad_engineering)**
 * ⭐ **[r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** / [Wiki](https://www.reddit.com/r/AskEngineers/wiki/), **[r/engineering](https://www.reddit.com/r/engineering/)** or [r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
 * ⭐ **[NPTEL](https://nptel.ac.in/courses)** or [Sabin](https://www.youtube.com/@SabinCivil) - Engineering Courses
@@ -255,7 +256,7 @@
 * [507 Movements](https://507movements.com/toc.html) - Mechanical Movement Animations
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
 * [VisRo Robotics](https://vis-ro.web.app) / [Discord](https://discord.com/invite/TfwZ3hH2D2) or [⁠VittaScience](https://en.vittascience.com/code) - Robotics Learning
-* [⁠Humanity's Last Machine](https://www.humanityslastmachine.com/) - Humanoid Robotics Hardware & Supply Chain Analysis
+* [⁠Humanity's Last Machine](https://www.humanityslastmachine.com/) or [Humanoid Atlas](https://www.humanoids.fyi/) / [GitHub](https://github.com/kingjulio8238/humanoid-atlas) - Humanoid Robotics Hardware & Supply Chain Analysis
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [Diode](https://www.withdiode.com/) - 3D Hardware Simulator
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulators
@@ -312,7 +313,7 @@
 * [Outerzone](https://outerzone.co.uk/) - Vintage Model Airplane Plans
 * [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
 * [XFLR5](https://www.xflr5.tech/) - Airfoils Analysis Tool
-* [⁠UAVs FYI](https://www.uavs.fyi/) - Drone Information, Guides and Resources / [X](https://x.com/osoraku_1997)
+* [⁠UAVs FYI](https://www.uavs.fyi/) - Drone Information, Resources, Hardware & Supply Chain Analysis / [X](https://x.com/osoraku_1997)
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [X](https://x.com/ArpanDesign) / [Discord](https://discord.gg/YKgKTmSm7B) / [GitHub](https://github.com/arpanghosh8453/drone-logbook)
@@ -831,7 +832,6 @@
 * [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
 * [AnatomyArchive](https://www.anatomyarchive.org/) - Human Anatomy Drawing Tutorials
 * [Artist Reference](https://artist-reference.com) - Photo References for Artists
-* [Reference Angle](http://referenceangle.com/) - Human Photo Reference Search
 * [x6ud](https://x6ud.github.io/#/) - Animal Photo Reference Search
 * [Thomas Romain Perspective](https://ibb.co/album/chGtPJ?sort=name_asc) - Perspective Guide
 * [Dimensions](https://www.dimensions.com/) - Object Dimension Reference
