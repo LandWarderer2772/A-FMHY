@@ -736,6 +736,7 @@
 * [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [⁠ClashMac](https://github.com/666OS/ClashMac) - Proxy Client
 * [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
+* [MuMuPlayer](https://www.mumuplayer.com/) - Android Emulator
 * [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
 * [RansomWhere?](https://objective-see.org/products/ransomwhere.html) - Ransomware Blocker
 * [OverSight](https://objective-see.org/products/oversight.html) - Webcam / Mic Monitor

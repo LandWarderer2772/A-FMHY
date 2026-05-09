@@ -1038,7 +1038,7 @@
 * [⁠BangYourBuck](https://bangyourbuck.com/) - Unit Shopping Calculator / Comparisons for Amazon
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
 * [⁠RedRecs](https://www.redrecs.com/) or [RedditRecs](https://redditrecs.com/) - Reddit Product Rankings, Summaries, and Comments
-* ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** - Find Interesting Things to Buy
+* [ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/) - Find Interesting Things to Buy
 * [⁠BuyItForLife](https://buyitforlife.com/) - Durable Product Shopping Guide / [Subreddit](https://www.reddit.com/r/BuyItForLife/)
 * [⁠NoBids](https://nobids.net/), [⁠BuyMap](https://buymap.app/) or [WatchCount](https://www.watchcount.com/) - eBay Advanced Search
 * [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
