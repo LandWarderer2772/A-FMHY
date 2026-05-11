@@ -262,6 +262,7 @@
 * [JDMFSM](https://jdmfsm.info/Auto/), [Charm](https://charm.li/), [CarPDFManual](https://www.carpdfmanual.com/), [iFitIt Vehicle](https://www.ifixit.com/Device/Car_and_Truck) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
+* [⁠Auto Catalog Archive](https://autocatalogarchive.com/) - Vehicle Brochures
 * [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons
 * [WebAutoCats](https://webautocats.com/) - Vehicle Parts Database
 * [⁠CarSized](https://www.carsized.com/) - Vehicle Size Comparisons
@@ -1400,7 +1401,7 @@
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
 * [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
-* [Magic Sketchpad](https://magic-sketchpad.glitch.me/)
+* [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - Magical Sketchpad
 * [Webchemy](https://webchemy.org/) - Drawing / Sketching
 * [World Draw](https://world-draw.appspot.com/draw) - Draw World Together
 * [Eschersket](https://eschersket.ch/) - Symmetry Drawing Tool

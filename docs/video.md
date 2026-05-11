@@ -243,7 +243,6 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/websites)** - Anime Site Index / [Discord](https://discord.gg/vShRGx8ZBC) / [GitHub](https://github.com/wotakumoe/Wotaku)
 * 🌐 **[The Index](https://theindex.moe/library/anime)** - Anime Site Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Anime Site Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS) 
-* ⭐ **[AnimeKai](https://animekai.to/home)**, [2](https://animekai.fi/), [3](https://animekai.fo/), [4](https://animekai.gs/), [5](https://animekai.la/), [6](https://anikai.to/) or [AniGo](https://anigo.to/) - Hard Subs / Dub / Auto-Next / [Status / Mirrors](https://animekai.pw/) / [Subreddit](https://www.reddit.com/r/AnimeKAI/) / [Discord](https://discord.gg/at5d9rkfUy)
 * ⭐ **[Miruro](https://www.miruro.com/)**, [2](https://miruro.tv), [3](https://miruro.bz), [4](https://miruro.online), [5](https://miruro.to) - Hard Subs / Dub / Auto-Next / [Status](https://status.miruro.com/status/miruro) / [Subreddit](https://www.reddit.com/r/miruro/) / [Discord](https://discord.com/invite/pjsdJp96mY) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
 * ⭐ **[All Manga](https://allmanga.to/)** - Sub / Dub / [Discord](https://discord.com/invite/6nce6cyJyM)
 * ⭐ **[animepahe](https://animepahe.pw/)** - Sub / Dub / Some NSFW / [Enhancements](https://update.greasyfork.org/scripts/520048/AnimePahe%20Improvements.user.js) / [Downloader](https://github.com/KevCui/animepahe-dl)
@@ -257,8 +256,10 @@
 * [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey)
 * [123anime](https://123animes.ru/) - Sub / Dub / Auto-Next
 * [⁠1Anime](https://1ani.me/), [2](https://1anime.app/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/jUjSeCrmQt)
-* [Kuudere](https://kuudere.to/), [2](https://kuudere.ru/) - Sub / Dub / Auto-Next / [Telegram](https://t.me/kuudere0to) / [Discord](https://discord.gg/h9v9Vfzp7B)
+* [Re:ANIME](https://reanime.to/), [2](https://kuudere.ru/) - Sub / Dub / Auto-Next / [Telegram](https://t.me/kuudere0to) / [Discord](https://discord.gg/h9v9Vfzp7B)
 * [AniDoor](https://anidoor.me/) - Sub / Dub / Auto-Next
+* [⁠Aniverse](https://aniverse.watch/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/gDfz5SaM3K)
+* [⁠Anistream](https://anistream.one/) - Sub / Dub / Auto-Next
 * [⁠Enma](https://www.enma.lol/) - Sub / Dub / Auto-Next
 * [⁠JustAnime](https://justanime.to/), [2](https://justanime.fun/) - Sub / Dub / Auto-Next / [Mirrors](https://justanime.site/) / [Telegram](https://t.me/JustAnimeZone) / [Discord](https://discord.gg/P3yqksmGun)
 * [⁠AniKuro](https://anikuro.to/), [2](https://anikuro.ru/) - Sub / Dub / [Status](https://anikuro.site/) / [Telegram](https://t.me/+DrD7eAO7R69mZGM0) / [Discord](https://discord.com/invite/Svc9yFjQBq)
@@ -503,9 +504,10 @@
 * [Footfy](https://footfy.net/) - Stream Aggregator
 * [⁠1Ball](https://1ball.pk/) - Stream Aggregator / [Discord](https://discord.gg/CG8NzyX2hU)
 * [StreamCorner](https://streamcorner.vu/), [2](https://streamcorner.cc), [3](https://streamcorner.info/) / [Status](https://beacons.ai/streamcorner) / [Discord](http://discord.gg/vV6rRFtWhW)
-* [GamesCentral](https://www.gamescentral.top/) / [Discord](https://discord.gg/VKbvRcjDwa)
+* [FoxTrend](https://foxtrend.vip/), [2](https://foxlink.buzz/) / [Discord](https://discord.gg/VKbvRcjDwa)
 * [CricHD](https://crichd.at/), [2](https://crichd.com.co/)
 * [⁠FalconStreams](https://falconstreams.net/) / [Discord](https://discord.gg/FPgKwtXcYV)
+* [⁠Streami](https://streami.top/)
 * [MainPortal66](https://mainportal66.com/)
 * [PPV.TO](https://ppv.to/), [2](https://ppvs.sh/), [3](https://ppv.cx/) - Live Events / [Mirrors](https://ppv.link/) / [Discord](https://discord.gg/5AMPdpckjH)
 * [Vuen Link](https://vuen.link/)
@@ -794,7 +796,7 @@
 * ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / Requires Google Account / [Telegram](https://t.me/AnimeKayo)
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / Requires Sign-Up / [Discord](https://discord.gg/uZ85cbAg4T)
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
-* [Kuudere](https://kuudere.to/), [2](https://kuudere.ru/) - Sub / Dub / Auto-Next / [Telegram](https://t.me/kuudere0to) / [Discord](https://discord.gg/h9v9Vfzp7B)
+* [Re:ANIME](https://reanime.to/), [2](https://kuudere.ru/) - Sub / Dub / Auto-Next / [Telegram](https://t.me/kuudere0to) / [Discord](https://discord.gg/h9v9Vfzp7B)
 * [Anime-Sharing](https://www.anime-sharing.com/) - Sub / Dub / Anime / Manga Download Forum
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
 * [animepahe](https://animepahe.pw/) - Hard Subs / Dub / Some NSFW / [Enhancements](https://greasyfork.org/en/scripts/520048) / [Downloader](https://github.com/KevCui/animepahe-dl)
