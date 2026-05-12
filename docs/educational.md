@@ -685,6 +685,7 @@
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
 * [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
+* [Statista](https://www.statista.com/) - Market Statistics
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
@@ -693,7 +694,6 @@
 * [Wealth, Shown to Scale](https://wealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
-* [Statista](https://www.statista.com/) - Market Statistics
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
 
 ***
@@ -1345,7 +1345,6 @@
 * [Flexbox Froggy](https://flexboxfroggy.com/), [Flexbox Zombies](https://mastery.games/flexboxzombies), [FlexboxDefense](http://www.flexboxdefense.com/) or [KnightsoftheFlexboxTable](https://knightsoftheflexboxtable.com/) - CSS Flexbox Learning Games
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) or [GridByExample](https://gridbyexample.com/) - CSS Grid Guides
-* [ReactStudyKit](https://reactstudykit.com/) - React Study Tools / Flashcards
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavaScript](https://eloquentjavascript.net/) - JavaScript Learning Books
 * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) or [JavaScriptQuiz](https://javascriptquiz.com/) - JavaScript Questions for Practice
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts

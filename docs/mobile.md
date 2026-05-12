@@ -1406,7 +1406,8 @@
 ## ▷ iOS YouTube Apps
 
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
-* [⁠uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube iPA
+* [⁠uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube App
+* [⁠ProTube](https://apps.apple.com/app/protube-block-ads-on-video/id6748081431) - YouTube App
 * [OpenYouTubeSafariExtension](https://github.com/BillyCurtis/OpenYouTubeSafariExtension) - Add "Open In" Alert to Sideloaded YouTube Apps
 
 ***
