@@ -404,7 +404,7 @@
 ## ▷ Video Editors
 
 * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
-* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / Windows, Mac, Linux / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows, Mac, Linux / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
 * ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, Mac, Linux
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/mltframework/shotcut)
@@ -416,7 +416,7 @@
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor / Windows
 * [avisynth](http://avisynth.nl/index.php/Main_Page) - Video Processor / Windows, Mac, Linux
 * [VapourSynth](https://www.vapoursynth.com/) - Video Processor / Windows, Linux
-* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / Windows / [Resources](https://sfmlab.com/)
+* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/) / Windows 
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review / Windows, Mac, Linux
 * [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) - Cut & Trim Videos / Windows, Mac, Linux
 * [vidcutter](https://github.com/ozmartian/vidcutter) - Cut & Trim Videos / Script
