@@ -1088,6 +1088,7 @@
 * [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
 * [AI Leaks](https://discord.gg/MFCU6sKSNs) - AI Leaks / Feature News Server
 * [Build List](https://buildlist.org/) or [USA Parts Made Fast](https://partsmadefast.com/) / [X](https://x.com/mattfreed) - On-Demand Online Manufacturers
+* [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
 
 ***
@@ -1267,7 +1268,7 @@
 * [ToolYatri](https://toolyatri.com/) - Text / Code
 * [IPVoid](https://www.ipvoid.com/) - Text / IP
 * [AppsCyborg](https://appscyborg.com/) - File Conversion / Media
-* [onlinetools](https://onlinetools.com/) - File-Specific Tools
+* [Online Tools](https://onlinetools.com/) - File-Specific Tools
 * [a.tools](https://www.a.tools/) - Text / Image / Code / Cryptography
 * [RakkoTools](https://en.rakko.tools/) - Text / Code / Image
 * [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
@@ -1656,14 +1657,14 @@
 * [Worldviewstream](https://worldviewstream.com/)
 * [CamStreamer](https://camstreamer.com/live)
 * [SkylineWebcams](https://www.skylinewebcams.com/en.html)
-* [webcamhopper](https://www.webcamhopper.com/)
+* [Webcam Hopper](https://www.webcamhopper.com/)
 * [WorldCam](https://worldcam.eu/)
-* [mangolinkworld](https://www.mangolinkworld.com/)
+* [Mangolink World](https://www.mangolinkworld.com/)
 * [Insecam](http://www.insecam.org/en/)
 * [CameraFTP](https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx)
 * [WebcamGalore](https://www.webcamgalore.com/)
 * [Windy Webcams](https://www.windy.com/-Webcams/webcams)
-* [livecamcroatia](https://www.livecamcroatia.com/en)
+* [LiveCam Croatia](https://www.livecamcroatia.com/en)
 * [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) or [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams) - Aquarium Webcams
 * [BirdCAMs](https://birdcams.live/) - Bird Nests
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
