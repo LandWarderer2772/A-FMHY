@@ -409,19 +409,19 @@
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, Mac, Linux
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/mltframework/shotcut)
 * [Satvrn](https://rentry.co/FMHYB64#satvrn) - Video Editors / Plugins
+* [OpenShot](https://www.openshot.org/) - Video Editor / Windows, Mac, Linux
+* [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows, Mac
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
 * [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
-* [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor
-* [avisynth](http://avisynth.nl/index.php/Main_Page) or [VapourSynth](https://www.vapoursynth.com/) - Video Processors
-* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/)
-* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review
-* [Remotion](https://www.remotion.dev/) - Video Editor
-* [OpenShot](https://www.openshot.org/) - Video Editor
-* [VSDC](https://www.videosoftdev.com/) - Video Editor
-* [Pitivi](https://www.pitivi.org/) - Video Editor
+* [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor / Windows
+* [avisynth](http://avisynth.nl/index.php/Main_Page) - Video Processor / Windows, Mac, Linux
+* [VapourSynth](https://www.vapoursynth.com/) - Video Processor / Windows, Linux
+* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / Windows / [Resources](https://sfmlab.com/)
+* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review / Windows, Mac, Linux
 * [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) - Cut & Trim Videos / Windows, Mac, Linux
 * [vidcutter](https://github.com/ozmartian/vidcutter) - Cut & Trim Videos / Script
-* [Kurku](https://app.kurku.tech/) or [FreeMoCap](https://freemocap.org/) - Motion Tracking Tools
+* [FreeMoCap](https://freemocap.org/) - Motion Tracking / Windows, Mac, Linux
+* [Kurku](https://app.kurku.tech/) - Motion Tracking / Web
 
 ***
 
