@@ -416,16 +416,11 @@
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/)
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review
 * [Remotion](https://www.remotion.dev/) - Video Editor
-* [Olive](https://www.olivevideoeditor.org/) - Video Editor
 * [OpenShot](https://www.openshot.org/) - Video Editor
-* [Lightworks](https://lwks.com/) - Video Editor
 * [VSDC](https://www.videosoftdev.com/) - Video Editor
 * [Pitivi](https://www.pitivi.org/) - Video Editor
-* [Visla](https://www.visla.us/) - Video Editor
-* [Windows Movie Maker](https://www.majorgeeks.com/files/details/windows_movie_maker.html), [2](https://archive.org/details/mm26enu_202002), [3](https://archive.org/details/MM2.1And2.6_201903) - Video Editor
-* [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
-* [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) or [vidcutter](https://github.com/ozmartian/vidcutter) - Cut / Trim Videos
-* [Opus](https://www.opus.pro/) - Clip Creator
+* [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) - Cut & Trim Videos / Windows, Mac, Linux
+* [vidcutter](https://github.com/ozmartian/vidcutter) - Cut & Trim Videos / Script
 * [Kurku](https://app.kurku.tech/) or [FreeMoCap](https://freemocap.org/) - Motion Tracking Tools
 
 ***
