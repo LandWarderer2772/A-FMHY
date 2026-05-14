@@ -201,7 +201,7 @@
 * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
 * ⭐ **[mpv](https://mpv.io/)** or [VLC](https://www.videolan.org/) - Video Players
 * ⭐ **[Haruna](https://apps.kde.org/haruna/)** / [GitHub](https://github.com/KDE/haruna) or **[Celluloid](https://github.com/celluloid-player/celluloid)** - MPV Frontends
-* ⭐ **[Kdenlive](https://apps.kde.org/kdenlive/)** / [GitHub](https://github.com/KDE/kdenlive), [⁠davincibox](https://github.com/zelikos/davincibox) or [Flowblade](https://jliljebl.github.io/flowblade/) / [GitHub](https://github.com/jliljebl/flowblade) - Video Editors
+* ⭐ **[Kdenlive](https://apps.kde.org/kdenlive/)** / [GitHub](https://github.com/KDE/kdenlive), [Pitivi](https://www.pitivi.org/), [⁠davincibox](https://github.com/zelikos/davincibox) or [Flowblade](https://jliljebl.github.io/flowblade/) / [GitHub](https://github.com/jliljebl/flowblade) - Video Editors
 * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
 * [MPV Shim](https://github.com/iwalton3/plex-mpv-shim) - Cast Plex to MPV
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
@@ -369,7 +369,7 @@
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount Google Drive
 * [maestral](https://maestral.app/) - Dropbox Client
 * [aMule](https://www.amule.org/) - eMule-like P2P Client
-* [⁠OpenWRT](https://openwrt.org/) - Linux Router Firmware
+* [⁠OpenWRT](https://openwrt.org/), [DD-WRT](https://wiki.dd-wrt.com/) or [FreshTomato](https://www.freshtomato.org/) - Linux Router Firmware
 * [⁠dae](https://github.com/daeuniverse/dae) - Linux Router Performance Proxy App / [WebUI](https://github.com/daeuniverse/daed)
 * [Linux Router](https://github.com/garywill/linux-router) - Set Linux as Router
 * [Netcat](https://rentry.co/Netcat) - Networking Tool
@@ -800,6 +800,7 @@
 * [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
 * [AirBattery](https://github.com/lihaoyun6/AirBattery) or [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Device Battery Trackers
 * [Macs Fan Control](https://github.com/crystalidea/macs-fan-control) - Fan Controller
+* [WhatCable](https://whatcable.uk/) - Cable Capability Identifier / [GitHub](https://github.com/darrylmorley/whatcable)
 * [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
 * [Sentinel](https://github.com/alienator88/Sentinel) - SwiftUI Gatekeeper Config GUI
 * [⁠Nigate](https://github.com/hoochanlon/Free-NTFS-for-Mac) - NTFS Drive Read-Write Access + Mounting Tool 

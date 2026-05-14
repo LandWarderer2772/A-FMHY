@@ -135,7 +135,7 @@
 * [Virtual Yosemite](https://www.virtualyosemite.org/) - Virtual Yosemite Tour
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
 * [Basilica Viewer](https://virtual.basilicasanpietro.va/en/basilica-viewer/) - St. Peter’s Basilica Tour
-* [360Cities](https://www.360cities.net/) or [Zhijianshang](https://www.zhijianshang.com/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
+* [360Cities](https://www.360cities.net/), [Zhijianshang](https://www.zhijianshang.com/), [⁠Tas360](https://tas360.au/explore) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
 * [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
 * [National Palace Museum](https://tech2.npm.edu.tw/720vr/enHome.html) - National Palace Museum Virtual Tours
 * [The Bayeux Tapestry](https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/explore-online/) - Bayeux Tapestry 3D Digitization
@@ -708,6 +708,7 @@
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
+* [Open Logic Project](https://openlogicproject.org/) - Math Logic Teaching Materials
 * [IEoP](https://iep.utm.edu/fallacy/), [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
 * [YourBias.is](https://yourbias.is/) - Learn about Biases
@@ -1541,6 +1542,7 @@
 * [nzqa.toasting](https://nzqa.toasting.me/) - Download NZQA Past Papers
 * [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
 * [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [⁠exam-mate](https://www.exam-mate.com/pastpapers), [⁠Study Hatch](https://studyhatch.com/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
+* [⁠ISC.exe](https://class-12-isc.vercel.app/) - Indian School Certificate Examinations (ISC) Resources / Study Material
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
 
