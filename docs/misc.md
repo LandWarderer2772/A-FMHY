@@ -118,6 +118,7 @@
 * [r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) - Pizza Donation Subreddit
 * [TinyKitten](https://tinykittens.com/) - Kitten Rescue / Donation
 * [Free Rice](https://freerice.com/) - Earn Rice for the World Food Programme / Trivia
+* [⁠Folding@home](https://foldingathome.org/) - Donate Idle PC to Disease Research 
 * [⁠e-NABLE](https://enablingthefuture.org/) - Volunteer Own 3D Printer for use in Prosthetic Limb Printing
 
 ***
@@ -149,6 +150,7 @@
 * [Too Good To Go](https://www.toogoodtogo.com/) - Surplus Food Marketplace
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
 * [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
+* [⁠The Food Historian](https://www.thefoodhistorian.com/) - Food History Blog
 
 ***
 
@@ -175,7 +177,8 @@
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes
-* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes
+* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) or [Tasting History](https://www.tastinghistory.com/) - Historical Recipes
+* [⁠Gode Cookery](http://www.godecookery.com/godeboke/godeboke.htm) - Authentic Medieval Recipes & Historical Info
 * [r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
 * [r/recipes](https://reddit.com/r/recipes) - Share Recipes
 
@@ -797,7 +800,7 @@
 * [⁠FreeLife](https://rentry.org/FreeLife) - Porn Blocking Guide
 * [Plucky](https://pluckyfilter.com/) - Content Filter
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
-* [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [Unconsenting Media](https://www.unconsentingmedia.org) - Find SFW Movies
+* [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [Common Sense Media](https://www.commonsensemedia.org/) or [Unconsenting Media](https://www.unconsentingmedia.org) - Find SFW Movies
 * [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
 * [Wingman](https://github.com/wingman-jr-addon/wingman_jr) or [HaramBlur](https://haramblur.com/) / [2](https://linktr.ee/haramblur) - Block NSFW Images
 * [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addiction Meetings

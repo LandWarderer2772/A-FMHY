@@ -443,6 +443,7 @@
 * [EMRap](https://www.emrap.org/hd) - Emergency Medicine Videos
 * [Calgary Guide](https://calgaryguide.ucalgary.ca/) - Disease Pathophysiology / Manifestation Flow-Charts
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
+* [⁠Folding@home](https://foldingathome.org/) - Donate Idle PC to Disease Research
 * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
 * [Pathology Outlines](https://www.pathologyoutlines.com/) - Pathology Info
 * [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
@@ -579,8 +580,9 @@
 * [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
-* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Collection
+* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) or [Tasting History](https://www.tastinghistory.com/) - Historical Recipes
 * [⁠Gode Cookery](http://www.godecookery.com/godeboke/godeboke.htm) - Authentic Medieval Recipes & Historical Info
+* [⁠The Food Historian](https://www.thefoodhistorian.com/) - Food History Blog
 * [SmartHistory](https://smarthistory.org/) - Art / Cultural Object History
 * [⁠gwulo](https://gwulo.com/) - Historical Hong Kong Photo Archive
 * [CARI](https://cari.institute/) or [CARI Are.na](https://www.are.na/consumer-aesthetics-research-institute/channels) - Design Aesthetics History

@@ -188,7 +188,6 @@
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
 * [WhatsLink](https://whatslink.info/) - View File Download Web Metadata
 * [Magika](https://github.com/google/magika) or [TridUI](https://github.com/JMcrafter26/TridUI) - File Type Detection Tools
-* [OpenHashTab](https://github.com/namazso/OpenHashTab) - Compare / Display File Hashes
 * [TagSpaces](https://www.tagspaces.org/) or [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File Systems
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
 
