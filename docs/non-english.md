@@ -1800,6 +1800,7 @@
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
 * [TokuVN](https://tokuvn.com/) - Tokusatsu / Sub / 480p
+* [vnepg](https://rentry.co/fmhyb64#iptv-playlists) - Vietnamese IPTV Resources
 * [⁠Phim4K](https://phim4k.xyz/) - Desktop App / [Telegram](https://t.me/congdong4ker)
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo

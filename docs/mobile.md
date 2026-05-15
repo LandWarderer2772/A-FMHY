@@ -1380,7 +1380,6 @@
 * [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
 * [Pluto](https://apps.apple.com/app/id751712884) - Movies / TV
 * [⁠Uriel](https://uriel-app.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.gg/dM2RUMdSZV)
-* [⁠Mojuru](https://www.mojuru.app/) - Movies / TV / Anime / Extension-Based / [Modules](https://modulesbypaul.vercel.app/?supports=Mojuru) / [Discord](https://discord.com/invite/vv5nhvhqQD) / [GitHub](https://github.com/mojuru-app/mojuru)
 * [Mometu](https://apps.apple.com/us/app/mometu/id1609138069) - Movies / TV
 * [⁠NebuloIPTV](https://github.com/mongoosemonke504/NebuloIPTV) - Live Sports
 * [Channels Pro](https://apps.apple.com/us/app/channels-pro-iptv-player/id1491605049) - Live Sports / Insert "veve.pro"

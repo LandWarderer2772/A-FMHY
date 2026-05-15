@@ -483,7 +483,7 @@
 
 * 🌐 **[Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f)** - Twitch Extensions Index
 * ⭐ **[FrankerFacez](https://www.frankerfacez.com/)**, [BetterTTV](https://betterttv.com/) or [7TV](https://7tv.app/) - Twitch Enhancement Extensions
-* ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)**, [Sub-Vod](https://www.sub-vod.fr/) or [twitchnosub](https://twitchnosub.com/) - Watch Sub Only Twitch Videos
+* ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/twitchnosub.md), [Sub-Vod](https://www.sub-vod.fr/) or [twitchnosub](https://twitchnosub.com/) - Watch Sub Only Twitch Videos
 * ⭐ **[Stream Scheme](https://www.streamscheme.com/)** - Livestreaming Guides / Resources
 * [⁠Twitch Gearbox](https://gearbox.crunchprank.net/twitch/filter.php) - Twitch Advanced Search 
 * [Gumbo](https://github.com/seldszar/gumbo) or [Twitch-Live](https://github.com/yungsamd17/Twitch-Live) - Twitch Stream Trackers

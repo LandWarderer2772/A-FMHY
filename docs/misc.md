@@ -442,7 +442,7 @@
 ## ▷ Geography Maps
 
 * [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
-* [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
+* [⁠Tangram Heightmapper](https://tangrams.github.io/heightmapper) - World Terrain Height Map 
 * [Global Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
 * [OCEARCH](https://www.ocearch.org/tracker/) - Shark Tracker
 * [MarineTraffic](https://www.marinetraffic.com/), [CruiseMapper](https://www.cruisemapper.com/) or [MyShipTracking](https://www.myshiptracking.com/) - Live Ship Trackers
@@ -450,8 +450,6 @@
 * [Global Forest Watch](https://www.globalforestwatch.org/map/) - Interactive Forest & Tree Cover Map
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sounds Map
 * [Aporee](https://aporee.org/maps/) - World Map of Sounds
-* [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map
-* [MoveMap](https://www.movemap.io/) - North America Property Costs Map
 * [ExoRoad](https://www.exoroad.com/) - Find Places to Live via Description
 * [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
 * [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
