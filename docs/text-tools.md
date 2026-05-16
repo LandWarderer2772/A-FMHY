@@ -125,6 +125,7 @@
 * [cryptii](https://cryptii.com/) or [DenCode](https://dencode.com/) - Text / URL Encoding
 * [Coder](https://www.den4b.com/tools/coder) - Text / File / URL Encoding
 * [URLDecode](https://www.urldecode.org/) or [URL-Decode](https://url-decode.com/) - URL Encoding / Decoding
+* [SearchDecode](https://github.com/bewf/SearchDecode) - ⁠Base64 Search Decoder
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [Base64 Repair](https://base64.guru/tools/repair) - Fix Broken Base64

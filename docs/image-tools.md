@@ -231,7 +231,7 @@
 ## ▷ Meme Tools
 
 * ⭐ **[Know Your Meme](https://knowyourmeme.com/)** or [FindThatMeme](https://findthatmeme.com/) - Meme Databases
-* [ImgFlip](https://imgflip.com/memegenerator) / [Remove Watermarks](https://greasyfork.org/scripts/470387), [Meme Generator](https://www.memegenerator.top/), [Meme Town](https://meme.town/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/), [Classic Memes](https://classic.createa.meme/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
+* [ImgFlip](https://imgflip.com/memegenerator) / [Remove Watermarks](https://greasyfork.org/en/scripts/485073), [2](https://greasyfork.org/scripts/470387), [Meme Generator](https://www.memegenerator.top/), [Meme Town](https://meme.town/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/), [Classic Memes](https://classic.createa.meme/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
 * [TweetGen](https://www.tweetgen.com/) - Fake Tweet Creator
@@ -551,7 +551,7 @@
 
 ## ▷ 3D Modeling Apps
 
-* ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D Modeling App
+* ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D Modeling App / [Source Code](https://projects.blender.org/blender/blender)
 * ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app/), [GitHub](https://github.com/agmmnn/awesome-blender) / [Addons](https://t.me/BlenderUniverse/3) / [Plugins](https://t.me/blenderplugs) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
 * ⭐ **[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - All-in-one Minecraft Blender Addon / [Discord](https://discord.com/invite/mb8hBUC) / [GitHub](https://github.com/Moo-Ack-Productions/MCprep)
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects Based on Text / Image Prompts
@@ -597,6 +597,7 @@
 * [Polymaker](https://wiki.polymaker.com/) / [Discord](https://discord.com/invite/polymaker) or [Teaching Tech](https://teachingtechyt.github.io/index.html) / [GitHub](https://github.com/teachingtechYT/teachingtechYT.github.io) - 3D Printer Guides / Learning 
 * [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
 * [⁠SpoolScout](https://www.spoolscout.com/) - Search / Compare 3D Printing Filament Prices 
+* [⁠step.parts](https://www.step.parts/) - 3D Printing Step Files
 * [OrcaSlicer](https://www.orcaslicer.com/) / [X](https://x.com/real_OrcaSlicer) / [Discord](https://discord.gg/P4VE9UY9gJ) / [GitHub](https://github.com/OrcaSlicer/OrcaSlicer), [⁠PrusaSlicer](https://help.prusa3d.com/product/prusaslicer) / [GitHub](https://github.com/prusa3d/PrusaSlicer), [⁠CrealityPrint](https://github.com/CrealityOfficial/CrealityPrint) or [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - 3D Printing Software
 * [⁠e-NABLE](https://enablingthefuture.org/) - Volunteer Own 3D Printer for use in Prosthetic Limb Printing
 
@@ -769,14 +770,14 @@
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
 * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
-* [Immich](https://immich.app/) / [Storage Server](https://pixelunion.eu/) / [GitHub](https://github.com/immich-app/immich)
+* [Immich](https://immich.app/) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [GitHub](https://github.com/immich-app/immich)
 * [Damselfly](https://github.com/Webreaper/Damselfly)
 * [HomeGallery](https://home-gallery.org/)
 * [LibrePhotos](https://github.com/LibrePhotos/librephotos)
 * [Lychee](https://lycheeorg.github.io/)
 * [PhotoPrism](https://github.com/photoprism/photoprism)
 * [Photoview](https://github.com/photoview/photoview)
-* [Ente](https://help.ente.io/self-hosting/)
+* [Ente](https://help.ente.com/self-hosting/)
 * [Photonix](https://photonix.org/)
 * [photos](https://github.com/nextcloud/photos/)
 * [imagestore](https://github.com/gregordr/imagestore)
@@ -801,12 +802,12 @@
 * [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit) / [Direct Link Grabber](https://imgur.plen.io/)
 * [Google Photos](https://photos.google.com/) - 200MB / 15GB Cloud / Forever
 * [Zonerama](https://eu.zonerama.com/) - Unlimited / Forever
-* [Ente](https://ente.io/) - Unlimited / 10GB Cloud
+* [Ente](https://ente.com/) - Unlimited / 10GB Cloud
 * [Piczel](https://piczel.tv/) - 10MB / Forever / Requires Sign-Up
 * [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
 * [⁠gotohp](https://rentry.co/FMHYB64#gotohp) - Save Morphe Session for Unlimited Google Photo Uploads
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
-* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper)
+* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper) / [Migration Tool](https://github.com/garzj/google-photos-migrate)
 * [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
 
 ***

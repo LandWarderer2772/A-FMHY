@@ -118,6 +118,7 @@
 * [r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) - Pizza Donation Subreddit
 * [TinyKitten](https://tinykittens.com/) - Kitten Rescue / Donation
 * [Free Rice](https://freerice.com/) - Earn Rice for the World Food Programme / Trivia
+* [⁠Folding@home](https://foldingathome.org/) - Donate Idle PC to Disease Research 
 * [⁠e-NABLE](https://enablingthefuture.org/) - Volunteer Own 3D Printer for use in Prosthetic Limb Printing
 
 ***
@@ -149,6 +150,7 @@
 * [Too Good To Go](https://www.toogoodtogo.com/) - Surplus Food Marketplace
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
 * [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
+* [⁠The Food Historian](https://www.thefoodhistorian.com/) - Food History Blog
 
 ***
 
@@ -175,7 +177,8 @@
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes
-* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes
+* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) or [Tasting History](https://www.tastinghistory.com/) - Historical Recipes
+* [⁠Gode Cookery](http://www.godecookery.com/godeboke/godeboke.htm) - Authentic Medieval Recipes & Historical Info
 * [r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
 * [r/recipes](https://reddit.com/r/recipes) - Share Recipes
 
@@ -218,11 +221,11 @@
 * ⭐ **[Home Assistant](https://www.home-assistant.io/)** - Home Assistant / IoT / [Tracker](https://github.com/djdevil/person-tracker-card/) / [Appliances](https://github.com/Andre0512/hOn) / [GUI](https://github.com/LAB02-Research/HASS.Agent) / [Mobile Apps](https://companion.home-assistant.io/)
 * ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy)
 * [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
-* [Esphome](https://esphome.io/) - Home Assistant / IoT
+* [Esphome](https://esphome.io/) - Home Assistant / IoT / [Discord]( https://discord.com/invite/KhAMKrd) / [GitHub](https://github.com/esphome/esphome)
 * [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
 * [Exo](https://github.com/exo-explore/exo/) - Run AI Home Device Cluster / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
 * [⁠Tasmota](https://github.com/arendst/Tasmota) - Local Smart Home Firmware
-* [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
+* [BudgetDuo](https://budgetduo.com/) - Split Household Expenses / [GitHub](https://github.com/hursey013/budget-duo)
 * [OpenVoiceOS](https://www.openvoiceos.org/) - Custom Voice-Controlled Interfaces / [GitHub](https://github.com/OpenVoiceOS/)
 * [Sweet Home 3D](https://www.sweethome3d.com/), [⁠Planner5D](https://planner5d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
 * [BlockLayer](https://www.blocklayer.com/) - Construction / Remodeling Calculators
@@ -439,7 +442,7 @@
 ## ▷ Geography Maps
 
 * [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
-* [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
+* [⁠Tangram Heightmapper](https://tangrams.github.io/heightmapper) - World Terrain Height Map 
 * [Global Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
 * [OCEARCH](https://www.ocearch.org/tracker/) - Shark Tracker
 * [MarineTraffic](https://www.marinetraffic.com/), [CruiseMapper](https://www.cruisemapper.com/) or [MyShipTracking](https://www.myshiptracking.com/) - Live Ship Trackers
@@ -447,8 +450,6 @@
 * [Global Forest Watch](https://www.globalforestwatch.org/map/) - Interactive Forest & Tree Cover Map
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sounds Map
 * [Aporee](https://aporee.org/maps/) - World Map of Sounds
-* [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map
-* [MoveMap](https://www.movemap.io/) - North America Property Costs Map
 * [ExoRoad](https://www.exoroad.com/) - Find Places to Live via Description
 * [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
 * [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
@@ -663,6 +664,7 @@
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [IIB Mindfulness](https://informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/) - Meditation Techniques / Infographic
+* [⁠Pause Point](https://greasyfork.org/scripts/578391) - Add Breathing / Activity Pause Before Site Entrances
 * [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
 * [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 
@@ -797,7 +799,7 @@
 * [⁠FreeLife](https://rentry.org/FreeLife) - Porn Blocking Guide
 * [Plucky](https://pluckyfilter.com/) - Content Filter
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
-* [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [Unconsenting Media](https://www.unconsentingmedia.org) - Find SFW Movies
+* [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [Common Sense Media](https://www.commonsensemedia.org/) or [Unconsenting Media](https://www.unconsentingmedia.org) - Find SFW Movies
 * [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
 * [Wingman](https://github.com/wingman-jr-addon/wingman_jr) or [HaramBlur](https://haramblur.com/) / [2](https://linktr.ee/haramblur) - Block NSFW Images
 * [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addiction Meetings
@@ -1223,7 +1225,7 @@
 * [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
 * [⁠RetroCast Now](https://weather.com/retro/), [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/), [WeatherStar 80's](https://weatherstar3000.netbymatt.com/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [GitHub](https://github.com/MistWeatherMedia/)
 * [⁠EWG Tap Water Database](https://www.ewg.org/tapwater/) - US Drinking Water Quality Database
-* [Wheel Decide](https://wheeldecide.com/), [Spinn a Wheel](https://spinnawheel.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SWG](https://spinthewheelgenerator.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [TheSpinnerWheel](https://thespinnerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
+* [Wheel Decide](https://wheeldecide.com/), [Spinn a Wheel](https://spinnawheel.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SWG](https://spinthewheelgenerator.com/), [SpinWheelify](https://spinwheelify.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [TheSpinnerWheel](https://thespinnerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
 * [⁠Date Night Questions](https://www.datenightquestions.com/) - Friend / Date Q&A Cards
 * [SurveyHeart](https://surveyheart.com/) - Survey Creators
 * [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools
@@ -1627,7 +1629,6 @@
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
 * [PoliticalTests](https://politicaltests.github.io/) - Political Alignment Tests
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
-* [Face Shape AI](https://www.detect-face-shape.com) or [Face Shape Detectors](https://www.faceshapedetectors.org/) - Face Shape Detectors
 * [You're Getting Old](https://you.regettingold.com/) - Age Perspective
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish They Knew at Your Age
 * [MyGrandmothersLingo](https://www.sbs.com.au/mygrandmotherslingo/) - Interactive Story

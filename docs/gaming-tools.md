@@ -401,7 +401,7 @@
 * [OpenSpy](https://openspy.net/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/sMaWdbt) / [GitHub](https://github.com/openspy/openspy-core)
 * [Team XLink](https://www.teamxlink.co.uk/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/XUS9n73KSP)
 * [ZLOEmu](https://zloemu.net/) - LAN Multiplayer Fix
-* [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Fixes
+* [t7patch](https://github.com/Scroptss/T7Patch) - Black Ops 3 Fixes
 
 ***
 
@@ -634,13 +634,13 @@
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [MC Utils](https://mcutils.com/) / [Discord](https://discord.com/invite/HvPARrr55x) or [⁠MCTools](https://mc-tools.net/) - Web-Based Minecraft Toolkits
 * [Minecraft Forum](https://www.minecraftforum.net/) - Minecraft Community / Support / [Discord](https://discord.com/invite/wGrQNKX)
-* [MCPEDL](https://mcpedl.com/) - Bedrock Resources
 * [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) / [GitHub](https://github.com/birdflop/web) - Minecraft Guides / Tools
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Omniarchive](https://omniarchive.uk/) - Lost Developmental Versions Archive / [Discord](https://discord.com/invite/udX5PRKayw)
 * [SkyCrypt](https://sky.shiiyu.moe/) - Hypixel SkyBlock Stats / [Discord](https://discord.com/invite/cNgADv2kEQ) / [GitHub](https://github.com/SkyCryptWebsite/SkyCryptv2)
 * [Minecraft Java Servers](https://dankware.alwaysdata.net/minecraft-java-servers) or [Bedrock Servers](https://dankware.alwaysdata.net/minecraft-bedrock-servers) - Server Lists
+* [⁠BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Connect Consoles to Custom Minecraft Bedrock Servers
 * [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search / [Discord](https://discord.com/invite/ccleaf)
 * [Textcraft](https://textcraft.net/) - Minecraft Text & Logo Generator
 * [Blockmatic](https://blockmatic.trafficlunar.net/) - Minecraft Pixel Art Editor / [GitHub](https://github.com/trafficlunar/blockmatic)
@@ -705,6 +705,7 @@
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * ↪️ **[Mod Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_mod_.2F_resource_pack_indexes)**
 * [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) / [GitHub](https://github.com/FabricMC), [NeoForged](https://neoforged.net/) / [X](https://x.com/NeoForged_MC) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [GitHub](https://github.com/neoforged), [Forge](https://files.minecraftforge.net/) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [GitHub](https://github.com/MinecraftForge/MinecraftForge), [Quilt](https://quiltmc.org/) / [Discord](https://discord.com/invite/M7GpuyTBvy) / [GitHub](https://github.com/QuiltMC) - Mod Loaders
+* [MCPEDL](https://mcpedl.com/) - Bedrock Mod Resources
 * [ViaFabricPlus](https://modrinth.com/mod/viafabricplus), [2](https://www.curseforge.com/minecraft/mc-mods/viafabricplus) - Fabric Mod for Joining All Versions / [Discord](https://discord.com/invite/viaversion) / [GitHub](https://github.com/ViaVersion/ViaFabricPlus?tab=readme-ov-file)
 * [WorldEdit](https://enginehub.org/worldedit) / [BE](https://github.com/SIsilicon/WorldEdit-BE), [Toolchest](https://bedrocktoolchest.com/) (bedrock) or [Axiom](https://modrinth.com/mod/axiom), [2](https://axiom.moulberry.com/) / [Discord](https://discord.com/invite/axiomtool) - Building Tools / World Editors
 * Worldedit Tools - [Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
@@ -726,7 +727,7 @@
 * [Bedrock Tweaks](https://bedrocktweaks.net/) - Unofficial Vanilla Tweaks Port to Bedrock Edition / [Discord](https://discord.com/invite/xq9JpJ3) / [GitHub](https://github.com/bedrocktweaks)
 * [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
-* [⁠MCreator](https://mcreator.net/) - Minecraft Mod Creator / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [Reddit](https://www.reddit.com/r/MCreator/) / [GitHub](https://github.com/MCreator/MCreator)
+* [⁠MCreator](https://mcreator.net/) - Minecraft Mod Creator / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [Subreddit](https://www.reddit.com/r/MCreator/) / [GitHub](https://github.com/MCreator/MCreator)
 * [Packwiz](https://packwiz.infra.link/) - Modpack CLI Distribution Tool / [GitHub](https://github.com/packwiz/packwiz)
 * [ModPack Dependency Visualizer](https://arcbra.github.io/ModPack-Dependency-Visualizer/) - Visualize Modpack Dependencies / Reduce Bloat / [GitHub](https://github.com/arcbra/ModPack-Dependency-Visualizer)
 
@@ -757,7 +758,7 @@
 * 🌐 **[TMC Links](https://gist.github.com/JoakimThorsen/e90bd7a588af25ae529530987d9acc8a)** - Technical Minecraft Resources
 * 🌐 **[Minecraft Speedrunning](https://www.minecraftspeedrunning.com/)** - Minecraft Speedrunning Resources
 * ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia / [Discord](https://discord.com/invite/RUEVmTahYg)
-* ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler / [Discord](https://discord.com/invite/PAGT2fu)
+* ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler / [Discord](https://discord.com/invite/PAGT2fu) / [GitHub](https://github.com/lucko/spark)
 * ⭐ **[Minecraft Java Flags](https://unascribed.com/garden/jvm-args/)** - Java Edition Performance Tweaks
 * [Report Inspector](https://misode.github.io/report/) - Crash Report / Profiling Inspector
 * [⁠Minecraft TAS](https://minecrafttas.com/) - Minecraft TAS Community / Tools / Tutorials / [Discord](https://discord.gg/jGhNxpd)
@@ -852,7 +853,6 @@
 ## ▷ Gacha Tools
 
 * 🌐 **[Paimon.moe](https://paimon.moe/)** or [Honey Impact](https://gensh.honeyhunterworld.com/) - Genshin Impact Resources / Tools
-* 🌐 **[Honkai.gg](https://honkai.gg/)** - Honkai Star Rail Resources / Tools
 * 🌐 **[Umamusume Resources](https://steamcommunity.com/sharedfiles/filedetails/?id=3540114219)**, [2](https://rentry.co/uma-resources) - Umamusume Guides / Resources
 * ⭐ **[Prydwen](https://www.prydwen.gg/)** - Gacha Game Guides / [Discord](https://discord.gg/prydwen)
 * ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
@@ -936,6 +936,7 @@
 
 # ► Game Specific
 
+* 🌐 **[Among Us Modding](https://markbox.cc/amongusmodding)** - ⁠Among Us Resources / Guide
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
 * 🌐 **[ACNH.Directory](https://acnh.directory/)** or **[⁠NookNet](https://nooknet.net/)** / [Discord](https://discord.com/invite/RwNrqmH) - Animal Crossing: New Horizons Resources / Guides
 * 🌐 **[osu! Game Rsources](https://resources.osucord.moe/)** / [GitHub](https://github.com/osucord/resources) or **[Useful Osu](https://github.com/CarbonUwU/Useful-osu)** - Osu! Resources
@@ -953,6 +954,7 @@
 * [totk.wism.fr](https://totk.wism.fr/) - Zelda TOTK AutoBuild QR Codes
 * [Stardew.app](https://stardew.app/) - Stardew Valley Progress Tracker
 * [⁠FactorioLab](https://factoriolab.github.io/) or [Factorio Calculator](https://kirkmcdonald.github.io/calc.html) / [GitHub](https://github.com/KirkMcDonald/kirkmcdonald.github.io) - Factorio / Factory Game Calculators
+* [Satisfactory Calculator](https://satisfactory-calculator.com/) - ⁠Satisfactory Calculator
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
 * [Ready or Not Doc](https://docs.google.com/spreadsheets/d/1d89lpFDA9lo_v13iBlnhtuA6DvuUnKfPaeo0d4RBGJ4/) - Ready or Not Info
@@ -969,21 +971,17 @@
 
 * 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Pokémon Resources
 * 🌐 **[r/PTCGP Resource Guide](https://redd.it/1gf94ey)** - Pokémon TCG Pocket Resources
+* ↪️ **[Pokémon Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_pokemon)**
 * ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
 * ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Awesome](https://pokemon-awesome.vercel.app/), [PocketMonsters.net](https://pocketmonsters.net/) or [Pokémon Database](https://pokemondb.net/) - Pokémon Databases
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)** or [PokeAPI](https://pokeapi.co/) - Pokédexes
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** or [Type Calculator](https://www.pkmn.help/) - Pokémon Type Charts
-* ⭐ **[PokeMMO](https://pokemmo.com/)**, [DelugeRPG](https://www.delugerpg.com/), [Pokemon Blaze Online](https://pokemonblazeonline.com/) / [Discord](https://discord.com/invite/b3ZnXuf5fk) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs
-* ⭐ **[PokéRogue](https://pokerogue.net/)** / [Wiki](https://wiki.pokerogue.net/start) / [Mobile](https://github.com/Admiral-Billy/Pokerogue-App) / [Subreddit](https://reddit.com/r/pokerogue/) / [Discord](https://discord.com/invite/uWpTfdKG49) or [⁠Pokelike](https://pokelike.xyz/) / [Discord](https://discord.gg/YsakfWStYq) - Pokémon Roguelike Games 
-* ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokémon Community
 * [Project Pokémon](https://projectpokemon.org/) - Pokémon Tools, Saves, etc.
 * [⁠The Cave of Dragonflies](https://www.dragonflycave.com/) - Pokémon Mechanics Guides / Calculators & more
 * [Pokémon Damage Calculator](https://www.kinglercalc.com/) - Full Series Damage Calculator
 * [⁠Smogon](https://www.smogon.com/) - Competitive Pokémon Guides / [Discord](https://discord.gg/smogon)
-* [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [pret](https://github.com/orgs/pret/repositories) - Pokémon Disassembly / Decompilation Projects
-* [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * [PMD Generators](https://syphist.com/pmd/) - Pokémon Mystery Dungeon Generators
 * [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond / Shining Pearl Mods
@@ -991,7 +989,6 @@
 * [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/) - Randomize Pokémon (works for GBA to 3DS)
 * [NYCPokeMap](https://nycpokemap.com/) - Real-Time Pokémon GO Map for NYC
 * [PkmnCards](https://pkmncards.com/), [Pokéllector](https://www.pokellector.com/) or [Limitless](https://limitlesstcg.com/) - Pokémon Card Databases / Resources
-* [TCG ONE](https://tcgone.net/) - Online Pokémon Card Game / [Discord](https://discord.gg/MTBGxVE)
 * [unite-db](https://unite-db.com/) - Pokémon Unite Database
 * [HelixChamber](https://helixchamber.com/) - Unused Pokémon Material
 

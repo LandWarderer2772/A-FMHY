@@ -143,7 +143,7 @@
 * [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Linux Package Database
 * [AppImageHub](https://www.appimagehub.com/) / [GUI](https://github.com/prateekmedia/appimagepool), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
-* [emplace](https://github.com/tversteeg/emplace) - System Package Sync
+* [emplace](https://codeberg.org/fosk/emplace) - System Package Sync
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 
 ***
@@ -221,7 +221,7 @@
 
 * 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) 
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins/ / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) 
 * ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** / [GitLab](https://gitlab.gnome.org/World/Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
 * ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 * [puddletag](https://docs.puddletag.net/) - Metadata Organizer / [GitHub](https://github.com/puddletag/puddletag)
@@ -662,6 +662,7 @@
 ## ▷ Mac Video
 
 * [IINA](https://iina.io/) - Video Player
+* [Fusion](https://fusionapp.dev/) - Streaming App w/ Stremio Addon Support / [Discord](https://discord.gg/frkaK2B2Y9)
 * [Hayase](https://hayase.watch/) - Anime Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Wiki](https://wiki.hayase.watch/)
 * [AnymeX](https://anymex.vercel.app/) - Anime Streaming App / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 * [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) or [Yattee](https://github.com/yattee/yattee) - YouTube Players
@@ -674,7 +675,7 @@
 ## ▷ Mac Audio
 
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
 * [cliamp](https://www.cliamp.stream/) - TUI Audio Player / [GitHub](https://github.com/bjarneo/cliamp)
 * [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player

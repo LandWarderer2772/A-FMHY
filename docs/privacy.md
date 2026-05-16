@@ -108,7 +108,7 @@
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/)** / [X](https://x.com/malwarebytes) or [ESET](https://rentry.co/FMHYB64#eset) - Antivirus
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware / [X](https://x.com/malwarebytes)
-* ⭐ **[Triage](https://tria.ge/)** or [Cuckoo](https://cuckoo.cert.ee/) / [2](https://sandbox.pikker.ee/) - Online Sandboxes
+* ⭐ **[Triage](https://tria.ge/)**, [ANY.RUN](https://any.run/) / [DIscord](https://discord.gg/anyrun) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/anyrun-note.md) or [Cuckoo](https://cuckoo.cert.ee/) / [2](https://sandbox.pikker.ee/) - Online Sandboxes
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
 * ⭐ **[FMHY SafeGuard](https://fmhy.github.io/FMHY-SafeGuard/)** - Detects if Current Site is Trusted / Untrusted / [GitHub](https://github.com/fmhy/FMHY-SafeGuard)
 * [BleepingComputer](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/malware-removal-forums.md)
@@ -214,6 +214,7 @@
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [GitLab](https://i2pgit.org/)
 * [Freenet](https://freenet.org/) - Decentralized P2P Web
 * [Hyphanet](https://www.hyphanet.org/) - Decentralized P2P Web / [GitHub](https://github.com/hyphanet)
+* [⁠RustNet](https://github.com/domcyrus/rustnet) - Network Monitor TUI 
 * [Simplewall](https://github.com/henrypp/simplewall) - Firewall
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
@@ -264,6 +265,7 @@
 * [⁠Phoenix](https://codeberg.org/celenity/Phoenix) - Firefox Privacy Tweak / [GitHub](https://github.com/celenityy/Phoenix) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [Brave Browser](https://brave.com/) - Privacy Chromium Browser / [Subreddit](https://www.reddit.com/r/brave_browser/) / [GitHub](https://github.com/brave/brave-browser)
 * [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
+* [⁠Disable JavaScript](https://disable-javascript.org/) - JavaScript Disabling Guide / Can Break Sites / Whitelisting Required
 
 ***
 
@@ -271,7 +273,7 @@
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support / [GitHub](https://github.com/2factorauth/twofactorauth)
 * ↪️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
-* ⭐ **[Ente Auth](https://ente.io/auth/)** - 2FA / All Platforms / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
+* ⭐ **[Ente Auth](https://ente.com/auth/)** - 2FA / All Platforms / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
 * ⭐ **[Aegis](https://getaegis.app/)** - 2FA / Android / [X](https://x.com/beemdevelopment) / [GitHub](https://github.com/beemdevelopment/Aegis)
 * ⭐ **[Stratum](https://stratumauth.com)** - 2FA / Android / [GitHub](https://github.com/stratumauth/app)
 * ⭐ **[Password Strength Chart](https://i.ibb.co/B2Vz3hSj/89x5g3t4xrxe1.png)**
@@ -482,6 +484,7 @@
 * [Streisand](https://streisand.pages.dev/) - Proxy Client / Mac, iOS
 * [⁠FlClash](https://github.com/chen08209/FlClash/blob/main/README.md) / Windows, Mac, Linux, Android
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Client / Android
+* [⁠Exclave](https://github.com/dyhkwong/Exclave) - Proxy Client / Android
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / Windows, Mac, Android
 * [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy / Windows, Mac, Linux
 

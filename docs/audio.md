@@ -31,8 +31,6 @@
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)** - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev), [4](https://lossless.wtf/) - Browser Music / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
-* ⭐ **[DAB Music Player](https://dabmusic.xyz/)** - Browser Music / Lossless / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
-* ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User-Made & User-Uploaded Songs
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
@@ -108,6 +106,7 @@
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix)** - BBC Radio 1 Essential Mix Archive + Guide / [Downloader](https://rentry.co/bbcemdl)
 * ⭐ **[MiroPPB](https://miroppb.com/)** - A State of Trance Archive / DJ Mixes / [Downloader](https://rentry.co/asotdl)
+* ⭐ **[setlist.fm](https://www.setlist.fm/)** - Setlist Database
 * [r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs), [OperaVision](https://operavision.eu/) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings / Opera
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
 * [Relisten](https://relisten.net/) - Concert Recordings / [GitHub](https://github.com/relistennet)
@@ -134,7 +133,6 @@
 * [RHCPLiveArchive](https://www.rhcplivearchive.com/) - Red Hot Chili Peppers Live Archive
 * [Radio Nowhere](https://rentry.co/FMHYB64#radio-nowhere) - Bruce Springsteen Concerts / Bootlegs
 * [Phish.in](https://phish.in/) - Phish Live Archive / [Mobile](https://play.google.com/store/apps/details?id=never.ending.splendor) / [Discord](https://discord.gg/KZWFsNN)
-* [setlist.fm](https://www.setlist.fm/) - Setlist Database
 
 ***
 
@@ -332,8 +330,8 @@
 
 * 🌐 **[Awesome Spotify Stats](https://github.com/hugo9655/awesome-spotify-stats)** - Listening Statistics Index
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Notes](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** - Ad-Free Spotify Patcher / [Telegram](https://t.me/SpotxCommunity)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Notes](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [⁠Spot SponsorBlock](https://spotsponsorblock.org/) - Skip Sponsored Spotify Podcast Ads / [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension)
 * [Lofi](https://www.lofi.rocks/) - Mini Spotify Player Widget / [GitHub](https://github.com/dvx/lofi)
 * [Trikatuka](https://trikatuka.aknakn.eu/) - Migrate Spotify Data to New Accounts
@@ -383,10 +381,10 @@
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Amazon Music / KHInsider / Qobuz / Soundcloud / Tidal / FLAC
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev), [4](https://lossless.wtf/) - FLAC / MP3 / Lossless / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* ⭐ **[DAB Music Player](https://dabmusic.xyz)** - FLAC / [Download CLI](https://github.com/PrathxmOp/dab-downloader) / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [Jumo-DL](https://jumo-dl.pages.dev/) - FLAC / MP3
 * [QQDL](https://tidal.qqdl.site/) - Tidal / FLAC
 * [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / AAC-M4A / ALAC / Atmos
+* [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / ALAC / AAC / MP3 / [Telegram](https://t.me/antraaverse)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site / MP3
 * [EzConv](https://ezconv.cc/) - YouTube / 256kb
@@ -402,7 +400,7 @@
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
 * [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)
-* [⁠Antra](https://github.com/anandprtp/Antra) - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites
+* [⁠Antra](https://github.com/anandprtp/Antra) - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites / [Telegram](https://t.me/antraaverse)
 * [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer)
@@ -616,7 +614,7 @@
 
 ## ▷ Game Soundtracks
 
-* ⭐ **[Khinsider](https://downloads.khinsider.com/)** - Game Soundtracks / MP3 / FLAC / ALAC / [Downloader](https://github.com/killshott3r/khinsider), [2](https://github.com/weespin/KhinsiderDownloader)
+* ⭐ **[Khinsider](https://downloads.khinsider.com/)** - Game Soundtracks / MP3 / FLAC / ALAC
 * [RetroTracks](https://retro.sx/) - Retro Game Soundtracks / MP3
 * [The 16-bit Audiophile Project](https://16bap.theclassicgamer.net/) - Retro Game Soundtracks / FLAC
 * [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
@@ -645,7 +643,7 @@
 # ► Tracking / Databases
 
 * ⭐ **[RateYourMusic](https://rateyourmusic.com/)** - Ratings / Reviews / [Add Features](https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/) / [Forum](https://rym.fm/)
-* ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_last.fm_tools) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
+* ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_last.fm_tools), [Libre.fm](https://libre.fm/) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
 * ⭐ **[Muspy](https://muspy.com/)**, [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5), [Drop Watch](https://drop-watch.ghost.io/), [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV Shows
 * ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database

@@ -102,7 +102,6 @@
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
 * [namae](https://namae.dev/) - App Name Availability Check
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
-* [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - .NET Debugger and Assembly Editor
 * [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
 * [Slint](https://slint.dev) - GUI Development Tools / [GitHub](https://github.com/slint-ui/slint)
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
@@ -271,7 +270,7 @@
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)**, [OpenRouter](https://openrouter.ai/models?max_price=0) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * 🌐 **[AI Price Compare](https://countless.dev/)** or **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
-* ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku), [Shizuku Fork](https://github.com/thedjchi/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
+* ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku), **[Shizuku Fork](https://github.com/thedjchi/Shizuku)** or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [⁠CoorenLabs](https://coorenlabs.com/) / [Discord](https://discord.gg/r5tfDZmADV) / [GitHub](https://github.com/coorenlabs/cooren) or [Consumet](https://docs.consumet.org/list-of-providers) - Piracy Site Metadata APIs / Scraping
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
@@ -282,7 +281,7 @@
 * [Posting](https://posting.sh/) / [GitHub](https://github.com/darrenburns/posting), [Insomnia](https://insomnia.rest/) or [Yaak](https://yaak.app/) - API Clients
 * [Bruno](https://www.usebruno.com/) - API Testing Client
 * [ReDoc](https://redocly.github.io/redoc/) - Generate API Documentation
-* [Mockable](https://www.mockable.io/), [{JSON} Placeholder](https://jsonplaceholder.typicode.com/), [jsoning](https://jsoning.com/api/) or [MockLab](https://www.wiremock.io/) - Mock APIs
+* [Mockable](https://www.mockable.io/), [{JSON} Placeholder](https://jsonplaceholder.typicode.com/), [jsoning](https://jsoning.com/api/) or [WireMmock Cloud](https://www.wiremock.io/) - Mock APIs
 * [Mockae](https://mockae.com/) - Mock APIs with Lua Execution
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API
@@ -291,7 +290,6 @@
 * [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket / [Discord](https://discord.gg/lanyard)
 * [Telegram Bot API](https://core.telegram.org/bots) / [GitHub](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Serverless Telegram Bot / [GitHub](https://github.com/codebam/cf-workers-telegram-bot)
-* [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
 * [PDF Bot](https://github.com/esbenp/pdf-bot) - A Node queue API for generating PDFs
 
@@ -524,8 +522,8 @@
 
 ***
 
+* ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
 * ⭐ **[Aider](https://aider.chat/)** - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
-* [OpenCode](https://opencode.ai/) - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
 * [Gemini CLI](https://geminicli.com/), [2](https://google-gemini.github.io/gemini-cli/) - Coding AI / Gemini 3 Flash/Pro / [GitHub](https://github.com/google-gemini/gemini-cli)
 * [Windsurf](https://www.windsurf.com/) - Agentic IDE With Tab Completion / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) - Autonomous VS Code Agents
@@ -546,7 +544,7 @@
 
 ## ▷ AI Web Coding
 
-* [Arena](https://arena.ai/code) - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / Reset Limits w/ Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [Arena](https://arena.ai/code) - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Design Arena](https://www.designarena.ai/) - Multiple Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠Z.ai](https://chat.z.ai/) - GLM-5.1 / GLM-5 Turbo / Coding AI / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK)
 * [Kimi](https://www.kimi.com/agent) - Kimi K2.6 (Thinking) / Coding AI / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
@@ -1212,6 +1210,7 @@
 * [Rizin](https://rizin.re/) or [Cutter](https://cutter.re/) - Reverse Engineering Framework
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
 * [REMnux](https://remnux.org/) - Reverse Engineering / Malware Analysis
+* [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - .NET Debugger and Assembly Editor
 * [ROP Emporium](https://ropemporium.com/) - Learn Return-Oriented Programming
 * [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) / [GitHub](https://github.com/kefir500/apk-editor-studio) or [APKTool](https://apktool.org/) / [GitHub](https://github.com/iBotPeaches/Apktool) - APK Reverse Engeineering
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering

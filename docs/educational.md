@@ -443,6 +443,7 @@
 * [EMRap](https://www.emrap.org/hd) - Emergency Medicine Videos
 * [Calgary Guide](https://calgaryguide.ucalgary.ca/) - Disease Pathophysiology / Manifestation Flow-Charts
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
+* [⁠Folding@home](https://foldingathome.org/) - Donate Idle PC to Disease Research
 * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
 * [Pathology Outlines](https://www.pathologyoutlines.com/) - Pathology Info
 * [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
@@ -579,8 +580,9 @@
 * [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
-* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Collection
+* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) or [Tasting History](https://www.tastinghistory.com/) - Historical Recipes
 * [⁠Gode Cookery](http://www.godecookery.com/godeboke/godeboke.htm) - Authentic Medieval Recipes & Historical Info
+* [⁠The Food Historian](https://www.thefoodhistorian.com/) - Food History Blog
 * [SmartHistory](https://smarthistory.org/) - Art / Cultural Object History
 * [⁠gwulo](https://gwulo.com/) - Historical Hong Kong Photo Archive
 * [CARI](https://cari.institute/) or [CARI Are.na](https://www.are.na/consumer-aesthetics-research-institute/channels) - Design Aesthetics History
@@ -690,7 +692,10 @@
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
 * [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
+* [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map
+* [MoveMap](https://www.movemap.io/) - North America Property Costs Map
 * [⁠Opportunity Atlas](https://www.opportunityatlas.org/) - Interactive Future Success Impact Map
+* [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
 * [Wealth, Shown to Scale](https://wealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
@@ -889,7 +894,6 @@
 * [Listudy](https://listudy.org/en) - Chess Lessons
 * [Chessable](https://www.chessable.com/) - Chess Lessons
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Learn / Practice Chess
-* [HerculesChess](https://herculeschess.com/) - Learn / Practice Chess
 * [Chess Tempo](https://chesstempo.com/) - Chess Practice
 * [Lucas Chess](https://lucaschess.pythonanywhere.com/) - Chess Practice
 * [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
@@ -1223,7 +1227,7 @@
 * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)**, [Git Commands](https://gabrieldejesus.github.io/git-commands/) or [Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;) - Git Command Lists
-* ⭐ **[OpenVim](https://openvim.com/)** or [Vim Hero](https://www.vim-hero.com/) - Interactive Vim Tutorials
+* ⭐ **[OpenVim](https://openvim.com/)** - Interactive Vim Tutorials
 * ⭐ **[StarSQL](https://selectstarsql.com/)**, [⁠SQL Practice](https://www.sql-practice.online/) or [Learn SQL](https://sqlbolt.com/) - SQL Lessons / Practice
 * [First Timers Only](https://www.firsttimersonly.com/) - Contribution Guide for Beginners
 * [Beej's Guide to Git](https://beej.us/guide//) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
@@ -1733,7 +1737,7 @@
 * ⭐ **[EncycloSearch](https://encyclosearch.org/)** - Encyclopedia Search Engines
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
-* [Simple Wiki](https://simple.wikipedia.org/wiki/Main_Page) - Simplified Wikipedia / [Auto-Redirect](https://rentry.co/simplewikifirefox)
+* [Simple Wiki](https://simple.wikipedia.org/wiki/Main_Page) - Simplified Wikipedia
 * [namuwiki](https://en.namu.wiki/) - Korean Encyclopedia
 * [Britannica](https://www.britannica.com/)
 * [EverybodyWiki](https://en.everybodywiki.com/)
