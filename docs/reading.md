@@ -372,7 +372,7 @@
 
 ## ▷ Comics
 
-* ⭐ **[ReadComicsOnline](https://rcostation.xyz/)**
+* ⭐ **[ReadComicOnline](https://rcostation.xyz/)**
 * ⭐ **[BatCave](https://batcave.biz/)** - May Require VPN
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
