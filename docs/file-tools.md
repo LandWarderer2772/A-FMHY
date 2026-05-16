@@ -331,7 +331,7 @@
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
-* [Send.now](https://send.now/) - 100GB / 15 Days After Last Download
+* [Send.now](https://send.now/) - 100GB / 30 Days After Last Download (w/ Account)
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz

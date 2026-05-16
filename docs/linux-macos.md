@@ -662,6 +662,7 @@
 ## ▷ Mac Video
 
 * [IINA](https://iina.io/) - Video Player
+* [Fusion](https://fusionapp.dev/) - Streaming App w/ Stremio Addon Support / [Discord](https://discord.gg/frkaK2B2Y9)
 * [Hayase](https://hayase.watch/) - Anime Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Wiki](https://wiki.hayase.watch/)
 * [AnymeX](https://anymex.vercel.app/) - Anime Streaming App / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 * [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) or [Yattee](https://github.com/yattee/yattee) - YouTube Players

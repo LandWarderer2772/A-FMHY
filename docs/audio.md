@@ -31,7 +31,6 @@
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)** - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev), [4](https://lossless.wtf/) - Browser Music / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
-* ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User-Made & User-Uploaded Songs
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
@@ -107,6 +106,7 @@
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix)** - BBC Radio 1 Essential Mix Archive + Guide / [Downloader](https://rentry.co/bbcemdl)
 * ⭐ **[MiroPPB](https://miroppb.com/)** - A State of Trance Archive / DJ Mixes / [Downloader](https://rentry.co/asotdl)
+* ⭐ **[setlist.fm](https://www.setlist.fm/)** - Setlist Database
 * [r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs), [OperaVision](https://operavision.eu/) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings / Opera
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
 * [Relisten](https://relisten.net/) - Concert Recordings / [GitHub](https://github.com/relistennet)
@@ -133,7 +133,6 @@
 * [RHCPLiveArchive](https://www.rhcplivearchive.com/) - Red Hot Chili Peppers Live Archive
 * [Radio Nowhere](https://rentry.co/FMHYB64#radio-nowhere) - Bruce Springsteen Concerts / Bootlegs
 * [Phish.in](https://phish.in/) - Phish Live Archive / [Mobile](https://play.google.com/store/apps/details?id=never.ending.splendor) / [Discord](https://discord.gg/KZWFsNN)
-* [setlist.fm](https://www.setlist.fm/) - Setlist Database
 
 ***
 
@@ -331,8 +330,8 @@
 
 * 🌐 **[Awesome Spotify Stats](https://github.com/hugo9655/awesome-spotify-stats)** - Listening Statistics Index
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Notes](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** - Ad-Free Spotify Patcher / [Telegram](https://t.me/SpotxCommunity)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Notes](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [⁠Spot SponsorBlock](https://spotsponsorblock.org/) - Skip Sponsored Spotify Podcast Ads / [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension)
 * [Lofi](https://www.lofi.rocks/) - Mini Spotify Player Widget / [GitHub](https://github.com/dvx/lofi)
 * [Trikatuka](https://trikatuka.aknakn.eu/) - Migrate Spotify Data to New Accounts

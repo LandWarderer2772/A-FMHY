@@ -634,13 +634,13 @@
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [MC Utils](https://mcutils.com/) / [Discord](https://discord.com/invite/HvPARrr55x) or [⁠MCTools](https://mc-tools.net/) - Web-Based Minecraft Toolkits
 * [Minecraft Forum](https://www.minecraftforum.net/) - Minecraft Community / Support / [Discord](https://discord.com/invite/wGrQNKX)
-* [MCPEDL](https://mcpedl.com/) - Bedrock Resources
 * [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) / [GitHub](https://github.com/birdflop/web) - Minecraft Guides / Tools
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Omniarchive](https://omniarchive.uk/) - Lost Developmental Versions Archive / [Discord](https://discord.com/invite/udX5PRKayw)
 * [SkyCrypt](https://sky.shiiyu.moe/) - Hypixel SkyBlock Stats / [Discord](https://discord.com/invite/cNgADv2kEQ) / [GitHub](https://github.com/SkyCryptWebsite/SkyCryptv2)
 * [Minecraft Java Servers](https://dankware.alwaysdata.net/minecraft-java-servers) or [Bedrock Servers](https://dankware.alwaysdata.net/minecraft-bedrock-servers) - Server Lists
+* [⁠BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Connect Consoles to Custom Minecraft Bedrock Servers
 * [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search / [Discord](https://discord.com/invite/ccleaf)
 * [Textcraft](https://textcraft.net/) - Minecraft Text & Logo Generator
 * [Blockmatic](https://blockmatic.trafficlunar.net/) - Minecraft Pixel Art Editor / [GitHub](https://github.com/trafficlunar/blockmatic)
@@ -705,6 +705,7 @@
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * ↪️ **[Mod Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_mod_.2F_resource_pack_indexes)**
 * [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) / [GitHub](https://github.com/FabricMC), [NeoForged](https://neoforged.net/) / [X](https://x.com/NeoForged_MC) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [GitHub](https://github.com/neoforged), [Forge](https://files.minecraftforge.net/) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [GitHub](https://github.com/MinecraftForge/MinecraftForge), [Quilt](https://quiltmc.org/) / [Discord](https://discord.com/invite/M7GpuyTBvy) / [GitHub](https://github.com/QuiltMC) - Mod Loaders
+* [MCPEDL](https://mcpedl.com/) - Bedrock Mod Resources
 * [ViaFabricPlus](https://modrinth.com/mod/viafabricplus), [2](https://www.curseforge.com/minecraft/mc-mods/viafabricplus) - Fabric Mod for Joining All Versions / [Discord](https://discord.com/invite/viaversion) / [GitHub](https://github.com/ViaVersion/ViaFabricPlus?tab=readme-ov-file)
 * [WorldEdit](https://enginehub.org/worldedit) / [BE](https://github.com/SIsilicon/WorldEdit-BE), [Toolchest](https://bedrocktoolchest.com/) (bedrock) or [Axiom](https://modrinth.com/mod/axiom), [2](https://axiom.moulberry.com/) / [Discord](https://discord.com/invite/axiomtool) - Building Tools / World Editors
 * Worldedit Tools - [Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
@@ -726,7 +727,7 @@
 * [Bedrock Tweaks](https://bedrocktweaks.net/) - Unofficial Vanilla Tweaks Port to Bedrock Edition / [Discord](https://discord.com/invite/xq9JpJ3) / [GitHub](https://github.com/bedrocktweaks)
 * [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
-* [⁠MCreator](https://mcreator.net/) - Minecraft Mod Creator / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [Reddit](https://www.reddit.com/r/MCreator/) / [GitHub](https://github.com/MCreator/MCreator)
+* [⁠MCreator](https://mcreator.net/) - Minecraft Mod Creator / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [Subreddit](https://www.reddit.com/r/MCreator/) / [GitHub](https://github.com/MCreator/MCreator)
 * [Packwiz](https://packwiz.infra.link/) - Modpack CLI Distribution Tool / [GitHub](https://github.com/packwiz/packwiz)
 * [ModPack Dependency Visualizer](https://arcbra.github.io/ModPack-Dependency-Visualizer/) - Visualize Modpack Dependencies / Reduce Bloat / [GitHub](https://github.com/arcbra/ModPack-Dependency-Visualizer)
 
@@ -852,7 +853,6 @@
 ## ▷ Gacha Tools
 
 * 🌐 **[Paimon.moe](https://paimon.moe/)** or [Honey Impact](https://gensh.honeyhunterworld.com/) - Genshin Impact Resources / Tools
-* 🌐 **[Honkai.gg](https://honkai.gg/)** - Honkai Star Rail Resources / Tools
 * 🌐 **[Umamusume Resources](https://steamcommunity.com/sharedfiles/filedetails/?id=3540114219)**, [2](https://rentry.co/uma-resources) - Umamusume Guides / Resources
 * ⭐ **[Prydwen](https://www.prydwen.gg/)** - Gacha Game Guides / [Discord](https://discord.gg/prydwen)
 * ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
@@ -936,6 +936,7 @@
 
 # ► Game Specific
 
+* 🌐 **[Among Us Modding](https://markbox.cc/amongusmodding)** - ⁠Among Us Resources / Guide
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
 * 🌐 **[ACNH.Directory](https://acnh.directory/)** or **[⁠NookNet](https://nooknet.net/)** / [Discord](https://discord.com/invite/RwNrqmH) - Animal Crossing: New Horizons Resources / Guides
 * 🌐 **[osu! Game Rsources](https://resources.osucord.moe/)** / [GitHub](https://github.com/osucord/resources) or **[Useful Osu](https://github.com/CarbonUwU/Useful-osu)** - Osu! Resources
@@ -953,6 +954,7 @@
 * [totk.wism.fr](https://totk.wism.fr/) - Zelda TOTK AutoBuild QR Codes
 * [Stardew.app](https://stardew.app/) - Stardew Valley Progress Tracker
 * [⁠FactorioLab](https://factoriolab.github.io/) or [Factorio Calculator](https://kirkmcdonald.github.io/calc.html) / [GitHub](https://github.com/KirkMcDonald/kirkmcdonald.github.io) - Factorio / Factory Game Calculators
+* [Satisfactory Calculator](https://satisfactory-calculator.com/) - ⁠Satisfactory Calculator
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
 * [Ready or Not Doc](https://docs.google.com/spreadsheets/d/1d89lpFDA9lo_v13iBlnhtuA6DvuUnKfPaeo0d4RBGJ4/) - Ready or Not Info

@@ -203,7 +203,7 @@
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
 * ⭐ **[XDA](https://xdaforums.com/)** - Android Discussion Forum / [Discord](https://discord.com/invite/e4v8qtkcBw)
 * ⭐ **[ADB AppControl](https://adbappcontrol.com/en/)** / [GUI](https://aya.liriliri.io/), [2](https://github.com/Alex4SSB/ADB-Explorer) / [Telegram](https://t.me/AdbAppControl_En), **[scrcpy](https://github.com/Genymobile/scrcpy)** / [Mobile App](https://github.com/zwc456baby/ScrcpyForAndroid) / [Subreddit](https://www.reddit.com/r/scrcpy), **[PlainApp](https://docs.plain.icu/)** / [GitHub](https://github.com/ismartcoding/plain-docs), [WebADB](https://app.webadb.com/), [QtScrcpy](https://github.com/barry-ran/QtScrcpy) or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers / Controllers
-* ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku), [Shizuku Fork](https://github.com/thedjchi/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API
+* ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku), **[Shizuku Fork](https://github.com/thedjchi/Shizuku)** or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API
 * [Plexus](https://plexus.techlore.tech/) - De-Googled Device Compatibility / [GitHub](https://github.com/techlore/Plexus-app)
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
@@ -978,7 +978,7 @@
 * ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page), [2](https://recloudstream.github.io/csdocs/) / [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
 * ⭐ **[Kodi](https://kodi.tv/)** - [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[HDO Box](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hdo-box-note.md) 
-* ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
+* ⭐ **[Syncler](https://syncler.net/)** or [Syncler Beta](https://beta.syncler.net/) - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)** or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
 * [CineHD](https://cinehd.xyz/) - Movies / TV / Anime / Drama / Live TV
 * [⁠FlixQuest](https://flixquest.beamlak.dev/) - Movies / TV / [GitHub](https://github.com/BeamlakAschalew/flixquest)
@@ -1321,8 +1321,8 @@
 
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotC-Plus-Plus)
 * ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** - Modded YouTube Music / Ad-Free / [Discord](https://discord.gg/BhdUyCbgkZ)
-* ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader / Playlist Extractor
-* [EeveeSpotifyRevivedPublic](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) - Spotify / Ad-Free / Sideloaded / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)
+* ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader / Playlist Extractor / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)
+* [EeveeSpotifyRevivedPublic](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) - Spotify / Ad-Free / Sideloaded 
 * [Cosmos Music Player](https://github.com/clquwu/Cosmos-Music-Player), [VOX](https://apps.apple.com/app/id916215494), [Jewelcase](https://jewelcase.app/), [FooBar](https://apps.apple.com/us/app/foobar2000/id1072807669), [⁠Eclipse](https://eclipsemusic.app/) / [Discord](https://discord.gg/sNG37F27eY) or [Melodista](https://apps.apple.com/app/id1293175325) - Audio Players
 * [⁠8SPINE](https://testflight.apple.com/join/WpRgRCDm) - Module-Based Streaming / Downloading / [Modules](https://8spine-modules.vercel.app/)
 * [⁠Eclipse](https://eclipsemusic.app/) - Module-Based Streaming / [Discord](https://discord.gg/sNG37F27eY)
@@ -1368,7 +1368,7 @@
 # ► iOS Streaming
 
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
-* ⭐ **[Nuvio](https://nuvioapp.space/)** / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Web Stremio](https://web.stremio.com/) / [Guide](https://blog.stremio.com/using-stremio-web-on-iphone-ipad/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* ⭐ **[Nuvio](https://nuvioapp.space/)** / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9) or [Web Stremio](https://web.stremio.com/) / [Guide](https://blog.stremio.com/using-stremio-web-on-iphone-ipad/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * ⭐ **[Luna](https://github.com/cranci1/Luna)** - Movies / TV / Anime / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync

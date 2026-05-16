@@ -894,7 +894,6 @@
 * [Listudy](https://listudy.org/en) - Chess Lessons
 * [Chessable](https://www.chessable.com/) - Chess Lessons
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Learn / Practice Chess
-* [HerculesChess](https://herculeschess.com/) - Learn / Practice Chess
 * [Chess Tempo](https://chesstempo.com/) - Chess Practice
 * [Lucas Chess](https://lucaschess.pythonanywhere.com/) - Chess Practice
 * [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
@@ -1738,7 +1737,7 @@
 * ⭐ **[EncycloSearch](https://encyclosearch.org/)** - Encyclopedia Search Engines
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
-* [Simple Wiki](https://simple.wikipedia.org/wiki/Main_Page) - Simplified Wikipedia / [Auto-Redirect](https://rentry.co/simplewikifirefox)
+* [Simple Wiki](https://simple.wikipedia.org/wiki/Main_Page) - Simplified Wikipedia
 * [namuwiki](https://en.namu.wiki/) - Korean Encyclopedia
 * [Britannica](https://www.britannica.com/)
 * [EverybodyWiki](https://en.everybodywiki.com/)

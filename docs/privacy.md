@@ -484,6 +484,7 @@
 * [Streisand](https://streisand.pages.dev/) - Proxy Client / Mac, iOS
 * [⁠FlClash](https://github.com/chen08209/FlClash/blob/main/README.md) / Windows, Mac, Linux, Android
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Client / Android
+* [⁠Exclave](https://github.com/dyhkwong/Exclave) - Proxy Client / Android
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / Windows, Mac, Android
 * [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy / Windows, Mac, Linux
 

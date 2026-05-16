@@ -221,11 +221,11 @@
 * ⭐ **[Home Assistant](https://www.home-assistant.io/)** - Home Assistant / IoT / [Tracker](https://github.com/djdevil/person-tracker-card/) / [Appliances](https://github.com/Andre0512/hOn) / [GUI](https://github.com/LAB02-Research/HASS.Agent) / [Mobile Apps](https://companion.home-assistant.io/)
 * ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy)
 * [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
-* [Esphome](https://esphome.io/) - Home Assistant / IoT
+* [Esphome](https://esphome.io/) - Home Assistant / IoT / [Discord]( https://discord.com/invite/KhAMKrd) / [GitHub](https://github.com/esphome/esphome)
 * [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
 * [Exo](https://github.com/exo-explore/exo/) - Run AI Home Device Cluster / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
 * [⁠Tasmota](https://github.com/arendst/Tasmota) - Local Smart Home Firmware
-* [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
+* [BudgetDuo](https://budgetduo.com/) - Split Household Expenses / [GitHub](https://github.com/hursey013/budget-duo)
 * [OpenVoiceOS](https://www.openvoiceos.org/) - Custom Voice-Controlled Interfaces / [GitHub](https://github.com/OpenVoiceOS/)
 * [Sweet Home 3D](https://www.sweethome3d.com/), [⁠Planner5D](https://planner5d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
 * [BlockLayer](https://www.blocklayer.com/) - Construction / Remodeling Calculators
@@ -664,6 +664,7 @@
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [IIB Mindfulness](https://informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/) - Meditation Techniques / Infographic
+* [⁠Pause Point](https://greasyfork.org/scripts/578391) - Add Breathing / Activity Pause Before Site Entrances
 * [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
 * [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 
@@ -1224,7 +1225,7 @@
 * [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
 * [⁠RetroCast Now](https://weather.com/retro/), [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/), [WeatherStar 80's](https://weatherstar3000.netbymatt.com/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [GitHub](https://github.com/MistWeatherMedia/)
 * [⁠EWG Tap Water Database](https://www.ewg.org/tapwater/) - US Drinking Water Quality Database
-* [Wheel Decide](https://wheeldecide.com/), [Spinn a Wheel](https://spinnawheel.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SWG](https://spinthewheelgenerator.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [TheSpinnerWheel](https://thespinnerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
+* [Wheel Decide](https://wheeldecide.com/), [Spinn a Wheel](https://spinnawheel.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SWG](https://spinthewheelgenerator.com/), [SpinWheelify](https://spinwheelify.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [TheSpinnerWheel](https://thespinnerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
 * [⁠Date Night Questions](https://www.datenightquestions.com/) - Friend / Date Q&A Cards
 * [SurveyHeart](https://surveyheart.com/) - Survey Creators
 * [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools
@@ -1628,7 +1629,6 @@
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
 * [PoliticalTests](https://politicaltests.github.io/) - Political Alignment Tests
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
-* [Face Shape AI](https://www.detect-face-shape.com) or [Face Shape Detectors](https://www.faceshapedetectors.org/) - Face Shape Detectors
 * [You're Getting Old](https://you.regettingold.com/) - Age Perspective
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish They Knew at Your Age
 * [MyGrandmothersLingo](https://www.sbs.com.au/mygrandmotherslingo/) - Interactive Story

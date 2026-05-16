@@ -33,7 +33,7 @@
 
 * ⭐ **[Cimaleek](https://cimaleek.ws/)** - Movies / TV
 * ⭐ **[FaselHD](https://www.faselhds.biz/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p
+* ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [ArabLionz](https://arlionztv.ink/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
@@ -122,7 +122,7 @@
 ## ▷ Streaming / স্ট্রিমিং
 
 * [Fibwatch](https://fibwatch.art/) - Movies / TV
-* [jadoocinema](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p
+* [jadoocinema](https://jadoocinema.net/) - Movies / TV / Sub / Dub / 1080p
 
 ***
 
@@ -578,6 +578,7 @@
 * [zdf](https://www.zdf.de/) - Free w/ Ads
 * [Burning Series](https://bs.to/) - TV / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
+* [Anime-Base](https://anime-base.net/) - Anime / Dub / 1080p / [Improvement Extension](https://berni-92.github.io/anime-base-autoplayer/) / [Discord](https://discord.gg/sj6mDujvMD)
 * [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p / [Discord](https://discord.com/invite/xTkw6292Uj)
 * [⁠TOGGO](https://www.toggo.de/) - Cartoons
 * [dokustreams](https://dokustreams.de/) or [dctp.tv](https://www.dctp.tv/) - Documentaries
@@ -730,7 +731,7 @@
 ## ▷ Streaming
 
 * ⭐ **[PirateXPlay](http://piratexplay.cc/)** - Cartoons / Anime / [Mirrors](https://piratexplay.com/)
-* ⭐ **[ToonStream](https://toonstream.one/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
+* ⭐ **[ToonStream](https://toonstream.vip/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[⁠Animelok](https://animelok.xyz/)** - Anime / Cartoons / 1080p / Auto-Next / [Mirrors](https://animelok.to/) / [Telegram](https://t.me/animerulz_xyz) / [Discord](https://discord.gg/32taxtj5BC)
 * ⭐ **[Anime World India](https://watchanimeworld.net/)**, [2](https://animesalt.top/) - Anime
 * ⭐ **[MultiMovies](https://multimovies.wtf/)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
@@ -759,6 +760,7 @@
 * [Aniflix](https://aniflix.uno/) - Anime / [Telegram](https://t.me/Aniflix_Anime_Requests)
 * [Animoye](https://animoye.com/) - Anime
 * [desidubanime](https://www.desidubanime.me/) - Anime
+* [Kartoons](https://kartoons.me/) - Cartoons / [Discord](https://discord.com/invite/5fKH3TYVmE)
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [Desi Serials](https://www.desi-serials.to/) - TV
 * [desitv](https://www.desitv.to/) - TV

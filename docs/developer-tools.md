@@ -270,7 +270,7 @@
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)**, [OpenRouter](https://openrouter.ai/models?max_price=0) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * 🌐 **[AI Price Compare](https://countless.dev/)** or **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
-* ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku), [Shizuku Fork](https://github.com/thedjchi/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
+* ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku), **[Shizuku Fork](https://github.com/thedjchi/Shizuku)** or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [⁠CoorenLabs](https://coorenlabs.com/) / [Discord](https://discord.gg/r5tfDZmADV) / [GitHub](https://github.com/coorenlabs/cooren) or [Consumet](https://docs.consumet.org/list-of-providers) - Piracy Site Metadata APIs / Scraping
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
@@ -544,7 +544,7 @@
 
 ## ▷ AI Web Coding
 
-* [Arena](https://arena.ai/code) - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / Reset Limits w/ Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [Arena](https://arena.ai/code) - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Design Arena](https://www.designarena.ai/) - Multiple Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠Z.ai](https://chat.z.ai/) - GLM-5.1 / GLM-5 Turbo / Coding AI / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK)
 * [Kimi](https://www.kimi.com/agent) - Kimi K2.6 (Thinking) / Coding AI / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)

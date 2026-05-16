@@ -59,7 +59,6 @@
 * [E-Book Mecca](https://ebook-mecca.com/)
 * [Planet eBook](https://www.planetebook.com/)
 * [Loyal Books](https://www.loyalbooks.com/)
-* [Lit2Go](https://etc.usf.edu/lit2go/)
 * [Planet Publish](https://www.planetpublish.com/)
 * [BAEN](https://www.baen.com/allbooks/category/index/id/2012)
 * [Ebookzy](https://ebookzy.com/) - Classics
