@@ -3,8 +3,8 @@ import consola from 'consola'
 import UnoCSS from 'unocss/vite'
 import AutoImport from 'unplugin-auto-import/vite'
 import OptimizeExclude from 'vite-plugin-optimize-exclude'
-import Terminal from 'vite-plugin-terminal'
 import { VitePWA } from 'vite-plugin-pwa'
+import Terminal from 'vite-plugin-terminal'
 import { defineConfig } from 'vitepress'
 import {
   commitRef,
@@ -34,7 +34,7 @@ export default defineConfig({
   cleanUrls: true,
   appearance: true,
   base: baseUrl,
-  srcExclude: ['README.md', 'single-page'],
+  srcExclude: ['README.md', 'public/single-page.md', 'single-page'],
   ignoreDeadLinks: true,
   sitemap: {
     hostname: meta.hostname
@@ -44,15 +44,30 @@ export default defineConfig({
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
     ['link', { rel: 'icon', href: '/test.png' }],
+    [
+      'link',
+      {
+        rel: 'alternate',
+        type: 'application/rss+xml',
+        title: 'FMHY RSS Feed',
+        href: '/feed.rss'
+      }
+    ],
     // PWA
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['link', { rel: 'icon', href: '/pwa_icon.png', type: 'image/svg+xml' }],
     ['link', { rel: 'alternate icon', href: '/pwa_icon.png' }],
     ['link', { rel: 'mask-icon', href: '/pwa_icon.png', color: '#000000ff' }],
     ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
-    ['link', { rel: 'apple-touch-icon', href: '/pwa_icon.png', sizes: '192x192' }],
+    [
+      'link',
+      { rel: 'apple-touch-icon', href: '/pwa_icon.png', sizes: '192x192' }
+    ],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
+    [
+      'meta',
+      { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }
+    ],
     // Bing site verification
     [
       'meta',
@@ -80,13 +95,60 @@ export default defineConfig({
           }
         })();
         `
+    ],
+    // Apply the saved theme synchronously before the page paints, so users
+    // who picked a non-default theme don't briefly see the default one.
+    [
+      'script',
+      {},
+      `
+        (function() {
+          try {
+            var d = document.documentElement;
+            var mode = localStorage.getItem('vitepress-display-mode');
+            var amoled = localStorage.getItem('vitepress-amoled-enabled') === 'true';
+            var themeName = localStorage.getItem('vitepress-theme-name');
+            var varsJson = localStorage.getItem('vitepress-theme-vars');
+
+            if (!mode) {
+              mode = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+            }
+
+            if (mode === 'dark') {
+              d.classList.add('dark');
+              d.classList.remove('light');
+            } else {
+              d.classList.add('light');
+              d.classList.remove('dark');
+            }
+
+            if (mode === 'dark' && amoled) d.classList.add('amoled');
+            else d.classList.remove('amoled');
+
+            if (themeName === 'monochrome') d.classList.add('monochrome');
+            else d.classList.remove('monochrome');
+
+            if (varsJson) {
+              var vars = JSON.parse(varsJson);
+              for (var k in vars) {
+                if (Object.prototype.hasOwnProperty.call(vars, k) && k.indexOf('--vp-') === 0) {
+                  d.style.setProperty(k, vars[k]);
+                }
+              }
+            }
+          } catch (e) {}
+        })();
+        `
     ]
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),
   buildEnd: async (context) => {
-    generateImages(context)
-      .then(() => generateFeed(context))
-      .finally(() => consola.success('Success!'))
+    try {
+      await generateImages(context)
+      await generateFeed(context)
+    } finally {
+      consola.success('Success!')
+    }
   },
   vite: {
     css: {
@@ -96,9 +158,7 @@ export default defineConfig({
         }
       }
     },
-    ssr: {
-      noExternal: ['@fmhy/components']
-    },
+
     resolve: {
       alias: [
         {

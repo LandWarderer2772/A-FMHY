@@ -16,7 +16,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * BBRepacks - Caught with malware
 * Seyter / Qoob - Caught with malware, tried to [switch names](https://claraiscute.neocities.org/Announcements/qoob/), [2](https://claraiscute.pages.dev/Announcements/qoob/)
 * Wifi4Games - Caught with malware
-* IGG Games / Load Games - Highly distrusted for [doxxing another sites owner](https://i.ibb.co/3sHJb6R/image.png) / [2](https://i.ibb.co/kBVkW7s/image.png) / [3](https://i.ibb.co/fGF6PJ5/GHnCVKi.png) / [4](https://imgur.com/a/jg9mLIa), click hijack ads, and getting [demoted on 1337x](https://i.imgur.com/MwAYARu.png) / [2](https://i.ibb.co/39WDrb0m/image.png) / [3](https://www.reddit.com/r/PiratedGames/comments/muc5wz/comment/gv4wfqq/) for malware
+* IGG Games / Load Games - Highly distrusted for [doxxing another sites owner](https://i.ibb.co/3sHJb6R/image.png) / [2](https://i.ibb.co/kBVkW7s/image.png) / [3](https://i.ibb.co/fGF6PJ5/GHnCVKi.png) / [4](https://imgur.com/a/jg9mLIa), click hijack ads, and getting demoted on 1337x for malware
 * GameFabrique - IGG uploads + [adware installers](https://claraiscute.neocities.org/Announcements/gamefabrique_adware), [2](https://claraiscute.pages.dev/Announcements/gamefabrique_adware/)
 * SteamUnlocked - [IGG / NosTeam uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
 * game-repack - Shady [fake DL buttons](https://i.ibb.co/tqZSG9M/image.png) / [2](https://i.imgur.com/fbJ16Yq.png) + they remove comments [asking about it](https://i.ibb.co/2qGQQjT/40hzLVh.png) / [2](https://i.imgur.com/40hzLVh.png)
@@ -84,7 +84,8 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * AVG - Owned by Avast
 * Gen Digital / Norton - Owned by Avast
 * Avira - Owned by Gen Digital
-* Nekogram - Known for [logging peoples phone numbers](https://thebadinteger.github.io/nekogram-phone-exfiltration/) / [2](https://x.com/sotanews/status/2039652946233688273) via a hidden backdoor to one of their own bots. 
+* LD Cloud / LDPlayer / LD Shop - Got caught [tracking peoples keystrokes](https://redd.it/1tcrr3p) / [2](https://x.com/NTE_WL/status/2054627592054153273) on payment screens.
+* Nekogram - Got caught [logging peoples phone numbers](https://thebadinteger.github.io/nekogram-phone-exfiltration/) / [2](https://x.com/sotanews/status/2039652946233688273) via a hidden backdoor to one of their own bots. 
 * CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/)
 * Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://i.imgur.com/cK9dqQ5.png), [2](https://i.ibb.co/TBzGzFYN/05Bb5eD.png)
