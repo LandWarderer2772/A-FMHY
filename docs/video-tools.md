@@ -199,8 +199,10 @@
 
 * 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources
 * 🌐 **[Video Help](https://www.videohelp.com/software/sections/video-players?orderby=Rating)** - Video Player Index
-* ⭐ **[MPV Clients](https://mpv.rocks/)**, **[MPC-QT](https://mpc-qt.github.io/)** or **[MPV (Official)](https://mpv.io/)** - Video Player / [Custom Builder](https://mpv-easy.github.io/mpv-build/) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [GitHub](https://github.com/mpv-player/mpv)
+* 🌐 **[MPV Clients](https://mpv.rocks/)** - MPV Based Client Index
+* ⭐ **[MPV](https://mpv.io/)** - Video Player / [Improved UI](https://github.com/tomasklaen/uosc) / [Custom Builder](https://mpv-easy.github.io/mpv-build/) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [GitHub](https://github.com/mpv-player/mpv)
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm) / [OpenSubtitles Bypass](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mp-opensubs.md)
+* ⭐ **[MPC-QT](https://mpc-qt.github.io/)** - Video Player / MPC UI w/ MPV Internal Player / Easy Setup
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player / [GitHub](https://github.com/videolan/vlc)
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users) / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
@@ -406,7 +408,7 @@
 ## ▷ Video Editors
 
 * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
-* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows, Mac, Linux / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows, Mac, Linux / [X](https://x.com/Blackmagic_News) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
 * ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, Mac, Linux
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/mltframework/shotcut)
