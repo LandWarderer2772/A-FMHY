@@ -26,10 +26,10 @@ const STORAGE_KEY_VARS = 'vitepress-theme-vars'
 export class ThemeHandler {
   private state = ref<ThemeState>({
     currentTheme: 'swarm',
-    currentMode: 'light' as DisplayMode,
+    currentMode: 'dark' as DisplayMode,
     theme: null
   })
-  private amoledEnabled = ref(false)
+  private amoledEnabled = ref(true)
 
   constructor() {
     this.initializeTheme()
@@ -43,7 +43,9 @@ export class ThemeHandler {
     const savedMode = localStorage.getItem(
       STORAGE_KEY_MODE
     ) as DisplayMode | null
-    const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
+    const savedAmoledRaw = localStorage.getItem(STORAGE_KEY_AMOLED)
+    const savedAmoled =
+      savedAmoledRaw === null ? true : savedAmoledRaw === 'true'
 
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
@@ -57,11 +59,7 @@ export class ThemeHandler {
     if (savedMode) {
       this.state.value.currentMode = savedMode
     } else {
-      // Detect system preference for initial mode
-      const prefersDark = window.matchMedia(
-        '(prefers-color-scheme: dark)'
-      ).matches
-      this.state.value.currentMode = prefersDark ? 'dark' : 'light'
+      this.state.value.currentMode = 'dark'
     }
 
     this.applyTheme()

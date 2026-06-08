@@ -19,9 +19,9 @@ import type { DefaultTheme } from 'vitepress'
 // @unocss-include
 
 export const meta = {
-  name: 'freemediaheckyeah',
+  name: 'amoled-freemediaheckyeah',
   description: 'The largest collection of free stuff on the internet!',
-  hostname: 'https://fmhy.net',
+  hostname: 'https://fmhy.futon.wtf',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
     api: true,
@@ -42,15 +42,15 @@ export const excluded = [
 const safeEnv = (key: string) =>
   typeof process !== 'undefined' ? process.env?.[key] : undefined
 
-if (safeEnv('FMHY_BUILD_NSFW') === 'false') {
+if (safeEnv('A-FMHY_BUILD_NSFW') === 'false') {
   meta.build.nsfw = false
 }
-if (safeEnv('FMHY_BUILD_API') === 'false') {
+if (safeEnv('A-FMHY_BUILD_API') === 'false') {
   meta.build.api = false
 }
 
 const formatCommitRef = (commitRef: string) =>
-  `<a href="https://github.com/fmhy/edit/commit/${commitRef}">${commitRef.slice(0, 8)}</a>`
+  `<a href="https://github.com/LandWarderer2772/A-FMHY/commit/${commitRef}">${commitRef.slice(0, 8)}</a>`
 
 const cfStart = safeEnv('CF_PAGES_COMMIT_SHA')
 const commitStart = safeEnv('COMMIT_REF')
@@ -62,10 +62,10 @@ export const commitRef =
       ? formatCommitRef(commitStart)
       : 'dev'
 
-export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
+export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a></br><a href="https://github.com/LandWarderer2772">Amoled by Land</a>`
 
 export const socialLinks: DefaultTheme.SocialLink[] = [
-  { icon: 'github', link: 'https://github.com/fmhy/edit' },
+  { icon: 'github', link: 'https://github.com/LandWarderer2772/A-FMHY' },
   { icon: 'discord', link: 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord' },
   {
     icon: 'reddit',
@@ -94,7 +94,7 @@ export const nav: DefaultTheme.NavItem[] = [
         link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/'
       },
       {
-        text: '😇 SFW FMHY',
+        text: '😇 SFW A-FMHY',
         link: 'https://fmhy.xyz/'
       },
       {

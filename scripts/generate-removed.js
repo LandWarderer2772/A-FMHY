@@ -62,7 +62,7 @@ function generateRemovedSites() {
       'No .git directory found. Attempting to fetch temporary history for generation...'
     )
     try {
-      const REPO_URL = 'https://github.com/fmhy/edit.git'
+      const REPO_URL = 'https://github.com/LandWarderer2772/A-FMHY.git'
       const TEMP_GIT_DIR = '.git-temp'
 
       // Clean up any old temp dir
@@ -236,9 +236,9 @@ function generateRemovedSites() {
         .update(site.file)
         .digest('hex')
       const lineAnchor = site.lineNum ? `L${site.lineNum}` : ''
-      const commitLink = `https://github.com/fmhy/edit/commit/${site.hash}#diff-${fileHash}${lineAnchor}`
+      const commitLink = `https://github.com/LandWarderer2772/A-FMHY/commit/${site.hash}#diff-${fileHash}${lineAnchor}`
       const prLink = site.pr
-        ? `, [PR #${site.pr}](https://github.com/fmhy/edit/pull/${site.pr})`
+        ? `, [PR #${site.pr}](https://github.com/LandWarderer2772/A-FMHY/pull/${site.pr})`
         : ''
 
       // Separate the link part from the description

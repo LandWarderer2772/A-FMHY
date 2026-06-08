@@ -4,14 +4,14 @@ layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: freemediaheckyeah
+  name: amoled-freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
     title: June Updates 🌈
     link: /posts/june-2026
   image:
     src: test.png
-    alt: FMHY Icon
+    alt: A-FMHY Icon
   actions:
     - theme: brand
       text: See Beginners Guide

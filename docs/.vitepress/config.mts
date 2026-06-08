@@ -26,9 +26,9 @@ import { replaceNoteLink } from './utils/markdown'
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
-  title: 'FMHY',
+  title: 'A-FMHY',
   description: meta.description,
-  titleTemplate: ':title • freemediaheckyeah',
+  titleTemplate: ':title • amoled-freemediaheckyeah',
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
@@ -49,7 +49,7 @@ export default defineConfig({
       {
         rel: 'alternate',
         type: 'application/rss+xml',
-        title: 'FMHY RSS Feed',
+        title: 'A-FMHY RSS Feed',
         href: '/feed.rss'
       }
     ],
@@ -106,12 +106,13 @@ export default defineConfig({
           try {
             var d = document.documentElement;
             var mode = localStorage.getItem('vitepress-display-mode');
-            var amoled = localStorage.getItem('vitepress-amoled-enabled') === 'true';
+            var amoledRaw = localStorage.getItem('vitepress-amoled-enabled');
+            var amoled = amoledRaw === null ? true : amoledRaw === 'true';
             var themeName = localStorage.getItem('vitepress-theme-name');
             var varsJson = localStorage.getItem('vitepress-theme-vars');
 
             if (!mode) {
-              mode = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+              mode = 'dark';
             }
 
             if (mode === 'dark') {
@@ -263,8 +264,8 @@ export default defineConfig({
           ]
         },
         manifest: {
-          name: 'FMHY - freemediaheckyeah',
-          short_name: 'FMHY',
+          name: 'A-FMHY - amoled-freemediaheckyeah',
+          short_name: 'A-FMHY',
           description: 'The largest collection of free stuff on the internet!',
           theme_color: '#000000ff',
           background_color: '#000000ff',
@@ -341,7 +342,7 @@ export default defineConfig({
     outline: 'deep',
     logo: {
       src: '/fmhy.ico',
-      alt: 'FMHY Logo'
+      alt: 'A-FMHY Logo'
     },
     nav,
     sidebar,

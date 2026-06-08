@@ -1,5 +1,5 @@
 {
-  "name": "@fmhy/website",
+  "name": "@a-fmhy/website",
   "packageManager": "pnpm@10.12.2+sha256.07b2396c6c99a93b75b5f9ce22be9285c3b2533c49fec51b349d44798cf56b82",
   "type": "module",
   "engines": {

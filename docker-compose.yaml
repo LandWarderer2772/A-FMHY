@@ -1,14 +1,14 @@
 services:
   docs:
-    networks: [fmhy]
+    networks: [a-fmhy]
     build:
       context: .
       dockerfile: Dockerfile
-    image: fmhy-docs
+    image: a-fmhy-docs
     container_name: docs
     restart: unless-stopped
     ports:
       - '4173:80'
 
 networks:
-  fmhy:
+  a-fmhy:
