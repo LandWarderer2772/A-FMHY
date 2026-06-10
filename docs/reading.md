@@ -328,7 +328,7 @@
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
-* [audiobook-dl](https://github.com/jo1gi/audiobook-dl), [PlayTorrio](https://playtorrio.xyz/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)are
+* [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [PlayTorrio](https://playtorrio.xyz/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)are
 ***
 
 ## ▷ Streaming
@@ -403,7 +403,7 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** - Manga Sites Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[The Index](https://theindex.moe/library/manga)** - Manga Sites Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/manga)**, [2](https://everythingmoe.org/#section-manga) - Manga Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
-* 🌐 **[Rawmangaz](https://clarasguide.valeena.workers.dev/Guides/rawmangaz/) - List of Raw Manga Sites
+* 🌐 **[Rawmangaz](https://clarasguide.valeena.workers.dev/Guides/rawmangaz/)** - List of Raw Manga Sites
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ⭐ **[Kagane](https://kagane.org/)** / [Discord](https://discord.com/invite/kBPYVSzwUE)

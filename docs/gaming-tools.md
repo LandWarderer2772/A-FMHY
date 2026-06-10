@@ -118,6 +118,7 @@
 * [Calibration GUI](https://dualshock-tools.github.io/) - Web DualSense Calibration Tool / Requires Chromium / [GitHub](https://github.com/dualshock-tools/dualshock-tools.github.io)
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Decrease DS4/5 Input Lag / [Video](https://youtu.be/x0wcJM4FtXQ)
 * [HidHide](https://docs.nefarius.at/projects/HidHide/) - Input Device Firewall
+* [⁠KeyboardSplitterXbox](https://github.com/djlastnight/KeyboardSplitterXbox) - Split Multiple Keyboards into 4 Unique Virtual Xbox 360 Controllers
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
 * [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
 * [Arcade Controls](http://arcadecontrols.com/arcade.htm) - DIY Arcade Controls
@@ -867,15 +868,15 @@
 
 * 🌐 **[⁠The Melee Library](https://www.meleelibrary.com/)** - Super Smash Bros. Melee Learning Resources
 * [⁠The Fighting Game Glossary](https://glossary.infil.net/) - Fighting Game Term Glossary
-* [⁠FAT Online](https://fullmeter.com/fatonline) or [⁠SuperCombo](https://wiki.supercombo.gg/) - Fighting Game Wikis / Move Databases
+* [⁠FAT Online](https://fullmeter.com/fatonline), [⁠Mizuumi](https://mizuumi.wiki/) or [⁠SuperCombo](https://wiki.supercombo.gg/) - Fighting Game Wikis / Move Databases
 * [⁠DustLoop](https://www.dustloop.com/) - Guides for Arc System Works' Games / [Discord](https://discord.com/invite/d9tgMZg)
 * [⁠Melee Calculator](https://ikneedata.com/calculator.html) - Melee Frame Data Calculator
 * [⁠DragonDown](https://dragdown.wiki/) - Wiki / Info Hub for Rivals of Aether + Smash Games / [Discord](https://discord.gg/5qnED6WkHD)
 * [Smash Ultimate Calculator](https://rubendal.github.io/SSBU-Calculator/) - Smash Ultimate Knockback Calculator / [GitHub](https://github.com/rubendal/SSBU-Calculator)
-* [⁠Ultimate Frame Data](https://ultimateframedata.com/) - Move Database for Smash + Street Fighter
+* [⁠Ultimate Frame Data](https://ultimateframedata.com/) - Move Database for Smash + Street Fighter 6
 * [⁠FightCore](https://www.fightcore.gg/) - Super Smash Bros. Melee Frame Data
 * [⁠Brawl Move Database](https://docs.google.com/spreadsheets/d/1_5NFTe3dvxxC6MMlsI49mnC5m7D3_y5UoGZ7mxPje1I/) - Super Smash Bros. Brawl Frame Data
-* [SF6Frames](https://sf6frames.com/) or [FighterCenter](https://fightercenter.net/) - Street Fight 6 Move Databases
+* [FighterCenter](https://fightercenter.net/) - Street Fight 6 Move Databases
 * [⁠Wavu](https://wavu.wiki/) / [Discord](https://discord.com/invite/86UFj8GEcC), [Okizeme](https://okizeme.gg/) or [TekkenDocs](https://tekkendocs.com/) - Tekken Game Guides / Move Databases
 * [⁠EWGF](https://ewgf.gg/) - Tekken 8 Character + Player Stats / [Discord](https://discord.com/invite/EUEnH99har)
 * [Dream Cancel](https://dreamcancel.com/wiki/) - SNK Fighting Game Wiki / Info / [Discord](https://discord.gg/gAYf5cK)

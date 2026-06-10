@@ -129,6 +129,7 @@
 * 🌐 **[Dolici](https://dolici.com/)** - Top Restaurant List
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy) or [Listonic](https://new.app.listonic.com/en) - Grocery / Pantry Managers
+* ⭐ **[Too Good To Go](https://www.toogoodtogo.com/)** - Surplus Food Marketplace
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
@@ -146,7 +147,6 @@
 * [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
 * [⁠SaltYourMeat](https://www.saltyourmeat.com/) - Dry Brining Calculator
 * [HackTheMenu](https://hackthemenu.com/) - Fast Food Secret Menu Items
-* [Too Good To Go](https://www.toogoodtogo.com/) - Surplus Food Marketplace
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
 * [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
 * [⁠The Food Historian](https://www.thefoodhistorian.com/) - Food History Blog
@@ -290,6 +290,7 @@
 * [Tapology](https://www.tapology.com/) - Combat Sports Predictions
 * [Formula Timer](https://formula-timer.com/livetiming) or [F1 Dash](https://f1-dash.com/) / [GitHub](https://github.com/slowlydev/f1-dash) - F1 Live Stats Dashboards
 * [⁠Futez](https://www.futez.com.br/) - Rate / Review Football Matches
+* [⁠PROGRID](https://www.progrid.org/) - NFL Schedule Chart 
 * [Calendario Ciclismo](https://calendariociclismo.app/en/) - Cycling TV Schedule / Calendar
 
 ***
@@ -1087,7 +1088,6 @@
 * [⁠CarSized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database
 * [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
-* [AI Leaks](https://discord.gg/MFCU6sKSNs) - AI Leaks / Feature News Server
 * [Build List](https://buildlist.org/) or [USA Parts Made Fast](https://partsmadefast.com/) / [X](https://x.com/mattfreed) - On-Demand Online Manufacturers
 * [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
@@ -1383,6 +1383,7 @@
 * ⭐ **[SakugaBooru](https://www.sakugabooru.com/)** - Anime Animation Booru / [Enhancements](https://chromewebstore.google.com/detail/sakuga-extended/khmnmdaghmhkcbooicndamlhkcmpklmc)
 * [loc.alize](https://loc.alize.us/) - Explore Earth via Images
 * [Newgrounds Auditorium](https://bluemaxima.org/auditorium/) - Newground Flash Animation Archive
+* [⁠SWF Rodeo](https://swf.rodeo/) or [TheBest404](https://thebest404pageeverredux.com/) - Random SWFs
 * [MSPFA](https://mspfa.com/) - MS Paint Fan Adventures
 * [GigaMacro](https://viewer.gigamacro.com/) or [Gigapan](https://www.gigapan.com/) - Panoramic Photography
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
@@ -1650,6 +1651,7 @@
 * [EarthCam](https://www.earthcam.com/)
 * [WebcamExplore](https://www.webcamexplore.com/)
 * [BalticLiveCam](https://balticlivecam.com/)
+* [EarthCamTv](https://www.earthcamtv.com/)
 * [Camscape](https://www.camscape.com/)
 * [Worldviewstream](https://worldviewstream.com/)
 * [CamStreamer](https://camstreamer.com/live)
@@ -1746,6 +1748,7 @@
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
 * [HYDRA](https://hydra.ojack.xyz/) - Live Coding Networked Visuals / [Discord](https://discord.gg/ZQjfHkNHXC)
 * [The Editing Room](https://www.the-editing-room.com/) - Funny Abridged Movie Scripts
+* [⁠Roastdit](https://roastdit.kadoa.com/) - Reddit Profile Roasting AI 
 * [ShindanMaker](https://en.shindanmaker.com/) - Diagnoses / Fortune AI
 * [LMGTFY](https://lmgtfy2.com/), [LMDDGTFY](https://lmddgtfy.net/), [LMSPTFY](https://lmsptfy.com/) or [GIYBF](https://giybf.com/) - Remind People that Search Engines Exist
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages
