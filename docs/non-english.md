@@ -17,8 +17,11 @@
 ## ▷ Downloading / تحميل
 
 * [⁠Bahy Films](https://eg.bahyfilms.com/), [2](https://egy.bahy-films.info/) - Movies / TV / Anime / Sub / Dub / 1080p
-* [Stardiima](https://e.stardiima.top/) - Movies / TV / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
-* [⁠My Cima](https://my-cima.video/) - Movies / TV
+* [Stardiima](https://www.stardima.com/) - Movies / TV / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
+* [⁠My Cima](https://my-cima.video/) - Movies / TV / Anime / Hard Subs
+* [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [nghmat](https://songs.nghmat.com/) - Music / MP3 / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
 
@@ -30,26 +33,24 @@
 
 * ⭐ **[FaselHD](https://web52518x.faselhdx.bid/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p
+* [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [ArabSeed](https://a.asd.homes/main/) - Movies / TV / Anime
 * [egybest](https://egybest.la/) - Movies / TV / Anime
-* [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime
-* [kirmalk](https://ta.kirmalk.com/) - Movies / TV / Anime
+* [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [kirmalk](https://ta.kirmalk.com/) - Movies / TV
 * [⁠My Cima](https://my-cima.video/) - Movies / TV
-* [Laroza TV](https://tv.laroza.now/) - TV
+* [Laroza TV](https://tv.laroza.now/) - Movies / TV
 * [witanime](https://witanime.you/) - Anime / Sub / 1080p
 * [ristoanime](https://ristoanime.com/) - Anime
 * [Kawaii Anime](https://kawaii-anime.com/) - Anime
-* [animeslayer](https://animeslayer.to/) - Anime
+* [animeslayer](https://animeslayer.to/) - Anime / 1080p
 * [animezid](https://animezid.net/) - Anime / Cartoons
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
-* [Flowind](https://flowind.net/) - Cartoons
 * [Bein4kora](https://bein4kora.com/) - Live Football
 * [koraa-live](https://www.koraa-live.com/) - Live Football
 * [al-fann](https://www.al-fann.net/) - Music
-* [nghmat](https://songs.nghmat.com/) - Music / MP3
 
 ## ▷ Reading / القراءة
 
@@ -309,7 +310,6 @@
 * [DM5](https://www.dm5.com/), [2](https://tel.1kkk.com/) - Manga / Manhua
 * [godamanga.site](https://godamh.com/) - Manga
 * [xmanhua.com](https://xmanhua.com/) - Manga / Some NSFW
-* [tvbsmh](https://www.tvbsmh.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
 * [colamanga](https://www.colamanga.com/) - Manga
 * [rumanhua](https://rumanhua.com/) - Manga
@@ -325,7 +325,6 @@
 * [fengchemh](https://www.fengchemh.com/) - Manga
 * [yibenmanhua](https://www.yibenmanhua.com/) - Manga
 * [dongmanmanhua](https://www.dongmanmanhua.cn/) - Manga
-* [2animx](https://www.2animx.com/) - Manga
 * [baozimh](https://baozimh.one/) - Manhua
 * [acgn.cc](https://comic.acgn.cc/) - Manga
 * [Mangabz](https://www.mangabz.com/) - Manga
@@ -678,7 +677,6 @@
 * ⭐ **[MoviesMod](https://moviesmod.army/)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in/category/cartoon/)** - Movies / TV / Anime / 1080p / Some NSFW
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
-* ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Anime / Cartoons / Sub / Dub / 1080p
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
@@ -1269,7 +1267,6 @@
 * [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
 * [PiratBit](https://pb.wtf/), [2](https://piratbit.top/) - Video / Audio / Books / Comics / Magazines / NSFW
 * [rustorka](https://rustorka.com/forum/index.php) - Video / Audio / Books / ROMs / Games / Magazines
-* [⁠Riper.AM ](https://riper.online/) - Video / Audio / Books
 * [Korsars](http://korsars.pro/) - Video / Audio / Books
 * [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Books
 * [DDGroupClub](http://ddgroupclub.win/) - Video / Audio / Books / ROMs
@@ -1278,7 +1275,6 @@
 * [androidkino](https://androidkino.net/) - Movies / TV
 * [RIPS](https://rips.club/) - Movies / TV / Concerts
 * [Fast torrent](http://fast-torrent.ru/) - Movies / TV / Anime
-* [BigFanGroup](https://bigfangroup.org/) - Movies / TV / Anime
 * [Animelayer](https://animelayer.ru/) - Anime
 * [kinozal](https://kinozal.tv/) - Movies
 * [bitru](https://bitru.org/) - Movies
@@ -1740,13 +1736,13 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* [⁠Tram Phim](https://tramphim.org/), [2](https://tramphim.fun/), [3](https://tramphim.live/) - Movies / TV / Anime / [Telegram](https://t.me/tramphimorg) / [Discord](https://discord.com/invite/u9sA5EQM7)
-* [⁠Sofaflix](https://sofaflix.site/) - Movies / TV / Anime
+* [⁠Tram Phim](https://tramphim.org/), [2](https://tramphim.pro/), [3](https://tramphim.live/) - Movies / TV / Anime / [Telegram](https://t.me/tramphimorg) / [Discord](https://discord.com/invite/u9sA5EQM7)
+* [⁠Sofaflix](https://sofaflix.lat/) - Movies / TV / Anime
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [OPhim](https://ophim18.cc/) - Movies / TV / Anime / Sub / 1080p
 * [rophim](https://rophim1.vip/) - Movies / TV / Anime
-* [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
+* [AnimeTVN](https://animetvn.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
 * [TokuVN](https://tokuvn.com/) - Tokusatsu / Sub / 480p

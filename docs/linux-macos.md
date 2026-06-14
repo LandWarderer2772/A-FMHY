@@ -298,7 +298,7 @@
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Windows Games on Linux
-* [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
+* [Luxtorpeda](https://codeberg.org/luxtorpeda/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlocker / [Installer](https://github.com/Novattz/creamlinux-installer)
 * [SLSsteam](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=SLSsteam) - Steamclient Mod w/ DLC Unlocker and Emulated Achievements / [Generate Achievements](https://github.com/xamionex/SLScheevo)
 * [⁠SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Steam Wrapper w/ Custom Launcher Options
@@ -313,7 +313,7 @@
 * [⁠LVRA Wiki](https://wiki.vronlinux.org/) / [Discord](https://discord.gg/EHAYe3tTYa) - Linux VR Gaming Guides
 * [Vice](https://viceclipper.framer.website/) - Game Clipping App / [GitHub](https://github.com/eklonofficial/Vice)
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
-* [Limo](https://github.com/limo-app/limo) - Nexus Mods Manager for Linux
+* [⁠Amethyst Mod Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) or [Limo](https://github.com/limo-app/limo) - Mod Managers
 * [ssprea-nvidia-control](https://github.com/ssprea/ssprea-nvidia-control) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - GPU Overclocking Tools
 * [⁠LeShade](https://github.com/Ishidawg/LeShade) - ReShade Manager
 * [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-Based Direct3D for Linux / Wine
@@ -381,7 +381,7 @@
 * [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption TUI
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
 * [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Collaboration Platform
-* [⁠Brave Origin](https://brave.com/origin/download-nightly/) - Lighter Version of Brave
+* [⁠Brave Origin](https://brave.com/origin/) - Lighter Version of Brave
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
 * [browsh](https://www.brow.sh/) - Text-Based Browser
 * [mx moment](https://mx-moment.xyz/) - Encrypted Chat Client
@@ -636,7 +636,6 @@
 * [Does It Arm?](https://doesitarm.com/) - Apple Silicon App Compatibility Chart
 * [SelfControlApp](https://selfcontrolapp.com/) - Website Blocker
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
-* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - Reddit Client
 * [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Improved Reddit Comment Navigation
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
 * [macOSicons](https://macosicons.com/) - macOS App Icons
@@ -785,6 +784,7 @@
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Directory
 * ⭐ **[Alfred](https://www.alfredapp.com/)**, [Raycast](https://www.raycast.com/), [Albert](https://albertlauncher.github.io/), [Quicksilver](https://qsapp.com/), [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements / [Alfred Workflows / Themes](https://www.packal.org/) / [Albert GitHub](https://github.com/albertlauncher/albert)
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
+* [⁠Mac Terminal for Humans](https://www.macterminal.cc/commands) - macOS Terminal Cheat Sheet 
 * [NoxPlayer](https://www.bignox.com/), [MuMuPlayer](https://www.mumuplayer.com/) or [Genymotion](https://www.genymotion.com/download/) - Android on macOS
 * [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
 * [Conky](https://conky.cc), [eul](https://github.com/gao-sun/eul), [Stats](https://mac-stats.com/) / [GitHub](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors / [Conky Colors](https://github.com/helmuthdu/conky_colors)

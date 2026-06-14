@@ -13,7 +13,7 @@
 ***
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/viewforum.php?f=398) - Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
-* ⭐ **[4PDA](https://4pda.to/forum/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [App](https://github.com/slartus/4pdaClient-plus) / [Telegram](https://t.me/real4pda) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
+* ⭐ **[4PDA](https://4pda.to/forum/)** - Signup Required / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [App](https://github.com/slartus/4pdaClient-plus) / [Telegram](https://t.me/real4pda) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
 * ⭐ **[PlatinMods](https://platinmods.com/)** / Requires Sign-Up
 * ⭐ **[PDALife](https://pdalife.com/)**, [2](https://pdalife.ru/) / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official)
@@ -160,7 +160,7 @@
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ⭐ **[Revenge](https://github.com/revenge-mod/revenge-bundle)** - Modded Discord Client / [Plugins](https://plugins-list.pages.dev/) / [Fonts](https://github.com/Rairof/Theme-Fonts), [2](https://github.com/Purple-EyeZ/Bunny-Fonts) / [Discord](https://discord.com/invite/ddcQf3s2Uq)
 * ⭐ **[Kettu](https://www.raincord.dev/kettu)** - Modded Discord Client / [Discord](https://discord.gg/qkdPGunwjW) / [Source Code](https://codeberg.org/cocobo1/Kettu) / [GitHub](https://github.com/C0C0B01/Kettu)
-* ⭐ **[Continuum](https://github.com/cygnusx-1-org/continuum)**, [⁠Patcheddit](https://github.com/wchill/patcheddit), [RedReader](https://github.com/QuantumBadger/RedReader) or [Stealth](https://gitlab.com/cosmosapps/stealth) - Reddit Clients / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide)
+* ⭐ **[Continuum](https://github.com/cygnusx-1-org/continuum)**, [⁠Patcheddit](https://github.com/wchill/patcheddit) or [RedReader](https://github.com/QuantumBadger/RedReader) - Reddit Clients / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide)
 * ⭐ **[Xtra](https://github.com/crackededed/Xtra)**, [BTTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) / [GitHub](https://github.com/tommyxchow/frosty) - Twitch Clients
 * ⭐ **[piko](https://github.com/crimera/twitter-apk)** / [Telegram](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko), [⁠Nitterium](https://github.com/kaleedtc/Nitterium), [⁠QuaX](https://github.com/Teskann/QuaX) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter / X Apps
 * ⭐ **[Nobook](https://github.com/ycngmn/Nobook)** or [Materialbook](https://github.com/eepiemi/Materialbook) - Ad-Free Facebook Lite
@@ -177,7 +177,7 @@
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
 * [⁠piko (Instagram)](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko) or [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/instaeclipse-note.md) - Modded Instagram Clients
-* [Purrfect](https://github.com/curious-freak/Purrfect) - Modded Snapchat, Reddit & Instagram
+* [Purrfect](https://t.me/purrfect_tg) - Modded Snapchat, Reddit & Instagram
 * [TikTokModCloud](https://t.me/TikTokModCloud), [2](https://t.me/modsfortt) - Modded TikTok Client
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
@@ -413,9 +413,7 @@
 * ⭐ **[Fossify Gallery](https://github.com/FossifyOrg/Gallery)** or [Goodwy Gallery](https://github.com/Goodwy/Gallery) - Photo / Video Gallery
 * ⭐ **[Aves](https://github.com/deckerst/aves)** - Photo / Video Gallery
 * [⁠Photoo](https://github.com/xigua222/photoo/blob/main/README_EN.md) - Photo Organizer / Gallery
-* [Google Photos Morphe](https://morphe.software/) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/revanced-morphe-obtainium/)
-
-
+* [De-Vanced](https://morphe-patches.software/?github=RookieEnough/De-Vanced#bundles) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/revanced-morphe-obtainium/)
 * [ReFra](https://github.com/IacobIonut01/ReFra) - Photo / Video Gallery
 * [PhotosGo](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo) - Photo / Video Gallery
 * [Ente](https://ente.com/) - Photo / Video Gallery / 10GB Free / [GitHub](https://github.com/ente-io/ente)
@@ -484,6 +482,7 @@
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock)** - Adblocker / Works Best on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 * [⁠Re-Malwack](https://zg.is-a.dev/re-malwack) - Adblocking App / [GitHub](https://github.com/ZG089/Re-Malwack)
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
+* [⁠bindhosts](https://github.com/bindhosts/bindhosts) - Systemless Adblocking for Rooted Android
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
 
 ***
@@ -1208,7 +1207,7 @@
 ## ▷ iOS Sideloading
 
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / Semi-Jailbreak / 14.0 - 16.6.1, 16.7 RC, 17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
-* ⭐ **[SideStore](https://sidestore.io/)** or **[⁠iloader](https://iloader.app/)** / [GitHub](https://github.com/nab138/iloader/) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Limit Bypass](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
+* ⭐ **[SideStore](https://sidestore.io/)** - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / Install w/ [⁠iloader](https://iloader.app/) / [Limit Bypass](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) / [GitHub](https://github.com/nab138/iloader/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - WiFi Sideloading (Weekly Refresh) (iOS 7.0 & Above)
 * ⭐ **[Impactor](https://impactor.claration.dev/)** - WiFi Sideloading (Weekly Refresh) / iOS 9.0 & Above / [GitHub](https://github.com/claration/Impactor)
 * ⭐ **[Avieshek's Sideloading Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/)**, [2](https://justpaste.it/sideload) - DNS Sideloading Guide / [Omega](https://github.com/jailbreakdotparty/Omega) (Lift Certificate Blacklisting)
@@ -1378,6 +1377,7 @@
 * [PlayTorrio](https://playtorrio.xyz/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players
 * [⁠StrexoPlayer](https://strexoplayer.onrender.com/) - Video Player w/ Stremio Sync / [Discord](https://discord.gg/PEHZnB5B)
+* [⁠Web Video Cast](https://apps.apple.com/app/web-video-cast-browser-to-tv/id1400866497) - Browser Video to TV Casting App
 * [Eclipse](https://github.com/Soupy-dev/Eclipse) - Movies / TV / Anime / Extension-Based
 * [Streamyfin](https://github.com/streamyfin/streamyfin) or [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
 * [Pluto](https://apps.apple.com/app/id751712884) - Movies / TV

@@ -109,6 +109,7 @@
 * [⁠heyVR.io](https://heyvr.io/) - Browser VR Games / [Discord](https://discord.gg/tjbmKKH)
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform / [Subreddit](https://www.reddit.com/r/sidequest)
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
+* [Rec Room Revivals](https://rentry.co/FMHYB64#rec-room-revival) - Rec room Revival Servers
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 * [SlimeVR](https://docs.slimevr.dev/) - DIY VR Full-Body Tracking System / Guides / [Discord](https://discord.gg/SlimeVR) / [GitHub](https://github.com/SlimeVR)
@@ -519,7 +520,6 @@
 * [FT Cube](https://shuantsu.github.io/ft_cube/) - Multi-Size Simulator & Net Generator
 * [Maple Leaves Sim](https://filipeteixeira.com.br/mapleaves/) - Maple Leaf Cube Simulator
 * [RubiksCu.be](https://rubikscu.be/solver/) - 3x3 Cube Solver
-* [RubikSolve](https://rubiksolve.com/) - 3x3 Cube Solver
 * [Rubik's Cube Solver](https://rubiks-cube-solver.com/) - 3x3 Cube Solver
 
 ***
@@ -660,7 +660,7 @@
 * [Cards Against Humanity](https://www.cardsagainsthumanity.com/) - Official CAH Site w/ Free Printable Set
 * [Secret Hitler](https://secret-hitler.online/) - Online Secret Hitler Game / [Ruleset](https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) / [GitHub](https://github.com/ShrimpCryptid/Secret-Hitler-Online/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sh-note.md) 
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards Using Wikidata
-* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
+* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [⁠Classic Klondike Solitaire](https://classicklondikesolitaire.com/free-solitaire-games), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
 * [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker

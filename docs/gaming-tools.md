@@ -272,7 +272,6 @@
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
 * [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Anti-Cheat Game Database / GNU/Linux or Wine/Proton Compatibility
-* [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
 * [Internet Game Cars Database](https://igcd.net/) - Game Vehicle Database
 * [Incendar](https://incendar.com/) or [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5) - Game Release Date Tracker
 * [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Self-Hosted Media Tracker
@@ -612,6 +611,7 @@
 ## ▷ Steam Deck
 
 * 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck)
+* ↪️ **[Linux Gaming Resources](https://w.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_gaming)**
 * ⭐ **[Decky Loader](https://decky.xyz/)** - Steam Deck Plugin Loader / [Plugins](https://plugins.deckbrew.xyz/) / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
 * [Steam Deck Pirates’ Cove](https://livinin82.github.io/steam-deck-pirates/), [r/LinuxCrackSupport Wiki](https://reddit.com/r/LinuxCrackSupport/wiki/index/steamdeck/) or [Steam Deck Guide](https://main.steamdeck.guide/) / [2](https://steamdeck.guide/) / [GitHub](https://github.com/NKkrisz/Steam-Deck-Guide) - Steam Deck Guides / Resources
 * [r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit / [Discord](https://discord.gg/frg5Mmda56)
@@ -849,7 +849,7 @@
 
 * ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Background Check
 * ⭐ **[DPM.LOL](https://dpm.lol/)**, **[U.GG](https://u.gg/)**, [KoreanBuilds](https://en.koreanbuilds.net/), [EuropeanBuilds](https://en.europeanbuilds.net/), [LoLTheory](https://loltheory.gg/), [MurderBridge](https://www.murderbridge.com/) or [LoLAlytics](https://lolalytics.com/) / [Discord](https://discord.com/invite/zKyaZ6w) - LoL Builds / Tiers
-* ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Competitive Stats, All Regions
+* ⭐ **[Gol.gg](https://gol.gg/esports/home/)** or [⁠LoL Tracker](https://lol-tracker.com/) - LoL Competitive Stats / Team Trackers
 * [MobaFire](https://www.mobafire.com/) - LoL Champion Guides
 * [LoL Wiki](https://wiki.leagueoflegends.com/) - Official LoL Wiki
 * [LoL Math](https://lolmath.net/) - LoL Item Optimizer / [Discord](https://discord.com/invite/BpGpdzw)

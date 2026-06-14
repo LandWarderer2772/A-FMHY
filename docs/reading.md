@@ -15,7 +15,7 @@
 * [Rave](https://ravebooksearch.com/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * [WeLib](https://welib.org/) / [2](https://welib.st/) - Anna's Archive Mirror / Account Required for Downloads / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
-* [eBookHunter](https://ebook-hunter.org/) - Books / Comics / Download / Use Adblocker / [Telegram](https://t.me/ebookhunterorg)
+* [eBookHunter](https://ebook-hunter.org/) - Books / Comics / Download / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Telegram](https://t.me/ebookhunterorg)
 * [Liber3](https://liber3.eth.limo/) - Book Search / Download
 * [BookSee](https://en.booksee.org/) - Book Search / Download
 * [⁠eBookoz](https://ebookoz.net/) - Books
@@ -84,7 +84,6 @@
 * [PDFCoffee](https://pdfcoffee.com) - Books
 * [PDFCookie](https://pdfcookie.com/) - Books
 * [iDoc](https://idoc.tips/) - Books
-* [freepdfbook](https://freepdfbook.com/) - Books
 * [AWS S3](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - Find PDFs on AWS
 
 ***
@@ -408,7 +407,7 @@
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ⭐ **[Kagane](https://kagane.org/)** / [Discord](https://discord.com/invite/kBPYVSzwUE)
-* ⭐ **[Weeb Central](https://weebcentral.com/)** / Use Adblocker
+* ⭐ **[Weeb Central](https://weebcentral.com/)** / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[Atsumaru](https://atsu.moe/)** / [Discord](https://discord.gg/Tj4QmEF4uV)
 * ⭐ **[⁠Comix](https://comix.to/)** / [Subreddit](https://reddit.com/r/comix) / [Discord](https://discord.com/invite/kZgWWHUj22)
 * ⭐ **[MangaDotNet](https://mangadot.net/)** / [Discord](https://discord.com/invite/XCdaT6tyy8)
@@ -426,7 +425,6 @@
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [Rive Manga](https://www.rivestream.app/manga), [2](https://rivestream.ru/manga), [3](https://rivestream.top/manga) / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * [MangaTown](https://www.mangatown.com/)
-* [ComiKuro](https://comikuro.to/)
 * [All Manga](https://allmanga.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
