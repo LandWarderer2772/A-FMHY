@@ -420,17 +420,16 @@
 
 ## ▷ Email Clients
 
-* ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
-* ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / [GitHub](https://github.com/Foundry376/Mailspring)
-* [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client
-* [Meru](https://github.com/timche/meru) - Gmail Desktop Client
-* [Outlook](https://outlook.live.com/owa/)
-* [eM Client](https://www.emclient.com/)
-* [RainLoop](https://www.rainloop.net/)
-* [Roundcube](https://roundcube.net/)
-* [Spike](https://www.spikenow.com/)
-* [Canary](https://canarymail.io/)
-* [Twobird](https://www.twobird.com/)
+* ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / Windows, Mac, Linux / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
+* ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / Windows, Mac, Linux / [GitHub](https://github.com/Foundry376/Mailspring)
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client / Windows, Mac, Linux
+* [Meru](https://github.com/timche/meru) - Gmail Desktop Client / Windows, Mac, Linux
+* [Outlook](https://outlook.live.com/owa/) / Windows, Mac, Linux, iOS, Web
+* [eM Client](https://www.emclient.com/) / Windows, Mac, Linux, Android, iOS
+* [Spike](https://www.spikenow.com/) / Windows, Mac, Android, iOS, Web
+* [Canary](https://canarymail.io/) / Windows, Mac, Android, iOS
+* [Twobird](https://www.twobird.com/) / Windows, Mac, Android, iOS
+* [Roundcube](https://roundcube.net/) / Web
 
 ***
 
