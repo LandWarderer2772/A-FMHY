@@ -332,7 +332,7 @@
 
 * 🌐 **[Awesome Spotify Stats](https://github.com/hugo9655/awesome-spotify-stats)** - Listening Statistics Index
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
-* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** - Ad-Free Spotify Patcher / [Telegram](https://t.me/SpotxCommunity)
+* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** or [BlockTheSpot](https://github.com/Nuzair46/BlockTheSpot-Installer) - Ad-Free Spotify Patchers / [Telegram](https://t.me/SpotxCommunity)
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Notes](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [⁠Spot SponsorBlock](https://spotsponsorblock.org/) - Skip Sponsored Spotify Podcast Ads / [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension)
 * [Lofi](https://www.lofi.rocks/) - Mini Spotify Player Widget / [GitHub](https://github.com/dvx/lofi)
@@ -946,7 +946,7 @@
 
 ## ▷ Audio Editors
 
-* ⭐ **[Tenacity](https://tenacityaudio.org/)** / [Source Code](https://codeberg.org/tenacityteam/tenacity), [Audacity](https://www.audacityteam.org/) / [GitHub](https://github.com/audacity/audacity) or [ocenaudio](https://www.ocenaudio.com/) - Audio Editors
+* ⭐ **[Tenacity](https://tenacityaudio.org/)** / [Source Code](https://codeberg.org/tenacityteam/tenacity), [Audacity](https://www.audacityteam.org/) / [Discord](https://discord.com/invite/audacity) / [GitHub](https://github.com/audacity/audacity) or [ocenaudio](https://www.ocenaudio.com/) - Audio Editors
 * ⭐ **[FL Studio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)** (search) / [Guide](https://www.image-line.com/learn) / [2](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual) / [3](https://support.image-line.com/action/knowledgebase), **[Reaper](https://www.reaper.fm/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/reaper-note.md)**, [](https://kirastudio.org/) / [GitHub](https://github.com/BleuBleu/KiraStudioPublic), [Zrythm](https://www.zrythm.org/en/index.html) / [GitLab](https://gitlab.zrythm.org/zrythm/zrythm), [Waveform](https://www.tracktion.com/products/waveform-free) or [LMMS](https://lmms.io/) / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS) - Digital Audio Workstations
 * ⭐ **[OpenMPT](https://openmpt.org/)** / [Source Code](https://source.openmpt.org/) / [GitHub](https://github.com/OpenMPT/openmpt/), [Schism Tracker](https://schismtracker.org/) / [GitHub](https://github.com/schismtracker/schismtracker), [Furnace](https://tildearrow.org/furnace/) / [Discord](https://discord.gg/QhA26dXD23) / [GitHub](https://github.com/tildearrow/furnace), [16-Bits](https://16-bits.org/) / [GitHub](https://github.com/8bitbubsy?tab=repositories) or [MilkyTracker](https://milkytracker.org/) / [GitHub](https://github.com/milkytracker/MilkyTracker) - Music Trackers
 * [Team V.R releases](https://rentry.co/FMHYB64#team-vr), [G-MEH](https://g-meh.com/) / [Discord](https://discord.com/invite/g-meh) or [AudioZ](https://audioz.download/) / [Forum](https://audiosex.pro/) - Audio Editor Indexes
@@ -970,7 +970,7 @@
 
 ## ▷ Browser Editors / Synths
 
-* ⭐ *[BandLab](https://www.bandlab.com/)**, **[Audioalter](https://audioalter.com/)**, **[WavaCity](https://wavacity.com/)**, [⁠Riffle](https://www.riffle.studio/), [Bosca Ceoil](https://humnom.net/apps/boscaceoil/, [⁠AudioTool](https://www.audiotool.com/), [AudioMass](https://github.com/pkalogiros/audiomass), [editor.audio](https://editor.audio/), [TwistedWave](https://twistedwave.com/online) or [xAudioPro](https://www.xaudiopro.com/en/) - Online Editors / Web DAWs
+* ⭐ **[BandLab](https://www.bandlab.com/)**, **[Audioalter](https://audioalter.com/)**, **[WavaCity](https://wavacity.com/)**, [⁠Riffle](https://www.riffle.studio/), [Bosca Ceoil](https://humnom.net/apps/boscaceoil/, [⁠AudioTool](https://www.audiotool.com/), [AudioMass](https://github.com/pkalogiros/audiomass), [editor.audio](https://editor.audio/), [TwistedWave](https://twistedwave.com/online) or [xAudioPro](https://www.xaudiopro.com/en/) - Online Editors / Web DAWs
 * ⭐ **[Drumhaus](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [DrumBit](https://drumbit.app/), [Roland50.studio](https://roland50.studio/), [Acid Machine 2](https://errozero.co.uk/acid-machine/), [orDrumbox](https://www.ordrumbox.com/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
 * [UltraBox](https://ultraabox.github.io/), [AbyssBox](https://choptop84.github.io/abyssbox-app/), [JummBox](https://jummb.us/) / [GitHub](https://github.com/jummbus/jummbox), [BeepBox](https://www.beepbox.co/) or [GoldBox](https://aurysystem.github.io/goldbox/) - Online Sequencer / BeepBox Forks
 * [Efflux](https://www.igorski.nl/application/efflux/) - Online Tracker / Sequencer

@@ -393,7 +393,7 @@
 * ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
 * [VCRedist](https://github.com/abbodi1406/vcredist), [2](https://gitlab.com/stdout12/vcredist), [3](https://codeberg.org/stdout12/vcredist) - AIO Repack for Microsoft Visual C++ Redists
-* [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
+* [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions / [Discord](https://discord.com/invite/Y9rbXDtDnr) / [GitHub](https://github.com/LegacyUpdate/LegacyUpdate)
 * [WURefresh](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) or [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/) - Download Previous Windows Updates
 * [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Ready for Windows 11
@@ -427,7 +427,7 @@
 * [⁠Wallpapers Clan](https://wallpapers-clan.com/), [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://flaired-folders.vercel.app/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
-* [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
+* [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) / [Discord](https://discord.gg/translucenttb), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
 * [⁠Sweezy Cursors](https://sweezy-cursors.com/) - Custom Animated Cursors / Requires no Extension 
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Accent Color Customization
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Search Customization
