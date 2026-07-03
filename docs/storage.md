@@ -42,7 +42,7 @@
 * [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - UML Diagrams Generators / Creators
 * [PlantText](https://www.planttext.com/) - UML Editor
 
-[DGM](https://dgm.sh/), [⁠MakeGraph](https://makegraph.app/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) / [Terminal Render](https://mermaid-ascii.art/) / [GitHub]( https://github.com/mermaid-js/mermaid), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com), [PlantUML](https://www.plantuml.com/)
+[DGM](https://dgm.sh/), [⁠MakeGraph](https://makegraph.app/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) / [Terminal Render](https://mermaid-ascii.art/) / [GitHub](https://github.com/mermaid-js/mermaid), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com), [PlantUML](https://www.plantuml.com/)
 
 ***
 
@@ -60,9 +60,9 @@
 
 * ⭐ **[VADS](https://vads.ac.uk/digital/)**
 * ⭐ **[Arts and Culture](https://artsandculture.google.com/)**
-* [poly.booru](https://poly.booru.nl/ ) - Historical Artifact Images / [Discord](https://discord.gg/jHnYbGJZSn) / [GitHub](https://github.com/cosbooru/cosbooru)
+* [poly.booru](https://poly.booru.nl/) - Historical Artifact Images / [Discord](https://discord.gg/jHnYbGJZSn) / [GitHub](https://github.com/cosbooru/cosbooru)
 
-[strauh.al](https://strauh.al/), [⁠The Met](https://www.metmuseum.org/art/collection), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Haltadefinizione](https://www.haltadefinizione.com/en/), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [The Watercolour World](https://www.watercolourworld.org/), [Museo](https://museo.app/), [Arthur](https://arthur.io/), [WGA](https://www.wga.hu/), [Gallerix](https://gallerix.org/), [WikiArt](https://www.wikiart.org/), [Public Work](https://public.work/), [Public Domain Image Archive](https://pdimagearchive.org/), [V&A](https://www.vam.ac.uk/), [Louvre](https://collections.louvre.fr/en/), [Artchive](https://www.artchive.com/), [S.D. Cason](https://sdcason.com/categories/), [Frick](https://www.frick.org/art), [RCT](https://www.rct.uk/collection/), [Artic](https://www.artic.edu/collection), [Artvee](https://artvee.com/), [MoMA](https://www.moma.org/collection/), [Guggenheim](https://www.guggenheim.org/collection-online), [Deutsche Digitale](https://www.deutsche-digitale-bibliothek.de/?lang=en), [NGA](https://www.nga.gov), [Semantic Art Search](https://semantic-art-search.com/) / [GitHub](https://github.com/KristianMSchmidt/semantic-art-search), [Gardner Museum](https://www.gardnermuseum.org/experience/collection), [Centre Pompidou](https://www.centrepompidou.fr/en/collection), [NPG](https://www.npg.org.uk/collections/), [Ashmolean](https://www.ashmolean.org/collections-online), [faenum](https://faenum.com/)
+[The Last Museum](https://lastmuseum.com/), [strauh.al](https://strauh.al/), [⁠The Met](https://www.metmuseum.org/art/collection), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Haltadefinizione](https://www.haltadefinizione.com/en/), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [The Watercolour World](https://www.watercolourworld.org/), [Museo](https://museo.app/), [Arthur](https://arthur.io/), [WGA](https://www.wga.hu/), [Gallerix](https://gallerix.org/), [WikiArt](https://www.wikiart.org/), [Public Work](https://public.work/), [Public Domain Image Archive](https://pdimagearchive.org/), [V&A](https://www.vam.ac.uk/), [Louvre](https://collections.louvre.fr/en/), [Artchive](https://www.artchive.com/), [S.D. Cason](https://sdcason.com/categories/), [Frick](https://www.frick.org/art), [RCT](https://www.rct.uk/collection/), [Artic](https://www.artic.edu/collection), [Artvee](https://artvee.com/), [MoMA](https://www.moma.org/collection/), [Guggenheim](https://www.guggenheim.org/collection-online), [Deutsche Digitale](https://www.deutsche-digitale-bibliothek.de/?lang=en), [NGA](https://www.nga.gov), [Semantic Art Search](https://semantic-art-search.com/) / [GitHub](https://github.com/KristianMSchmidt/semantic-art-search), [Gardner Museum](https://www.gardnermuseum.org/experience/collection), [Centre Pompidou](https://www.centrepompidou.fr/en/collection), [NPG](https://www.npg.org.uk/collections/), [Ashmolean](https://www.ashmolean.org/collections-online), [faenum](https://faenum.com/)
 
 ***
 
@@ -95,6 +95,7 @@
 * [OldGameShelf](https://oldgameshelf.com/) - Retro Consoles / EmulatorJS
 * [RetroGamesNexus](https://retrogamesnexus.com/) - Retro Consoles / EmulatorJS
 * [ClassicGameZone](https://classicgamezone.com/) - Retro Consoles / EmulatorJS
+* [retroplayonline](https://www.retroplayonline.com/) - Retro Consoles / EmulatorJS
 * [Pegasus Online](https://pegasus-online.pl/en/) - Retro Consoles / EmulatorJS
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy / EmulatorJS
 * [Play NES](https://www.playnesonline.com/) - NES Browser Emulator / EmulatorJS
@@ -117,6 +118,7 @@
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns) / [Guide](https://github.com/yokoffing/NextDNS-Config)
 * [Rethink DNS](https://rethinkdns.com/configure)
 * [⁠Tiarap](https://tiar.app/)
+* [HaGeZi DNS](https://github.com/hagezi/dns-servers)
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) / [GitHub](https://github.com/NLnetLabs/unbound)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
 * [AdGuard](https://adguard-dns.io/en/public-dns.html) / [GitHub](https://github.com/AdguardTeam/AdguardSDNSFilter)
@@ -161,7 +163,7 @@
 * 🌐 **[⁠GD Demon / Challenge Lists](https://docs.google.com/document/d/1tYM7XWS18B7s2g4lplzF6qU2T8LHi3-kQkybGIhXlqE)**
 * ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/) / [Discord](https://discord.com/invite/hfGJ8jMp) / [GitHub](https://github.com/stadust/pointercrate)
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List / [Discord](https://discord.com/invite/aredl) / [GitHub](https://github.com/All-Rated-Extreme-Demon-List)
-* [Pemonlist](https://pemonlist.com/) - Rated Platformer Demon List / [Discord](https://discord.com/invite/fZuXFtFzVQ) / [GitHub](https://github.com/TheGElCOgecko/pemonlist)
+* [Pemonlist](https://pemonlist.com/) / [Discord](https://discord.com/invite/fZuXFtFzVQ) / [GitHub](https://github.com/TheGElCOgecko/pemonlist) or [Platformer List](https://gdplatformerlist.com/) / [Discord](https://discord.gg/wuf9CZsd9D) - Platformer Demon Lists / Leaderboards
 * [Index ⁠HDL](https://hdl.pages.dev/) - Hard Demon List / [Discord](https://discord.gg/fKKWjUBfk7)
 * [LRR Demonlist](https://gdlrrlist.com/) - Low Refresh Rate Demon List / [Discord](https://discord.gg/PCQ5V3e)
 * [UDL](https://udl.pages.dev/) - Unrated Demons List
@@ -386,6 +388,7 @@
 * https://monocles.de/
 * https://searx.oloke.xyz/
 * https://searxng.canine.tools/
+* https://searloc.org/
 * https://search.2b9t.xyz/
 * https://search.mdosch.de/
 * https://www.gruble.de/
@@ -426,9 +429,8 @@
 * ⭐ **[Icons8](https://icons8.com/icons)** - Icon Collections / [Downloader](https://github.com/Kyutefox/Iconify)
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)** - Icon Collections
 * ⭐ **[Noun Project](https://thenounproject.com/)** - Monochrome Icons
-* ⭐ **[SVGL](https://svgl.app/)** - Company / Program Icons
+* ⭐ **[SVGL](https://svgl.app/)**, [Dashboard Icons](https://dashboardicons.com/) or [selfh.st](https://selfh.st/icons/) / [GitHub](https://github.com/selfhst/icons) - Company / Program Icons
 * [useAnimations](https://useanimations.com/index.html), [heroicons-animated](https://www.heroicons-animated.com/), [lucide-animated](https://lucide-animated.com/) or [LordIcon](https://lordicon.com/) - Animated Icons
-* [Dashboard Icons](https://dashboardicons.com/) - Program Icons
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 

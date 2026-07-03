@@ -20,12 +20,14 @@
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [TikTok Tools](https://omar-thing.site/) - TikTok Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
 * [Farscroll](https://farscroll.vercel.app/) - Find Random / Obscure TikTok Videos
+* [⁠grapper](https://grapper.gab.net.eu.org/) - Vine Video Archive / Username Required 
 * [Social-Searcher](https://www.social-searcher.com/) or [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) - Social Media Search Engines
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 * [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
+* [PixelHunter](https://pixelhunter.io/) or [⁠Dopmatico](https://dropmatico.com/app) - Social Media Image Resizer
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
 
 ***
@@ -37,10 +39,10 @@
 ***
 
 * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
+* ⭐ **[stolen.shoes](https://stolen.shoes/)** - Discord Video Embedder
 * ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro / Boost Ads
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
-*  [npf.is](https://discord.nfp.is/) or [stolen.shoes](https://stolen.shoes/) - Discord Video Embedders
 * [⁠Nelly](https://nelly.tools/) - Discord Web Tools
 * [Discorch](https://discorch.org/) / [Source Code](https://codeberg.org/discorch/discorch), [Discrub](https://github.com/prathercc/discrub-ext) or [Undiscord](https://github.com/victornpb/undiscord/) - Message Manipulation Tools / Always Delay 9+ Seconds
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine / [GitHub](https://github.com/AnswerOverflow/AnswerOverflow)
@@ -132,6 +134,7 @@
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm)
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti-Phishing Bot
+* [⁠Honeypot](https://discord.com/discovery/applications/1450060292716494940) - Auto-Ban Spam Bots using Dedicated Channel
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Modmail](https://github.com/modmail-dev/modmail) - Discord Modmail Bot
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot
@@ -214,7 +217,7 @@
 
 ## ▷ Reddit Search
 
-* [Reveddit](https://www.reveddit.com/), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint), [Ghostddit](https://ghostddit.pages.dev/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted / Hidden Reddit Posts + Comments
+* [Reveddit](https://www.reveddit.com/), [⁠Reddit Restore](https://greasyfork.org/scripts/585120) (Userscript), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint), [Ghostddit](https://ghostddit.pages.dev/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted / Hidden Reddit Posts + Comments
 * [New PullPush](https://ihsoyct.github.io/), [PullPush Search](https://search.pullpush.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
@@ -251,7 +254,7 @@
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) - RSS Reader
 * [tg-channel-cloner-workers](https://gitlab.com/ParveenBhadooOfficial/tg-channel-cloner-workers) - Clone Telegram Channels
 * [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
-* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en) or [ComBot Stickers](https://combot.org/stickers) - Telegram Sticker / Emojis
+* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [⁠fstik](https://fstik.app/) or [ComBot Stickers](https://combot.org/stickers) - Telegram Sticker / Emojis
 
 ***
 
@@ -403,6 +406,7 @@
 * [playlist.tools](https://playlist.tools/) - Reverse YouTube Playlists
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) / [2](https://ytplaylist-length.codingdeft.com/) or [Length Checker](https://youtube-playlist-length-calculator.onrender.com/) - Playlist Length Checkers
 * [YouTubePlaylistMerge](https://rentry.org/YouTubePlaylistMerge) - Playlist Merge Guide
+* [⁠YouTube Auto-Pause Bypass](https://greasyfork.org/en/scripts/568818) - Prevents YouTube Playlist Auto-Pausing 
 
 ***
 
@@ -411,7 +415,7 @@
 * 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YouTube Downloader GUIs
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)** 
 * ⭐ **[Parabolic](https://github.com/NickvisionApps/Parabolic)**, [Tartube](https://tartube.sourceforge.io/) / [GitHub](https://github.com/axcore/tartube/), [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
-* ⭐ **[JDownloader](https://jdownloader.org/)** - YouTube Downloader App / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
+* ⭐ **[JDownloader](https://jdownloader.org/)** - YouTube Downloader App
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r) or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLIs
 * ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 * [Stacher](https://stacher.io/), [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) or [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - YT-DL GUIs
@@ -515,7 +519,7 @@
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontend / Viewer
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
-* [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
+* [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [⁠100 Multiview](https://www.100multiview.com/twitch), [Twitch3D](https://hjjg200.github.io/twitch3d/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * Alternate Player for Twitch.tv - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch_5/) / [Chrome](https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf)
 * [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
@@ -611,7 +615,6 @@
 * [FB.Zone](https://fb.zone/) - Color Themes for Facebook
 * [Remove FBclid](https://chromewebstore.google.com/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ Query Parameters in URLs
 * [News Feed Eradicator](https://west.io/news-feed-eradicator/) - Hide Facebook News Feed
-* [Lookup ID](https://lookup-id.com/) - Find Facebook ID
 * [Unlike-Everything](https://github.com/tlorien/Unlike-Everything-on-Facebook) - Remove All Facebook Likes
 
 ***

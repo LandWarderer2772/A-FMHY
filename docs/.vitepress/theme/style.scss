@@ -2,12 +2,6 @@ html {
   scrollbar-gutter: stable;
 }
 
-body {
-  transition:
-    background-color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1),
-    color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
-}
-
 :root {
   scroll-behavior: smooth;
   /* Colors: Brand */
@@ -55,6 +49,10 @@ body {
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.800');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.900');
+  /* Currently focused search highlight */
+  --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, black);
+  /* Scroll-to-match highlight */
+  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 46%, transparent)
 }
 
 .dark {
@@ -90,6 +88,10 @@ body {
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.200');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.200');
+  /* Currently focused search highlight */
+  --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, white);
+  /* Scroll-to-match highlight */
+  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 38%, black);
 }
 
 .monochrome {
@@ -412,22 +414,20 @@ html.june {
   color: inherit;
 }
 
+
 /* Search result scroll-to-match highlight flash.
  * Uses outline + background instead of padding to avoid layout shift. */
 .vp-search-highlight-target {
   border-radius: 4px;
-  outline: 2px solid var(--vp-c-yellow-2, #ffd54f);
+  outline: 2px solid var(--vp-scroll-match-bg);
   outline-offset: 2px;
+
   /* Solid resting state so the highlight is visible even when the fade
    * animation is suppressed (e.g. reduced-motion userstyles that force
    * animation-duration to ~0, which would otherwise jump straight to the
    * transparent end-state). JS removes the class after 2s regardless. */
-  background-color: rgba(255, 213, 79, 0.22);
-  background-color: color-mix(
-    in srgb,
-    var(--vp-c-yellow-2, #ffd54f) 22%,
-    transparent
-  );
+
+  background-color: var(--vp-scroll-match-bg);
 }
 
 /* The fade-out is a progressive enhancement, only for users who haven't
@@ -449,23 +449,13 @@ html.june {
 
 @keyframes vp-search-flash {
   0% {
-    background-color: rgba(255, 213, 79, 0.25);
-    background-color: color-mix(
-      in srgb,
-      var(--vp-c-yellow-2, #ffd54f) 25%,
-      transparent
-    );
-    outline-color: var(--vp-c-yellow-2, #ffd54f);
+    background-color: var(--vp-scroll-match-bg);
+    outline-color: var(--vp-c-brand-soft);
   }
 
   70% {
-    background-color: rgba(255, 241, 118, 0.15);
-    background-color: color-mix(
-      in srgb,
-      var(--vp-c-yellow-3, #fff176) 15%,
-      transparent
-    );
-    outline-color: var(--vp-c-yellow-3, #fff176);
+    background-color: var(--vp-scroll-match-bg);
+    outline-color: var(--vp-c-brand-soft);
   }
 
   100% {
@@ -565,4 +555,32 @@ body,
 html.vp-search-scrolling .VPNav {
   transform: none !important;
   transition: none !important;
+}
+
+body,
+.Layout,
+.VPNav,
+.VPNavBar,
+.VPLocalNav,
+.VPSidebar,
+.VPContent,
+.VPFooter {
+  transition: background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+html.theme-view-transition,
+html.theme-view-transition * {
+  transition: none !important;
+}
+
+/* Keep transient overlays — the mobile nav screen and the theme-selector
+ * dropdown popper — out of the view-transition snapshots so they never appear
+ * inside the radial reveal (and so the dropdown hides instantly on click).
+ * Scope to `.v-popper__popper` so only the teleported popover is hidden:
+ * floating-vue also stamps `.v-popper--theme-theme-selector` onto the trigger
+ * wrapper around the navbar toggle button, and hiding that would blank out the
+ * sun/moon icon for the whole reveal. */
+html.theme-view-transition .VPNavScreen,
+html.theme-view-transition .v-popper__popper.v-popper--theme-theme-selector {
+  display: none !important;
 }

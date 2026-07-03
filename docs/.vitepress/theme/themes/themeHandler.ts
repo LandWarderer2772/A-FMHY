@@ -26,12 +26,10 @@ const STORAGE_KEY_VARS = 'vitepress-theme-vars'
 export class ThemeHandler {
   private state = ref<ThemeState>({
     currentTheme: 'swarm',
-    currentMode: 'dark' as DisplayMode,
+    currentMode: 'light' as DisplayMode,
     theme: null
   })
-  private amoledEnabled = ref(true)
-<<<<<<< Updated upstream
-=======
+  private amoledEnabled = ref(false)
   private prefersDarkMql: MediaQueryList | null = null
   // Arrow field gives a stable, bound reference we can later remove.
   private handleSystemThemeChange = (e: MediaQueryListEvent) => {
@@ -42,7 +40,6 @@ export class ThemeHandler {
       this.applyTheme()
     }
   }
->>>>>>> Stashed changes
 
   constructor() {
     this.initializeTheme()
@@ -56,9 +53,7 @@ export class ThemeHandler {
     const savedMode = localStorage.getItem(
       STORAGE_KEY_MODE
     ) as DisplayMode | null
-    const savedAmoledRaw = localStorage.getItem(STORAGE_KEY_AMOLED)
-    const savedAmoled =
-      savedAmoledRaw === null ? true : savedAmoledRaw === 'true'
+    const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
 
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
@@ -72,60 +67,75 @@ export class ThemeHandler {
     if (savedMode) {
       this.state.value.currentMode = savedMode
     } else {
-      this.state.value.currentMode = 'dark'
+      // Detect system preference for initial mode
+      const prefersDark = window.matchMedia(
+        '(prefers-color-scheme: dark)'
+      ).matches
+      this.state.value.currentMode = prefersDark ? 'dark' : 'light'
     }
 
     this.applyTheme()
 
-    // Listen for system theme changes (only if user hasn't set a preference)
-    window
-      .matchMedia('(prefers-color-scheme: dark)')
-      .addEventListener('change', (e) => {
-        if (!localStorage.getItem(STORAGE_KEY_MODE)) {
-          this.state.value.currentMode = e.matches ? 'dark' : 'light'
-          this.applyTheme()
-        } else {
-          this.applyTheme()
-        }
-      })
+    // Listen for system theme changes (only if user hasn't set a preference).
+    // Remove any prior listener first so repeated init calls don't stack.
+    this.prefersDarkMql?.removeEventListener(
+      'change',
+      this.handleSystemThemeChange
+    )
+    this.prefersDarkMql = window.matchMedia('(prefers-color-scheme: dark)')
+    this.prefersDarkMql.addEventListener('change', this.handleSystemThemeChange)
+  }
+
+  /**
+   * Remove the system theme-change listener.
+   * NOTE: currently dead code — the handler is a process-lifetime singleton
+   * (see `useThemeHandler`) and is never torn down. Kept for completeness / in
+   * case the handler is ever scoped to a shorter lifecycle.
+   */
+  public destroy() {
+    this.prefersDarkMql?.removeEventListener(
+      'change',
+      this.handleSystemThemeChange
+    )
+    this.prefersDarkMql = null
   }
 
   public applyTheme() {
     if (typeof document === 'undefined') return
 
     const { currentMode, theme } = this.state.value
-
-    // Is this the WORST fix of all time???
     const root = document.documentElement
-    const bgColor =
-      currentMode === 'dark' && this.amoledEnabled.value
-        ? '#000000'
-        : currentMode === 'dark'
-          ? '#1A1A1A'
-          : '#f8fafc'
-    root.style.setProperty('--vp-c-bg', bgColor)
-    const bgAltColor =
-      currentMode === 'dark' && this.amoledEnabled.value
-        ? '#000000'
-        : currentMode === 'dark'
-          ? '#171717'
-          : '#eef2f5'
-    root.style.setProperty('--vp-c-bg-alt', bgAltColor)
-    const bgElvColor =
-      currentMode === 'dark' && this.amoledEnabled.value
-        ? 'rgba(0, 0, 0, 0.9)'
-        : currentMode === 'dark'
-          ? '#1a1a1acc'
-          : 'rgba(255, 255, 255, 0.8)'
-    root.style.setProperty('--vp-c-bg-elv', bgElvColor)
 
     this.applyDOMClasses(currentMode)
 
-    if (!theme) return
+    if (!theme) {
+      // Is this the WORST fix of all time???
+      const bgColor =
+        currentMode === 'dark' && this.amoledEnabled.value
+          ? '#000000'
+          : currentMode === 'dark'
+            ? '#1A1A1A'
+            : '#f8fafc'
+      root.style.setProperty('--vp-c-bg', bgColor)
+      const bgAltColor =
+        currentMode === 'dark' && this.amoledEnabled.value
+          ? '#000000'
+          : currentMode === 'dark'
+            ? '#171717'
+            : '#eef2f5'
+      root.style.setProperty('--vp-c-bg-alt', bgAltColor)
+      const bgElvColor =
+        currentMode === 'dark' && this.amoledEnabled.value
+          ? 'rgba(0, 0, 0, 0.9)'
+          : currentMode === 'dark'
+            ? '#1a1a1acc'
+            : 'rgba(255, 255, 255, 0.8)'
+      root.style.setProperty('--vp-c-bg-elv', bgElvColor)
+      this.persistInlineVars()
+      return
+    }
 
     const modeColors = theme.modes[currentMode]
-
-    this.applyDOMClasses(currentMode)
     this.applyCSSVariables(modeColors, theme)
 
     if (theme.name === 'monochrome') {
@@ -183,13 +193,6 @@ export class ThemeHandler {
 
     const root = document.documentElement
 
-    // Clear ALL inline styles related to theming to ensure clean slate
-    // const allStyleProps = Array.from(root.style)
-    // allStyleProps.forEach(prop => {
-    //   if (prop.startsWith('--vp-')) {
-    //     root.style.removeProperty(prop)
-    //   }
-    // })
     let bgColor = colors.bg
     let bgAltColor = colors.bgAlt
     let bgElvColor = colors.bgElv

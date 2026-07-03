@@ -26,9 +26,9 @@ import { replaceNoteLink } from './utils/markdown'
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
-  title: 'A-FMHY',
+  title: 'FMHY',
   description: meta.description,
-  titleTemplate: ':title • amoled-freemediaheckyeah',
+  titleTemplate: ':title • freemediaheckyeah',
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
@@ -43,21 +43,19 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#7bc5e4' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: '/test.png' }],
+    ['link', { rel: 'icon', href: '/fmhy.ico' }],
     [
       'link',
       {
         rel: 'alternate',
         type: 'application/rss+xml',
-        title: 'A-FMHY RSS Feed',
+        title: 'FMHY RSS Feed',
         href: '/feed.rss'
       }
     ],
     // PWA
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['link', { rel: 'icon', href: '/pwa_icon.png', type: 'image/svg+xml' }],
-    ['link', { rel: 'alternate icon', href: '/pwa_icon.png' }],
-    ['link', { rel: 'mask-icon', href: '/pwa_icon.png', color: '#000000ff' }],
+    ['link', { rel: 'alternate icon', href: '/pwa_icon.png', type: 'image/png' }],
     ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
     [
       'link',
@@ -106,13 +104,12 @@ export default defineConfig({
           try {
             var d = document.documentElement;
             var mode = localStorage.getItem('vitepress-display-mode');
-            var amoledRaw = localStorage.getItem('vitepress-amoled-enabled');
-            var amoled = amoledRaw === null ? true : amoledRaw === 'true';
+            var amoled = localStorage.getItem('vitepress-amoled-enabled') === 'true';
             var themeName = localStorage.getItem('vitepress-theme-name');
             var varsJson = localStorage.getItem('vitepress-theme-vars');
 
             if (!mode) {
-              mode = 'dark';
+              mode = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
             }
 
             if (mode === 'dark') {
@@ -150,7 +147,7 @@ export default defineConfig({
             var today = new Date();
             if (today.getMonth() === 5) {
               document.documentElement.classList.add('june');
-              function applyJuneTheme() {
+              function applyJuneFavicon() {
                 var links = document.querySelectorAll("link[rel*='icon']");
                 links.forEach(function(link) {
                   if (link.getAttribute('href') !== '/june_icon.webp') {
@@ -160,6 +157,8 @@ export default defineConfig({
                     }
                   }
                 });
+              }
+              function applyJuneLogo() {
                 var logos = document.querySelectorAll("img.logo, img[src*='fmhy.ico']");
                 logos.forEach(function(img) {
                   if (img.getAttribute('src') !== '/june_icon.webp') {
@@ -167,14 +166,16 @@ export default defineConfig({
                   }
                 });
               }
-              applyJuneTheme();
-              var observer = new MutationObserver(applyJuneTheme);
-              observer.observe(document.documentElement, {
+              applyJuneFavicon();
+              applyJuneLogo();
+              // Favicons live in <head>; scope the observer there instead of the whole document.
+              new MutationObserver(applyJuneFavicon).observe(document.head, {
                 childList: true,
-                subtree: true,
                 attributes: true,
-                attributeFilter: ['href', 'type', 'src']
+                attributeFilter: ['href', 'type']
               });
+              // The nav logo isn't in <head>; re-apply it on route changes (see theme/index.ts).
+              window.__fmhyApplyJuneLogo = applyJuneLogo;
             }
           } catch (e) {}
         })();
@@ -186,8 +187,10 @@ export default defineConfig({
     try {
       await generateImages(context)
       await generateFeed(context)
-    } finally {
-      consola.success('Success!')
+      consola.success('Build hooks completed successfully.')
+    } catch (error) {
+      consola.error('Build hook failed:', error)
+      throw error
     }
   },
   vite: {
@@ -245,7 +248,10 @@ export default defineConfig({
       VitePWA({
         registerType: 'autoUpdate',
         workbox: {
-          globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2}'],
+          // Precache only the app shell; images and pages go through runtimeCaching below.
+          maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
+          globPatterns: ['**/*.{js,css,woff2}'],
+          globIgnores: ['**/*localSearchIndex*.js'],
           runtimeCaching: [
             {
               urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
@@ -260,39 +266,36 @@ export default defineConfig({
                   statuses: [0, 200]
                 }
               }
+            },
+            {
+              urlPattern: /\.(?:png|jpe?g|svg|webp|ico)$/,
+              handler: 'CacheFirst',
+              options: {
+                cacheName: 'images-cache',
+                expiration: {
+                  maxEntries: 60,
+                  maxAgeSeconds: 60 * 60 * 24 * 30 // 30 days
+                },
+                cacheableResponse: {
+                  statuses: [0, 200]
+                }
+              }
+            },
+            {
+              urlPattern: ({ request }) => request.mode === 'navigate',
+              handler: 'NetworkFirst',
+              options: {
+                cacheName: 'pages-cache',
+                expiration: {
+                  maxEntries: 50,
+                  maxAgeSeconds: 60 * 60 * 24 // 1 day
+                }
+              }
             }
           ]
         },
-        manifest: {
-          name: 'A-FMHY - amoled-freemediaheckyeah',
-          short_name: 'A-FMHY',
-          description: 'The largest collection of free stuff on the internet!',
-          theme_color: '#000000ff',
-          background_color: '#000000ff',
-          display: 'standalone',
-          orientation: 'portrait',
-          scope: '/',
-          start_url: '/',
-          icons: [
-            {
-              src: '/fmhy.ico',
-              sizes: '16x16',
-              type: 'image/x-icon'
-            },
-            {
-              src: '/pwa_icon.png',
-              sizes: '192x192',
-              type: 'image/png',
-              purpose: 'any maskable'
-            },
-            {
-              src: '/pwa_icon.png',
-              sizes: '512x512',
-              type: 'image/png',
-              purpose: 'any maskable'
-            }
-          ]
-        }
+        // Use docs/public/manifest.json (linked in head) instead of a generated one.
+        manifest: false
       }),
       transformsPlugin(),
       {
@@ -342,7 +345,7 @@ export default defineConfig({
     outline: 'deep',
     logo: {
       src: '/fmhy.ico',
-      alt: 'A-FMHY Logo'
+      alt: 'FMHY Logo'
     },
     nav,
     sidebar,
