@@ -42,10 +42,21 @@ export const excluded = [
 const safeEnv = (key: string) =>
   typeof process !== 'undefined' ? process.env?.[key] : undefined
 
+<<<<<<< Updated upstream
 if (safeEnv('A-FMHY_BUILD_NSFW') === 'false') {
   meta.build.nsfw = false
 }
 if (safeEnv('A-FMHY_BUILD_API') === 'false') {
+=======
+// Treat the common falsy spellings as "off", not just the exact string 'false'.
+const isFalsy = (val?: string) =>
+  ['false', '0', 'no', 'off'].includes((val ?? '').trim().toLowerCase())
+
+if (isFalsy(safeEnv('A-FMHY_BUILD_NSFW'))) {
+  meta.build.nsfw = false
+}
+if (isFalsy(safeEnv('A-FMHY_BUILD_API'))) {
+>>>>>>> Stashed changes
   meta.build.api = false
 }
 
