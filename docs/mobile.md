@@ -328,7 +328,7 @@
 ## ▷ Root / Flash
 
 * 🌐 **[Awesome Android Root](https://awesome-android-root.pages.dev/)** - Rooted App Index / Guides / [GitHub](https://github.com/awesome-android-root/awesome-android-root)
-* 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** or [BL List](https://a.zli.li/) - Bootlocker Limit Indexes / Policies / [GitHub](https://github.com/xuemian168/android-locker)
+* 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** or [BL List](https://a.zli.li/) - Bootloader Limit Indexes / Policies / [GitHub](https://github.com/xuemian168/android-locker)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
@@ -535,7 +535,7 @@
 * [Glasswire](https://play.google.com/store/apps/details?id=com.glasswire.android), [⁠Traffic Light](https://github.com/leekleak/traffic-light/) or [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitors
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Bookmark Manager Zero](https://bmz.absolutezero.fyi/), [Linkora](https://github.com/LinkoraApp/Linkora) / [Discord](https://discord.gg/ZDBXNtv8MD), [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager), [⁠Deepr](https://github.com/yogeshpaliyal/Deepr) or [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Bookmark Managers
-* [NativeAlpha](https://play.google.com/store/apps/details?id=com.cylonid.nativealpha) - Run Websites in Borderless Window
+* [NativeAlpha](https://play.google.com/store/apps/details?id=com.cylonid.nativealpha) - Run Websites in Borderless Window / [GitHub](https://github.com/cylonid/NativeAlphaForAndroid)
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [PassAndroid](https://github.com/ligi/PassAndroid) - Manage Virtual Tickets / Passes
 * [Conversations](https://codeberg.org/iNPUTmice/Conversations) - XMPP App
@@ -889,7 +889,7 @@
 * [Soundbound App](https://soundbound.app/) - Streaming / Download / [Telegram](https://t.me/soundboundofficial)
 * [Saturn](https://github.com/Sheathed/Saturn) or [Refreezer](https://github.com/DJDoubleD/refreezer) - Deezer / FLAC / Requires Premium (Firehawk52)
 * [Trebel](https://home.trebel.io/) - Streaming
-* [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming / [Availability](https://support.deezer.com/hc/en-gb/articles/115003749449-List-Of-Countries-Deezer-Is-Available-In)
+* [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [Music Time Travel](https://play.google.com/store/apps/details?id=com.zh.musictimetravel) - Music Discovery
 * [Airbuds](https://play.google.com/store/apps/details?id=com.capp.poplive) - Friends Listening Activity
 * [Music Speed Changer](https://play.google.com/store/apps/details?id=com.smp.musicspeed) - Audio Multi-Tool / Equalizer
@@ -1084,7 +1084,7 @@
 * [⁠Litube](https://github.com/HydeYYHH/litube) - Ad-Free YouTube
 * [Tubular](https://github.com/polymorphicshade/Tubular) - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube) or [⁠SkyTubeLegacy](https://github.com/SkyTubeTeam/SkyTubeLegacy) - YouTube Player
-* [BravePipe](https://github.com/bravepipeproject/BravePipe) - Ad-Free YouTube / Peertube / media.ccc.de / Rumble / Bitchute / SponsorBlock / ReturnYTDislikes
+* [BravePipe](https://github.com/bravepipeproject/BravePipe) - Ad-Free YouTube / Peertube / media.ccc.de / Rumble / BitChute / SponsorBlock / ReturnYTDislikes
 * [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeAndroid) - YouTube Player
 
 ***
@@ -1351,11 +1351,12 @@
 * [⁠Lyra](https://lyramusic.app/) - YouTube Music / Ad-Free / [Discord](https://discord.gg/64fVZ2QdZ9)
 * [WAVE](https://waveapp.pages.dev/) - YouTube Music / Ad-Free
 * [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
-* [Deezer](https://apps.apple.com/app/id292738169) - Streaming
+* [Deezer](https://apps.apple.com/app/id292738169) - Streaming / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
+* [⁠Octave](https://octavestreaming.com/) - Streaming
 * [Spotify](https://apps.apple.com/app/spotify-music-and-podcasts/id324684580) - Streaming
 * [GarageBand](https://apps.apple.com/app/id408709785) - Audio Editor / Creator
 * [Music Speed Changer](https://apps.apple.com/us/app/music-speed-changer/id1595494271) - Audio Multi-Tool / Equalizer
-* [⁠ByeTunes](https://github.com/EduAlexxis/ByeTunes) - Bypass iTunes + Directs Add Music / Ringtones
+* [⁠ByeTunes](https://github.com/EduAlexxis/ByeTunes) - Bypass iTunes + Directly Add Music / Ringtones
 * [stats.fm](https://stats.fm/) - Spotify Listening Stats
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 

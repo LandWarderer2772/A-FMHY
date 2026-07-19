@@ -130,7 +130,7 @@
 * 🌐 **[Dolici](https://dolici.com/)** - Top Restaurant List
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy) or [Listonic](https://new.app.listonic.com/en) - Grocery / Pantry Managers
-* ⭐ **[Too Good To Go](https://www.toogoodtogo.com/)** - Surplus Food Marketplace
+* ⭐ **[Too Good To Go](https://www.toogoodtogo.com/)** - Surplus Food Marketplace / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/TGTG.md)
 * ⭐ **[Sporked](https://sporked.com/)** or [⁠Taquitos](https://www.taquitos.net/) - Packaged Food & Snack Reviews / Databases
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
@@ -616,8 +616,7 @@
 * [⁠Particle](https://particle.news/) - Aggregator / Summaries
 * [Upstract](https://upstract.com/) - Single Page News Aggregator
 * [newstel](https://newstel.vercel.app/) - Telegram Channel News Aggregator
-* [AllSides](https://www.allsides.com/) - Political New Aggregator
-* [⁠100.news](https://100.news/) - Political New Aggregator
+* [AllSides](https://www.allsides.com/) or [⁠100.news](https://100.news/) - Political News Aggregators
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Requires Sign-Up
 * [SPIDR](https://spidr.today/)
@@ -648,7 +647,6 @@
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
 * [⁠IEEE Spectrum](https://spectrum.ieee.org/) - Engineering Magazine / News
 * [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso) - AI News
-* [AI Leaks](https://discord.gg/MFCU6sKSNs) - AI Leaks / Feature News Server
 * [GamesRecap](https://gamesrecap.io/) - Game Announcements / Trailers
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [⁠FilterWatch](https://filter.watch/english/) - Censorship News / Articles
@@ -1366,7 +1364,7 @@
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [Table Plan](https://table-plan.com/) - Seating Chart Maker ⁠
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
-* [Spliit](https://spliit.app/) or [KittySplit](https://www.kittysplit.com/en/)- Group Expense Splitting Calculator
+* [Spliit](https://spliit.app/) or [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
 
 ***
 
@@ -1461,6 +1459,7 @@
 * [Monsterland](https://monsterland.net/) - Collaborative Monster Drawing
 * [JS Kid Pix](https://kidpix.app/) - Browser JS KidPix
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
+* [JacksonPollock](https://www.jacksonpollock.org/) - Blob-Style Painting
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge Your Art
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm) - Coat of Arms Generator
@@ -1583,7 +1582,7 @@
 * [Corruption Loops](https://corruptionloops.alexbainter.com/) - Generative Unique Ambient Music
 * [Abundant Music](https://pernyblom.github.io/abundant-music/) - Procedural Music Editor
 * [typedrummer](http://typedrummer.com/) - Drum by Typing
-* [Soundscape](https://soundscape.world/) - 6rBuilder / Visualizer
+* [Soundscape](https://soundscape.world/) - Builder / Visualizer
 * [MikuTap](https://aidn.jp/mikutap/) - Click to Make Sounds / Graphics
 * [Patatap](https://www.patatap.com/) - Type to Create Melodies / Moving Shapes
 * [Touch Pianist](http://touchpianist.com/) - Magical Piano App
@@ -1773,7 +1772,7 @@
 * [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
 * [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
 * [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
-* [Scattergories](https://swellgarfo.com/scattergories) - Scattergories Lis6t Generator
+* [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [Colorword](https://colorword.recu3125.com/) - Word Color Voting

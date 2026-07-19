@@ -457,7 +457,7 @@
 
 * [⁠Torr9](https://torr9.net/) - Video / Audio / Books / Signup Required
 * [⁠C411](https://c411.org/) - Video / Audio / Books / Signup Required
-* [YGG Reborn](https://www.yggreborn.org/ ) - Video / Audio / Books / Signup Required
+* [YGG Reborn](https://www.yggreborn.org/) - Video / Audio / Books / Signup Required
 
 ## ▷ Streaming
 
@@ -598,7 +598,7 @@
 * [EBook Land](https://www.ebook-land.cc/index.php) - Books / Magazines
 * [DownMagaz](https://de.downmagaz.net/) - Magazines / NSFW
 * [MyComics](https://www.mycomics.de/) - Comics
-* [Projekt Gutenberg.](https://www.projekt-gutenberg.org/) - Classic German Books
+* [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - Classic German Books
 * [Sagen](https://www.sagen.at/) - European Ethnology / Folklore
 * [deutschelyrik](https://www.deutschelyrik.de/) - Poetry
 
@@ -750,7 +750,7 @@
 * [myflixbd](https://myflixbd.to/) - Movies / TV / Anime
 * [Screenscape](https://screenscape.me/) - Movies / TV / Anime
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
-* [1tamilyogi](https://1tamilyogi.me//), [2](https://1tamilyogi.ro/) - Movies / TV
+* [1tamilyogi](https://1tamilyogi.me/), [2](https://1tamilyogi.ro/) - Movies / TV
 * [5movierulz](https://www.5movierulz.markets/) - Movies / TV / Anime
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
@@ -860,7 +860,7 @@
 * [Toonitalia](https://toonitalia.xyz/) - TV / Anime / Sub / Dub
 * [Play RSI](https://www.rsi.ch/play/tv) - Free w/ Ads
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
-* [tream4Me](https://guruhitech.com/kodi-on-demand-e-rinato-ora-si-chiama-stream4me-kodi/) - Streaming Kodi Addon
+* [Stream4Me](https://guruhitech.com/kodi-on-demand-e-rinato-ora-si-chiama-stream4me-kodi/) - Streaming Kodi Addon
 * [Ovovideo](http://ovovideo.com/) - Video Encyclopedia
 * [Raiplay Sound](https://www.raiplaysound.it/) - Podcasts / Radio
 
@@ -1036,7 +1036,7 @@
 * [Tekstowo](https://www.tekstowo.pl/) - Lyrics
 * [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl) - Subtitles
 * [AnimeSub.info](http://animesub.info/) - Anime Subtitles
-* [MineWiki](https://minewiki.pl/) - Mincraft Wiki / [Discord](https://discord.gg/X3hwz8pkBd)
+* [MineWiki](https://minewiki.pl/) - Minecraft Wiki / [Discord](https://discord.gg/X3hwz8pkBd)
 * [slownikpjm](https://www.slownikpjm.uw.edu.pl/) - Polish Sign Language Dictionary
 
 ## ▷ Downloading / Pobieranie
@@ -1078,7 +1078,6 @@
 * [player.pl](https://player.pl/) - Free w/ Ads
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [docchi](https://docchi.pl/) - Anime / Sub / 1080p / [Kodi Addon](https://github.com/skoruppa/plugin.video.docchipl)
-* [animedesu](https://animedesu.pl/) - Anime
 * [animezone](https://www.animezone.pl/) - Anime / Sub / 720p
 * [FrixySubs](https://frixysubs.pl/) - Anime / Sub / 1080p
 * [Nana Subs](https://nanasubs.com/) - Anime / Sub / 1080p
@@ -1193,7 +1192,7 @@
 * [Biblioteca Brasiliana](https://digital.bbm.usp.br/handle/bbm/1) - Books
 * [Baixe Livros](https://www.baixelivros.com.br) - Books
 * [eBooksBrasil](https://ebooksbrasil.org) - Books
-* [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Books
+* [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Books
 * [Dlivros](https://dlivros.com/) - Books
 * [Doceru](https://doceru.com/) - Books
 * [Cultura Acadêmica](https://www.culturaacademica.com.br) - Educational Books
@@ -1257,7 +1256,6 @@
 * [VoxFilmeOnline](https://voxfilmeonline.biz/) - Movies / TV / Sub / 720p
 * [luminsangelsseriale](https://luminsangelsseriale.com/) - Movies / TV
 * [DozaAnimată](https://www.dozaanimata.net/) - Anime / Cartoons / Sub / Dub / 720p
-* [Play RTR](https://www.rtr.ch/play/tv) - Free w/ Ads
 * [Cool TV Online](https://www.cool-etv.net/) - Live TV / Sports
 * [Subs.ro](https://subs.ro/), [Subtitrari](https://www.subtitrari-noi.ro/) or [Titrari](https://www.titrari.ro/) - Subtitles
 
@@ -1384,8 +1382,7 @@
 * [11klasov](https://go.11klasov.net/) - Textbooks
 * [rusneb](https://rusneb.ru/) - Books
 * [obuchalka.org](https://obuchalka.org/) - Books / Homework Solutions
-* [Filibusta](https://flibusta.site/) - Books
-* [coollib](https://coollib.xyz/) - Books
+* [Flibusta](https://flibusta.site/) - Books
 * [coollib](https://coollib.xyz/) - Books
 * [libking](https://libking.ru/) - Books
 * [Maxima Library](https://maxima-library.com/) - Books
@@ -1538,7 +1535,7 @@
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [Zoowomaniacos](https://zoowomaniacos.org/) - Movies / TV / Rare Films
 * [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
-* [Pluto Spanish](https://pluto.tv/) - ree w/ Ads
+* [Pluto Spanish](https://pluto.tv/) - Free w/ Ads
 * [tele-libre](https://telelibree.com/) - Live TV
 * [rtvcplay](https://rtvcplay.co/) - Free Public Colombian TV
 * [angulismotv](https://angulismotv.pages.dev) - Live Sports
@@ -1630,7 +1627,7 @@
 
 ***
 
-# ► Swedish / Sverige
+# ► Swedish / Svenska
 
 * [Eniro](https://www.eniro.se/) - Search
 * [teckensprakslexikon](https://teckensprakslexikon.su.se/) - Swedish Sign Language Dictionary
@@ -1788,7 +1785,7 @@
 * [AnimeTVN](https://animetvn.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
-* [vnepg](https://rentry.co/FMHYB64#iptv-playlists) - Vietnamese IPTV Resources
+* [vnepg](https://rentry.co/FMHYB64#iptv-playlists) - Vietnamese IPTV Schedule
 * [⁠Courseware](https://www.hcmut-courseware.org/courses) - Courses
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
@@ -1857,6 +1854,7 @@
 * [NRK TV](https://tv.nrk.no/) - Norwegian / Stream / Movies / TV / Documentaries / Sub / 1080p
 * [Nasjonalbiblioteket](https://www.nb.no/en/digitizing-at-the-national-library/) - Norwegian / Books / Journals / Magazines / Maps / Music Sheets
 * [Tegnordbok](https://www.minetegn.no/Tegnordbok-2016/) - Norwegian Sign Language Dictionary
+* [Play RTR](https://www.rtr.ch/play/tv) - Romansh / Free w/ Ads Streaming
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [Anime Balkan](https://animebalkan.gg/) - Serbian / Streaming / Anime / 1080p
 * [gledajcrtace](https://www.gledajcrtace.rs/) - Serbian / Dubbed Cartoons

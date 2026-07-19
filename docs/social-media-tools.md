@@ -24,7 +24,7 @@
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 * [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
-* [PixelHunter](https://pixelhunter.io/) or [⁠Dopmatico](https://dropmatico.com/app) - Social Media Image Resizer
+* [PixelHunter](https://pixelhunter.io/) or [⁠Dropmatico](https://dropmatico.com/app) - Social Media Image Resizer
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
 
 ***
@@ -116,7 +116,7 @@
 ## ▷ Discord Bots
 
 * ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot / [Telegram](https://t.me/freestuff_hub) / [Discord](https://discord.com/invite/WrnKKF8)
-* [FixEmbed](https://fixembed.app/) / [GitHub](https://github.com/kenhendricks00/FixEmbed), [⁠Embedded](https://embedded.gallery/) / [Discord](https://discord.com/invite/Be9yDnBPBw) or [⁠Embed Fixer](https://github.com/seriaati/embed-fixer) - Discord Embed Fix Bots
+* [⁠Embedded](https://embedded.gallery/) / [Discord](https://discord.com/invite/Be9yDnBPBw), [FixEmbed](https://fixembed.app/) / [GitHub](https://github.com/kenhendricks00/FixEmbed) or [⁠Embed Fixer](https://github.com/seriaati/embed-fixer) - Discord Embed Fix Bots
 * [esmBot](https://github.com/esmBot/esmBot) - Multi-Tool Discord Bot 
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
@@ -190,12 +190,12 @@
 
 ## ▷ Reddit Downloaders
 
-* **Note** - You can also download Reddit videos by commenting "/u/SaveVideo".
+* **Note** - You can also download Reddit videos by commenting: `/u/SaveVideo`.
 
 ***
 
 * [⁠DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download / Archive Subreddits
-* [gallery-dl](https://codeberg.org/mikf/gallery-dl) - Reddit Bulk Image Downloaders / [Discord](https://discord.gg/rSzQwRvGnE)
+* [gallery-dl](https://codeberg.org/mikf/gallery-dl) - Reddit Bulk Image Downloader / [Discord](https://discord.gg/rSzQwRvGnE)
 * [⁠Redvid](https://redvid.io/) - Reddit Media Downloader 
 * [RapidSave](https://rapidsave.com/) - Reddit Video / GIF Downloader
 
@@ -214,7 +214,7 @@
 
 ## ▷ Reddit Search
 
-* [Reveddit](https://www.reveddit.com/), [⁠Reddit Restore](https://greasyfork.org/scripts/585120) (Userscript), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint), [Ghostddit](https://ghostddit.pages.dev/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted / Hidden Reddit Posts + Comments
+* [Reveddit](https://www.reveddit.com/), [rOSINT+](https://rosintplus.github.io/) / [GitHub](https://github.com/rosintplus/rosintplus.github.io), [⁠Reddit Restore](https://greasyfork.org/scripts/585120) (Userscript), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint), [Ghostddit](https://ghostddit.pages.dev/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted / Hidden Reddit Posts + Comments
 * [New PullPush](https://ihsoyct.github.io/), [PullPush Search](https://search.pullpush.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
@@ -251,7 +251,7 @@
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) - RSS Reader
 * [tg-channel-cloner-workers](https://gitlab.com/ParveenBhadooOfficial/tg-channel-cloner-workers) - Clone Telegram Channels
 * [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
-* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [⁠fstik](https://fstik.app/) or [ComBot Stickers](https://combot.org/stickers) - Telegram Sticker / Emojis
+* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [⁠fstik](https://fstik.app/) or [ComBot Stickers](https://combot.org/stickers) - Telegram Stickers / Emojis
 
 ***
 
