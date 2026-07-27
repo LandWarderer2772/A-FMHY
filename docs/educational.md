@@ -110,7 +110,6 @@
 * [Common Misconceptions](https://wikipedia.org/wiki/List_of_common_misconceptions) - Common Misconception Index
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
-* [⁠All Write Alright](https://allwritealright.com/) - Creative Writing Guides + Prompts
 * [Appropedia](https://www.appropedia.org/) - Sustainability Wiki
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) - Mineralogy Database
 * [ShipSpotting](https://www.shipspotting.com/) - Ship Index / Images
@@ -194,7 +193,7 @@
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** / [YouTube](https://www.youtube.com/channel/UCHZwMwa96o5gwBmVaIj_zVA) or [MathDash](https://mathdash.com/) - Adaptive Problem Solving
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
 * ⭐ **[Pauls Online Math Notes](https://tutorial.math.lamar.edu/)**, [⁠Immortal's Maths Problems](https://www.math.umd.edu/~immortal/), [⁠Evan Chen](https://web.evanchen.cc/) or [LibreTexts Math](https://math.libretexts.org/Bookshelves) - Math Practice / Guides
-* ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
+* ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) / [GitHub](https://github.com/ManimCommunity/manim/) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [Wolfram MathWorld](https://mathworld.wolfram.com/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematics Encyclopedias
 * [⁠Algebrica](https://algebrica.org/) or [⁠PlanetMath](https://planetmath.org/) - Mathematical Concept Databases 
@@ -1294,6 +1293,7 @@
 * [DeafVideo](https://www.deafvideo.tv/) - ASL Vlogs + Videos / YouTube Style Site for Deaf Content
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
 * [GSL](https://www.ayelefoundation.org/gsl/) - Ghanaian Sign Language Dictionary
+* [⁠Iltyem-iltyem](https://www.iltyemiltyem.com/) - Australian Indigenous Sign Language Learning
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL
 * [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
 * [Signs](https://signs-ai.com/) - ASL Learning AI
