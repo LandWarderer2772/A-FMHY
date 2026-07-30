@@ -304,6 +304,7 @@
 * [The Number Wall](https://thenumberwall.com/) - Jersey Number Database
 * [⁠PROGRID](https://www.progrid.org/) - NFL Calendar / Schedule Chart
 * [Tapology](https://www.tapology.com/) - Combat Sports Predictions
+* [dropkickd](https://dropkickd.com/) - Rate / Track Wrestling Events
 * [CageMatch](https://www.cagematch.net/) - Wrestling Promotion Database
 * [⁠FotMob](https://www.fotmob.com/) - Football Stats Platform
 * [⁠MatchSimulator](https://matchsimulator.com/) - Football League Simulator
@@ -746,7 +747,7 @@
 * ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/b5TpBHqm/g-Efyf0q.jpg)**, [2](https://i.ibb.co/b5TpBHqm/g-Efyf0q.jpg), [3](https://i.imgur.com/gEfyf0q.jpeg) - Zoomable Exercise Diagram
 * ⭐ **[Boostcamp](https://www.boostcamp.app/)**, [Hevy](https://www.hevyapp.com/), [⁠Tracked](https://www.tracked.gg/), [⁠Hybrid Calisthenics](https://www.hybridcalisthenics.com/app), [FitNotes](https://www.fitnotesapp.com/), [⁠Strong App](https://www.strong.app/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) or [⁠Muscle & Strength](https://www.muscleandstrength.com/exercises) - Workout Videos
-* [Calistree](https://calistree.app/) - Exercise Search
+* [Calistree](https://calistree.app/) - Exercise Search / Workout Tracker
 * [FitnessProgramer](https://fitnessprogramer.com/) - Workout Plans
 * [Workout.cool](https://workout.cool/) or [Workout.lol](https://workout.lol/) - Custom Workout Plans
 * [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
@@ -1296,6 +1297,7 @@
 * [⁠99Tools](https://99tools.net/) - Text / Encode-Decode / Code / Random / Image
 * [⁠Edge Tools](https://edgetools.io/) - Image / Text / PDF / Code
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
+* [⁠HeyTools](https://heytools.app/) - Text / PDF / Image / Code
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
 * [ToolBox](https://footrue.com/) - Image / Text / Code / PDF
 * [Private.coffee](https://private.coffee/services.html) - Text / Code

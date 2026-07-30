@@ -60,7 +60,7 @@
 * [choose-a-license](https://writefreesoftware.org/learn/participate/choose-a-license/), [tl;drLegal](https://www.tldrlegal.com/), [SPDX License List](https://spdx.org/licenses/) or [ChooseALicense](https://choosealicense.com/) - License Picking Guides / Lists
 * [Eternal Terminal](https://eternalterminal.dev/), [Termius](https://termius.com/) - SSH Clients / Servers
 * [Beszel](https://beszel.dev/) - Dev Data Dashboard / [iOS App](https://github.com/Loriage/Beszel-Swift-App)
-* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/)
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client
 * [Webhook.site](https://webhook.site/) - Webhook Tools
 * [⁠Nept](https://nept.cloud/) - Instantly Deploy 20+ Frameworks (Deploy Next.js, Python, Go, etc.)
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
@@ -116,6 +116,7 @@
 * 🌐 **[Mobbin](https://mobbin.com/)** or [UISources](https://uisources.com/) - Mobile UI Resources
 * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
+* ⭐ **[Android Studio](https://developer.android.com/studio)** - App Creator / Builder
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [IconKitchen](https://icon.kitchen/) - App Icon Generator
 * [⁠ChromeXt](https://github.com/JingMatrix/ChromeXt) - Add Dev Tools / Inspect Element to Mobile Browsers
@@ -276,6 +277,7 @@
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
 * ⭐ **[Shizuku Fork](https://github.com/thedjchi/Shizuku)**, [Shizuku](https://shizuku.rikka.app/) / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [⁠CoorenLabs](https://coorenlabs.com/) / [Discord](https://discord.gg/r5tfDZmADV) / [GitHub](https://github.com/coorenlabs/cooren) or [Consumet](https://docs.consumet.org/list-of-providers) - Piracy Site Metadata APIs / Scraping
+* [⁠Resend](https://resend.com/) - Email API
 * [⁠FreeTheAI](https://freetheai.xyz/) - AI API Gateway
 * [⁠OmniRoute](https://omniroute.online/) / [GitHub](https://github.com/diegosouzapw/OmniRoute) or [9Router](https://9router.com/) - Self-Hosted AI API Routers / Proxies for Developers 
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
@@ -434,7 +436,6 @@
 
 ## ▷ Android Code Editors
 
-* ⭐ **[Android Studio](https://developer.android.com/studio)** or [Plasmic](https://www.plasmic.app/) - App Creators / Builders
 * ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/Acode-Foundation/Acode)
 * ⭐ **[Squircle-CE](https://github.com/massivemadness/Squircle-CE)** - Android Code Editor
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
@@ -450,7 +451,7 @@
 ## ▷ Coding Tools
 
 * 🌐 **[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)** - Creative Coding Resources
-* [Prettier](https://prettier.io/) or [codebeautify](https://codebeautify.org/) - Code Formatting Tools
+* [Prettier](https://prettier.io/), [Biome](https://biomejs.dev/) / [GitHub](https://github.com/biomejs/biome/) or [codebeautify](https://codebeautify.org/) - Code Formatting Tools
 * [editorconfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
 * [ThemesElection](https://themeselection.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
 * [Freeze](https://github.com/charmbracelet/freeze) - Generate Images of Code / Terminal Output
@@ -569,6 +570,7 @@
 * ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback 
 * [Skills](https://skills.sh/) - Add Capabilities to AI Agents
 * [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / [GitHub](https://github.com/DietrichGebert/ponytail)
+* [Langfuse](https://langfuse.com/) - LLM Engineering & Debugging Platform / [GitHub](https://github.com/langfuse/langfuse)
 * [⁠Ccusage](https://ccusage.com/) - Track Token Usage for AI Coding / [GitHub](https://github.com/ryoppippi/ccusage)
 * [⁠Code2prompt](https://github.com/mufeedvh/code2prompt) - Codebase To LLM Prompt
 * [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - GitHub Repo To Prompt Text
@@ -857,7 +859,7 @@
 
 ***
 
-## ▷ Frontend Tools
+## ▷ Frontend / UI Tools
 
 * 🌐 **[Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)** - UI Design Systems / Libraries
 * 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
@@ -865,14 +867,15 @@
 * ⭐ **[Design Checklist](https://www.checklist.design/)**, [Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) or [Front-End Checklist](https://frontendchecklist.io/) - Frontend Development Checklist
 * ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
 * ⭐ **[awwwards](https://www.awwwards.com/websites)**, **[Boilerplate](https://html5boilerplate.com/)** or [html5up](https://html5up.net/) - Custom HTML Templates
+* [UI Design Daily](https://www.uidesigndaily.com/), [⁠UI Resources](https://ui-resources.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [Godly Website](https://godly.website/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
 * [Templatemo](https://www.templatemo.com/) - Free CSS Templates
 * [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
 * [OpenUI](https://github.com/wandb/openui) - Make UI with AI
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [SuperNova](https://www.supernova.io/) - Design System Manager
+* ⁠Human Interface Guidelines: [Windows](https://learn.microsoft.com/en-us/windows/apps/design/) / [Gnome](https://developer.gnome.org/hig/) / [KDE](https://develop.kde.org/hig/) / [Apple](https://developer.apple.com/design/human-interface-guidelines) - Interface Guidelines
 * [Storybook](https://storybook.js.org/), [Akira](https://github.com/akiraux/Akira) or [Mockend](https://mockend.com/) - UI Development Tools
-* [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
 * [Same.new](https://same.new/) - Copy Sites User-Interface Code
 * [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
@@ -901,7 +904,7 @@
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
 * [Lorem.space](https://lorem.space/), [dummyimage](https://dummyimage.com/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/) or [PicSum](https://picsum.photos/) - Site Placeholder Images
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
-* [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Lottielab](https://www.lottielab.com/) - Create Motion Graphics
+* [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com) or [Mantra](https://jeremyckahn.github.io/mantra/) - Create Motion Graphics
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
 
@@ -1174,7 +1177,7 @@
 * [⁠Iocaine](https://iocaine.madhouse-project.org/) - Anti-Web Crawler Software / [Source Code](https://git.madhouse-project.org/iocaine/iocaine)
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
-* [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
+* [SuperTokens](https://supertokens.com/), [⁠Better Auth](https://better-auth.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
 * [SupaBase](https://supabase.com/) - Database / Authentication Service
 * [⁠GNUnet](https://www.gnunet.org/en/) - Decentralized P2P Framework
 * [ZAP](https://www.zaproxy.org/) - Web App Security Testing

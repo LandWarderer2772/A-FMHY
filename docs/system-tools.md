@@ -155,6 +155,7 @@
 * ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** / Windows / [GitHub](https://sabrogden.github.io/Ditto/)
 * [PasteBar](https://www.pastebar.app/) / Windows, macOS / [GitHub](https://github.com/PasteBar/PasteBarApp)
 * [CrossPaste](https://crosspaste.com/) / Windows, macOS, Linux / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
+* [UniClipboard](https://www.uniclipboard.app/) - Windows, macOS, Linux, Android, iOS / [GitHub](https://github.com/UniClipboard/UniClipboard)
 * [ArsClip](https://www.joejoesoft.com/vcms/97/) / Windows
 * [ClipAngel](https://sourceforge.net/projects/clip-angel/) / Windows
 * [CopyQ](https://hluk.github.io/CopyQ/) / Windows, macOS, Linux / [GitHub](https://github.com/hluk/CopyQ) - Clipboard Manager with Editing and Scripting Features
@@ -252,7 +253,7 @@
 * ⭐ **[NVTOP](https://github.com/Syllo/nvtop)** - GPU / Accelerator Process Monitor
 * ⭐ **[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility-continued.457504/) - NVIDIA Driver Packages
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/download/display-driver-uninstaller-download) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
-* [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - NVIDIA GPU Update Checker
+* [TinyNvidiaUpdateChecker](https://github.com/HawaiiBeach/TinyNvidiaUpdateChecker) - NVIDIA GPU Update Checker
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) or [NvidiaProfileInspectorRevamped](https://github.com/xHybred/NvidiaProfileInspectorRevamped) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
 * [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
 * [R.ID](https://rdn-id.com/) - AMD 3rd Party Drivers / [Discord](https://discord.gg/rdnid)

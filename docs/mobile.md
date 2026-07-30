@@ -12,6 +12,7 @@
 
 ***
 
+* ↪️ **[Morphe / ReVanced Patches](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/viewforum.php?f=398) - Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Signup Required / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [App](https://github.com/slartus/4pdaClient-plus) / [Telegram](https://t.me/real4pda) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
 * ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
@@ -36,6 +37,7 @@
 * [APK4Free](https://apk4free.net/) / [Telegram](https://t.me/apk4free_net)
 * [Release APK](https://forum.release-apk.com/) / [Discord](https://discord.gg/RDVKXsnqce)
 * [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
+* [⁠V-Alpha](https://discord.gg/ZXtDUXGeH) - Mobile PC Ports
 
 ***
 
@@ -207,7 +209,7 @@
 
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer-Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
-* ⭐ **[XDA](https://xdaforums.com/)** / [Discord](https://discord.com/invite/e4v8qtkcBw) or [4PDA](https://4pda.to/forum/) - Android Discussion Forums
+* ⭐ **[XDA](https://xdaforums.com/)** / [Discord](https://discord.com/invite/e4v8qtkcBw) - Android Discussion Forums
 * ⭐ **[ADB AppControl](https://adbappcontrol.com/en/)** / [WebUI](https://80bee.com/) / [GUI](https://aya.liriliri.io/), [2](https://github.com/Alex4SSB/ADB-Explorer) / [Telegram](https://t.me/AdbAppControl_En), **[scrcpy](https://github.com/Genymobile/scrcpy)** / [Mobile App](https://github.com/zwc456baby/ScrcpyForAndroid) / [Subreddit](https://www.reddit.com/r/scrcpy), **[PlainApp](https://docs.plain.icu/)** / [GitHub](https://github.com/plainhub/plain-app), [WebADB](https://app.webadb.com/), [QtScrcpy](https://github.com/barry-ran/QtScrcpy) or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers / Controllers
 * ⭐ **[Shizuku Fork](https://github.com/thedjchi/Shizuku)**, **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API
 * [Plexus](https://plexus.techlore.tech/) - De-Googled Device Compatibility / [GitHub](https://github.com/techlore/Plexus-app)
@@ -960,6 +962,7 @@
 * [Podbean](https://play.google.com/store/apps/details?id=com.podbean.app.podcast) - Podcast Player
 * [Podcini](https://github.com/XilinJia/Podcini) - Podcast Player
 * [Transistor](https://codeberg.org/y20k/transistor) - Radio App
+* [deutsia radio](https://app.deutsia.com/) - Radio App / [GitHub](https://github.com/deutsia/deutsia-radio)
 * [Radio Garden](https://play.google.com/store/apps/details?id=com.jonathanpuckey.radiogarden) - Radio App
 * [Nightwave Plaza](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) - Nightwave Radio
 * [LISTEN.moe](https://github.com/LISTEN-moe/android-app) - J-Pop / K-Pop Radio
@@ -1226,7 +1229,7 @@
 ## ▷ iOS Sideloading
 
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / Semi-Jailbreak / 14.0 - 16.6.1, 16.7 RC, 17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
-* ⭐ **[SideStore](https://sidestore.io/)** or [⁠SideInstaller](https://github.com/FrizzleM/SideInstaller) (iOS 27) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / Install w/ [⁠iloader](https://iloader.app/) / [Discord](https://discord.gg/sidestore-949183273383395328) / [GitHub](https://github.com/nab138/iloader/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
+* ⭐ **[SideStore](https://sidestore.io/)** or [⁠SideInstaller](https://github.com/FrizzleM/SideInstaller) (iOS 27) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / Install w/ [⁠iloader](https://iloader.app/) / [Discord](https://discord.gg/sQ5Y8vbYJS) / [GitHub](https://github.com/nab138/iloader/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - WiFi Sideloading (Weekly Refresh) (iOS 7.0 & Above)
 * ⭐ **[Impactor](https://impactor.claration.dev/)** - WiFi Sideloading (Weekly Refresh) / iOS 9.0 & Above / [GitHub](https://github.com/claration/Impactor)
 * ⭐ **[Avieshek's Sideloading Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/)**, [2](https://justpaste.it/sideload) - DNS Sideloading Guide / [Omega](https://github.com/jailbreakdotparty/Omega) (Lift Certificate Blacklisting)
@@ -1281,6 +1284,7 @@
 * [AppDB](https://appdb.to) - App Library
 * [iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Telegram](https://t.me/iosvizor)
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source
+* [⁠Alan's Gigantic Repo](https://fastsign.dev/) - Tweaked App Library / [Discord](https://discord.gg/UAYA4ZuKXD)
 * [fnd](https://fnd.io/) - App Store Search
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
 * [Moe's App Hub](https://rentry.co/FMHYB64#moes-app) - Tweaked Apps
@@ -1290,7 +1294,7 @@
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [IPATool](https://github.com/majd/ipatool) - Search / Download App Packages
-* [Decrypted App Store](https://armconverter.com/decryptedappstore), [AnyIPA](https://anyipa.me/) / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw) or [decrypt.day](https://decrypt.day/) - Decrypted iOS Apps
+* [Decrypted App Store](https://armconverter.com/decryptedappstore) or [AnyIPA](https://anyipa.me/) / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw) - Decrypted iOS Apps
 
 ***
 
@@ -1318,7 +1322,7 @@
 * ⭐ **[Kettu](https://www.raincord.dev/kettu)** or [⁠raincord](https://www.raincord.dev/) - Modded Discord Client / [Discord](https://discord.gg/qkdPGunwjW) / [Source Code](https://codeberg.org/cocobo1/Kettu) / [GitHub](https://github.com/C0C0B01/Kettu)
 * ⭐ **[Acorn](https://acorn.blue/)** / [Discord](https://discord.gg/sWzw5GU5RV), [⁠Hydra](https://hydraapp.io/) / [Discord](https://discord.com/invite/ypaD4KYJ3R) / [GitHub](https://github.com/dmilin1/hydra), [RedditFilter](https://github.com/level3tjg/RedditFilter) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/redditfilter-note.md), [Apollo Reborn](https://apolloreborn.app/) / [Subreddit](https://www.reddit.com/r/ApolloReborn/) / [GitHub](https://github.com/Apollo-Reborn/Apollo-Reborn) or [Lurker](https://apps.apple.com/app/lurkur-for-reddit/id6470203216) - Reddit Clients / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide)
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762)** / [GitHub](https://github.com/aeharding/voyager), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
-* ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta](https://apps.apple.com/app/id6738706671) or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients
+* ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta](https://apps.apple.com/app/id6738706671) or [Mastodon App](https://apps.apple.com/app/id1571998974) - Mastodon Clients
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** - X.com Apps
 * ⭐ **[Swiftgram](https://swiftgram.app/)** - Telegram App / [GitHub](https://github.com/Swiftgram/Telegram-iOS)
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
