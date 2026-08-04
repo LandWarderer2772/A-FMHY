@@ -93,6 +93,7 @@
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
 * [APKToy](https://www.apktoy.com/)
 * [APKPure](https://apkpure.net/), [2](https://apkpure.com/)
+* [⁠APKCube](https://apkcube.com/)
 * [Material-You-app-list](https://myal.vercel.app/) / [Telegram](https://t.me/materialyouapps) / [GitHub](https://github.com/nyas1/Material-You-app-list)
 * [⁠gplaydl](https://github.com/rehmatworks/gplaydl) - Google Playstore APK Download CLI
 * [NikGapps](https://nikgapps.com/) - Google App Packages / [Telegram](https://t.me/NikGapps)
@@ -1269,7 +1270,7 @@
 * ↪️ **[iOS 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Brave](https://apps.apple.com/app/id1052879175)** or [Firefox Focus](https://www.firefox.com/en-US/mobile/focus/) - Privacy-Focused Browsers
 * ⭐ **[Onion Browser](https://onionbrowser.com/)** - Tor-Based Browser
-* [DNSecure](https://github.com/kkebo/DNSecure) - Encrypted DNS
+* [DNSecure](https://apps.apple.com/en/app/dnsecure/id1533413232) - Encrypted DNS / [TestFlight](https://testflight.apple.com/join/A8GwCnq8) / [GitHub](https://github.com/kkebo/DNSecure)
 * [Proton Mail](https://apps.apple.com/app/id979659905) - Encrypted Emailing Service / [Discord](https://discord.com/invite/proton)
 * [Orbot](https://apps.apple.com/us/app/orbot/id1609461599) - Tor Proxy Apps
 
