@@ -11,13 +11,13 @@
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ↪️ **[Privacy Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_guides_.2F_indexes)**
 * ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
+* ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
 * [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites
-* [Dan's Guides](https://rentry.co/danxyz7) - List of Guides by Dan
 * [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
 * [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
@@ -395,7 +395,7 @@
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [LGA World Database](https://database.ilga.org/) - LGBT Legal Rights Map / Policy Tracking
 * [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
-* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics Map
+* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Gender Identity Clinics / Maps
 * [BlueW](https://bluew.org/) - Free Water Refill Map
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [NukeSim](https://www.nukesim.com/), [Bomb Blast](https://outrider.org/nuclear-weapons/interactive/bomb-blast) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
@@ -423,6 +423,7 @@
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
 * [Skimap.org](https://skimap.org/) - Detailed Ski Maps
 * [ALPR Watch](https://alprwatch.org/), [⁠FlockHopper](https://dontgetflocked.com/), [⁠Flock Surveillance Map](https://uncensored.ai/flocksurveillance) or [DeFlock](https://deflock.org/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) - AI Automated License Plate Reader Cameras / ALPR Maps
+* [⁠Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Police / Surveillance Tech Map 
 * [People Over Papers](https://iceout.org/en/) or [ICE Map](https://www.icemap.dev/) - ICE Activity Information / Maps
 * [⁠Geo Share](https://github.com/jakubvalenta/geoshare) - Open Map Links in Alt Map Apps / Copy Coordinates
 
@@ -585,7 +586,6 @@
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** - Piracy News / [Telegram](https://t.me/torrentfreaks)
 * ⭐ **[Current Events Wiki](https://wikipedia.org/wiki/Portal:Current_events)** or [News as Facts](https://newsasfacts.com/) - Breaking News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
-* [World Monitor](https://worldmonitor.app/) / [Tech Version](https://tech.worldmonitor.app/) / [GitHub](https://github.com/koala73/worldmonitor), [⁠Conflictly](https://www.conflictly.app/) or [⁠World-Monitor](https://world-monitor.com/) - Real-Time News Aggregators / Monitors / Maps
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
 * [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
@@ -595,7 +595,7 @@
 * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [EventMap](https://rsoe-edis.org/eventMap) - Emergency and Disaster Maps
 * [Interactive News Map](https://usa.liveuamap.com/) - Geolocated News Alerts / Headlines U.S.
-* [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [Medicalxpress](https://medicalxpress.com/) or [WebMD](https://www.webmd.com/) - Health News
+* [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [Healthline](https://www.healthline.com/), [Medicalxpress](https://medicalxpress.com/) or [WebMD](https://www.webmd.com/) - Health News
 * [MathURLs](https://mathurls.com/) - Math News
 * [Dailynous](https://dailynous.com/) - Philosophy News
 * [Medievalists](https://www.medievalists.net/category/news/) - Medieval History News
@@ -615,6 +615,7 @@
 
 ## ▷ Aggregators
 
+* ↪️ **[RSS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_rss_readers)**
 * ⭐ **[Spike News](https://readspike.com/)**, [2](https://spike.news/)
 * [QotNews](https://news.t0.vc/) - Hacker News / Reddit / Lobsters / Tildes
 * [Kagi News](https://news.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
@@ -625,6 +626,7 @@
 * [AllSides](https://www.allsides.com/) or [⁠100.news](https://100.news/) - Political News Aggregators
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Requires Sign-Up
+* [World Monitor](https://worldmonitor.app/) / [Tech Version](https://tech.worldmonitor.app/) / [GitHub](https://github.com/koala73/worldmonitor), [⁠Conflictly](https://www.conflictly.app/) or [⁠World-Monitor](https://world-monitor.com/) - Real-Time News Aggregators / Monitors / Maps
 * [SPIDR](https://spidr.today/)
 * [NewsNow](https://www.newsnow.co.uk/)
 * [SkimFeed](https://skimfeed.com/)
@@ -758,7 +760,7 @@
 * [Liftvault](https://liftvault.com/) - Weightlifting Programs / Spreadsheets
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [Impakt](https://www.impakt.com/) - AI Fitness Coach / Social Platform
-* [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
+* [OpenTracks](https://opentracksapp.com/) - Sports Tracking App
 * [ACTIVE](https://www.active.com/) - Find Local Races & Events
 * [Runlytics](https://www.runlytics.app/) - Running Analytics
 * [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
@@ -813,7 +815,7 @@
 * 🌐 **[Trans Healthcare Resources](https://transharmreduction.org/healthcare-resources)** or **[TFS Tools](https://transfemscience.org/misc/)**
 * ⭐ **[Trans Papers](https://docs.google.com/spreadsheets/d/1d9KKqP9IHa5ZxU84a_Jf0vIoAh7e8nj_lCW27KbYBh0/)** - Academic Papers on Transgender Health & Sociology
 * [Trans Harm Reduction](https://transharmreduction.org/), [PGHRT](https://pghrt.diy), [Valerie](https://valerie.vg/) or [DIY HRT Directory 2.0](https://diyhrt.info/) - HRT Safety Guides / [Testing](https://transharmreduction.org/hrt-testing)
-* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics / Map
+* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) or [⁠Trans Clinic Index](https://transclinicindex.org.uk/) (UK) - Gender Identity Clinics / Map
 * [Gender Dysphoria Bible](https://genderdysphoria.fyi/) - Gender Dysphoria Learning / Guidance / [GitHub](https://github.com/GenderDysphoria/GenderDysphoria.fyi)
 * [FTM Resource Guide](https://www.ftmguide.org/) - FTM Resources / Guidance
 * [Trans Reads](https://transreads.org/) - Transgender-Focused Literature

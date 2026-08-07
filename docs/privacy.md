@@ -176,6 +176,7 @@
 * [⁠Portable Secret](https://alcazarsec.github.io/portable-secret/) - Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums / [Discord](https://discord.gg/97zKvTXHeS)
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
+* [⁠Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Police / Surveillance Tech Map
 * [ALPR Watch](https://alprwatch.org/), [⁠FlockHopper](https://dontgetflocked.com/), [⁠Flock Surveillance Map](https://uncensored.ai/flocksurveillance) or [DeFlock](https://deflock.org/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) - AI Automated License Plate Reader Cameras / ALPR Maps
 * [EyesOnFlock](https://eyesonflock.com/) - AI Flock Surveillance Database / Tracking
 * [Have I Been Flocked?](https://haveibeenflocked.com/) - Check to See if Your Plate Has Been Tagged by Flock Surveillance 
@@ -245,9 +246,9 @@
 
 * 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [r/degoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
-* ⭐ **[PrivacySpy](https://privacyspy.org/)** / [GitHub](https://github.com/politiwatch/privacyspy) or [ToS;DR](https://tosdr.org/) / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr) - Sites Privacy Policies
 * ⭐ **[JustDeleteMe](https://justdeleteme.xyz/)** / [GitHub](https://github.com/jdm-contrib/jdm) or [JustDeleteAccount](https://www.justdeleteaccount.com/) - Find / Terminate Old Accounts
 * [Phish Report](https://phish.report/), [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) / [Telegram](https://t.me/joinchat/AAAAAElZRwd0aBrYTaHHcQ) / [GitHub](https://github.com/eschultze/phishstats-api-network) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
+* [ToS;DR](https://tosdr.org/) - Sites Privacy Policies / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr)
 * [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-3/) - DNS Switcher
 * [⁠OnionHop](https://www.onionhop.de/) - Tor Network Client / Onion Routing / [GitHub](https://github.com/center2055/OnionHop)
 * [tweetXer](https://github.com/lucahammer/tweetXer) - Delete X.com Posts
