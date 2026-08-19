@@ -847,7 +847,7 @@
 * [⁠Tough Love Arena](https://toughlovearena.com/) - Multiplayer Browser Fighting Game / [Discord](https://discord.gg/gMBRaUPDT7)
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
 * [Bloxd](https://bloxd.io/) / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX) or [MiniBlox](https://miniblox.io/) / [Discord](https://discord.com/invite/nAwzkUJNmb) - Online Minecraft Clones
-* [PandaBomber](https://pandabomber.gg/) - Multiplayer Bomberman Style Game / [Discord](https://discord.gg/YFJCCxkdFZ)
+* [PandaBomber](https://pandabomber.gg/) or [Game Of Bombs](https://gameofbombs.com/) / [Discord](https://discord.gg/YFJCCxkdFZ) - Multiplayer Bomberman Style Games 
 * [Windage](https://windage.online/) or [Scorch2000](http://www.scorch2000.com/) - Multiplayer Artillery Battle Games / Scorched Earth Remakes
 * [⁠RocketGoal](https://rocketgoal.io/) - Rocket-League Style Game / [Discord](https://discord.com/invite/MjHEyuhMuG)
 * [Golf Party](https://golfparty.io/), [Mini Golf Club](https://minigolfclub.io/) or [⁠putt.day](https://putt.day/) - Multiplayer Mini-Golf Games
@@ -937,7 +937,7 @@
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
 * [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
-* [Pixel Run](https://jimm144.github.io/pixel-run/) - 2D Pixel Runner / Platformer  / [itch](https://jimm144.itch.io/pixel-run) / [GitHub](https://github.com/Jimm144/pixel-run)
+* [Pixel Run](https://pixelrun.localplayer.dev/) - 2D Pixel Runner / Platformer / [Discord](https://discord.gg/QZKEVEuFbh) / [GitHub](https://github.com/Jimm144/pixel-run)
 * [⁠Pixel Quest RPG](https://thvariableyt.github.io/Pixel-Quest-Deluxe/) - 2D Platformer / [GitHub](https://github.com/ThVariableYT/Pixel-Quest-Deluxe)
 * [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
 * [PrinceJS](https://princejs.com/) - Prince of Persia

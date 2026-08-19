@@ -966,7 +966,7 @@
 
 * 🌐 **[Book Awards](https://rentry.co/bookawards/)** - Index of Book Awards
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Discovery and Recommendations
-* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** or [Greater Books](http://www.greaterbooks.com/) - Algorithmic Books Lists
+* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Algorithmic Books Lists
 * ⭐ **[⁠NPR's Books We Love](https://apps.npr.org/best-books/)** - Book Discovery / Recommendations
 * ⭐ **[⁠The Book Prize Index](https://book-prize-index.vercel.app/)** - Book Awards + Winning Book Index
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
@@ -982,10 +982,12 @@
 * [⁠r/TrueLit Top 100 Lists](https://www.reddit.com/r/TrueLit/wiki/top100lists) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Book DNA](https://bookdna.com/) - Book Recommendations
+* [Greater Books](http://www.greaterbooks.com/) - Book Recommendations
 * [⁠Uncovered](https://uncovered.ink/) - Book Sample / Recommendation Tool
 * [Literature-Map](https://www.literature-map.com/) - Author Discovery by Genre
 * [Break the Bubble!](https://abooklike.foo/escape) - Challenge Narrow Tastes
 * [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations
+* [⁠Dan's Library](https://rentry.co/danslibrary/) - Book Recommendations 
 * [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
 * [Mind Expanding Books](https://mindexpandingbooks.com) - Book Recommendations / [GitHub](https://github.com/hackerkid/Mind-Expanding-Books)
 * [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community

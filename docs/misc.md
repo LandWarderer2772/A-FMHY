@@ -43,13 +43,12 @@
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue), [404PageFound](https://www.404pagefound.com/) or [href.cool](https://href.cool/) - Oldschool Site Indexes
 * [Funny / Useless](https://rentry.org/aksry2vc) - Funny / Useless Websites
-* [Websites From Hell](https://websitesfromhell.net/) - Shitty Websites
+* [Websites From Hell](https://websitesfromhell.net/) - Sites with Questionable Designs
 
 ***
 
 ## ▷ Git Project Indexes
 
-* [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings / [GitHub](https://github.com/EvanLi/Github-Ranking)
 * [Active GitHub Forks](https://techgaun.github.io/active-forks/) - Active Fork Index
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - Fork Repo Index
 * [OSS Insight](https://ossinsight.io/) - Project Index
@@ -60,6 +59,7 @@
 * [bestofjs](https://bestofjs.org/) - Project Index
 * [git.news](https://git.news/) - Project Index
 * [GitPlanet](https://gitplanet.com/) - Project Index
+* [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings / [GitHub](https://github.com/EvanLi/Github-Ranking)
 
 ***
 
@@ -194,6 +194,7 @@
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
 * [MyFridgeFood](https://myfridgefood.com/), [RecipeRadar](https://www.reciperadar.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
 * [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en) - Blend Two Cuisines for Recipes
+* [⁠RecipeTables](https://atlantic.st/) - Convert Recipes to Prep Tables
 * [Fit Men Cook](https://fitmencook.com/) or [PunchFork](https://www.punchfork.com/) - Recipes
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
@@ -410,7 +411,7 @@
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
-* [Urbex](https://urbexology.com/) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
+* [Urbex](https://urbexology.com/), [⁠Trespassers HQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [Orhyginals Map](http://map.orhyginal.fr/) - Online Editable Map

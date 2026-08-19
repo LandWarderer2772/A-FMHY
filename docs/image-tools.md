@@ -64,7 +64,7 @@
 
 ## ▷ Content Removers
 
-* ⭐ **[ObjectRemover](https://objectremover.com/)**, [Inpaint](https://theinpaint.com/) or [HAMA](https://www.hama.app/) - Object Removers
+* ⭐ **[ObjectRemover](https://objectremover.com/)**, [wipe.photos](https://wipe.photos/), [Inpaint](https://theinpaint.com/) or [HAMA](https://www.hama.app/) - Object Removers
 * ⭐ **[BG Bye](https://bgbye.io/)** - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
 * [Pixelcut](https://www.pixelcut.ai/) - Background Remover
 * [Change BG](https://www.change-bg.org/) - Background Remover
@@ -78,19 +78,20 @@
 ## ▷ Upscale / Restore
 
 * ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.pro/) / Self-Hosted
-* ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Online / Self-Hosted
-* ⭐ **[image-upscaling](https://image-upscaling.net/)** - Image Upscaling / Online
+* ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Self-Hosted / Web
+* ⭐ **[image-upscaling](https://image-upscaling.net/)** - Image Upscaling / Web
 * ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/upscayl/upscayl)
 * ⭐ **[chaiNNer](https://chainner.app/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/chaiNNer-org/chaiNNer)
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
 * [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Requires Sign-Up
-* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN) / Online / Self-Hosted
-* [IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Online
-* [Bigjpg](https://bigjpg.com/) - Image Upscaling / Online
+* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN) / Self-Hosted / Web
+* [IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Web
+* [Bigjpg](https://bigjpg.com/) - Image Upscaling / Web
+* [Crisp Photos](https://crisp.photos/) - Image Upscaling / Web
 * [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Hosted
 * [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
 * [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Image Upscaling
-* [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Online
+* [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Web
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling / Video Upscaling / Denoising / Self-Hosted
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Self-Hosted
 
@@ -242,7 +243,8 @@
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
 * [TweetGen](https://www.tweetgen.com/) - Fake Tweet Creator
 * [iFake](https://ifaketextmessage.com/) - Fake Text Creator
-* [⁠UTDR SoupGen](https://github.com/SoupTaels/UTDR-SoupGen) or [Undertale Textbox Gen](https://www.demirramon.com/generators/undertale_text_box_generator) - ⁠Undertale / Deltarune Text Box Generators 
+* [⁠UTDR SoupGen](https://github.com/SoupTaels/UTDR-SoupGen) or [Undertale Textbox Gen](https://www.demirramon.com/generators/undertale_text_box_generator) - ⁠Undertale / Deltarune Text Box Generators
+* [⁠OneShot Textbox Generator](https://www.nikodev.xyz/textbox) - OneShot Text Box Generator
 * [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
 * [⁠Iceberg Threads](https://icebergthreads.com/) - Iceberg Chart Generator
 * [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator
@@ -272,6 +274,7 @@
 * [People’s Graphic Design Archive](https://peoplesgdarchive.org/) - Graphic Design History
 * [One Page Love](https://onepagelove.com/) - Single Page Site Design Ideas
 * [SMPoster](https://www.smposter.com/) - Poster Designs
+* [⁠Annual Report Archive](https://annualreport.gallery/) - Vintage Corporate Annual Report Covers
 * [AnotherGraphic](https://anothergraphic.org/) - Typography Designs
 * [The Boolean Game](https://boolean.method.ac/) - Learn Boolean Operations in Vector Editors
 
@@ -418,7 +421,7 @@
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
 * [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Image Search
-* [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
+* [trace.moe](https://trace.moe/), [⁠Onegai](https://onegai.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
 * [Pose Search](https://x6ud.github.io/pose-search/) - Pose Reference Image Search / [GitHub](https://github.com/x6ud/pose-search)
 * [⁠Angle Ref Search](https://angleref.com/) - Head Pose Reference Image Search
 
