@@ -277,17 +277,17 @@
 ## ▷ Custom Search Engines
 
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
-* ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton), **[Virgil Game Search](https://virgil.samidy.com/Games/)** / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
+* ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton), **[Virgil Game Search](https://virgil.samidy.com/?engine=games)** / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 * [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites
-* [Virgil Software Search](https://virgil.samidy.com/Software/) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Search Software Sites
+* [Virgil Software Search](https://virgil.samidy.com/?engine=software) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Search Software Sites
 * [Rave Search](https://ravebooksearch.com/), [2](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8), [3](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu), [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [5](https://cse.google.com/cse?cx=e9657e69c76480cb8), [6](https://recherche-ebook.fr/en/) - Search Reading Sites
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj), [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Search General Torrent Sites
 * [Audiobooks CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - Search Audiobook Sites
 * [Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg) - Search Comic Sites
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Search Manga Sites
-* [Virgil APK Search](https://virgil.samidy.com/Mobile), [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [Apps & Games Search](https://cse.google.com/cse?cx=066a762d5699f4d91) - Search Android APK Sites
+* [Virgil APK Search](https://virgil.samidy.com/?engine=android#gsc.tab=0), [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [Apps & Games Search](https://cse.google.com/cse?cx=066a762d5699f4d91) - Search Android APK Sites
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Search Extension Sites
 * [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q) - Search YouTube-Like Video Sites
 * [Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d) - Search Font Sites
@@ -377,7 +377,6 @@
 * ⭐ **[T.LY](https://t.ly/)** - `t.ly/qqH6`
 * [is.gd](https://www.is.gd/) - `is.gd/9dkISG`
 * [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-* [⁠ha.mr](https://ha.mr/) - `ha.mr#~[I0c'H6Sgv0HA]B-b` / [GitHub](https://github.com/p2r3/ha.mr)
 * [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tinyurl-note.md)
 * [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
 * [X.gd](https://x.gd/) - `x.gd/rcg0Z`
@@ -395,6 +394,7 @@
 * [Walee](https://wal.ee/) - `wal.ee/zluqo`
 * [momou](https://ige.li/) - `ige.li/gq3ig`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
+* [⁠ha.mr](https://ha.mr/) - `ha.mr#~[I0c'H6Sgv0HA]B-b` / [GitHub](https://github.com/p2r3/ha.mr)
 * [ej.uz](https://ej.uz/), [2](https://sald.us/) - `ej.uz/t8ar`
 * [Goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [AI6](https://ai6.net/) - `ai6.net/nm3tyz`
@@ -415,6 +415,7 @@
 * [Dead Link Checker](https://www.deadlinkchecker.com/)
 * [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php)
 * [Dr. Link Check](https://www.drlinkcheck.com/)
+* [⁠OnlineOrNot](https://onlineornot.com/website-down-checker)
 * [HTTPStatus](https://httpstatus.io/)
 * [UpDownToday](https://updowntoday.com/)
 * [⁠isUpMap](https://isupmap.com/) - Down Site Checker Map
@@ -466,7 +467,7 @@
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/) / [5](https://run2mail.com/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [⁠Freetempmail](https://freetempmail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email) or [etempmail](https://eTempMail.com/) - .Edu Addresses
+* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/) / [5](https://run2mail.com/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [⁠Freetempmail](https://freetempmail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email), [⁠InstantEduMail](https://instantedumail.com/) or [etempmail](https://eTempMail.com/) - .Edu Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains

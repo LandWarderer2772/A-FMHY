@@ -190,7 +190,7 @@
 * 🌐 **[Awesome README](https://github.com/matiassingers/awesome-readme)** - GitHub Readme Resources
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
 * ⭐ **[refined-github](https://github.com/refined-github/refined-github)** - Improved GitHub Interface
-* ⭐ **[GitHub Desktop](https://github.com/apps/desktop)** / [Linux](https://github.com/shiftkey/desktop) - GitHub Desktop Client
+* ⭐ **[GitHub Desktop](https://github.com/apps/desktop)** / [Linux](https://github.com/desktop-plus/desktop-plus) - GitHub Desktop Client
 * [⁠Is GitHub Cooked?](https://isgithubcooked.com/) - GitHub Incident History
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
@@ -540,6 +540,7 @@
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
 * [⁠ZCode](https://zcode.z.ai/) - Coding AI
+* [⁠DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - Coding AI
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [VSCode Marketplace](https://gist.github.com/tejainece/85408c51ff5e3555ebc4b5b4417a9b6b) / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
 * [AI SDK](https://sdk.vercel.ai/) - Coding AI / [GitHub](https://github.com/vercel/ai)
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Local Code Interpreter / No Sign-Up / [Discord](https://discord.gg/Hvz9Axh84z)
@@ -581,6 +582,7 @@
 * [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / Save Tokens / [GitHub](https://github.com/DietrichGebert/ponytail)
 * [⁠9Router](https://github.com/decolua/9router) - Local AI Model Proxy & Token Saver
 * [⁠Impeccable](https://impeccable.style/) / [GitHub](https://github.com/pbakaus/impeccable) or [⁠Taste Skill](https://www.tasteskill.dev/) - Design Languages for AI Coding Agents
+* [⁠Anti Slop](https://github.com/miqdadbadjuber/anti-slop) - Prevent Coding Agents Generating Generic Code (aka slop) 
 * [Orca](https://onorca.dev/) - Agentic Development Environment / Parallel Agents / [GitHub](https://github.com/stablyai/orca)
 * [Langfuse](https://langfuse.com/) - LLM Engineering & Debugging Platform / [GitHub](https://github.com/langfuse/langfuse)
 * [⁠Ccusage](https://ccusage.com/) - Track Token Usage for AI Coding / [GitHub](https://github.com/ryoppippi/ccusage)
@@ -790,7 +792,7 @@
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) or [Neon](https://neon.com/) / [GitHub](https://github.com/neondatabase/neon) - Open-Source Backend Platforms
 * [⁠CS Chromium](https://cs.chromium.org/) - Chromium Code Search
-* [Caddy](https://caddyserver.com/) - Web Server / [GitHub](https://github.com/caddyserver/caddy)
+* [Caddy](https://caddyserver.com/) / [GitHub](https://github.com/caddyserver/caddy or [Nginx](https://nginx.org/) - Web Servers
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO

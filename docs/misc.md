@@ -410,7 +410,7 @@
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
-* [Urbex](https://urbexology.com/), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
+* [Urbex](https://urbexology.com/), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers), [⁠DarkUrbex](https://darkurbex.pages.dev/) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [Orhyginals Map](http://map.orhyginal.fr/) - Online Editable Map
@@ -575,7 +575,7 @@
 * [Project Athena](https://www.projectathena.ca/) - War in Afghanistan Historical Map / [X](https://x.com/TFProjectAthena) / [Discord](https://discord.gg/jMmxWZpUKs)
 * [HK Battle 1941](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - The Battle of Hong Kong 1941 Interactive Map
 * [Japanese Occupation of HK](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - Japanese Occupation of Hong Kong Interactive Map
-* [⁠Maritime Stepping Stones](https://mass.cultureelerfgoed.nl/) - Historical Maritime Wreck Map
+* [⁠Maritime Stepping Stones](https://mass.cultureelerfgoed.nl/) or [⁠Wrecksite](https://www.wrecksite.eu/) - Historical Maritime Wreck Maps / Info
 * [Medieval Murder Maps](https://medievalmurdermap.co.uk/) - Interactive Medieval Murder / Death Maps
 * [⁠Map Myths](https://mapmyths.com/) - Historical Map Myths
 
@@ -1085,7 +1085,7 @@
 
 ## ▷ Crypto
 
-* **Note** - It's recommended to store cryptocurrency offline in cold wallets such as Electrum, rather than exchanges like Binance or others. This increases security and gives you full control of your assets.
+* **Note** - It's recommended to store cryptocurrency offline in cold wallets, rather than exchanges like Binance or others. This increases security and gives you full control of your assets.
 
 ***
 
@@ -1358,7 +1358,7 @@
 * [WhyDoCatsAndDogs...?](https://whydocatsanddogs.visualcinnamon.com/) - Pet Q&A Site
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 * [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
-* [Parcelsapp](https://parcelsapp.com/en/), [Informed Delivery](https://informeddelivery.usps.com/) or [17Track](https://www.17track.net/en) - Mail Package Tracking
+* [17Track](https://www.17track.net/en), [Informed Delivery](https://informeddelivery.usps.com/) or [Parcelsapp](https://parcelsapp.com/en/) - Mail Package Tracking
 * [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
 * [⁠FULU Bounties](https://bounties.fulu.org/) - Console DRM Removal Bounties
 * [Hots&Cots](https://www.hotscots.app/) - Military Reviews of Barracks / DFAC / [X](https://x.com/hotscots_app)
@@ -1570,7 +1570,6 @@
 * [Remoji](https://remoji.com/) - Emoji Painting
 * [EmojiMix](https://tikolu.net/emojimix) or [Emoji Kitchen](https://emojikitchen.dev/) - Combine Emojis
 * [EmoteStud](https://emotestud.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
-* [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokémon Cards
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokémon Sprites
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
 * [Poke Palettes](https://pokepalettes.com/) - Pokémon Color Palettes
@@ -1873,7 +1872,6 @@
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator
 * [IASIP App](https://iasip.app/) - It's Always Sunny Title Generator
 * [JUST SCREAM!](https://justscream.baby/listen/) - Screams into the Universe / Archive
-* [Text to LinkedIn Translator](https://translate.kagi.com/?from=auto&to=linkedin) - Turn Text to LinkedIn Speech
 * [UpJoke](https://upjoke.com/) - Jokes for Any Topic
 * [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers

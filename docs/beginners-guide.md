@@ -51,7 +51,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Movies / Shows
 
-* **Streaming: [NEPU](https://nepu.to/) / [Aether](https://aether.bar/) / [Z-Stream](https://zstream.mov/) / [Rive](https://www.rivestream.app/)**
+* **Streaming: [NEPU](https://nepu.to/) / [Aether](https://aether.ist/) / [Z-Stream](https://zstream.mov/) / [Rive](https://www.rivestream.app/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.pk/) / [StreamFree](https://streamfree.top/) / [TimStreams](https://timstreams.st/)**
@@ -81,7 +81,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Gaming
 
-* **Download / Torrent: [⁠HizSearch](https://hizsearch.pages.dev/) / [Virgil Game Search](https://virgil.samidy.com/Games/) / [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
+* **Download / Torrent: [⁠HizSearch](https://hizsearch.pages.dev/) / [Virgil Game Search](https://virgil.samidy.com/?engine=games) / [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [Axekin](https://www.axekin.com/) / [r/ROMs Mega](https://r-roms.github.io/)**
 * **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
 
@@ -123,7 +123,7 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 
 Note you can turn on file extensions for all files by opening File Explorer, clicking on the "View" menu, and checking the box next to "File name extensions."
 
-* **Software Sites: [Virgil Software Search](https://virgil.samidy.com/Software/) / [CracksURL](https://cracksurl.com/) / [Download Guide](https://cracksurl.com/how-to-download/) / [LRepacks](https://lrepacks.net/)**
+* **Software Sites: [Virgil Software Search](https://virgil.samidy.com/?engine=software) / [CracksURL](https://cracksurl.com/) / [Download Guide](https://cracksurl.com/how-to-download/) / [LRepacks](https://lrepacks.net/)**
 
 ***
 
