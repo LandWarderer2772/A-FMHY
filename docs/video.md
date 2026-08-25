@@ -47,7 +47,7 @@
 * [Stigstream](https://stigstream.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VjHhPyuZX)
 * [Cineapse](https://www.cineapse.net/) - Movies / TV / Anime / Auto-Next / 4K
 * [All You Can Watch](https://allyoucanwatch.net/) - Movies / TV / Anime / [Telegram](https://t.me/allyoucanwatchh) / [Discord](https://discord.gg/allyoucanwatch)
-* [FRAME](https://framemovie.pages.dev/) - Movies / TV / Anime / Auto-Next / [GitHub](https://github.com/Sanuu7/SanuFlix-opensource)
+* [FRAME](https://www.framemovie.online/) - Movies / TV / Anime / Auto-Next / [GitHub](https://github.com/Sanuu7/SanuFlix-opensource)
 * [Willow](https://willowmovies.com/) - Movies / TV / Anime / Auto-Next / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk)
 * [TonkaCine](https://tonkacine.watch/), [2](https://tonkacine.xyz/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/S7XYrYesr2)
 * [Vivarium](https://vivarium.wtf/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/jT6daX7q2u)
@@ -61,8 +61,8 @@
 * [Sleepy](https://xullys.xyz/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/WHyuYVS6UG)
 * [BingeBang](https://bingebang.tv/) - Movies / TV / Anime / Auto-Next
 * [NomorFlix](https://nomorflix.cc/) or [DioStream](https://diostream.cc/) - Movies / TV / Anime / Auto-Next / [Status](https://nomorflix.com/)
-* [NOVA](https://novahd.cc/) - Movies / TV / Anime / Auto-Next
 * [NOVERA](https://novera.tv/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/g7J4AmpRJg)
+* [NOVA](https://novahd.cc/) - Movies / TV / Anime / Auto-Next
 * [NetPlay](https://netplayz.icu/) or [Cinelove](https://cinelove.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Screenscape](https://screenscape.me/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/ScreenScapee)
 * [DULO](https://dulo.cx/) - Movies / TV / Anime / Auto-Next
@@ -93,6 +93,7 @@
 * [AfterStream](https://afterstream.org/) - Movies / TV / Anime / Auto-Next / [GitHub](https://github.com/thingfoil/afterstream)
 * [Cinevaro](https://cinevaro.app/) - Movies / TV / Anime / Auto-Next
 * [IceFY](https://icefy.top/) - Movies / TV / Anime / Auto-Next
+* [kstream](https://kdesa.stream/) - Movies / TV / Anime / Auto-Next
 * [peestream](https://peestream.in/) - Movies / TV / Anime / Auto-Next
 
 ***
@@ -275,7 +276,6 @@
 * ⭐ **[Vimeo](https://vimeo.com/watch)**, [Viddsee](https://www.viddsee.com/), [Shortverse](https://www.shortverse.com/explore), [Short of the Week](https://www.shortoftheweek.com/) or [Argo](https://web.watchargo.com/) - Short Films
 * ⭐ **[Ubu](https://ubu.com/film/)** - Short Films / Avant-Garde
 * ⭐ **[RareFilmm](https://rarefilmm.com/)** - Rare Movies
-* ⭐ **[JP-Films](https://jp-films.com/)** - Japanese Movies / TV
 * ⭐ **[GizmoPlex](https://www.gizmoplex.com/mst3k)** - MST3K Movies
 * ⭐ **[RiffTrax Twitch](https://www.twitch.tv/rifftrax)** or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - RiffTrax Live Streams
 * [⁠Interactive Player](https://github.com/Eveep23/Interactive-Player) - Interactive Content Player / Emulator
@@ -767,10 +767,10 @@
 * ⭐ **[111477](https://rentry.co/FMHYB64#directory-111477)** - Movies / TV / Anime / Directory / [Search Filters / Stars](https://greasyfork.org/scripts/585901) / [Discord](https://discord.gg/YjkP4pANpg)
 * ⭐ **[VegaMovies](https://vegamovies.market/)** - Movies / TV / Anime / 4K / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Ad-Bypass (Must Have)](https://greasyfork.org/en/scripts/443277) / [Discord](https://discord.gg/4AvaCsd2J4)
+* ⭐ **[MKV BASE](https://mkvbase.site/)** - Movies / TV / Anime / 4K / Remuxes / 3D / [Telegram](https://t.me/MkVBase)
 * ⭐ **[DDLBase](https://ddlbase.net/)**, [2](https://ddlbase.com/ ) - Movies / TV / 4K / 3D / Remuxes / [Use Bypass](https://pixeldrain-bypass.gamedrive.to/)
 * ⭐ **[Scloud](https://rentry.co/FMHYB64#sc)** - Movies / TV / 4K / Use Adblocker + [Linkbypasser](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass) / [Telegram](https://t.me/scloudmediahub)
 * ⭐ **[Acer Movies](https://rentry.co/FMHYB64#acer)** - Movies / TV / Anime / [Discord](https://discord.com/invite/hpkMqrwRCE)
-* ⭐ **[MKV BASE](https://mkvbase.site/)** - Movies / TV / Anime / 4K / Remuxes / 3D / [Telegram](https://t.me/MkVBase)
 * ⭐ **[⁠XDMovies](https://top.xdmovies.wtf/)** - Movies / TV / 4K / [Discord](https://discord.com/invite/Py5KKx28Bx)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Sign-Up Code (Important)](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movieparadise-code.md)
 * ⭐ **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/) or [CorsFlix](https://watch.corsflix.net), [2](https://corsflix.net), [3](https://watch.corsflix.dpdns.org) - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
@@ -972,7 +972,7 @@
 
 ## ▷ Anime Torrenting
 
-* ⭐ **[Nyaa](https://nyaa.si/)**, [2](https://nyaa.iss.one/), [3](https://nyaa.iss.ink/) - Sub / Dub
+* ⭐ **[Nyaa](https://nyaa.si/)**, [2](https://nyaa.iss.one/), [3](https://nyaa.iss.ink/) - Sub / Dub / [GitHub](https://github.com/nyaadevs/nyaa)
 * ⭐ **Nyaa Tools** - [Add Features](https://github.com/Arad119/Nyaa-Enhancer) / [TUI](https://github.com/Beastwick18/nyaa) / [Batch Download](https://github.com/wotakumoe/meow), [2](https://github.com/marcpinet/nyaadownloader), [3](https://t.me/meow_in_japanese_bot), [4](https://t.me/NyaaTorrents) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/daynum/nyaabag) / [AnimeTosho Metadata](https://github.com/IONI0/Nyaa-AnimeTosho-Extender-ION-Fork) / [Quality Tags](https://releases.moe/about/)
 * ⭐ **[Hayase](https://hayase.watch/)** - Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Wiki](https://wiki.hayase.watch/)
 * ⭐ **[Seanime](https://seanime.app/)** - Torrent Streaming App / [Discord](https://discord.com/invite/3AuhRGqUqh)
