@@ -41,11 +41,11 @@
 ## ▷ Multiple Model Sites
 
 * ⭐ **[⁠Together.ai](https://chat.together.ai/)** - Kimi K3 / Qwen3.8 2.4T A95B / DeepSeek V4 Pro 0813 / GLM-5.3-Flash / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
-* [⁠Tryingopen](https://www.tryingopen.com/) - Kimi K3 / GLM 5.3 / Qwen3.8 2.4T A95B / GLM-5.3-Flash / Unlimited / [OpenAI Bridge](https://github.com/khrotu/radio-house-api)
+* [⁠Tryingopen](https://www.tryingopen.com/) - Kimi K3 / Qwen3.8 27B / GLM-5.3-Flash / Unlimited (12 per chat) / [OpenAI Bridge](https://github.com/khrotu/radio-house-api)
 * [⁠ISH](https://beta.ish.chat/) - Claude Opus 5 / GPT-5.6 Sol / Kimi K3 / 50K Tokens Daily / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Agent / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠ChatWave](https://chatwave.crunchflix.site/) - Claude Opus 5 / Claude Fable 5 / GPT-5.6 Sol / [Discord](https://discord.gg/RNxFvbP2D)
-* [NVIDIA NIM](https://build.nvidia.com/models) - DeepSeek V4 Pro / MiniMax M3 / Unlimited / No Sign-Up
+* [NVIDIA NIM](https://build.nvidia.com/models) - DeepSeek V4 Pro 0813 / MiniMax M3 / Kimi K3 / Unlimited / No Sign-Up
 * [⁠Lumo](https://lumo.proton.me/) - Qwen3.5 122B A10B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - GLM 4.7 / gpt-oss-120b / No Sign-Up
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus v1.5 70B Thinking / ALIA 40B (Spain) / Apertus v1.5 8B Thinking (No Sign-Up)

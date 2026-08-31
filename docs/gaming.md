@@ -32,7 +32,7 @@
 * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
 * [⁠Cracked-Games](https://cracked-games.org/) - Download / Use Adblock / [Discord](https://discord.com/invite/hG4TEBTBjw)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
-* [⁠Kryoto](https://kryo.to/) - Download / Pre-Installed / Some NSFW
+* [⁠Kryoto](https://kryo.to/) - Download / Pre-Installed
 * [⁠IceQueens Portables](https://game-box.win/) - Torrent / Download / Portables
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
@@ -84,8 +84,10 @@
 
 # ► Special Interest
 
+* 🌐 **[TheGamingEmporium](https://thegamingemporium.com/categories/open-source/)** - Open-Source, Decomps, Ports, Translations & more
+* 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Open Source Games](https://github.com/bobeff/open-source-games), [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
+
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
-* 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Open Source Games](https://github.com/bobeff/open-source-games), [TheGamingEmporium](https://thegamingemporium.com/categories/open-source/), [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
 * [Playtester](https://playtester.io/) / [Discord](https://discord.gg/A5yzKNP7FE) or [Alpha Beta Gamer](https://alphabetagamer.com/) / [Discord](https://discord.gg/3Gtqp9BDeY) - Play Games in Alpha / Beta Testing
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
@@ -107,13 +109,13 @@
 
 * 🌐 **[r/QuestPiracy Mega](https://qpmegathread.top/)** - Quest VR Resources
 * ↪️ **[PCVR Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)**
-* ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** - VR Games / Avoid Software / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
+* ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** - PCVR Games / Avoid Software / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Requires Sign-Up / [Discord](https://discord.gg/wfJs3eJvHa)
 * [⁠The Gear VR Vault](https://vault.gearvr.net/) - VR Abandonware Games / Apps
 * [⁠heyVR.io](https://heyvr.io/) - Browser VR Games / [Discord](https://discord.gg/tjbmKKH)
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform / [Subreddit](https://www.reddit.com/r/sidequest)
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
-* [Rec Room Revivals](https://rentry.co/FMHYB64#rec-room-revival) - Rec Room Revival Servers
+* [Rec Room Revivals](https://rentry.co/FMHYB64#rec-room-revival) - Rec Room Revival Servers / [Image / Profile Archive](https://recroom.network/)
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 * [SlimeVR](https://docs.slimevr.dev/) - DIY VR Full-Body Tracking System / Guides / [Discord](https://discord.gg/SlimeVR) / [GitHub](https://github.com/SlimeVR)
@@ -302,7 +304,7 @@
 * [MouseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck) - Add Mouse Support to Emulators
 * [SaveFileConverter](https://savefileconverter.com/) - Convert Console Saves to Emulator Saves
 * [⁠AndroidDSU](https://github.com/PlayXboxtion963/AndroidDSU#english-version) - Use Android as Motion Controls for Emulators
-* [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
+* [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines
 * [ns-emu-mod-downloader](https://github.com/exefer/ns-emu-mod-downloader) - Download Switch Emulator Mods
 * [UniversalDynamicInput](https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [TOTK Optimization](https://rentry.co/FMHYB64#totk-optimization) - TOTK Optimization / Fixes
@@ -506,7 +508,7 @@
 * [DailyDungeon](https://dailydungeon.net/) - Puzzle Dungeon Crawler
 * [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
 * [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
-* [JetHolt](https://jetholt.com/hacking/) or [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) - Fallout Terminal Hacking Game
+* [JetHolt](https://jetholt.com/hacking/), [⁠hack the terminal](https://bash.tv/mallory/hack-terminal) or [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) - Fallout Terminal Hacking Games
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
 * [⁠Queens Game](https://queensgame.io/) - N-Queens Problem Inspired Puzzle
 * [⁠Squishy Billiards](https://squishybilliards.com/) - Daily Billiards Puzzle Game / [Discord](https://discord.gg/fkRCcvkhZh)
@@ -642,8 +644,8 @@
 ## ▷ Chess
 
 * ↪️ **[Chess Learning / Practice](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
-* ⭐ **[lichess](https://lichess.org/)** - Chess Platform / [Discord](https://discord.com/invite/lichess) / [GitHub](https://github.com/lichess-org)
-* ⭐ **lichess Tools** - [Mobile Apps](https://lichess.org/mobile) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extra Functionality](https://lichess.org/page/extend)
+* ⭐ **[Lichess](https://lichess.org/)** - Chess Platform / [Discord](https://discord.com/invite/lichess) / [GitHub](https://github.com/lichess-org)
+* ⭐ **Lichess Tools** - [Mobile Apps](https://lichess.org/mobile) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extra Functionality](https://lichess.org/page/extend) / [Game Database](https://database.lichess.org/)
 * ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
 * [Chess.com](https://www.chess.com/) - Chess Platform / [Discord](https://discord.gg/3VbUQME)
 * [PyChess](https://www.pychess.org/) - Chess Platform / [Discord](https://discord.gg/aPs8RKr) / [GitHub](https://github.com/gbtami/pychess-variants)
@@ -852,6 +854,7 @@
 * [⁠GuessMe](https://guessme.io/) - Majority Answers Guessing Game / [Discord](https://discord.gg/U9YbWWBJn5)
 * [⁠What's A Mook?](https://whatsamook.games/) - Multiplayer / Party Games
 * [⁠GamingCouch](https://gamingcouch.com/) / [Discord](https://discord.gg/UqSX9ZGz5u), [⁠Doot](https://doot.games/) or [Couchplay](https://www.couchplay.tv/index_en.php) - Multiplayer Phone Controller / Gamepad Games
+* [Billiards Pool Game](https://billiards.tailuge.workers.dev/lobby) - Multiplayer 3D Billiards, Pool and Snooker / [GitHub](https://github.com/tailuge/billiards)
 * [⁠Tough Love Arena](https://toughlovearena.com/) - Multiplayer Browser Fighting Game / [Discord](https://discord.gg/gMBRaUPDT7)
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
 * [Bloxd](https://bloxd.io/) / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX) or [MiniBlox](https://miniblox.io/) / [Discord](https://discord.com/invite/nAwzkUJNmb) - Online Minecraft Clones
@@ -866,7 +869,6 @@
 * [Powerline.io](https://powerline.io/) - Multiplayer Snake
 * [mope.io](https://mope.io/) - Become the Biggest Animal / [Discord](https://discord.com/invite/nQAVB9c)
 * [TagPro](https://koalabeast.com/) - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
-* [Billiards Pool Game](https://billiards.tailuge.workers.dev/lobby) - Multiplayer 3D Billiards & Pool / [GitHub](https://github.com/tailuge/billiards)
 * [Bloob.io](https://bloob.io/) - Multiple Games
 * [Yucata](https://www.yucata.de/en/) - Multiple Games
 * [Foony](https://foony.com/) - Multiple Games
