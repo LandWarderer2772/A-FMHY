@@ -172,7 +172,7 @@
 
 * 🌐 **[Kindle Jailbreak Guide](https://kindlemodding.org/jailbreaking/index.html)** - Jailbreak Guides / Index
 * ⭐ **[KindleForge](https://github.com/KindleTweaks/KindleForge)** – App Installer
-* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / [Minimal UI](https://github.com/AnthonyGress/zen_ui.koplugin) / [Z-Library Plugin](https://github.com/OctoNezd/zlibrary.koplugin) / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib)  / [Settings Guide](https://rentry.co/koreadersettings) / [Patches](https://kindlemodshelf.me/patches) / [App Store](https://github.com/omer-faruq/appstore.koplugin) / [GitHub](https://github.com/koreader/koreader)
+* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / [Minimal UI](https://github.com/AnthonyGress/zen_ui.koplugin) / [Z-Library Plugin](https://github.com/OctoNezd/zlibrary.koplugin) / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [Settings Guide](https://rentry.co/koreadersettings) / [Patches](https://kindlemodshelf.me/patches) / [App Store](https://github.com/omer-faruq/appstore.koplugin) / [GitHub](https://github.com/koreader/koreader)
 * ⭐ **[KindleFetch](https://github.com/justrals/KindleFetch)** - Kindle Book Download CLI
 * [Kindle Modding Community](https://discord.com/invite/wDbbZTF5QF) - Kindle Modding / Jailbreak Discord
 * [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
@@ -225,7 +225,6 @@
 * ⭐ **[⁠NovelFire](https://novelfire.net/)** or [NovelPhoenix](https://novelphoenix.com/) - Online Reading
 * [LNORI](https://lnori.com/) - Online Reading
 * [Wuxiabox](https://www.wuxiabox.com/) - Online Reading
-* [NovelNext](https://novelnext.com/) - Online Reading
 * [⁠Cyrisia](https://cyrisia.com/) - Online Reading
 * [WuxiaSpot](https://www.wuxiaspot.com/) - Online Reading
 * [⁠ReChapters](https://www.rechapters.com/) - Online Reading
@@ -354,8 +353,6 @@
 
 * ⭐ **[NEPU Audiobooks](https://nepu.to/ebooks)**, [2](https://nepu.is/ebooks), [3](https://nepu.net/ebooks), [4](https://nepu.app/ebooks), [5](https://nepu.is/ebooks)
 * [FullLengthAudiobooks](https://fulllengthaudiobooks.com/)
-* [HDAudiobooks](https://hdaudiobooks.net/)
-* [BigAudiobooks](https://bigaudiobooks.net/)
 * [Mapple](https://mapplee.com/audiobooks)
 * [HotAudioBooks](https://hotaudiobooks.com/)
 * [BookAudiobook](https://bookaudiobook.net/)
@@ -856,7 +853,7 @@
 * [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
 * [Dao](https://t.me/Dao_Qigong_Taiji_TCM_ebooks) - Spiritual Eastern Literature
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
-* [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
+* [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracy / Psychedelics
 * [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
 * [Great Library of Eris](https://libraryoferis.org/) - Discordianism
 
@@ -961,7 +958,7 @@
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Discovery and Recommendations
 * ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Algorithmic Books Lists
 * ⭐ **[⁠NPR's Books We Love](https://apps.npr.org/best-books/)** - Book Discovery / Recommendations
-* ⭐ **[⁠The Book Prize Index](https://book-prize-index.vercel.app/)** - Book Awards + Winning Book Index
+* ⭐ **[⁠The Book Prize Index](https://book-prize-index.vercel.app/)** or **[LibraryThing Awards](https://www.librarything.com/award)** - Book Awards + Winning Book Index
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
 * [GoodBooks](https://www.goodbooks.io/) or [Read This Twice](https://readthistwice.com/) - Book Recommendations by Influential People
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Books / Comics / Manga Recommendation Directory
@@ -1027,6 +1024,7 @@
 * [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
 * [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
 * [WorldCat](https://www.worldcat.org/), [Libby](https://libbyapp.com/) / [Downloader](https://github.com/PsychedelicPalimpsest/LibbyRip), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
+* [⁠Library Technology](https://librarytechnology.org/libraries/) - Global Library Database
 * [How to Get Library Card Online](https://rentry.co/9b3vdo)
 * [⁠⁠ReciproCard](https://reciprocard.com/) - Find Library Cards for Reciprocal Borrowing
 * [⁠Books Unbanned](https://booksunbanned.com/) - Free Digital US Library Cards / Ages 13-26 Only

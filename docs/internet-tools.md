@@ -206,6 +206,7 @@
 
 * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
 * ⭐ **[Shodan](https://www.shodan.io/)** or [FOFA](https://fofa.info/) / [GitHub](https://github.com/FofaInfo/Awesome-FOFA) - Internet Connected Device / Public Assets Search
+* ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
 * [SimilarSiteSearch](https://www.similarsitesearch.com/), [SimilarWeb](https://similarweb.com/), [SitesLikes](https://www.siteslike.com/), [TopSimilarSites](https://topsimilarsites.com/), [SimilarSites](https://similarsites.com/) or [OpenDirectory](https://odir.us/) - Similar Site Searches
 * [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
 * [Maigret](https://github.com/soxoj/maigret), [UserSearch](https://usersearch.com/) / [2](https://usersearch.org/), [Blackbird](https://github.com/p1ngul1n0/blackbird), [WhatsMyName](https://whatsmyname.app/), [Sherlock](https://github.com/sherlock-project/sherlock), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Tookie-OSINT](https://github.com/Alfredredbird/tookie-osint) or [Lullar](https://lullar-com-3.appspot.com/) - Username Search
@@ -277,17 +278,17 @@
 ## ▷ Custom Search Engines
 
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
-* ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton), **[Virgil Game Search](https://virgil.samidy.com/?engine=games)** / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
+* ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton), **[Virgil Game Search](https://virgil.samidy.com/?engine=games)**, [2](https://virgil-search.pages.dev/?engine=games) / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 * [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites
-* [Virgil Software Search](https://virgil.samidy.com/?engine=software) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Search Software Sites
+* [Virgil Software Search](https://virgil.samidy.com/?engine=software), [2](https://virgil-search.pages.dev/?engine=software) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Search Software Sites
 * [Rave Search](https://ravebooksearch.com/), [2](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8), [3](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu), [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [5](https://cse.google.com/cse?cx=e9657e69c76480cb8), [6](https://recherche-ebook.fr/en/) - Search Reading Sites
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj), [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Search General Torrent Sites
 * [Audiobooks CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - Search Audiobook Sites
 * [Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg) - Search Comic Sites
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z), [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Search Manga Sites
-* [Virgil APK Search](https://virgil.samidy.com/?engine=android#gsc.tab=0), [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [Apps & Games Search](https://cse.google.com/cse?cx=066a762d5699f4d91) - Search Android APK Sites
+* [Virgil APK Search](https://virgil.samidy.com/?engine=android#gsc.tab=0) / [2](https://virgil-search.pages.dev/?engine=android), [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [Apps & Games Search](https://cse.google.com/cse?cx=066a762d5699f4d91) - Search Android APK Sites
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Search Extension Sites
 * [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q) - Search YouTube-Like Video Sites
 * [Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d) - Search Font Sites
@@ -484,6 +485,7 @@
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
 * [NiceMail](https://nicemail.cc/) - Forever / 1 Day / 3 Domains
+* [⁠Temporary Mail](https://mail.sunls.de/) - 10 Days / 3 Domains / [GitHub](https://github.com/sunls24/tmail/blob/main/README-en.md)
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 * [⁠DropMail](https://dropmail.me/) - 17 Domains
 * [⁠Driftz Mail](https://driftz.net/) - 23 Domains

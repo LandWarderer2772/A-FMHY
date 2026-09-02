@@ -59,6 +59,7 @@
 * [Gresham College](https://www.gresham.ac.uk/) - Lectures / [YouTube](https://www.youtube.com/@GreshamCollege/videos)
 * [Paul G. Allen School](https://www.youtube.com/@uwcse/) - Lectures
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
+* [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
 
 ***
 
@@ -103,7 +104,7 @@
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Memory Toys](https://memory.toys/), [⁠Memory League](https://memoryleague.com/), [Dual N-Back](https://nbacking.com/) or [BrainScale](https://brainscale.net/) - Memory Tests / Training
 * [⁠Art of Memory](https://artofmemory.com/) - Memory Improvement Book, Games, and Forums
-* [Information Is Beautiful](https://informationisbeautiful.net/), [⁠sheets.works](https://sheets.works/data-viz/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
+* [Information Is Beautiful](https://informationisbeautiful.net/),  [The Pudding](https://pudding.cool/), [⁠sheets.works](https://sheets.works/data-viz/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
 * [r/coolguides](https://www.reddit.com/r/coolguides/top/?screen_view_count=2&t=all) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * [⁠Academy Network](https://academynetwork.net/) - Decentralized Guide Sharing App
 * [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
@@ -131,7 +132,7 @@
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
 * [BelowTheSurface](https://belowthesurface.amsterdam/en) - Archeological Object DB of Amsterdam
 * [WW2 in 100 Objects](https://www.tweedewereldoorlog.nl/100voorwerpen/en/virtual-tour/) - WW2 Museum Virtual Tour
-* [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactive Panorama
+* [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours 
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
 * [Virtual Yosemite](https://www.virtualyosemite.org/) - Virtual Yosemite Tour
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
@@ -149,7 +150,7 @@
 * [TIB AV-Portal](https://av.tib.eu/) - Science Videos
 * [LabXchange](https://www.labxchange.org/), [JavaLab](https://javalab.org/en/) or [EduMedia](https://www.edumedia.com/) - Interactive Science Simulations
 * [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
-* [BOINC](https://boinc.berkeley.edu/) - Donate Idle GPU + GPU Resources to Scientific Research / [Manager](https://boinc.berkeley.edu/central/) / [Number Theory](https://numberfields.asu.edu/NumberFields/) / [Humanitarian](https://worldcommunitygrid.org/) / [Subreddit](https://www.reddit.com/r/BOINC/)
+* [BOINC](https://boinc.berkeley.edu/) - Donate Idle CPU + GPU Resources to Scientific Research / [Manager](https://boinc.berkeley.edu/central/) / [Number Theory](https://numberfields.asu.edu/NumberFields/) / [Humanitarian](https://worldcommunitygrid.org/) / [Subreddit](https://www.reddit.com/r/BOINC/)
 
 ***
 
@@ -674,7 +675,7 @@
 * [Tank Archives](https://www.tankarchives.com/) - WW2 Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
 * [NHHC](https://www.history.navy.mil/), [⁠RNRA](https://www.royalnavyresearcharchive.org.uk/), [⁠NavSource](https://www.navsource.net/), [WarshipsResearch](https://warshipsresearch.blogspot.com/) or [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) / [X](https://x.com/NavyHistorian) - Naval & Maritime History Sites
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
-* [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactive Panorama
+* [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours 
 * [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Byzantine Military](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
@@ -868,7 +869,7 @@
 * [AudioZ](https://audioz.download/tutorials/) - Audio Courses / [Forum](https://audiosex.pro/)
 * [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials 
 * [Helio](https://helio.fm/) / [GitHub](https://github.com/helio-fm/helio-sequencer) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
-* [Circle of Fifths](https://muted.io/circle-of-fifths/) - Visualize Notes, Cords and Keys
+* [Circle of Fifths](https://muted.io/circle-of-fifths/) - Visualize Notes, Chords and Keys
 * [ScoreCloud](https://scorecloud.com/), [ChordReader2](https://github.com/AndInTheClouds/chordreader2) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw), [Chordi](https://chordi.co/), [Chord Player](https://www.onemotion.com/chord-player/) or [AutoChords](https://autochords.com/) - Chord Progression Generators
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library
@@ -1509,7 +1510,7 @@
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - Computer Science Courses
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [⁠SEE](https://see.stanford.edu/) - Computer Science Courses
-* [CollegeComendium](https://collegecompendium.org/) - Computer Science Courses
+* [CollegeCompendium](https://collegecompendium.org/) - Computer Science Courses
 * [⁠CEMC](https://cemc.uwaterloo.ca/resources/courseware) - Computer Science Courses
 * [Gwern.net](https://gwern.net/) - Gwern Branwen Essays (AI, Psychology, & Statistics)
 * [Runestone Interactive](https://runestone.academy/) - Interactive Guides
@@ -1664,7 +1665,7 @@
 * 🌐 **[Everything AI/ML](https://viveknaskar.github.io/everything-ai-ml/)** - LLM Learning Resources / [GitHub](https://github.com/viveknaskar/everything-ai-ml)
 * ↪️ **[Machine Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
 * [Awesome Free AI Books](https://github.com/MarcosSete/awesome-free-ai-books), [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [mlsysbook](https://www.mlsysbook.ai/), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [ML Engineering](https://github.com/stas00/ml-engineering), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Books / Guides
-* [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3) or  [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
+* [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3) or [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - Machine Learning Roadmap / Guide
 * [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes

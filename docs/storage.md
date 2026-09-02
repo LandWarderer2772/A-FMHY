@@ -172,6 +172,7 @@
 * [⁠HDL](https://hdl.pages.dev/) - Hard Demon List / [Discord](https://discord.gg/fKKWjUBfk7)
 * [MDL](https://mediumdemonslist.pages.dev/) - Medium Demon List / [Discord](https://discord.gg/CwjaCCZvsX)
 * [EDL](https://easydemonlist.pages.dev/) - Easy Demon List / [Discord](https://discord.gg/XGN69bmuQh)
+* [NWL](https://docs.google.com/spreadsheets/d/1YxUE2kkvhT2E6AjnkvTf-o8iu_shSLbuFkEFcZOvieA) - Non-Listworthy Extreme Demon List / [Discord](https://discord.gg/vW88ZFtTY2)
 * [HPPL](https://docs.google.com/document/d/1RZ524Gsou0w4djb3I13vvYV6Q9pp77UjlJkS_Et8b28/) - Hardest Physically Possible Levels List / [Discord](https://discord.com/invite/CGxaTGJaGV)
 * [HTPL](https://docs.google.com/document/d/1GvNWez3Vh3Q6AQXLshYOmA3sXG-9JbV6Zf7ZzRpba0o/) - Hardest Theoretically Possible Levels List / [Discord](https://discord.com/invite/F5U8CQshJv)
 * [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List / [Discord](https://discord.com/invite/q3GNPb7X)
@@ -262,11 +263,11 @@
 
 ### Letterboxd Tools
 
-[Multi Tool](https://www.letterboxd.tools/) / [Extra Site Ratings](https://github.com/duncanlang/Letterboxd-Extras/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Watchlist Roulette](https://watchlistroulette.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/) /  [Celeb Accounts](https://fameboxd.com/)
+[Multi Tool](https://www.letterboxd.tools/) / [Extra Site Ratings](https://github.com/duncanlang/Letterboxd-Extras/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Watchlist Roulette](https://watchlistroulette.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/) / [Celeb Accounts](https://fameboxd.com/)
 
 ### MyAnimeList Tools
 
-[Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Stats / Badges](https://www.mal-badges.com/) / [Stats](https://anime.plus/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Tier Lists](https://www.gomitier.tech/)
+[Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Profile Extension / Stats](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Stats / Badges](https://www.mal-badges.com/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Tier Lists](https://www.gomitier.tech/)
 
 ### AniList Tools
 

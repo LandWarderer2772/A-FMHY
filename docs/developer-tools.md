@@ -791,7 +791,7 @@
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) or [Neon](https://neon.com/) / [GitHub](https://github.com/neondatabase/neon) - Open-Source Backend Platforms
 * [⁠CS Chromium](https://cs.chromium.org/) - Chromium Code Search
-* [Caddy](https://caddyserver.com/) / [GitHub](https://github.com/caddyserver/caddy or [Nginx](https://nginx.org/) - Web Servers
+* [Caddy](https://caddyserver.com/) / [GitHub](https://github.com/caddyserver/caddy) or [Nginx](https://nginx.org/) - Web Servers
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
@@ -888,7 +888,7 @@
 * ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
 * ⭐ **[awwwards](https://www.awwwards.com/websites)**, **[Boilerplate](https://html5boilerplate.com/)** or [html5up](https://html5up.net/) - Custom HTML Templates
 * [UI Design Daily](https://www.uidesigndaily.com/), [⁠UI Resources](https://ui-resources.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
-* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [Godly Website](https://godly.website/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
+* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Godly Website](https://godly.website/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
 * [Templatemo](https://www.templatemo.com/) - Free CSS Templates
 * [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
 * [OpenUI](https://github.com/wandb/openui) - Make UI with AI
@@ -932,7 +932,7 @@
 
 ## ▷ WordPress Tools
 
-* ⭐ **[Weadown](https://weadown.com/)** or [DDLCode](https://ddlcode.com/)  - Premium Themes / Plugins
+* ⭐ **[Weadown](https://weadown.com/)** or [DDLCode](https://ddlcode.com/) - Premium Themes / Plugins
 * ⭐ **[GPLDL](https://gpldl.com/)** - Premium Themes / Plugins / 25 Monthly / Requires Sign-Up
 * [Babiato](https://babia.to/) - Themes / Plugins Forum / Requires Sign-Up
 * [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
@@ -1072,7 +1072,7 @@
 * [CGIWebHost.com](https://www.cgiwebhost.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
 * [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
 * [100WebSpace.com](https://www.100webspace.com/) - 100MB Storage / 3GB Bandwidth / 1 DB
-* [netlify](https://www.netlify.com/) - 300 Credits [Monhtly](https://docs.netlify.com/manage/accounts-and-billing/billing/billing-for-credit-based-plans/how-credits-work/#credits-usage-for-metered-billing)
+* [netlify](https://www.netlify.com/) - 300 Credits / [Monthly](https://docs.netlify.com/manage/accounts-and-billing/billing/billing-for-credit-based-plans/how-credits-work/#credits-usage-for-metered-billing)
 * [50Webs.com](https://www.50webs.com/) - 500MB Storage / 5GB Bandwidth / 0 DB
 * [Somee.com](https://somee.com/) - 150MB Storage / 5GB Bandwidth / 1 DB
 * [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
