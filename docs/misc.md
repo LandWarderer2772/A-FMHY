@@ -202,6 +202,7 @@
 * [PublicDomainRecipes](https://publicdomainrecipes.com/) - Recipe Search / [GitHub](https://github.com/ronaldl29/public-domain-recipes) 
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [Hari Recipes](https://hari.recipes/) - Recipe Search
+* [⁠Delicious Recipes](https://www.gzrecipes.com/en/) - Recipe Search
 * [KitchenAid](https://www.kitchenaid.com/recipes.html) - Recipe Search
 * [⁠Budget Bytes](https://www.budgetbytes.com/) - Budget Recipes
 * [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
@@ -1849,6 +1850,7 @@
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
+* [⁠Jerma Sites](https://jerma.io/) or [Jerma](https://www.jerma.org/) - Jerma Resources / Content Sites
 * [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [Colorword](https://colorword.recu3125.com/) - Word Color Voting
