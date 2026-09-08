@@ -271,7 +271,7 @@
 ## ▷ Office Suites
 
 * ↪️ **[Office Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** / [Custom Install Guide](https://massgrave.dev/office_c2r_custom)
-* ⭐ **[LibreOffice](https://www.libreoffice.org/)** - FOSS Office Suite / [Github](https://github.com/LibreOffice/core)
+* ⭐ **[LibreOffice](https://www.libreoffice.org/)** - FOSS Office Suite / [GitHub](https://github.com/LibreOffice/core)
 * ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - Office Suite
 * ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links)** / [Linux](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b) / [macOS](https://massgrave.dev/office_for_mac) - Office Suite / [Hotkeys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd) / [Removal Tool](https://github.com/abbodi1406/WHD/blob/master/scripts/OfficeScrubber_14.zip), [2](https://gitlab.com/stdout12/batutil/-/tree/master/OfficeScrubber), [3](https://codeberg.org/stdout12/BatUtil/src/branch/master/OfficeScrubber)
 * [Calligra](https://calligra.org/) - FOSS Office Suite

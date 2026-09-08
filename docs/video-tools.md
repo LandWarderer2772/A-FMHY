@@ -46,7 +46,7 @@
 * ↪️ **[Streaming Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Requires Sign-Up
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever  (w/ Account) / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 15 Days After Last View (w/ Account)
 * [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Requires Sign-Up
@@ -333,7 +333,7 @@
 * [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tautulli-note.md)
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own
-* [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
+* [PlexDrive](https://github.com/plexdrive/plexdrive) - Mount Google Drive
 * [SyncLounge](https://synclounge.tv/) - Media Sync
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
 * [Overseerr](https://overseerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)
@@ -538,6 +538,7 @@
 ## ▷ Stock Videos
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#videos)** or **[CuteStockFootage](https://cutestockfootage.com/free/video)** - Stock Video Indexes
+* [⁠Destockd](https://www.destockd.com/) - Stock Videos
 * [Pexels](https://www.pexels.com/) - Stock Videos
 * [Dareful](https://dareful.com/) - 4K Stock Videos
 * [Monzoom](https://www.monzoom.com/) - 4K Stock Videos

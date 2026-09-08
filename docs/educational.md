@@ -8,7 +8,7 @@
 
 * 🌐 **[Official YT Documentary Channels](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#Documentaries)** - YouTube Documentary Channels
 * ⭐ **[IHaveNoTV](https://ihavenotv.com)**
-* ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://pastebin.com/e77cHmgm), [2](https://github.com/acridsoul/Clear-Mark) (or use PIP)
+* ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/Julmik647/filterlists), [2](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
 * ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)** / Torrent
 * [YT Video Essay Hall of Fame](https://docs.google.com/spreadsheets/d/1pMlfjJ4gb0vMt2xrQITBMzWypNHMj-lWKkK1KC6EjxA/edit?gid=88681539) - YouTube Video Essay Archive / [Frontend](https://heyitsdean.github.io/Video-Essay-Hall-Of-Fame/)
@@ -179,6 +179,7 @@
 * [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
 * [avogadro](https://two.avogadro.cc/index.html), [2](https://sourceforge.net/projects/avogadro/) or [MolView](https://molview.org/) - Molecular Viewers / Editors
 * [Simuwaerm](https://github.com/lennart-finke/simuwaerm) - Heat Simulator
+* [⁠Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/) - ⁠Nuclear Reactor Simulator
 
 ***
 
@@ -486,7 +487,7 @@
 * [ESA Hubble](https://esahubble.org/) / [X](https://x.com/hubble_space), [SpaceTelescopeLive](https://spacetelescopelive.org/) / [X](https://x.com/spacetelelive) or [HubbleSite](https://science.nasa.gov/mission/hubble/) / [X](https://x.com/NASAHubble) - Hubble Telescope Images
 * [James Webb Space Telescope](https://science.nasa.gov/mission/webb/) / [X](https://x.com/nasawebb) or [ESAWebb](https://esawebb.org/) / [X](https://x.com/ESA_Webb) - Webb Space Telescope Sites
 * [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Images / [GitHub](https://github.com/JohnEdChristensen/WebbCompare/tree/gh-pages)
-* [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Images
+* [APOD](https://science.nasa.gov/apod/) - Daily NASA Astronomy Images
 * [r/SpacePorn](https://www.reddit.com/r/spaceporn/) or [r/Astrophotography](https://www.reddit.com/r/astrophotography/) - Astrophotography Subreddits
 * [Meteor Showers](https://www.meteorshowers.org/) - 3D Meteor Shower Visualization
 * [Live Meteors](https://www.livemeteors.com/) - Live Meteor Radio Echoes
@@ -976,40 +977,39 @@
 
 ## ▷ Chess
 
-* 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [⁠Immortal Chess Network](https://t.me/Immortal_Chess_Network), [⁠TheChessDirectory](https://thechessdirectory.com/) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
+* 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [TheChessDirectory](https://thechessdirectory.com/), [Immortal Chess Network](https://t.me/Immortal_Chess_Network) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
 * 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [r/Chess](https://reddit.com/r/chess) - Chess Subreddits
 * 🌐 **[r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Community Recommended Books
 * ↪️ **[Play Chess Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_chess)**
+* ⭐ **[Pawn Appétit](https://github.com/Pawn-Appetit/pawn-appetit)** or [En Croissant](https://encroissant.org/) - Modern Chess GUI & Database Manager / [GitHub](https://github.com/franciscoBSalgueiro/en-croissant) / [Databases](https://encroissant.org/docs/assets/databases)
 * ⭐ **[Lucas Chess](https://lucaschess.pythonanywhere.com/)** - Chess Training Software
-* ⭐ **[Pawn Appétit](https://github.com/Pawn-Appetit/pawn-appetit)** or [En Croissant](https://encroissant.org/) - Chess Analysis Tool / [Game Databases](https://encroissant.org/docs/assets/databases)
 * ⭐ **[Chess Tempo](https://chesstempo.com/)** - Tactics Training / Endgame Solver
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Chess Database Software
-* [⁠Maia Chess](https://www.maiachess.com/) - Human-Like AI Chess Opponent
-* [ChessGames](https://www.chessgames.com/) or [⁠Lumbra's Gigabase](https://lumbrasgigabase.com/) - Chess Game Databases
-* [ChessLab](https://chesslab.me/) - Learning Community / [Discord](https://discord.com/invite/AA5G5f9wKC)
-* [⁠Chess Results](https://chess-results.com/) - Chess Tournament Results Database
-* [Listudy](https://listudy.org/en) - Spaced Repetition Tactics / Blind Tactics / Pieceless Tactics
-* [Chessable](https://www.chessable.com/) - Openings / Endgames
-* [⁠Syzygy Tables](https://syzygy-tables.info/) - Practice Endgames Using Tablebase Data
+* ⭐	**[Lumbra's Gigabase](https://lumbrasgigabase.com/)** - Cleaned Master Game Database
+* ⭐	**[OpeningTree](https://www.openingtree.com/)** - Opening Repertoire Tree & Scouting Tool for Lichess & Chess.com
+* [Maia Chess](https://www.maiachess.com/) - Human-Like AI Training Opponent & Blunder Modeling
+* [Listudy](https://listudy.org/en) -  Spaced Repetition Openings, Blind Tactics & Endgames
+* [Maia Chess](https://www.maiachess.com/) - Human-Like AI Training Opponent & Blunder Modeling
+* [Blitz Tactics](https://blitztactics.com/) - Fast-Paced Chess Puzzle Training
+* [Tactic or Not](https://tacticornot.com/) - Evaluate Tactics / [Discord](https://discord.gg/2WWgsuZmag)
+* [Shâh Kur](https://shahkur.specr.net/) - Blindfolded Chess Practice
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Learn / Practice Chess
-* [⁠Blitz Tactics](https://blitztactics.com/) - Fast-Paced Chess Puzzle Training
-* [⁠ChessMD](https://chessmd.org/) - Chess Training / Match Analysis / [GitHub](https://github.com/ChessMD/ChessMD)
-* [Chess Monitor](https://www.chessmonitor.com/) - Aggregate Lichess and Chess.com Match History
+* [ChessLab](https://chesslab.me/) - Learning Community / [Discord](https://discord.com/invite/AA5G5f9wKC)
 * [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
-* [⁠Chess OCR](https://helpman.komtera.lt/chessocr/) - Multi-Site Digital Chessboard Analysis
-* [⁠Shâh Kur](https://shahkur.specr.net/) - Blindfolded Chess Practice
-* [Pawn Appétit](https://github.com/ChessKitchen/pawn-appetit) - Engine Analysis
-* [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/), [⁠Chess Analysis](https://chess-analysis.org/) / [Discord](https://discord.gg/hvrEXhX8qA) or [Chesskit](https://chesskit.org/) / [Discord](https://discord.com/invite/Yr99abAcUr) / [GitHub](https://github.com/GuillaumeSD/Chesskit) - Lightweight Web Engine Analysis
-* [YottaChess](https://www.yottachess.com/) - Professional Player Database
-* [OpeningTree](https://www.openingtree.com/) - Import Lichess and Chess.com Analysis
-* [⁠ChessBlunders](https://chessblunders.org/) - Analyze Chess Mistakes
-* [Chess Vision](https://chessvision.ai/) - Import Images Into Chess Engine
-* [⁠Tactic or Not](https://tacticornot.com/) - Evaluate Tactics / [Discord](https://discord.gg/2WWgsuZmag)
-* [⁠The Week In Chess](https://theweekinchess.com/) - Weekly PGN Chess Game Archives
+* [Chess Vision](https://chessvision.ai/) or [Chess OCR](https://helpman.komtera.lt/chessocr/) - Scan Chessboard Diagrams & Images Into Engine Analysis
+* [Chess Monitor](https://www.chessmonitor.com/) - Performance & Analytics Dashboard for Lichess and Chess.com
+* [WintrChess](https://wintrchess.com/), [Chesskit](https://chesskit.org/) / [GitHub](https://github.com/GuillaumeSD/Chesskit) or [Chess Analysis](https://chess-analysis.org/) / [Discord](https://discord.gg/hvrEXhX8qA) - Web Game Review & Engine Analysis
+* [ChessBlunders](https://chessblunders.org/) - Analyze Match Mistakes
+* [ChessMD](https://chessmd.org/) - Chess Training / Match Analysis / [GitHub](https://github.com/ChessMD/ChessMD)
+* [Syzygy Tables](https://syzygy-tables.info/) - 7-Piece Endgame Tablebase Explorer
+* [The Week In Chess](https://theweekinchess.com/) - Weekly PGN Chess Game Archives
+* [ChessGames](https://www.chessgames.com/) - Historic Master Games Archive & Discussion
+* [365Chess](https://www.365chess.com/) - Chess Database / Opening Explorer
 * [2700chess](https://2700chess.com/) - Live Ratings for Super Grandmasters
-* [365Chess](https://www.365chess.com/) - Chess History / Lessons
-* [ChessVariants](https://www.chessvariants.com/index/favorites.php) - Chess Variant Encyclopedia
-* [⁠Visual History of Chessmen](https://chesshistory.github.io/) - Chessmen History Guide
+* [Chess Results](https://chess-results.com/) - FIDE Tournament Results Database
+* [YottaChess](https://www.yottachess.com/) - Professional Player Database
+* [ChessBase](https://en.chessbase.com/) / [India](https://www.chessbase.in/) - Chess News, Articles & Tournaments
+* [Visual History of Chessmen](https://chesshistory.github.io/) - Chessmen History Guide
 
 ***
 
