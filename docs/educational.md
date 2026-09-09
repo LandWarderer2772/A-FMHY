@@ -158,7 +158,7 @@
 
 * 🌐 **[Physics Aviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php)** or [Falstad](https://www.falstad.com/mathphysics.html) - Physics Tools
 * ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
-* ⭐ **[Bartosz Ciechanowski](https://ciechanow.ski/)**, [Isaac Physics](https://isaacphysics.org/), [PhysicsClassroom](https://www.physicsclassroom.com/), [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/), [MotionMountain](https://www.motionmountain.net/index.html) or [Splung](https://www.splung.com/) - Physics Lessons / Learning
+* ⭐ **[Bartosz Ciechanowski](https://ciechanow.ski/)**, [Isaac Physics](https://isaacscience.org/), [PhysicsClassroom](https://www.physicsclassroom.com/), [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/), [MotionMountain](https://www.motionmountain.net/index.html) or [Splung](https://www.splung.com/) - Physics Lessons / Learning
 * ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html), [⁠simloops](https://www.simloops.com/communities) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [LibreTexts Physics](https://phys.libretexts.org/Bookshelves) - Physics Learning / Guides
 * [nLab Physics](https://ncatlab.org/nlab/show/higher+category+theory+and+physics) - Physics Encyclopedia
@@ -265,12 +265,12 @@
 * [⁠Animated Engines](https://animatedengines.com/) - Engine Animations / Explanations
 * [507 Movements](https://507movements.com/toc.html) - Mechanical Movement Animations
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
-* [VisRo Robotics](https://vis-ro.web.app) / [Discord](https://discord.com/invite/TfwZ3hH2D2) or [⁠VittaScience](https://en.vittascience.com/code) - Robotics Learning
+* [VisRo Robotics](https://robotics101-viscircuit.web.app/) / [Discord](https://discord.com/invite/TfwZ3hH2D2) or [⁠VittaScience](https://en.vittascience.com/code) - Robotics Learning
 * [⁠Humanity's Last Machine](https://www.humanityslastmachine.com/) or [Humanoid Atlas](https://www.humanoids.fyi/) / [GitHub](https://github.com/kingjulio8238/humanoid-atlas) - Humanoid Robotics Hardware & Supply Chain Analysis
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulators
 * [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
-* [Falstad](https://www.falstad.com/circuit/), [⁠Fritzing](https://gist.github.com/RyanLua/fc2457d87641bb39754278b01a647526) (linux), [SKiDL](https://devbisme.github.io/skidl/) / [GitHub](https://github.com/devbisme/skidl), [atopile](https://docs.atopile.io/atopile/quickstart), [EasyEDA](https://easyeda.com/editor) or [LibrePCB](https://librepcb.org/) - Electronic Circuit Design / Simulation Tools
+* [Falstad](https://www.falstad.com/circuit/), [⁠Fritzing](https://gist.github.com/RyanLua/fc2457d87641bb39754278b01a647526) (linux), [SKiDL](https://devbisme.github.io/skidl/) / [GitHub](https://github.com/devbisme/skidl), [atopile](https://start.atopile.io/), [EasyEDA](https://easyeda.com/editor) or [LibrePCB](https://librepcb.org/) - Electronic Circuit Design / Simulation Tools
 * [⁠The Pinouts Book](https://pinouts.org/) - Pinout Function Reference Guide
 * [Circuit Steps](https://circuitsteps.com/) - Circuit Analysis Tool
 * [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
@@ -644,7 +644,7 @@
 * [Museum of Obsolete Media](https://obsoletemedia.org/) - Physical Media Format Wiki / History
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) / [Discord](https://discord.com/invite/XPz5Zm42tR) - Operating System / Software History 
 * [Old Computer Museum](https://oldcomputers.net/) - Computer History
-* [The Retro Web](https://theretroweb.com/) - Computer Hardware History / [Discord](https://discord.gg/HWWH7hsk2p) / [GitLab](https://gitlab.com/ultimateretro/ultimateretro)
+* [The Retro Web](https://theretroweb.com/) / [Discord](https://discord.gg/HWWH7hsk2p) / [GitLab](https://gitlab.com/ultimateretro/ultimateretro) or [⁠Hardware Museum](https://hw-museum.cz/) - Computer Hardware History
 * [⁠HP Computer Museum](https://www.hpmuseum.net/) or [The HP 9845 Project](https://www.hp9845.net/) - HP Computer History
 * [Folklore](https://www.folklore.org) / [X](https://x.com/ComputerHistory) or [TheAppleWiki](https://theapplewiki.com/) / [Discord](https://discord.com/invite/zk2HggAw89) - Apple Computer History
 * [Crypto Museum](https://www.cryptomuseum.com/) - Cryptographic Machine History
@@ -1103,7 +1103,7 @@
 * [Vocatra](https://esite.ch/vocatra/), [⁠Conjuguemos](https://www.conjuguemos.com/) or [QuizFlow](https://apt.izzysoft.de/fdroid/index/apk/jdm.apps.quizflow/) - Vocabulary Trainers
 * [Verbix](https://www.verbix.com/) - Verb Conjugator
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
-* [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
+* [LingYourLanguage](https://omniglot.eu/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
 * [IPA Reader](https://ipa-reader.com/) - International Phonetic Alphabet Reader
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
 * [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
@@ -1397,7 +1397,7 @@
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [LearningSEO.io](https://learningseo.io/) or [SEO Cheat Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Learning
 * [SQL PD](https://sqlpd.com/), [SQL Noir](https://www.sqlnoir.com/), [Lost at SQL](https://lost-at-sql.therobinlord.com/) or [SQL Easy](https://www.sql-easy.com/) - SQL Learning Games
-* [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial) - PostgreSQL Tutorial
+* [PostgreSQL Tutorial](https://neon.com/postgresql/tutorial) - PostgreSQL Tutorial
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 * [LearnOpenGL](https://learnopengl.com/) - Learn OpenGL
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
@@ -1444,7 +1444,7 @@
 * [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
 * [AmigosCode](https://www.youtube.com/@amigoscode), [Java Design Patterns](https://java-design-patterns.com/), [Modern Java](https://javabook.mccue.dev/) or [learncs.online](https://www.learncs.online/) - Java / Kotlin Guides
 * [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
-* [LearnGo](https://github.com/inancgumus/learngo), [Tour Go](https://tour.go.dev/) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
+* [LearnGo](https://github.com/inancgumus/learngo), [Tour Go](https://tour.go.dev/) or [play-with-go](https://github.com/play-with-go/play-with-go) - Learn Go Programming
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [Poignant](https://poignant.guide/) or [Try Ruby](https://try.ruby-lang.org/) - Learn Ruby
 * [Learn Perl](https://www.learn-perl.org/) - Learn Perl
@@ -1492,7 +1492,7 @@
 * [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - JavaScript Query Style Events Guide
 * [Untrusted](https://untrustedgame.com/) - JavaScript Learning Game
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
-* [Pixactly](https://pixact.ly/) - Test Pixel Dimension Orientation
+* [Pixactly](https://pixactly.app/) - Test Pixel Dimension Orientation
 
 ***
 
@@ -1519,7 +1519,7 @@
 * [Gwern.net](https://gwern.net/) - Gwern Branwen Essays (AI, Psychology, & Statistics)
 * [Runestone Interactive](https://runestone.academy/) - Interactive Guides
 * [Computerphile](https://www.youtube.com/@Computerphile/) or [CSDojo](https://www.youtube.com/@CSDojo) - Computer Science YouTube Channels
-* [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - Computer Science Books
+* [ApressOpen](https://link.springer.com/brands/apress/books) - Computer Science Books
 * [Papers We Love](https://paperswelove.org/) - Computer Science Research Papers
 * [⁠System Design Academy](https://github.com/systemdesign42/system-design-academy) - Large Scale System Design Learning 
 * [CS Academy](https://csacademy.com/) - Interactive Computer Science Lessons
@@ -1642,7 +1642,7 @@
 * ⭐ **[Brackeys](https://brackeys.com/)** - Game Dev Tutorials
 * ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
 * [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges
-* [CodeWisp](https://codewisp.net/) - Interactive Beginner Game Dev Learning
+* [CodeWisp](https://codewisp.ai/) - Interactive Beginner Game Dev Learning
 * [Amit’s Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Guide
 * [GameProgramBooks](https://rentry.co/FMHYB64#gameprogrambooks) - Game Programming Books
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Dev Concepts / [Web Version](https://www.pico-8-edu.com/)
@@ -1719,7 +1719,7 @@
 * [⁠Mcelroy Tutoring](https://www.mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free) - SAT Practice Exams / Questions
 * [⁠Sat DB](https://www.satdbfor.me/) - SAT Practice Exams / Questions / Requires Sign-Up 
 * [DSATuz](https://t.me/DSATuz) - SAT Practice Exams / Questions / [Telegram](https://t.me/DSATuzchat)
-* [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams / Questions
+* [The SAT: Practice Tests](https://satsuite.collegeboard.org/practice/practice-tests) - SAT Practice Exams / Questions
 * [1600.lol](https://1600.lol/) - SAT Practice Exams / Questions
 * [⁠Bluebooky](https://bluebooky.com/) - SAT Practice Exams / Questions / Signup Required 
 * [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
@@ -1788,7 +1788,7 @@
 * [⁠StudyKit](https://studytoolkit.vercel.app/) - Online Study Tools
 * [⁠Studyn](https://studyn.org/) - Discord Bot w/ Study Tracking, Stats, Anki Integration and more
 * [⁠Paper Trails](https://www.papertrailshq.com/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Academic Article / Paper Trackers
-* [Co-STORM](https://storm.genie.stanford.edu/) or [SciArena](https://sciarena.allen.ai/) - Generate Scientific Articles
+* [Co-STORM](https://storm.genie.stanford.edu/) - Generate Scientific Articles
 * [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
 * [Inciteful](https://inciteful.xyz/) - Find Connected Literature via Citations

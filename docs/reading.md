@@ -236,10 +236,10 @@
 * [⁠Light Novel World](https://lightnovelworld.org/) - Online Reading
 * [Wuxia World](https://wuxiaworld.site/) - Online Reading
 * [Ranobes](https://ranobes.top/) - Online Reading
-* [NovelBuddy](https://novelbuddy.io/), [2](https://novelbuddy.com/) - Online Reading
+* [NovelBuddy](https://novelbuddy.me/) - Online Reading
 * [ReadNovelFull](https://readnovelfull.com) - Online Reading
 * [Just Light Novels](https://www.justlightnovels.com/) - Downloads
-* [LightNovelHeaven](https://lightnovelheaven.com), [AllNovel](https://allnovel.org), [NovelFull](https://novelfull.com/) or [NOVGO](https://novgo.net/) - Online Reading
+* [LightNovelHeaven](https://lightnovelheaven.com), [AllNovel](https://novelfull.com/), [NovelFull](https://novelfull.com/) or [NOVGO](https://novgo.net/) - Online Reading
 * [NovelGo](https://novelgo.id) - Online Reading
 * [Armaell's Library](https://armaell-library.net/) - Downloads
 * [Baka-Tsuki](https://www.baka-tsuki.org) - Online Reading
@@ -382,7 +382,7 @@
 
 ## ▷ Comics
 
-* ⭐ **[BatCave](https://batcave.biz/)** - May Require VPN
+* ⭐ **[BatCave](https://batcave.biz/)** - May Require VPN / [Telegram](https://t.me/+0Fcqxn4BK4Q1NzM1)
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics / [Bulk Downloader](https://github.com/moistfella/comic-book-downloader)
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Webcomics
@@ -431,7 +431,7 @@
 * ⭐ **[MangaFire](https://mangafire.to/)** / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * ⭐ **[Atsumaru](https://atsu.moe/)** / [Discord](https://discord.gg/Tj4QmEF4uV)
 * ⭐ **[⁠Comix](https://comix.to/)**, [2](https://comix.ws/) / [Subreddit](https://reddit.com/r/comix) / [Discord](https://discord.com/invite/kZgWWHUj22)
-* ⭐ **[MangaDotNet](https://mangadot.net/)** / [Discord](https://discord.com/invite/XCdaT6tyy8)
+* ⭐ **[MangaDotNet](https://mangadot.net/)** / [Matrix](https://fuckdm.ca/)
 * ⭐ **[⁠OniSaga](https://onisaga.com/)**
 * ⭐ **[MangaDex](https://mangadex.org/)** - Account Required / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl) / [Subreddit](https://www.reddit.com/r/mangadex/) / [Discord](https://discord.gg/mangadex)
 * ⭐ **[MangaNato](https://www.manganato.gg/)**, [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
@@ -449,14 +449,13 @@
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
-* [Like Manga](https://likemanga.in/)
+* [Like Manga](https://likemanga.ink/)
 * [Scans.gg](https://scans.gg/changelog) / Some NSFW / [Discord](https://discord.gg/cYFgYu66rx)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [⁠Mgeko](https://www.mgeko.cc/) - Manhwa / Manhua
 * [Webtoon](https://www.webtoons.com/) - Manhwa / [Discord](https://discord.com/invite/webtoonofficial)
 * [Toonily](https://toonily.com/) - Manhwa / Some NSFW
-* [ManhwaClan](https://manhwaclan.com/) - Manhwa
 * [⁠AquaReader](https://aquareader.net/) - Manhua
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) - Madokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
@@ -516,7 +515,7 @@
 * [Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
 * [Taleem360](https://www.taleem360.com/)
-* [LibreTexts](https://commons.libretexts.org), [2](https://libretexts.org/platforms/libraries/), [3](https://libretexts.org/)
+* [LibreTexts](https://commons.libretexts.org), [2](https://libretexts.org/libreverse), [3](https://libretexts.org/)
 * [PDFBooksWorld](https://www.pdfbooksworld.com/)
 * [Monoskop](https://monoskop.org/log/)
 * [LibertyFund](https://oll.libertyfund.org/)
@@ -704,7 +703,7 @@
 * [Caltech Library](https://authors.library.caltech.edu/) - Research Papers
 * [SciAlert](https://scialert.net/) - Research Papers
 * [Springer](https://www.springer.com/) - Research Papers
-* [Biomed Central](https://www.biomedcentral.com/) - Research Papers
+* [Biomed Central](https://link.springer.com/brands/bmc) - Research Papers
 * [Zenodo](https://zenodo.org/) - Research Papers
 * [OA.mg](https://oa.mg/) - Research Papers
 * [re3data](https://www.re3data.org/) - Research Data
@@ -715,7 +714,7 @@
 * [⁠Pidantuan](https://www.pidantuan.com/) - Scientific Paper Sharing Community / Requires Sign-Up
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Computer Vision Research Papers
 * [IDEAS](https://ideas.repec.org/) or [RePEc](http://repec.org/) - Economic Research Papers
-* [PsyArXiv](https://psyarxiv.com/) - Psychology Research Papers
+* [PsyArXiv](https://osf.io/preprints/psyarxiv) - Psychology Research Papers
 * [SocArXiv](https://osf.io/preprints/socarxiv) - Social Science Research Papers
 * [Open Knowledge Maps](https://openknowledgemaps.org/) - Research Papers
 * [Internet Archive Scholar](https://scholar.archive.org/) - Research Papers

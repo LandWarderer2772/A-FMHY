@@ -17,7 +17,7 @@
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Steam Hover](https://greasyfork.org/scripts/580613) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (Sign-Up) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
-* ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
+* ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/SgQtSr9dqT)
 * ⭐ **[⁠GOG Revived](https://gog-rev.com/)** - Download / Torrent / GOG Games Only / [Discord](https://discord.gg/pH6avrdHHC)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
@@ -297,7 +297,7 @@
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [TOSEC](https://rentry.co/FMHYB64#tosec) - The Old School Emulation Center
 * [CloudRetro](https://cloudretro.io/) - Cloud Gaming Service for Emulators / [GitHub](https://github.com/giongto35/cloud-game)
-* [Two-Torial](https://two-torial.maimaidxprism.plus/) - Arcade Game Emulation Guides
+* [Two-Torial](https://re-two-torial.xyz/) - Arcade Game Emulation Guides
 * [⁠EmulationRevival](https://emulationrevival.github.io/) - Xbox Series Emulation Guide
 * [Emulation Collective](https://discord.com/invite/7pcAbZzpXj) - Xbox One/Series X|S UWP Emulation Discord
 * [MouseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck) - Add Mouse Support to Emulators
@@ -400,7 +400,7 @@
 * ⭐ **[NesFiles](https://www.nesfiles.com/)** or [FC Gallery](https://fcpic.nesbbs.com/index_en.html) - ROMs / NES / Famicom
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Game Boy
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
-* [NSWGame](https://nswgame.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
+* [NSWGame](https://nswgf.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch / [Telegram](https://t.me/GameCentrala) / [Discord](https://discord.com/invite/MmTjxwYvG9)
 * [NXbrew](https://nxbrew.net/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch / Requires Telegram
@@ -537,7 +537,7 @@
 * [The Cube](https://bsehovac.github.io/the-cube/) - Multi-Size Cube Simulator
 * [FT Cube](https://shuantsu.github.io/ft_cube/) - Multi-Size Simulator & Net Generator
 * [RubiksCu.be](https://rubikscu.be/solver/) - 3x3 Cube Solver
-* [Rubik's Cube Solver](https://rubiks-cube-solver.com/) - 3x3 Cube Solver
+* [Rubik's Cube Solver](https://ruwix.com/cube-solver/) - 3x3 Cube Solver
 
 ***
 
@@ -646,7 +646,7 @@
 * 🌐 **[ChessVariants](https://www.chessvariants.com/index/favorites.php)** - Chess Variant Encyclopedia
 * ↪️ **[Chess Learning / Practice](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
 * ⭐ **[Lichess](https://lichess.org/)** - Chess Platform / [Discord](https://discord.com/invite/lichess) / [GitHub](https://github.com/lichess-org)
-* ⭐ **Lichess Tools** - [Mobile Apps](https://lichess.org/mobile) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extra Functionality](https://lichess.org/page/extend) / [Game Database](https://database.lichess.org/)
+* ⭐ **Lichess Tools** - [Mobile Apps](https://lichess.org/app) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extra Functionality](https://lichess.org/page/extend) / [Game Database](https://database.lichess.org/)
 * ⭐ **[PyChess](https://www.pychess.org/)** - Chess Platform / [Discord](https://discord.gg/aPs8RKr) / [GitHub](https://github.com/gbtami/pychess-variants)
 * [Chess.com](https://www.chess.com/) - Chess Platform / [Discord](https://discord.gg/3VbUQME)
 * [GameKnot](https://gameknot.com/) - Chess Platform
@@ -815,7 +815,7 @@
 * [watabou](https://watabou.itch.io/), [2](https://watabou.github.io/) - Indie Games / In-House Dev Team
 * [DAN-BALL](https://dan-ball.jp/en/) - Indie Games / In-House Dev Team
 * [⁠Games by Will](https://games-by-will.com/) - Indie Games / In-House Dev Team
-* [Modd.io](https://www.modd.io/) - Indie Games / Community Developed
+* [indie.fu](https://indie.fun/) - Indie Games / Community Developed
 * [Kindanice](https://kindanice.itch.io/) - Indie Games / itch.io Developer
 * [Graeme Borland](https://graebor.itch.io/) - Indie Games / itch.io Developer
 * [Jezzamon](https://jezzamon.itch.io/) - Indie Games / itch.io Developer

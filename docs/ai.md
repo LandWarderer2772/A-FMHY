@@ -61,7 +61,6 @@
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx), [NeverWrite](https://neverwrite.app/) / [GitHub](https://github.com/jsgrrchg/NeverWrite), [Toolbaz](https://toolbaz.com/) / [2](https://app.toolbaz.com/ai-tools/list) or [Rytr](https://rytr.me/) - AI Creative Writing Tools
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [Arena](https://arena.ai/?mode=direct&chat-modality=search), [2](https://canaryarena.ai/search/direct) - AI Search Engine / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [⁠iAsk AI](https://iask.ai/) - Research Chatbot
 * [⁠Exa](https://exa.ai/search) - AI Search Engine
 * [Alphaxiv](https://www.alphaxiv.org/) - Research Chatbot
 * [Vane](https://github.com/ItzCrazyKns/Vane) - FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
@@ -91,7 +90,7 @@
 * ⭐ **[⁠Unsloth](https://unsloth.ai/)** - Desktop App / Self-Hosted / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * [GobboNet](https://goblincorps.com/gobbonet) - Desktop App / [GitHub](https://github.com/ElodineOfficial/gobbonet)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)
-* [Msty](https://msty.app/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
+* [Msty](https://msty.ai/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
 * [⁠Locally Uncensored](https://locallyuncensored.com/) - Desktop App
 * [⁠Lemonade](https://lemonade-server.ai/) - Desktop App / [Discord](https://discord.gg/5xXzkMu8Zk) / [GitHub](https://github.com/lemonade-sdk/lemonade)
 * [Chatbox](https://chatboxai.app/) - Desktop App / [GitHub](https://github.com/chatboxai/chatbox)
@@ -220,7 +219,7 @@
 ## ▷ Local Frontends
 
 * ⭐ **[Stability Matrix](https://lykos.ai/)** / [Discord](https://discord.com/invite/TUrgfECxHz) / [GitHub](https://github.com/LykosAI/StabilityMatrix)
-* ⭐ **[Invoke](https://invoke-ai.github.io/InvokeAI/)** / [Discord](https://discord.com/invite/ZmtBAhwWhy) / [GitHub](https://github.com/invoke-ai/InvokeAI)
+* ⭐ **[Invoke](https://invoke.ai/)** / [Discord](https://discord.com/invite/ZmtBAhwWhy) / [GitHub](https://github.com/invoke-ai/InvokeAI)
 * ⭐ **[ComfyUI](https://www.comfy.org/)** / [Subreddit](https://www.reddit.com/r/comfyui/) / [Discord](https://discord.gg/comfyorg) / [GitHub](https://github.com/comfyanonymous/ComfyUI)
 * ⭐ **[Fooocus](https://github.com/lllyasviel/Fooocus)**, [2](https://github.com/MoonRide303/Fooocus-MRE) / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb)
 * ⭐ **[⁠Unsloth](https://unsloth.ai/)** / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
@@ -295,7 +294,6 @@
 * [Google Speech Gen](https://aistudio.google.com/generate-speech)
 * [TTS-WebUI](https://ttswebui.com/) / No Sign-Up / [Colab](https://colab.research.google.com/github/rsxdalv/tts-webui/blob/main/notebooks/google_colab.ipynb) / [Discord](https://discord.gg/V8BKTVRtJ9) / [GitHub](https://github.com/rsxdalv/TTS-WebUI)
 * [FakeYou](https://fakeyou.com/) / No Sign-Up / [Discord](https://discord.gg/fakeyou)
-* [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) / No Sign-Up
 * [Bark](https://github.com/suno-ai/bark) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing) / [Discord](https://discord.com/invite/J2B2vsjKuE) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [OpenAI.fm](https://www.openai.fm/) / No Sign-Up / OpenAI's Bot
 * [⁠GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) / No Sign-Up
@@ -401,7 +399,7 @@
 * 🌐 **[L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)** - Jailbreak Prompts / [X](https://x.com/elder_plinius) / [Discord](https://discord.gg/basi)
 * ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
-* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [Google Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering), [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering), [LearnPrompting](https://learnprompting.org/docs/introduction), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering) or [Claude Prompts](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview) / [Discord](https://discord.com/invite/6PPFFzqPDZ) - Prompting Guides
+* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [Google Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering), [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering), [LearnPrompting](https://learnprompting.org/docs/introduction), [OpenAI Guide](https://developers.openai.com/api/docs/guides/prompt-engineering) or [Claude Prompts](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) / [Discord](https://discord.com/invite/6PPFFzqPDZ) - Prompting Guides
 * [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - Prompt Directory
 * [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) - Prompt Directory
 * [Jailbreak Listings](https://rentry.org/jb-listing) or [⁠Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - Prompt Directories / Jailbreaks

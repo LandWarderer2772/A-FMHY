@@ -154,7 +154,7 @@
 * ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** / Windows / [GitHub](https://sabrogden.github.io/Ditto/)
 * [PasteBar](https://www.pastebar.app/) / Windows, macOS / [GitHub](https://github.com/PasteBar/PasteBarApp)
 * [CrossPaste](https://crosspaste.com/) / Windows, macOS, Linux / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
-* [UniClipboard](https://www.uniclipboard.app/) - Windows, macOS, Linux, Android, iOS / [GitHub](https://github.com/UniClipboard/UniClipboard)
+* [UniClipboard](https://www.uniclipboard.app/) / Windows, macOS, Linux, Android, iOS / [GitHub](https://github.com/UniClipboard/UniClipboard)
 * [ArsClip](https://www.joejoesoft.com/vcms/97/) / Windows
 * [ClipAngel](https://sourceforge.net/projects/clip-angel/) / Windows
 * [CopyQ](https://hluk.github.io/CopyQ/) / Windows, macOS, Linux / [GitHub](https://github.com/hluk/CopyQ) - Clipboard Manager with Editing and Scripting Features
@@ -288,7 +288,7 @@
 * ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb) or [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) - Auto-Adjust Display Color / Temperature
 * ⭐ **[Monitorian](https://github.com/emoacht/Monitorian)**, **[Twinkle Tray](https://twinkletray.com/)** / [GitHub](https://github.com/xanderfrangos/twinkle-tray) or [Dimmer](https://www.nelsonpires.com/software/dimmer) - Adjust Monitor Brightness
-* [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
+* [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://displaytech.org/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
 * [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
 * [Scalizer](https://github.com/wonmor/Scalizer-Windows) - Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)

@@ -25,7 +25,7 @@
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
 * [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites
-* [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
+* [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://openpagerank.keywordseverywhere.com/top-10-million-domains) or [CuteStat](https://www.cutestat.com/) - Site Rankings
 * [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [⁠JustIndex](https://justindex.cc/) - Site Index / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust/)
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
@@ -294,7 +294,7 @@
 * [r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
 * [r/Farming](https://reddit.com/r/farming/) - Farming Community
 * [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
-* [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
+* [Composting](https://eartheasy.com/blogs/grow/composting) - Composting Guides
 * [Modern Farmer](https://modernfarmer.com/) - Agricultural News
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
 * [World Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plantmaps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
@@ -307,7 +307,7 @@
 
 * 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
 * [Startmycar](https://www.startmycar.com), [CarCareKiosk](https://www.carcarekiosk.com/) or [CarComplaints](https://www.carcomplaints.com/) - Car Repair Sites
-* [JDMFSM](https://jdmfsm.info/Auto/), [LEMON Manuals](https://lemon-manuals.la/), [Charm](https://charm.li/), [CarPDFManual](https://www.carpdfmanual.com/), [iFitIt Vehicle](https://www.ifixit.com/Device/Car_and_Truck) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
+* [JDMFSM](https://jdmfsm.info/Auto/), [LEMON Manuals](https://lemon-manuals.la/), [Charm](https://charm.land/), [CarPDFManual](https://www.carpdfmanual.com/), [iFitIt Vehicle](https://www.ifixit.com/Device/Car_and_Truck) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
 * [⁠Auto Catalog Archive](https://autocatalogarchive.com/) - Vehicle Brochures
@@ -521,7 +521,7 @@
 * [OCEARCH](https://www.ocearch.org/tracker/) - Shark Tracker
 * [MarineTraffic](https://www.marinetraffic.com/), [CruiseMapper](https://www.cruisemapper.com/) or [MyShipTracking](https://www.myshiptracking.com/) - Live Ship Trackers
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
-* [Global Forest Watch](https://www.globalforestwatch.org/map/) - Interactive Forest & Tree Cover Map
+* [Global Forest Watch](https://globalnaturewatch.org/map/) - Interactive Forest & Tree Cover Map
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sounds Map
 * [Aporee](https://aporee.org/maps/) - World Map of Sounds
 * [ExoRoad](https://www.exoroad.com/) - Find Places to Live via Description
@@ -646,7 +646,6 @@
 * [⁠NCS](https://www.newscaststudio.com/) - Television Broadcast Network News
 * [⁠Podnews](https://podnews.net/) - Podcast News 
 * [Web3 Is Going Great](https://www.web3isgoinggreat.com/) - Web3 Disaster News
-* [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [POTUS Tracker](https://potustracker.us/) or [GovData](https://www.govactionlist.com/) - Government Executive Orders, Location & more
 * [Aviation Safety Network](https://aviation-safety.net/) / [X](https://x.com/flightsafety), [PlaneCrashInfo](https://www.planecrashinfo.com/) or [AVHerald](https://avherald.com/) - Aviation Accidents / News
 * [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
@@ -982,7 +981,7 @@
 * [CareerVault](https://careervault.io/) - Remote Jobs
 * [NoDesk](https://nodesk.co/) - Remote Jobs
 * [Remote OK](https://remoteok.com/) - Remote Jobs
-* [JobsCollider](https://jobscollider.com/) - Remote Jobs
+* [JobsCollider](https://remotefirstjobs.com/) - Remote Jobs
 * [Dynamite Jobs](https://dynamitejobs.com/) - Remote Jobs
 * [Working Nomads](https://www.workingnomads.com/jobs) - Remote Jobs
 * [Remotive](https://remotive.com/) - Remote Jobs
@@ -1007,7 +1006,7 @@
 * [Dribbble](https://dribbble.com/) - Designer Jobs
 * [r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
 * [Best PM Jobs](https://www.bestpmjobs.com/) - Tech Firm Night Jobs
-* [JS Remotely](https://jsremotely.com/) - Find Remote JavaScript Jobs
+* [JS Remotely](https://javascript.jobs/) - Find Remote JavaScript Jobs
 * [larajobs](https://larajobs.com/) - Find Laravel Jobs
 * [Python Job Board](https://www.python.org/jobs/) - Find Python Jobs
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
@@ -1042,7 +1041,7 @@
 * [Atlassian](https://www.atlassian.com/) - Collaboration Platform
 * [Twake](https://twake.app/) - Collaboration Platform / [GitHub](https://github.com/linagora/twake-drive)
 * [Mattermost](https://mattermost.com/) - Self-Hosted Collaboration Platform / [GitHub](https://github.com/mattermost/mattermost)
-* [LucidSpark](https://lucidspark.com/), [Creately](https://creately.com/) or [Miro](https://miro.com/) - Idea / Collaboration Whiteboards
+* [LucidSpark](https://lucid.co/lucidspark), [Creately](https://creately.com/) or [Miro](https://miro.com/) - Idea / Collaboration Whiteboards
 * [ScreenRec](https://screenrec.com/) - Screen Recording for Collaboration
 * [Zulip](https://zulip.com/) - Team Chat / [GitHub](https://github.com/zulip/zulip/)
 * [Freedcamp](https://freedcamp.com/) - Project / Task Organization
@@ -1449,7 +1448,7 @@
 * ↪️ **[To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_to-do_apps)**
 * ⭐ **[Cal.com](https://cal.com/)** - Business / Work Schedule Calendar / [GitHub](https://github.com/calcom/cal.com)
 * ⭐ **[LettuceMeet](https://lettucemeet.com)**, [Star Fit](https://starbestfit.com/), [Samay](https://samay.app/), [Pick Time](https://pick-time.io/), [Event Rallly](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Groop](https://joingroop.com/), [Cally](https://cally.com/), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Planning / Schedule Voting
-* [Luma](https://lu.ma/), [⁠Heylo](https://www.heylo.com/), [⁠Eventbrite](https://www.eventbrite.com/) or [Meetup](https://www.meetup.com/) - Search or Post Local Events
+* [Luma](https://luma.com/), [⁠Heylo](https://www.heylo.com/), [⁠Eventbrite](https://www.eventbrite.com/) or [Meetup](https://www.meetup.com/) - Search or Post Local Events
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [⁠zcal](https://zcal.co/) - Scheduling / Meeting Tool
 * [Proton Calendar](https://proton.me/calendar) - Calendar / [Discord](https://discord.com/invite/proton)

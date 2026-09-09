@@ -34,7 +34,6 @@
 * [Paint.net](https://www.getpaint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
 * [Gimel Studio](https://gimelstudio.com/) / Windows / [GitHub](https://github.com/GimelStudio/GimelStudio)
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, macOS, Linux
-* [IOPaint](https://github.com/Sanster/IOPaint) - AI Image Multitool Editor
   
 ***
 
@@ -72,7 +71,7 @@
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover
 * [remove.bg](https://www.remove.bg/) - Background Remover / [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
 * [Rembg](https://github.com/danielgatis/rembg) - Self-Hosted Background Remover
-* [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation / [GUI](https://github.com/dibrale/samist) / [Stable Diffusion WebUI](https://github.com/continue-revolution/sd-webui-segment-anything) / [Extensions](https://github.com/kevmo314/magic-copy)
+* [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation
 
 ***
 
@@ -142,7 +141,7 @@
 * ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, macOS, Linux, Android / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Docs](https://docs.krita.org/en/) / [GitHub](https://github.com/KDE/krita)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting / Web / [GitHub](https://github.com/viliusle/miniPaint)
 * ⭐ **[Pinta](https://www.pinta-project.com/)** - Painting App / Windows, macOS, Linux / [GitHub](https://github.com/PintaProject/Pinta)
-* [Magma](https://magma.com/), [⁠MagicalDraw](https://draw.kuku.lu/) or [malmal](https://malmal.io/) - Collaborative Drawing / Web
+* [Magma](https://magma.com/), [⁠MagicalDraw](https://draw.kuku.lu/) or [malmal](https://malmal.app/) - Collaborative Drawing / Web
 * [DrawPile](https://drawpile.net/) - Collaborative Drawing / Windows, macOS, Linux, Android, Web
 * [SmoothDraw](https://qrli.github.io/smoothdraw/) - Painting App / Windows
 * [⁠Wigglypaint](https://beyondloom.com/tools/wigglypaint.html) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes / Web
@@ -227,7 +226,7 @@
 * [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [GIFVibe](https://gifvibe.com/), [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs
 * [⁠AnimGifMoji](https://www.animgifmoji.com/) - GIF to Emoji Converter
 * [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
-* [ScreenToGif](https://www.screentogif.com/) - GIF Recorder / Windows / [GitHub](https://github.com/NickeManarin/ScreenToGif)
+* [ScreenToGif](https://nicke.tech/screentogif) - GIF Recorder / Windows / [GitHub](https://github.com/NickeManarin/ScreenToGif)
 * [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts / Windows, macOS, Linux / [GitHub](https://github.com/justinfrankel/licecap)
 * [ugiffer](https://iobureau.com/ugiffer/) - Create GIFs via Screencasts / Windows
 * [Ultimate 88x31 Generator](https://pixelwolf.net/PWapps/88x31/), [blinkies.cafe](https://blinkies.cafe/) / [GitHub](https://github.com/piconaut/blinkies.cafe) or [⁠88x31px Button Generator](https://88x31.datakra.sh/) - Create Retro Blinkie GIFs / 88x31 Badges
@@ -554,7 +553,7 @@
 * [⁠McMaster](https://www.mcmaster.com/) or [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models / 3D Printable Hardware Parts + Tools
 * [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
 * [BlenderKit](https://www.blendkit.com/) - 3D Model Library Integrated into Blender
-* [⁠Gridfinity](https://gridfinity.xyz/), [⁠Multiboard](https://www.multiboard.io/), [⁠openGrid](https://www.opengrid.world/) or [Jerrari Design](https://www.jerrari3d.com/) - 3D Storage Systems
+* [⁠Gridfinity](https://gridfinity.xyz/), [⁠Multiboard](https://multibuild.io/), [⁠openGrid](https://www.opengrid.world/) or [Jerrari Design](https://www.jerrari3d.com/) - 3D Storage Systems
 * [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
 * [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
 * [Vertex](https://vertex.im/) - 3D Icons
@@ -570,7 +569,7 @@
 * ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app/), [GitHub](https://github.com/agmmnn/awesome-blender) / [Extensions](https://extensions.blender.org/) / [Communities](https://www.blender.org/community/) / [Addons](https://t.me/BlenderUniverse/3) / [Plugins](https://t.me/blenderplugs) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
 * ⭐ **[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - All-in-one Minecraft Blender Addon / [Discord](https://discord.com/invite/mb8hBUC) / [GitHub](https://github.com/Moo-Ack-Productions/MCprep)
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects Based on Text / Image Prompts
-* [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [Hugging Face](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
+* [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [Hugging Face](https://huggingface.co/spaces/trellis-community/TRELLIS) - AI 3D Model Generators
 * [VFXmed](https://www.vfxmed.com/) - Blender Addons
 * [Wings 3D](https://www.wings3d.com/) - Cross-Platform 3D Modeling App / [GitHub](https://github.com/dgud/wings)
 * [⁠Dust3D](https://dust3d.org/) - Cross-Platform 3D Modeling App / [GitHub](https://github.com/huxingyi/dust3d)
@@ -703,7 +702,7 @@
 * [Knvrt](https://www.knvrt.one/)
 * [Convertmyimage](https://convert-my-image.com/)
 * [ImageConvert](https://imageconvert.org/)
-* [imverter](https://www.imverter.com/)
+* [imverter](https://online.reaconverter.com/)
 * [Raw Pics](https://raw.pics.io/)
 * [Converseen](https://converseen.fasterland.net/)
 

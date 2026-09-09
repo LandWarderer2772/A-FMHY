@@ -109,10 +109,10 @@
 * [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://legacy.borderlessgam.ing/) / [Discord](https://discord.gg/8UvpR5UgX3) / [GitHub](https://github.com/andrewmd5/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games / Windows
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window / Windows
 * [WSGF](https://www.wsgf.org/) - Widescreen Gaming Community / Solutions
-* [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes / Windows
+* [Widescreen Fixes Pack](https://fusionfix.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes / Windows
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control / Windows
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper / Windows
-* [4GB Patch](https://ntcore.com/?page_id=371) - Patch x86 executables to use 4GB / Windows
+* [4GB Patch](https://ntcore.com/4gb-patch/) - Patch x86 executables to use 4GB / Windows
 
 ***
 
@@ -792,7 +792,7 @@
 * 🌐 **[TMC Links](https://gist.github.com/JoakimThorsen/e90bd7a588af25ae529530987d9acc8a)** - Technical Minecraft Resources
 * 🌐 **[Minecraft Speedrunning](https://www.minecraftspeedrunning.com/)** - Minecraft Speedrunning Resources
 * ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler / [Discord](https://discord.com/invite/PAGT2fu) / [GitHub](https://github.com/lucko/spark)
-* ⭐ **[Minecraft Java Flags](https://unascribed.com/garden/jvm-args/)** - Java Edition Performance Tweaks
+* ⭐ **[Minecraft Java Flags](https://exa.y2k.diy/garden/jvm-args/)** - Java Edition Performance Tweaks
 * ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia / [Discord](https://discord.com/invite/RUEVmTahYg)
 * [MCTools](https://mc-tools.net/) - Minecraft Creator Tools
 * [Report Inspector](https://misode.github.io/report/) or [mclo.gs](https://mclo.gs/) / [GitHub](https://github.com/aternosorg/mclogs-integration) - Logs Inspecting & Sharing
@@ -1112,7 +1112,7 @@
 * [xer](https://xer.fr/mkw) - MKWii Item Probabilities
 * [MK8DX Prob](https://japan-mk.blog.jp/mk8dx/note4/prob.html) - MK8DX Item Probabilities
 * Tockdom Wikis - [MKWii](https://wiki.tockdom.com/wiki/Main_Page) / [MK8](https://mk8.tockdom.com/) / [MK3DS](https://mk3ds.com/) / [MKDS](https://wiki.dshack.org/) / [MKDD](https://mkdd.org/) - Custom Mario Kart Wikis / [Discord](https://discord.gg/pppFCpWtFJ)
-* [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How to Make Custom MKWii Tracks
+* [Custom Track Tutorial](https://mkwiiki.org/wiki/Custom_Track_Tutorial) - How to Make Custom MKWii Tracks
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKWii Textures
 * [ShortCat](https://shortcat.pro/) - MK8DX Strategy Guide
 * [Wiicompiled](https://github.com/patchzyy/wiicompiled) - MKW Recompilation w/ Unlocked Framerate / Can Be Install via Wheel Wizard

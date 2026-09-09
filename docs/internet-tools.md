@@ -149,7 +149,7 @@
 * [ZapQR](https://zapqr.net/en) - Generator / Customizable
 * [⁠FreeQRApp](https://freeqrapp.com/) - Generator / Customizable
 * [2QR](https://2qr.info/) - Generator
-* [barcodrod.io](https://barcodrod.io/) - Scanner / Windows / [GitHub](https://github.com/MarkHopper24/barcodrod.io)
+* [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io) - Scanner / Windows
 * [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) - Scanner / Android
 * [Binary Eye](https://github.com/markusfisch/BinaryEye) - Scanner / Android
 * [QR Code Scanner](https://qrcodescan.in/) - Scanner / Web
@@ -484,7 +484,7 @@
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
-* [NiceMail](https://nicemail.cc/) - Forever / 1 Day / 3 Domains
+* [NiceMail](https://mailporary.com/) - Forever / 1 Day / 3 Domains
 * [⁠Temporary Mail](https://mail.sunls.de/) - 10 Days / 3 Domains / [GitHub](https://github.com/sunls24/tmail/blob/main/README-en.md)
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 * [⁠DropMail](https://dropmail.me/) - 17 Domains
@@ -891,7 +891,7 @@
 ## ▷ Web Scraping / Crawling
 
 * 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** or **[Web Scraping FYI](https://webscraping.fyi/)** - Web Scraping Tools / Resources
-* [⁠FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) or [⁠Trawl](https://github.com/germondai/trawl) - Challenge-Solving Proxies
+* [⁠FlareSolverr](https://github.com/FlareSolverr/FlareSolverr), [Byparr](https://github.com/ThePhaseless/Byparr) or [⁠Trawl](https://github.com/germondai/trawl) - Challenge-Solving Proxies
 * [SpiderSuite](https://spidersuite.io/) - Advanced Web Crawler / [GitHub](https://github.com/spidersuite/SpiderSuite)
 * [Heritrix](https://heritrix.readthedocs.io/) - Internet Archive's Web Crawler / [GitHub](https://github.com/internetarchive/heritrix3)
 * [80legs](https://80legs.com/) - Cloud-Based

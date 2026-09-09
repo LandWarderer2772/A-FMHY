@@ -45,7 +45,7 @@
 ## ▷ Archiving / Compression
 
 * 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
-* ⭐ **[NanaZip](https://nanazip.org/)** / [GitHub](https://github.com/M2Team/NanaZip) or **[7-Zip](https://www.7-zip.org/)** - File Archiver
+* ⭐ **[NanaZip](https://nanazip.org/)** / [GitHub](https://github.com/M2Team/NanaZip) or **[7-Zip](https://www.7-zip.org/)** / [GitHub](https://github.com/ip7z/7zip) - File Archiver
 * ⭐ **[PeaZip](https://peazip.github.io/)** - Cross-Platform File Archiver / [GitHub](https://github.com/peazip/PeaZip/)
 * ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** - Transparent Compression
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
@@ -239,8 +239,7 @@
 * [BreezePDF](https://breezepdf.com/) - Client-Side
 * [⁠itinypdf](https://itinypdf.com/) - Client-Side
 * [⁠PDFKing](https://pdfking.app/) - Client-Side / [Discord](https://discord.gg/TdQeMGz3A)
-* [PDFClear](https://www.pdfclear.com/) - Client-Side
-* [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
+* [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side / [Codeberg](https://codeberg.org/ladigitale/digipdf)
 * [Sejda](https://www.sejda.com/) - Server-Side
 * [ILovePDF](https://www.ilovepdf.com/) - Server-Side
 * [⁠PDFResizer](https://pdfresizer.com/) - Server-Side
@@ -371,7 +370,7 @@
 * [UploadNow](https://uploadnow.io/) - 100GB / 7 Days After Last Download
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
-* [⁠Dfiles](https://dfiles.com/) - 10GB / 90 Days
+* [Depositfiles](https://depositfiles.com/) - 10GB / 90 Days
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days / **Use uBlock**
 * [⁠TheUserCloud](https://theuser.cloud/) - 10GB / 60 Days
 * [Hexupload](https://hexload.com/) - 15GB / 30 Days

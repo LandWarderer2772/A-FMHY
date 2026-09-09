@@ -32,11 +32,11 @@
 * ⭐ **[PrivateBin](https://privatebin.net/)**, **[Paste.to](https://paste.to/)**, [NoteBin](https://notebin.de/), [TxtBin](https://txtbin.org/) or [⁠ZeroBin](https://www.zerobin.net/) - Markdown Support / Syntax Highlighting / [Instances](https://privatebin.info/directory) / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[GitHub Gists](https://gist.github.com/)** or [GitLab Snippets](https://docs.gitlab.com/user/snippets/) - Multi-Syntax / Requires Sign-Up
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / Custom URLs / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
-* ⭐ **[Fluffle](https://fluffle.cc/)** - Markdown Support / Custom URLs / [Styling](https://fluffle.cc/docs/markdown) / [Source Code](https://git.0x8e.net/t/fluffle)
+* ⭐ **[Fluffle](https://fluffle.cc/)** - Markdown Support / Custom URLs / [Styling](https://fluffle.cc/docs/markdown) / [Source Code](https://git.0x8e.net/t/fluffle) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/fluffle-note.md)
 * ⭐ **[Yasosu](https://yaso.su/)** - Multi-Syntax / Markdown Support / Custom URLs / [Telegram](https://t.me/yaso_updates)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * [Text.is](https://text.is/) - Markdown Support
-* [Bpaste](https://bpa.st/), [2](https://bpaste.net/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/supakeen/pinnwand)
+* [Bpaste](https://bpa.st/), [2](https://bpa.st/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/supakeen/pinnwand)
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax / [Proxy](https://pastebinp.com/)
 * [⁠Ghostbin](https://ghostbin.linuxbox.ninja/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/borrougagnou/spectre-updated)
@@ -84,7 +84,7 @@
 * [⁠Sakana Translate](https://chat.sakana.ai/translate) - English > Japanese / Chinese Translator 
 * [Translator++](https://dreamsavior.net/) or [Renpy Translator](https://github.com/anonymousException/renpy-translator) - CAT For Games
 * [⁠Translumo](https://github.com/ramjke/Translumo) - Real-Time Translation Tool 
-* [Poedit](https://poedit.net/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
+* [Poedit](https://poedit.com/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
 * [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
 * [Sign Translate](https://sign.mt/) - Text to Sign-Language Video Translator
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Sign Language Translator
@@ -144,9 +144,6 @@
 * [⁠Kagi Proofread](https://translate.kagi.com/proofread) - Web App 
 * [Scribens](https://www.scribens.com/) - Web App
 * [LanguageTool](https://languagetool.org/) - Web App / [GitHub](https://github.com/languagetool-org/languagetool)
-* [EditGPT](https://www.editgpt.app/) - Web App / Requires Sign-Up
-* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Requires Sign-Up
-* [Outwrite](https://www.outwrite.com/) - Web App / Requires Sign-Up
 
 ***
 
@@ -233,8 +230,8 @@
 * [Mochi Cards](https://mochi.cards/) - Note-Taking / Study Tools / All Platforms
 * [Silicon](https://github.com/cu/silicon) - Note-Taking / Self-Hosted
 * [Tolaria](https://tolaria.md/) - Markdown Note-Taking / Windows, macOS, Linux / [GitHub](https://github.com/refactoringhq/tolaria)
-* [Flotes](https://flotes.app/) - Markdown Note-Taking / Web
-* [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, macOS, Linux
+* [Flotes](https://flotes.app/) - Markdown Note-Taking / Web / [Discord](https://discord.gg/uARTASUtX2)
+* [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, macOS, Linux / [Telegram](https://t.me/QOwnNotes) / [GitHub](https://github.com/pbek/QOwnNotes)
 * [vNote](https://github.com/vnotex/vnote) - Markdown Note-Taking / Windows, macOS, Linux
 * [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / All Platforms / [Discord](https://discord.gg/V7HYtShrB7) / [Source Code](https://codeberg.org/ArkHost/HelixNotes)
 * [neutriNote](https://github.com/appml/neutrinote) - Markdown Note-Taking / Android
@@ -312,7 +309,7 @@
 ## ▷ Mind Mapping
 
 * ⭐ **[Obsidian Canvas](https://obsidian.md/canvas)**
-* [FreeMind](https://freemind.sourceforge.net/)
+* [FreeMind](https://freemind.sourceforge.io/)
 * [Kinopio](https://kinopio.club/)
 * [Freeplane](https://github.com/freeplane/freeplane)
 * [Mindomo](https://www.mindomo.com/)

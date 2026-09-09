@@ -104,7 +104,7 @@
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Convert Text to Discord Emojis
 * [Stickers.gg](https://stickers.gg) - Free Discord Stickers
 * [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [Discord](https://discord.premid.app/) / [GitHub](https://github.com/PreMiD/PreMiD)
-* [Music Presence](https://musicpresence.app/), [2](https://musicpresence.pocha.moe/) - Audio Player Rich Presence / [Discord](https://discord.com/invite/musicpresence) / [GitHub](https://github.com/ungive/discord-music-presence)
+* [Music Presence](https://musicpresence.app/), [2](https://musicpresence.app/) - Audio Player Rich Presence / [Discord](https://discord.com/invite/musicpresence) / [GitHub](https://github.com/ungive/discord-music-presence)
 * [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Rich Presence
 * [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
 * [PS3 Rich](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - PS3 Rich Presence
@@ -147,7 +147,7 @@
 * [Discords.com](https://discords.com/) - Server / Bot Index
 * [Discord Me](https://discord.me/) - Server / Bot Index
 * [DiscordServers.com](https://discordservers.com/) - Server / Bot Index
-* [Disforge](https://disforge.com/servers) - Server / Bot Index
+* [Disforge](https://discordservers.io/) - Server / Bot Index
 * [Open Source Projects](https://discord.com/open-source) - Server / Bot Index
 * [Top.gg](https://top.gg/) - Bot Index
 * [Bots on Discord](https://bots.ondiscord.xyz/) - Bot Index
@@ -362,7 +362,6 @@
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [TypeType](https://watch.typetype.video/), [2](https://typetype.video/) - YouTube Frontend / [GitHub](https://github.com/TypeType-Video/TypeType)
 * [⁠FocusTube](https://focustube.mathy.li/) - YouTube Frontend / [GitHub](https://github.com/helbetmathias/focustube)
-* [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
 * [Piped](https://piped.private.coffee/) - YouTube Frontend / Requires Sign-Up / [GitHub](https://github.com/TeamPiped/Piped)
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
 * [YouT-ube](https://www.yout-ube.com/) or [⁠MUI](https://muitube.com/) - Use YouTube Full Window Player
@@ -468,7 +467,7 @@
 * [Quality Script](https://greasyfork.org/en/scripts/467511) - Change Quality without Account
 * [Comments Script](https://greasyfork.org/en/scripts/473498) - View Comments without Account
 * [Sign-Up Block](https://greasyfork.org/en/scripts/467474) - Sign-Up Block Script
-* [wiliwili](https://xfangfang.github.io/wiliwili/) - Gamepad Client
+* [wiliwili](http://www.xfangfang.cn/wiliwili/) - Gamepad Client
 
 ***
 
@@ -516,7 +515,7 @@
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontend / Viewer
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
-* [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [⁠100 Multiview](https://www.100multiview.com/twitch), [Twitch3D](https://hjjg200.github.io/twitch3d/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/), [⁠Viewington](https://viewington.com/watch) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
+* [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [⁠100 Multiview](https://www.100multiview.com/twitch), [Twitch3D](https://hjjg200.github.io/twitch3d/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.tv/), [⁠Viewington](https://viewington.com/watch) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * Alternate Player for Twitch.tv - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch_5/) / [Chrome](https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf)
 * [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
@@ -722,7 +721,7 @@
 * [fedv.link](https://fedv.link/) - Mastodon Link Redirect
 * [Mastodon Embed Timeline](https://gitlab.com/idotj/mastodon-embed-timeline) or [Mastofeed](https://mastofeed.com/) - Embedded Mastodon Feeds
 * [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
-* [emojos.in](https://emojos.in/) - Mastodon Custom Emoji Lists
+* [emojos.in](https://emojos.app/) - Mastodon Custom Emoji Lists
 * [MastoMetrics](https://mastometrics.com/) - Mastodon Analytics
 
 ***
@@ -741,7 +740,7 @@
 
 * 🌐 **[Pixelfed Apps](https://pixelfed.org/mobile-apps)** - Pixelfed Client List
 * [The Federation Pixelfed](https://the-federation.info/platform/26) - Pixelfed Instances
-* [FediDB Pixelfed](https://fedidb.org/software/pixelfed) - Pixelfed Instances
+* [FediDB Pixelfed](https://fedidb.com/software/pixelfed) - Pixelfed Instances
 * [Fediverse Observer Pixelfed](https://pixelfed.fediverse.observer/list) - Pixelfed Instances
 * [Pixelfed.social](https://pixelfed.social/) - Pixelfed Instance
 

@@ -16,7 +16,7 @@
 * [⁠late.sh](https://late.sh/) - Command-Line Style Clubhouse / [GitHub](https://github.com/mpiorowski/late-sh)
 * [⁠Graphics Programming](https://discord.gg/graphicsprogramming) - Graphics Programming Discord Server
 * [⁠Functional Programming](https://discord.gg/K6XHBSh) - Functional Programming Community / Discord
-* [Tech-Blogs](https://tech-blogs.dev/) or [HN Popularity](https://refactoringenglish.com/tools/hn-popularity/) - Blogs for Developers
+* [Tech-Blogs](https://tech-blogs.dev/) or [HN Popularity](https://popularity.refactoringenglish.com/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
 
 ***
@@ -143,7 +143,7 @@
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/oxnr/awesome-bigdata)** - Big Data Resources
 * 🌐 **[Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)** - MySQL Resources
-* ⭐ **[DB Browser](https://sqlitebrowser.org/)** / Windows, macOS, Linux, [SQLook](https://sqlook.com/) or [SQL Lite Studio](https://sqlitestudio.pl/) - SQLite Browsers
+* ⭐ **[DB Browser](https://sqlitebrowser.org/)** / Windows, macOS, Linux, [SQLook](https://sqlook.com/) or [SQL Lite Studio](https://letos.org/) - SQLite Browsers
 * [DuckDB](https://duckdb.org/) - Database Manager
 * [Qdrant](https://qdrant.tech/) - Database Manager
 * [Gel](https://www.geldata.com/) - Database Manager
@@ -201,7 +201,7 @@
 * [Octobox](https://octobox.io/), [Gitify](https://www.gitify.io/) or [CatLight](https://catlight.io/) - GitHub Notifications
 * [Download Directory](https://download-directory.github.io/) - Download GitHub Repo Sub-Folders / Files
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) or [Active-Forks](https://techgaun.github.io/active-forks/index.html) / [GitHub](https://github.com/techgaun/active-forks) - Find Active GitHub Forks
-* [Graphite](https://graphite.dev/) or [Stacking](https://stacking.dev/) - Improve Pull Request Workflow
+* [Graphite](https://graphite.com/) or [Stacking](https://stacking.dev/) - Improve Pull Request Workflow
 * [SemanticDiff](https://app.semanticdiff.com/) - Review Pull Requests using Language Aware Diff
 * [⁠Diffshub](https://diffshub.com/) - GitHub Diff Checker
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
@@ -285,7 +285,7 @@
 * [Meilisearch](https://www.meilisearch.com/) - Open-Source Site Search Engine / [GitHub](https://github.com/meilisearch/meilisearch)
 * [Secrets To AI](https://discord.com/invite/mMyN7dYdCJ) - AI API Gateway
 * [⁠OmniRoute](https://omniroute.online/) / [GitHub](https://github.com/diegosouzapw/OmniRoute) or [9Router](https://9router.com/) - Self-Hosted AI API Routers / Proxies for Developers 
-* [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
+* [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.io/)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
@@ -383,7 +383,7 @@
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
 * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_vscode_tools)
 * ⭐ **[zed](https://zed.dev/)** - Code Editor / [Themes](https://zed-themes.com/) / [GitHub](https://github.com/zed-industries/zed) / Windows, macOS, Linux
-* ⭐ **[JetBrains](https://jetbrains.com/)** - Professional IDEs / [Features](https://rentry.co/FMHYB64#jbrains) / Windows, macOS, Linux
+* ⭐ **[JetBrains](https://jetbrains.com/)** - Professional IDEs / Windows, macOS, Linux
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org) / Windows, macOS, Linux
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors) / Windows, macOS, Linux
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Resources](https://github.com/emacs-tw/awesome-emacs) / Windows, macOS, Linux, Android
@@ -421,8 +421,7 @@
 * [Datalore](https://datalore.jetbrains.com/) - Cloud IDE
 * [JSFiddle](https://jsfiddle.net/) - Cloud IDE
 * [html-css-js](https://html-css-js.com/) - Cloud IDE
-* [Collabedit](https://collabedit.com/) - Cloud IDE
-* [CoderPad](https://pad.new/) - Cloud IDE
+* [CoderPad](https://app.coderpad.io/sandbox) - Cloud IDE
 * [Ideone](https://www.ideone.com/) - Cloud IDE
 * [PlayCode](https://playcode.io/) - Cloud IDE
 * [pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard Style Cloud IDE
@@ -542,7 +541,7 @@
 * [⁠ZCode](https://zcode.z.ai/) - Coding AI
 * [⁠DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - Coding AI
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [VSCode Marketplace](https://gist.github.com/tejainece/85408c51ff5e3555ebc4b5b4417a9b6b) / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
-* [AI SDK](https://sdk.vercel.ai/) - Coding AI / [GitHub](https://github.com/vercel/ai)
+* [AI SDK](https://ai-sdk.dev/) - Coding AI / [GitHub](https://github.com/vercel/ai)
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Local Code Interpreter / No Sign-Up / [Discord](https://discord.gg/Hvz9Axh84z)
 * [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/) / [GitHub](https://github.com/robertpiosik/CodeWebChat)
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
@@ -1048,7 +1047,7 @@
 * [redirect.name](https://redirect.name/) - URL Forwarding
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [SD Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
-* [AtSameIP](https://atsameip.com/) - Find Websites on the Same IP
+* [AtSameIP](https://intercode.info/webtools/atsameip/) - Find Websites on the Same IP
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
 * [CloudFlare DDNS Updater](https://github.com/K0p1-Git/cloudflare-ddns-updater/) - Cloudflare Dynamic DNS Auto-Update Script
@@ -1132,7 +1131,7 @@
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) - Security Monitors
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check
-* [masscan](https://github.com/robertdavidgraham/masscan) or [Rang3r](https://github.com/floriankunushevci/rang3r) - Port Scanners
+* [masscan](https://github.com/robertdavidgraham/masscan) - Port Scanner
 * [Nuclei](https://docs.projectdiscovery.io/tools/nuclei) / [GitHub](https://github.com/projectdiscovery/nuclei), [Synk](https://security.snyk.io/) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
 * [Zeek](https://zeek.org/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/) or [Sniffnet](https://www.sniffnet.net/) / [GitHub](https://github.com/GyulyVGC/sniffnet) - Network Monitors
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)

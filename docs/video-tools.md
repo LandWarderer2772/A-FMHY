@@ -53,7 +53,7 @@
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Requires Sign-Up
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days / [Telegram](https://t.me/FEXNETWORK)
 * [Byse](https://byse.sx/), [2](https://filemoon.sx/), [3](https://filemoon.to/) - 50GB / 40TB per account / Forever / Requires Sign-Up
-* [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
+* [Hexupload](https://hexload.com/) - 15GB / 30 Days
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Requires Sign-Up
 * [⁠Streamain](https://streamain.com/) - Unlimited / Forever
 * [Vidmoly](https://vidmoly.me/) - 15TB / 1 Year
@@ -135,7 +135,7 @@
 * [ffmpeg-web](https://ffmpeg-web.netlify.app/) / [GitHub](https://github.com/Dinoosauro/ffmpeg-web), [FFmpeg Online](https://ffmpeg.wide.video/), [⁠ffmpeg webCLI](https://tejaswigowda.com/ffmpeg-webCLI/) / [GitHub](https://github.com/tejaswigowda/ffmpeg-webCLI) or [ffmpegwasm](https://ffmpegwasm.netlify.app/) / [2](https://ffmpeg.gcc.ac.cn/) / [GitHub](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg Web Apps
 * [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) or [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - FFmpeg Guides
 * [ASM Lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons / Multiple Languages
-* [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.github.io/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
+* [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://ffmpeg-commander.com/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
 * [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
 * [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
 * [FFmpeg Batch](https://ffmpeg-batch.sourceforge.io/) - Bulk Conversion Tools
@@ -360,7 +360,6 @@
 ## ▷ Kodi Tools
 
 * ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio
-* [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
 * [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) or [⁠TroyPoint](https://troypoint.com/) - Kodi Addons
 * [Kodi Skins](https://kodi.tv/addons/omega/category/skins/) or [WIP Skins](https://forum.kodi.tv/forumdisplay.php?fid=160) - Kodi Skins
@@ -513,7 +512,6 @@
 * [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
 * [Physically Based](https://physicallybased.info/) - RGB Values of Elements
 * [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Cavalry](https://cavalry.studio/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
-* [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)
 * [LuxCoreRender](https://luxcorerender.org/) - Rendering Engine
@@ -521,7 +519,7 @@
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
-* [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
+* [Glaxnimate](https://glaxnimate.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
 * [LibreSprite](https://libresprite.github.io/) / [GitHub](https://github.com/LibreSprite/LibreSprite), [GraphicsGale](https://graphicsgale.com/us/), [Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [SpriteSheep](https://spritesheep.com/) / [Discord](https://discord.gg/cQBZV3FcEZ), [fizzy](https://fizzyed.it/) / [Web App](https://fizzyed.it/app/) / [GitHub](https://github.com/fizzyedit/fizzy), [KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [⁠Wigglypaint](https://wigglypaint.com/) / [2](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
 * [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator

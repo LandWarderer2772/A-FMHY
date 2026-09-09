@@ -202,7 +202,7 @@
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
 * [paranoiaprivacy.wiki](https://codeberg.org/Sauul/paranoiaprivacy) - Educational Guide
 * [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
-* [Hostux](https://hostux.network/) - Privacy Tools / [Source Code](https://git.hostux.net/valere/hostux.network)
+* [Hostux](https://hostux.network/) - Privacy Tools / [Source Code](https://git.hostux.net/hostux.net/hostux.network)
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [Privacy Not Included](https://www.mozillafoundation.org/en/privacynotincluded/) - Product Privacy Ratings
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
@@ -214,7 +214,7 @@
 
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [X](https://twitter.com/SafingIO) / [Discord](https://discord.com/invite/9ScnccuXaZ) / [GitHub](https://github.com/safing)
 * [⁠DNSLeakTest](https://dnsleaktest.com/) - DNS Leak Test
-* [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Client](https://i2pd.website/) / [Subreddit](https://www.reddit.com/r/i2p/) / [GitLab](https://i2pgit.org/)
+* [I2P](https://i2p.net/) - Encrypted Private Network Layer / [Client](https://i2pd.website/) / [Subreddit](https://www.reddit.com/r/i2p/) / [GitLab](https://i2pgit.org/)
 * [Freenet](https://freenet.org/) - Decentralized P2P Web / [GitHub](https://github.com/freenet/web)
 * [Hyphanet](https://www.hyphanet.org/) - Decentralized P2P Web / [GitHub](https://github.com/hyphanet)
 * [⁠RustNet](https://github.com/domcyrus/rustnet) - Network Monitor TUI 
