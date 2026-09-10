@@ -12,7 +12,7 @@
 * ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
 * ⭐ **[Reincubate Camo](https://camo.com/studio)** - Use Any Camera as Webcam
 * [Kast](https://kast.gg/), [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy), [⁠Broadcast Box](https://b.siobud.com/) / [GitHub](https://github.com/Glimesh/broadcast-box), [Screen Share Party](https://ba.net/screen/), [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/) or [Screen-Sharing](https://share-your-screen.vercel.app/) / [GitHub](https://github.com/tonghohin/screen-sharing) - Web-Based Screen Sharing
-* [⁠LonelyScreen](https://www.lonelyscreen.com/) - AirPlay Receiver for PC / macOS
+* [⁠LonelyScreen](https://www.lonelyscreen.com/) or [⁠uxplay-windows](https://github.com/leapbtw/uxplay-windows) - AirPlay Receivers
 * [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [Rope](https://github.com/Hillobar/Rope), [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media / Video
 * [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Video Compare](https://github.com/pixop/video-compare) - Video Quality Comparison & Analysis Tools
@@ -247,7 +247,7 @@
 * [Mzelo](https://mzelo.com/) - Online Player
 * [CyTube](https://cytu.be/) - Online Player
 * [⁠CinevoSync](https://sync.cinevo.us/) - Online Player
-* [VideoTogether](https://2gether.video/en-us/) - App
+* [VideoTogether](https://videotogether.github.io/) - App
 * [baked.live](https://baked.live/) - Online Player
 * [Rave.io](https://rave.io/) - Online Extension
 * [MovieNight](https://github.com/zorchenhimer/MovieNight) - Docker / [Discord](https://discord.gg/F2VSgjJ)
@@ -316,9 +316,9 @@
 * [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
-* [TheIntroDB](https://theintrodb.org/) / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb) / [GitHub](https://github.com/TheIntroDB) or [SkipDB](https://skipdb.tv/) - Intro / Credit Skipping
+* [TheIntroDB](https://theintrodb.org/) / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb) / [GitHub](https://github.com/TheIntroDB) or [SkipDB](https://skipdb.tv/) / [Status](https://status.skipdb.tv/) / [GitHub](https://github.com/SkipDB-TV/skipdb) - Intro / Credit Skipping
 * [Tunarr](https://tunarr.com/) / [GitHub](https://github.com/chrisbenincasa/tunarr/), [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Custom Live Channel Servers
-* [⁠YAMS](https://yams.media/) - Linux Media Server Auto-Install Script 
+* [⁠YAMS](https://yams.media/) - Linux Media Server Auto-Install Script / [Discord](https://discord.com/invite/Gwae3tNMST)
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) or [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - Automated Docker Media Server Setups
 * [Seerr](https://github.com/seerr-team/seerr) / [Mobile](https://github.com/seerr-team/mobile-app) or [Ombi](https://github.com/Ombi-app/Ombi) - User Request Management 
 * [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) or [⁠tuliprox](https://github.com/euzu/tuliprox) - IPTV Playlist Managers for Servers
@@ -332,12 +332,12 @@
 * [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
 * [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tautulli-note.md)
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
-* [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own
+* [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own / [Docs](https://github.com/Reaparr/Docs) / [Discord](https://discord.com/invite/k2KvDJbnNm) / [GitHub](https://github.com/Reaparr/Reaparr)
 * [PlexDrive](https://github.com/plexdrive/plexdrive) - Mount Google Drive
-* [SyncLounge](https://synclounge.tv/) - Media Sync
+* [SyncLounge](https://github.com/synclounge/synclounge) - Media Sync
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
-* [Overseerr](https://overseerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)
-* [Pasta Tool](https://www.pastatool.com/) - Audio / Sub Changer
+* [Overseerr](https://seerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)
+* [Pasta Tool](https://www.pastatool.com/) - Audio / Sub Changer / [GitHub](https://github.com/cglatot/pasta)
 
 ***
 

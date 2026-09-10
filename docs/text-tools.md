@@ -250,6 +250,7 @@
 * [Google Keep](https://keep.google.com/) - Minimal Note-Taking / Android, iOS, Web / [Chrome](https://chromewebstore.google.com/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
 * [Notally](https://github.com/OmGodse/Notally) or [NotallyX](https://github.com/PhilKes/NotallyX) - Minimal Note-Taking / Android
 * [Easy Notes](https://github.com/Kin69/EasyNotes) - Minimal Note-Taking / Android
+* [⁠Org Mode](https://orgmode.org/) - CLI Note-Taking / Windows, macOS, Linux
 * [ColorNote](https://www.colornote.com/) - Minimal Note-Taking / Android
 * [NotePad](https://github.com/mshdabiola/NotePad) - Note-Taking / Drawing / Android
 * [Notebook](https://www.zoho.com/notebook/mobile-app.html) - Note-Taking / Drawing / Android
@@ -269,7 +270,7 @@
 
 * ↪️ **[Office Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** / [Custom Install Guide](https://massgrave.dev/office_c2r_custom)
 * ⭐ **[LibreOffice](https://www.libreoffice.org/)** - FOSS Office Suite / [GitHub](https://github.com/LibreOffice/core)
-* ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - Office Suite
+* ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - Office Suite / [Web](https://edit.chaxus.com/)
 * ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links)** / [Linux](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b) / [macOS](https://massgrave.dev/office_for_mac) - Office Suite / [Hotkeys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd) / [Removal Tool](https://github.com/abbodi1406/WHD/blob/master/scripts/OfficeScrubber_14.zip), [2](https://gitlab.com/stdout12/batutil/-/tree/master/OfficeScrubber), [3](https://codeberg.org/stdout12/BatUtil/src/branch/master/OfficeScrubber)
 * [Calligra](https://calligra.org/) - FOSS Office Suite
 * [Ziziyi](https://office.ziziyi.com/) - Online Office Suite / [GitHub](https://github.com/baotlake/office-website)
@@ -283,6 +284,7 @@
 * ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves / [Discord](https://discord.com/invite/proton)
 * [Leaflet](https://leaflet.pub/) - Cloud Saves / Customizable / [Examples](https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082)
 * [Browserpad](https://browserpad.org/) - Local Saves
+* [⁠Chaxus](https://edit.chaxus.com/) - Local Saves / [GitHub](https://github.com/ranuts/document)
 * [Online Notepad](https://onlinenotep.ad) - Local Saves
 * [Notepad](https://notepad.js.org/) - Local Saves
 * [onlinenotepad](https://onlinenotepad.org/) - Local Saves
@@ -349,7 +351,7 @@
 * [Pixso](https://pixso.net/)
 * [FidusWriter](https://www.fiduswriter.org/)
 * [Overleaf](https://www.overleaf.com/)
-* [Typst](https://typst.app/home) / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst)
+* [Typst](https://typst.app/home) / [Resources](https://github.com/qjcg/awesome-typst) / [Discord](https://discord.gg/2uDybryKPe) / [GitHub](https://github.com/typst/typst)
 * [Rustpad](https://rustpad.io) / [GitHub](https://github.com/ekzhang/rustpad)
 * [OnlineInterview.io](https://onlineinterview.io/)
 
@@ -484,12 +486,13 @@
 * [Vrite](https://editor.vrite.io/)
 * [MindForger](https://www.mindforger.com/)
 * [⁠Markpad](https://markpad.sftwr.dev/) - Lightweight / Minimal / [GitHub](https://github.com/alecdotdev/Markpad)
+* [⁠SilverBullet](https://silverbullet.md/) - Self-Hosted
 
 ***
 
 ## ▷ LaTeX Tools
 
-* ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
+* ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [Discord](https://discord.gg/2uDybryKPe) / [GitHub](https://github.com/typst/typst) 
 * ⭐ **[Overleaf](https://www.overleaf.com/)**, [LyX](https://www.lyx.org/), [⁠TeXPage](https://www.texpage.com/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
 * [⁠MathCheap](https://mathcheap.xyz/) / [Discord](https://discord.gg/Q4chBVDFvK) or [⁠Prism](https://prism.openai.com/) / [Discord](https://discord.com/invite/ffMZrSxUQa) - AI-Powered LaTeX Editors
 * [⁠SimpleTex](https://simpletex.cn/) - Convert Images to LaTeX / Markdown
@@ -556,6 +559,7 @@
 * ⭐ **[BeFonts](https://befonts.com/)**
 * [Free Fonts Family](https://freefontsfamily.org/)
 * [Cufon Fonts](https://www.cufonfonts.com/)
+* [⁠FontFreak](https://www.fontfreak.com/)
 * [FontsFree](https://fontsfree.net)
 * [DFonts](https://www.dfonts.org/)
 * [⁠FontYukle](https://www.fontyukle.net/)
@@ -590,7 +594,7 @@
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
 * [Type Terms](https://avark.agency/typeterms/) - Typography Cheat Sheet
 * [The Good Line-Height](https://thegoodlineheight.com/) - Typography Scaling Editor
-* [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface 2.0](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
+* [So You Need A Typeface 2.0](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
 * [Type Design Resources](https://typedesignresources.com/) or [Free Faces](https://www.freefaces.gallery/) - Typeface Resources
 
 ***
@@ -614,7 +618,7 @@
 
 * ⭐ **[TypeTrials](https://typetrials.com/)** - Variable Font Playground
 * [V-Fonts](https://v-fonts.com/) or [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Testers
-* [enFont](https://enfont.javierarce.com/) or [Calligraphr](https://www.calligraphr.com/en/) - Custom Font Creators
+* [enFont](https://enfont-terrible.com/) or [Calligraphr](https://www.calligraphr.com/en/) - Custom Font Creators
 * [Fontjoy](https://fontjoy.com/) - Generate Font Combinations
 * [FontSprite](https://adamstrange.itch.io/fontsprite) - FontSprite Editor
 * [BitFontMaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitMap Font Editor
