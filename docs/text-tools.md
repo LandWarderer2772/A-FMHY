@@ -153,7 +153,6 @@
 * [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
-* [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 
 ***
@@ -216,7 +215,7 @@
 ## ▷ Note-Taking
 
 * ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking / All Platforms / [Discord](https://discord.gg/obsidianmd)
-* ⭐ **Obsidian Tools** - [Publish Notes](https://dg-docs.ole.dev/) / [Note Sync](https://synch.run/) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
+* ⭐ **Obsidian Tools** - [Publish Notes](https://docs.forestry.md/) / [Note Sync](https://synch.run/) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Guides](https://obsidian.md/help/) / [Forum](https://forum.obsidian.md/)
 * ⭐ **[Anytype](https://anytype.io/)** - Note-Taking / E2EE / All Platforms / [Telegram](https://t.me/anytype) / [GitHub](https://github.com/anyproto/anytype-ts)
 * ⭐ **[AppFlowy](https://appflowy.com/)** - Note-Taking / All Platforms + Web / [Discord](https://discord.com/invite/appflowy-903549834160635914) / [GitHub](https://github.com/AppFlowy-IO)
 * ⭐ **[Logseq](https://logseq.com/)** - Outlining / All Platforms / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
@@ -233,7 +232,7 @@
 * [Flotes](https://flotes.app/) - Markdown Note-Taking / Web / [Discord](https://discord.gg/uARTASUtX2)
 * [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, macOS, Linux / [Telegram](https://t.me/QOwnNotes) / [GitHub](https://github.com/pbek/QOwnNotes)
 * [vNote](https://github.com/vnotex/vnote) - Markdown Note-Taking / Windows, macOS, Linux
-* [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / All Platforms / [Discord](https://discord.gg/V7HYtShrB7) / [Source Code](https://codeberg.org/ArkHost/HelixNotes)
+* [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / All Platforms / [Discord](https://discord.gg/V7HYtShrB7) / [Source Code](https://gitlab.com/ArkHost/HelixNotes)
 * [neutriNote](https://github.com/appml/neutrinote) - Markdown Note-Taking / Android
 * [Quillpad](https://quillpad.github.io/) - Markdown Note-Taking / Android / [GitHub](https://github.com/quillpad/quillpad)
 * [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us) - Markdown Note-Taking / Math Support / Android
@@ -439,7 +438,7 @@
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)**, [DeepAA](https://github.com/OsciiArt/DeepAA), [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Asciistrator](https://wieslawsoltes.github.io/Asciistrator/), [ASCII Sketch](https://files.littlebird.com.au/ascii-sketch.html), [Playscii](https://jp.itch.io/playscii), [⁠Monosketch](https://monosketch.io/) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors / Drawing
 * [ASCII Paint](https://ascii.alienmelon.com/), [⁠TextPaint](https://textpaint.com/) or [⁠ASCII Blaster](https://asdf.us/asciiblaster/), [2](https://ircart.github.io/asciiblaster/) / [GitHub](https://github.com/ircart/asciiblaster) - ASCII Paint Tools
-* [⁠shabzefilters](https://shabzefilters.netlify.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
+* [⁠shabzefilters](https://lumo-flt.vercel.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](https://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
 * [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters

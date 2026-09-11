@@ -7,7 +7,7 @@
 # ► Social Media Tools
 
 * 🌐 **[Disroot](https://disroot.org/en/#services)**, [Hoffnung für die Zukunft](https://hoffnungfuerdiezukunft.net/) / [2](https://evilasswebsite.com/), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services), [4d2](https://4d2.org/), [bloat.cat](https://bloat.cat/), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
-* ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)** 
+* ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)**
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * ⭐ **[SocialBlade](https://socialblade.com/)** - Social Media Stats
@@ -23,7 +23,7 @@
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
-* [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
+* [Schedul](https://www.schedulethreads.com/) - Threads Content Publishing & Scheduling
 * [PixelHunter](https://pixelhunter.io/) or [⁠Dropmatico](https://dropmatico.com/app) - Social Media Image Resizer
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
 
@@ -118,7 +118,7 @@
 * [⁠Embedded](https://embedded.gallery/) / [Discord](https://discord.com/invite/Be9yDnBPBw), [FixEmbed](https://fixembed.app/) / [GitHub](https://github.com/kenhendricks00/FixEmbed) or [⁠Embed Fixer](https://github.com/seriaati/embed-fixer) - Discord Embed Fix Bots
 * [esmBot](https://github.com/esmBot/esmBot) - Multi-Tool Discord Bot 
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
-* [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
+* [fmbot](https://fm.bot/) - Discord Voice Chat Scrobbling
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
 * [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
 * [MonitoRSS](https://monitorss.xyz/) or [ReadyBot](https://readybot.io/) - RSS Discord Bots
@@ -213,7 +213,7 @@
 
 ## ▷ Reddit Search
 
-* [Reveddit](https://www.reveddit.com/), [rOSINT+](https://rosintplus.github.io/) / [GitHub](https://github.com/rosintplus/rosintplus.github.io), [⁠Reddit Restore](https://greasyfork.org/scripts/585120) (Userscript), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint), [⁠deletedby](https://deletedby.com/), [Ghostddit](https://ghostddit.aeddit.com/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted / Hidden Reddit Posts + Comments
+* [Reveddit](https://www.reveddit.com/), [rOSINT+](https://rosintplus.github.io/) / [GitHub](https://github.com/rosintplus/rosintplus.github.io), [Undelete](https://undelete.pullpush.io/), [⁠Reddit Restore](https://greasyfork.org/scripts/585120) (Userscript), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint), [⁠deletedby](https://deletedby.com/), [Ghostddit](https://ghostddit.aeddit.com/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted / Hidden Reddit Posts + Comments
 * [New PullPush](https://ihsoyct.github.io/), [PullPush Search](https://search.pullpush.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
@@ -331,9 +331,9 @@
 
 * ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** - Reduce Sensationalism / Clickbait
-* ⭐ **[UnTrap](https://untrap.app/)**, [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
 * ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Error Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/vorapis.md) / [Discord](https://discord.com/invite/tBBZQMscag)
 * [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [⁠Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) / [GitHub](https://github.com/insin/control-panel-for-youtube), [YouTube Tweaks](https://addons.mozilla.org/en-US/firefox/addon/youtube-tweaks/) / [Chrome](https://chrome.google.com/webstore/detail/youtube-tweaks/oeakphpfoaeggagmgphfejmfjbhjfhhh) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) - YouTube Enhancement Extensions
+* [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
 * [PKGA](https://greasyfork.org/en/scripts/442089) or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Theater Mode
 * [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
@@ -513,7 +513,6 @@
 * ⭐ **[Chatterino](https://chatterino.com/)** / [2](https://github.com/SevenTV/chatterino7), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Clients
 * [Twitch App](https://gitlab.com/linuxbombay/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
-* [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontend / Viewer
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
 * [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [⁠100 Multiview](https://www.100multiview.com/twitch), [Twitch3D](https://hjjg200.github.io/twitch3d/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.tv/), [⁠Viewington](https://viewington.com/watch) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
@@ -548,7 +547,7 @@
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
-* ⭐ **[xCancel](https://xcancel.com/)**, **[Nitter](https://codeberg.org/mv12star/shitter/wiki/Instances)**, [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/), [xPrivate](https://xprivate.lol/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
+* ⭐ **[Nitter](https://github.com/zedeus/nitter/wiki/Instances)**, [2](https://codeberg.org/mv12star/shitter/wiki/Instances) / **[xCancel](https://xcancel.com/)**, [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/), [xPrivate](https://xprivate.lol/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
@@ -752,7 +751,7 @@
 * [Sepia Search](https://joinpeertube.org/browse-content), [2](https://sepiasearch.org/) - Peertube Search Engine
 * [Peertube Instances](https://joinpeertube.org/instances), [2](https://instances.joinpeertube.org/instances) - Peertube Instances
 * [The Federation Peertube](https://the-federation.info/platform/29) - Peertube Instances
-* [FediDB Peertube](https://fedidb.org/software/peertube) - Peertube Instances
+* [FediDB Peertube](https://fedidb.com/software/peertube) - Peertube Instances
 * [Fediverse Observer Peertube](https://peertube.fediverse.observer/list) - Peertube Instances
 
 ***

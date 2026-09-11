@@ -82,7 +82,7 @@
 * ⭐ **[Lossless Scaling](https://fmhy.net/gaming#download-games)** (search), **[OptiScaler](https://github.com/optiscaler/OptiScaler)** / [Manager](https://github.com/Agustinm28/Optiscaler-Client) or **[Magpie](https://github.com/Blinue/Magpie)** - Game Upscaling
 * [SystemRequirementsLab](https://www.systemrequirementslab.com/cyri/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) - FPS / Latency Guides
-* [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Game Bar](https://rentry.co/WindowsFPS) - FPS Monitors / Windows
+* [Fraps](https://fraps.com/), [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Game Bar](https://rentry.co/WindowsFPS) - FPS Monitors / Windows
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule) - Decrease Ping
 * [GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) - Overclocking Tools / [Guide](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/) / Windows
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
@@ -265,7 +265,7 @@
 * [GG](https://ggapp.io/) - Tracking / Database
 * [KeepTrackOfMyGames](https://keeptrackofmygames.com/) - Tracking / Database
 * [PlayTracker](https://playtracker.net/) - Tracking / Database
-* [Gamelib](https://gamelib.app/explore) - Tracking / Database
+* [Gamelib](https://benja.dev/gamelib) - Tracking / Database
 * [Backloggery](https://backloggery.com/) - Tracking / Database
 * [Exophase](https://www.exophase.com/) - Tracking / Database
 * [RiotPixels](https://en.riotpixels.com/) - Tracking / Database
@@ -580,7 +580,7 @@
 * [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
-* [WiiMart](https://wiimart.org/) - Wii Shop Channel Revival / Free Games & Points / [Discord](https://discord.com/invite/wiimart-1346485785284575335) / [GitHub](https://github.com/WiiMart/WiiMart)
+* [WiiMart](https://wiimart.org/) / [Discord](https://discord.com/invite/wiimart-1346485785284575335) / [GitHub](https://github.com/WiiMart/WiiMart) or [Wii Shop Web](https://rentry.co/FMHYB64#wsc) - Wii Shop Channel Revivals / Free Games & Points
 * [⁠TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager) - Wii Backup Manager / Homebrew App 
 * [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO
 
@@ -741,6 +741,7 @@
 * [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm), [FiberMC](https://www.fibermc.com/) / [Discord](https://discord.com/invite/dwh9y7D) or [FTB Wiki](https://ftbwiki.org/Feed_The_Beast_Wiki) / [Discord](https://discord.com/invite/QsbEK52) - Modpack & Fabric Indexes
 * [Planet Minecraft](https://www.planetminecraft.com/) / [Discord](https://discord.com/invite/QQSWwyg) or [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX) - Community Content Directories
 * [ModBay](https://modbay.org/) / [Discord](https://discord.com/invite/DpNJ5fApJM), [MCPEDL](https://mcpedl.com/) or [BedrockExplorer](https://www.bedrockexplorer.com/spotlight/free-content/all/addons/latest) - Bedrock Mods / Content
+* [⁠Toolcoin](https://toolcoin.site/) - Bedrock Marketplace DLCs
 * [MC Archive](https://mcarchive.net/) / [Discord](https://discord.com/invite/WuexGpP) - Old Mods Archive
 
 ***
@@ -800,7 +801,7 @@
 * [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
 * [MCStacker](https://mcstacker.net/) / [Discord](https://discord.com/invite/WCb6GNf) or [MinecraftJSON](https://www.minecraftjson.com/) - Command & JSON Tellraw Generators
 * [⁠mcsrc](https://mcsrc.dev/) / [GitHub](https://github.com/FabricMC/mcsrc) or [MC Assets](https://mcasset.cloud/) / [GitHub](https://github.com/InventivetalentDev/minecraft-assets) - Source Code & Asset Explorers
-* [NBT Studio](https://github.com/tryashtar/nbt-studio/) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
+* [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editor
 * [Mineflayer](https://prismarinejs.github.io/mineflayer/) / [Discord](https://discord.com/invite/GsEFRM8) / [GitHub](https://github.com/PrismarineJS/mineflayer) or [Minecraft TAS](https://minecrafttas.com/) / [Discord](https://discord.com/jGhNxpd) - Minecraft Bot & TAS Automation Tools
 
 ***
@@ -1112,7 +1113,7 @@
 * [MaxVRList](https://maxvrlist.com/) - VR Leaderboards / [Discord](https://discord.gg/S8HcYawzhx)
 * [xer](https://xer.fr/mkw) - MKWii Item Probabilities
 * [MK8DX Prob](https://japan-mk.blog.jp/mk8dx/note4/prob.html) - MK8DX Item Probabilities
-* Tockdom Wikis - [MKWii](https://wiki.tockdom.com/wiki/Main_Page) / [MK8](https://mk8.tockdom.com/) / [MK3DS](https://mk3ds.com/) / [MKDS](https://wiki.dshack.org/) / [MKDD](https://mkdd.org/) - Custom Mario Kart Wikis / [Discord](https://discord.gg/pppFCpWtFJ)
+* Tockdom Wikis - [MKWii](https://mkwiiki.org/wiki/Main_Page) / [MK8](https://mk8.tockdom.com/) / [MK3DS](https://mk3ds.com/) / [MKDS](https://wiki.dshack.org/) / [MKDD](https://mkdd.org/) - Custom Mario Kart Wikis / [Discord](https://discord.gg/pppFCpWtFJ)
 * [Custom Track Tutorial](https://mkwiiki.org/wiki/Custom_Track_Tutorial) - How to Make Custom MKWii Tracks
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKWii Textures
 * [ShortCat](https://shortcat.pro/) - MK8DX Strategy Guide
@@ -1127,6 +1128,7 @@
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu / Modding Framework / [Modlist](https://geode-sdk.org/mods) / [Level Send Tracker](https://senddb.dev/) / [X](https://twitter.com/GeodeSDK) / [Discord](https://discord.com/invite/9e43WMKzhp) / [GitHub](https://github.com/geode-sdk)
 * ⭐ **[⁠Geometry Dash Wiki](https://geometrydash.wiki.gg/)** - ⁠Geometry Dash Wiki / [Subreddit](https://www.reddit.com/r/geometrydash) / [Discord](https://discord.gg/geometrydash)
 * ⭐ **[GDDP](https://gddp.pro/)** / [Discord](https://discord.gg/gddp) or **[GD Demon Ladder](https://gdladder.com/)** / [Discord](https://discord.gg/gddl) - Practice & Improve Your Skills
+* [⁠GD Creator School](https://www.gdcreatorschool.com/) - GD Creator Guide / [Discord](https://discord.gg/gdlevels) / [GitHub](https://github.com/komatic5/gdcs2)
 * [GD Forum](https://gdforum.freeforums.net/) - ⁠Geometry Dash Forum
 * [⁠Global Stats Viewer](https://globalstatsviewer.com/), [⁠EDI](https://edi-d6y.pages.dev/) / [Discord](https://discord.gg/TEqvKS5H5N) or [⁠DashStats](https://dashstats.net/) / [Discord](https://discord.com/invite/Qumx6ZmNG7) - Global Stats / Leaderboards
 * [speedrun.gd](https://speedrun.gd/) - Speedrun Leaderboards / [Discord](https://discord.com/invite/5whXv5Y)
@@ -1135,7 +1137,6 @@
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
 * [G.js](https://g-js-api.github.io/G.js/) - GD Level Programming Language / [Discord](https://discord.gg/GwVd7K2cQY) / [GitHub](https://github.com/g-js-api/G.js)
 * [GD Docs](https://boomlings.dev/) - GD Programming Documentation / [Discord](https://discord.com/invite/uHHnxry4sR)
-* [⁠GD Creator School](https://www.gdcreatorschool.com/) - GD Creator Guide / [Discord](https://discord.gg/gdlevels) / [GitHub](https://github.com/komatic5/gdcs2)
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
 * [GMD Private Server](https://github.com/Cvolton/GMDprivateServer) - Private Server Maker
 * [3Dash](https://delugedrop.itch.io/3dash) - 3D Geometry Dash Game / [Demon List](https://3dashdl.pages.dev/#/) / [Challenge List](https://3dashdemonlist.github.io/Challenge/) / [Impossible Levels](https://3dashdemonlist.github.io/ILL/)
@@ -1189,7 +1190,7 @@
 * 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
 * ⭐ **[Undertale Wiki](https://undertale.wiki/)** / **[Deltarune Wiki](https://deltarune.wiki/)** - Main Gameplay & Lore Databases / [Discord](https://discord.com/invite/zp2q7UFuWh)
 * ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Datamining / Modding Tool
-* [Undertale: New Hope](https://discord.gg/QMrzvQrSj) - Deltaune + Undertale Mobile Ports
+* [Undertale: New Hope](https://discord.gg/QMrzvQrSj) - Deltarune + Undertale Mobile Ports
 * [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
 * [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue) or [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Ingame Dialogue Dump
 * [Starmen.net Forum](https://forum.starmen.net/forum/RadDog/undertale) - Historical Community / Requires Sign-Up

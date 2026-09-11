@@ -71,7 +71,7 @@
 
 ## ▷ YouTube Music Tools
 
-* ⭐ **[Better Lyrics](https://better-lyrics.boidu.dev/)** / [Uploader](https://darkforcefreefire.github.io/unison-web/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics) or [YouLy+](https://github.com/ibratabian17/YouLyPlus) - Improved Lyrics Browser Extensions
+* ⭐ **[Better Lyrics](https://betterlyrics.org/)** / [Uploader](https://darkforcefreefire.github.io/unison-web/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics) or [YouLy+](https://github.com/ibratabian17/YouLyPlus) - Improved Lyrics Browser Extensions
 * [Themesong](https://themesong.app/) or [BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancement Extensions
 * [YT Music Deleter](https://github.com/apastel/ytmusic-deleter) - Library Manager / Deleter / Windows, macOS, Linux
 * [Spot Transfer](https://spot-transfer.vercel.app/), [Spotify2YoutubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic) or [spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) / [2](https://github.com/sigma67/spotify_to_ytmusic) - Spotify Playlist Importers
@@ -229,7 +229,7 @@
 * [⁠WFMU](https://wfmu.org/) - Independent Internet Radio
 * [Radiolise](https://radiolise.com/) - Online Radio Player / Directory
 * [Audiophile](https://audiophile.fm/) - Online Radio Directory
-* [You Radio](https://play.you.radio/) - Online Radio Directory
+* [You Radio](https://you.radio/) - Online Radio Directory
 * [KWSX Radio](https://radio.kwsx.online/) - Online Radio / Listener Supported
 * [⁠ScrobbleRadio](https://scrobblerad.io/) - Online Radio w/ Multi-Platform Scrobbling / [GitHub](https://github.com/jbwharris/scrobblerad.io)
 * [Radio.dubbeh](https://radio.dubbeh.net/) - Online Radio Directory
@@ -464,7 +464,7 @@
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
 * [z3.fm](https://z3.fm/) - MP3
 * [nodata](https://nodata.tv/) - MP3
-* [Discografias Completas](https://www.discografiascompletas.com/) - MP3 / [Telegram](https://t.me/+wdUhO_yV_A5lM2E5)
+* [Discografias Completas](https://www.discografias-completas.org/) - MP3 / [Telegram](https://t.me/+wdUhO_yV_A5lM2E5)
 * [LEAKED](https://leaked.cx/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
 * [New Album Releases](https://newalbumreleases.net/) - MP3
@@ -834,7 +834,7 @@
 * [Apple Artwork](https://artwork.thekvt.eu.org/) - Apple Music Album Art Downloader
 * [MediUX Album Covers](https://mediux.pro/albums) - Media Soundtrack Album Art
 * [Classic Rock Covers](https://www.classic-rock-covers.com/) - Rock Album Art
-* [⁠covers](https://covers.brunoimbrizi.com/) - Album Art Visual Similarity Search 
+* [⁠covers](https://covers.brunoimbrizi.com/) - Album Art Visual Similarity Search
 * [Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst) or [Fetcher](https://github.com/bunnykek/Fetcher) - Album Art Download Apps
 
 ***
@@ -883,7 +883,7 @@
 * [FB2K-SyncedLyrics](https://rentry.co/FB2K-SyncedLyrics) - Foobar2000 Synced Lyrics
 * [⁠LRC Maker](https://lrc-maker.github.io/) / [GitHub](https://github.com/magic-akari/lrc-maker) or [Composer](https://composer.betterlyrics.org/) / [GitHub](https://github.com/better-lyrics/composer) - Synced Lyrics Editor
 * [X-Minus](https://x-minus.pro/), [⁠Croonify](https://croonify.com/) or [LRCMaker.com](https://lrcmaker.com/) - Create / Find Karaoke Songs
-* [synced+](https://mono-o-o.github.io/synced-plus/) - Word Synced Lyrics Creator / [GitHub](https://github.com/mono-o-o/synced-plus)⁠
+* [synced+](https://mono-o-o.github.io/synced-plus/) - Word Synced Lyrics Creator / [GitHub](https://github.com/mono-o-o/synced-plus)
 * [⁠Kara.moe](https://kara.moe/) - Anime Theme Song Videos / Download / Karaoke
 
 ***

@@ -579,7 +579,7 @@
 * [GoodTheorist](https://www.goodtheorist.science/) - Theoretical Physics
 * [Chemistry.com.pk](https://chemistry.com.pk/) - Chemistry / Books
 * [Biology.com.pk](https://biology.com.pk/) - Biology / Books
-* [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
+* [Institute of Mathematics](https://textbooks.aimath.org/) - Math / Books
 * [HBPMS](https://hbpms.blogspot.com/) - Math / Books
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
@@ -679,7 +679,7 @@
 * ⭐ **[SciLit](https://www.scilit.com/)** - Research Papers / Publications
 * ⭐ **[Zotero](https://www.zotero.org/)** or **[Mendeley](https://www.mendeley.com/)** / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/) - Research Managers
 * [ScholarKey](https://addons.mozilla.org/firefox/addon/scholarkey/) / [Script](https://greasyfork.org/scripts/582149) / [GitHub](https://github.com/ezraiiiiiiiiiiii/ScholarKey/) or [Scientific Doc Bypass](https://greasyfork.org/en/scripts/35521) - Add Open-Access Links to Academic Paper Sites
-* [Lumina](https://www.lumina.sh/) or [Sophon](https://sophon.at/papers) - AI Research Paper Search
+* [Chunkr](https://www.chunkr.ai/) or [Sophon](https://sophon.at/papers) - AI Research Paper Search
 * [BulletPapers](https://www.bulletpapers.ai/) - Paper Summaries
 * [Springer](https://link.springer.com/) - Research Papers / Publications
 * [ScienceDirect](https://www.sciencedirect.com/) - Research Papers
@@ -696,8 +696,7 @@
 * [⁠Open Alex](https://openalex.org/) - Academic Papers
 * [Zooniverse](https://www.zooniverse.org/) - Crowdsourced Research
 * [Clarivate](https://mjl.clarivate.com/) - Research Papers / Publications
-* [Science Hub](https://www.smartquantai.com/) - Research Papers
-* [MyScienceWork](https://www.mysciencework.com/) - Research Papers
+* [Science Hub](https://www.pidantuan.com/) - Research Papers
 * [Caltech Library](https://authors.library.caltech.edu/) - Research Papers
 * [SciAlert](https://scialert.net/) - Research Papers
 * [Springer](https://www.springer.com/) - Research Papers
@@ -942,7 +941,7 @@
 ## ▷ Manga Tracking / Databases
 
 * ⭐ **[MAL](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
-* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Database / Reviews / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
+* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Database / Reviews / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[MangaBaka](https://mangabaka.org/)** - Multi-Site Aggregator for Manga / Manhwa / Manhua / OEL / Light Novels w/ Tracking & Database / [Discord](https://mangabaka.org/discord)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)** or [⁠RanobeDB](https://ranobedb.org/) - Light Novel Tracking / Databases
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking

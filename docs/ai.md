@@ -13,7 +13,7 @@
 ## ▷ Official Model Sites
 
 * ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen3.8 Max / Qwen3.7 Plus / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V4 Pro 0813 / DeepSeek V4 Flash / Sign-Up / Unlimited / [Add Features](https://github.com/EdgeTypE/better-deepseek/) / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
+* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek-V4.1-Flash / Sign-Up / Unlimited / [Add Features](https://github.com/EdgeTypE/better-deepseek/) / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 5.3 / GLM 5.3 Flash / Agent / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
 * ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3.6 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / [Add Features](https://github.com/Nagi-ovo/voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
@@ -89,7 +89,7 @@
 * ⭐ **[LM Studio](https://lmstudio.ai/download)** - Desktop App / Self-Hosted Models Only / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
 * ⭐ **[TextGen](https://github.com/oobabooga/textgen)** - Web UI / Self-Hosted Models Only / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
 * ⭐ **[Cherry Studio](https://cherryai.com/)** - Desktop App / [Mobile](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
-* ⭐ **[⁠Unsloth](https://unsloth.ai/)** - Desktop App / Self-Hosted / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
+* ⭐ **[⁠Unsloth](https://unsloth.ai/)** - Desktop App / Self-Hosted / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * [GobboNet](https://goblincorps.com/gobbonet) - Desktop App / [GitHub](https://github.com/ElodineOfficial/gobbonet)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)
 * [Msty](https://msty.ai/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
@@ -113,7 +113,7 @@
 * 🌐 **[Awesome Local LLM](https://github.com/rafska/awesome-local-llm/)** - Local LLM Platforms / Resources
 * ⭐ **[llama.cpp](https://llama.app/)** - Self-Hosted Transformer-Based LLMs / [GitHub](https://github.com/ggml-org/llama.cpp)
 * ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
-* ⭐ **[⁠Unsloth](https://unsloth.ai/)** - Self-Hosted / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
+* ⭐ **[⁠Unsloth](https://unsloth.ai/)** - Self-Hosted / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * ⭐ **[Sonar](https://sonar.dphn.ai/)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb) / [GitHub](https://github.com/dphnAI/sonar)
 * [Petals](https://petals.dev/) - Self-Hosted / [Discord](https://discord.gg/D9MwApKgWa) / [GitHub](https://github.com/bigscience-workshop/petals)
 * [Leon](https://getleon.ai/) - Self-Hosted / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)
@@ -213,7 +213,7 @@
 * [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
 * [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / 50 Daily / Sign-Up with Phone # / US Select CA
 * [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
-* [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
+* [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
 * [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes / [Discord](https://discord.com/invite/ASbS3EykXm)
 * [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 
@@ -225,16 +225,14 @@
 * ⭐ **[Invoke](https://invoke.ai/)** / [Discord](https://discord.com/invite/ZmtBAhwWhy) / [GitHub](https://github.com/invoke-ai/InvokeAI)
 * ⭐ **[ComfyUI](https://www.comfy.org/)** / [Subreddit](https://www.reddit.com/r/comfyui/) / [Discord](https://discord.gg/comfyorg) / [GitHub](https://github.com/comfyanonymous/ComfyUI)
 * ⭐ **[Fooocus](https://github.com/lllyasviel/Fooocus)**, [2](https://github.com/MoonRide303/Fooocus-MRE) / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb)
-* ⭐ **[⁠Unsloth](https://unsloth.ai/)** / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
+* ⭐ **[⁠Unsloth](https://unsloth.ai/)** / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * ⭐ **[Mochi Diffusion](https://github.com/MochiDiffusion/MochiDiffusion)** - Stable Diffusion for Mac / [Discord](https://discord.com/invite/x2kartzxGv)
 * ⭐ **[DiffusionBee](https://diffusionbee.com/)** - Stable Diffusion for Mac / [Discord](https://discord.com/invite/t6rC5RaJQn) / [GitHub](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 * ⭐ **[⁠Amuse](https://github.com/saddam213/AmuseAI)** - Stable Diffusion / [X](https://x.com/Amuse_AI)
-* [SDNext](https://github.com/vladmandic/sdnext) / [Colab](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services#google-colab) / [Templates](https://github.com/ThereforeGames/unprompted) / [Upscaling](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111), [2](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
-* [StableStudio](https://github.com/Stability-AI/StableStudio)
+* [SDNext](https://github.com/vladmandic/sdnext) / [Colab](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services#google-colab) / [Templates](https://github.com/ThereforeGames/unprompted) / [Upscaling](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 * [Easy Diffusion](https://easydiffusion.github.io/) / [Discord](https://discord.com/invite/u9yhsFmEkB) / [GitHub](https://github.com/easydiffusion/easydiffusion)
 * [Makeayo](https://makeayo.com) / [Discord](https://discord.gg/FbdSxdeV8m)
 * [biniou](https://github.com/Woolverine94/biniou)
-* [Dione](https://github.com/dioneapp/dioneapp)
 * [Sygil WebUI](https://sygil-dev.github.io/sygil-webui/) / [Colab](https://colab.research.google.com/github/Sygil-Dev/sygil-webui/blob/main/Web_based_UI_for_Stable_Diffusion_colab.ipynb) / [Discord](https://discord.com/invite/ttM8Tm6wge) / [GitHub](https://github.com/Sygil-Dev/sygil-webui)
 * [Radiata](https://ddpn08.github.io/Radiata/en/)
 * [SD WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
@@ -288,16 +286,15 @@
 ## ▷ Text to Speech
 
 * 🌐 **[Awesome AI Sound](https://github.com/wildminder/awesome-ai-voice)** - TTS + Voice Generation Model Index
-* 🌐 **[Arena TTS](https://arena.ai4bharat.org/#/tts)** - Text to Speech Model Benchmarks / Leaderboards
+* 🌐 **[Arena TTS](https://voiceofindia.ai/)** - Text to Speech Model Benchmarks / Leaderboards
 * ⭐ **[TTS Online](https://www.text-to-speech.online/)** / No Sign-Up
-* ⭐ **[⁠Unsloth](https://unsloth.ai/)** / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
+* ⭐ **[⁠Unsloth](https://unsloth.ai/)** / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook) / [2](https://huggingface.co/spaces/drewThomasson/ebook2audiobook), [ElevenReader](https://elevenreader.io/), [⁠Paper2Audio](https://www.paper2audio.com/) or [ReadWise](https://readwise.io/read) (reset trial) - Convert Books / Documents to Audiobooks
 * [Google Illuminate](https://illuminate.google.com/) - Generate AI Conversations
 * [ElevenLabs](https://elevenlabs.io/) / No Sign-Up / [Discord](https://discord.gg/elevenlabs) / [GitHub](https://github.com/elevenlabs)
 * [Google Speech Gen](https://aistudio.google.com/generate-speech)
 * [TTS-WebUI](https://ttswebui.com/) / No Sign-Up / [Colab](https://colab.research.google.com/github/rsxdalv/tts-webui/blob/main/notebooks/google_colab.ipynb) / [Discord](https://discord.gg/V8BKTVRtJ9) / [GitHub](https://github.com/rsxdalv/TTS-WebUI)
 * [FakeYou](https://fakeyou.com/) / No Sign-Up / [Discord](https://discord.gg/fakeyou)
-* [Bark](https://github.com/suno-ai/bark) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing) / [Discord](https://discord.com/invite/J2B2vsjKuE) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [OpenAI.fm](https://www.openai.fm/) / No Sign-Up / OpenAI's Bot
 * [⁠GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) / No Sign-Up
 * [Kyutai TTS](https://kyutai.org/next/tts) / No Sign-Up
@@ -435,7 +432,7 @@
 * ⭐ **[⁠Kaggle Benchmarks](https://www.kaggle.com/benchmarks)** - Chatbot Leaderboards / Benchmarks
 * ⭐ **[Arena](https://arena.ai/leaderboard)**, [2](https://canaryarena.ai/) - Chatbot Leaderboards / Benchmarks / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [OpenRouter](https://openrouter.ai/rankings) - Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
-* [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
+* [SEAL LLM Leaderboards](https://labs.scale.com/leaderboard) - Chatbot Leaderboards
 * [Context Arena](https://contextarena.ai/) - Chatbot Leaderboards / Benchmarks
 * [⁠RankedAGI](https://rankedagi.com/) - Chatbot Leaderboards / Benchmarks
 * [LLM Stats](https://llm-stats.com/) - Chatbot Leaderboard / [X](https://x.com/LlmStats) / [Discord](https://discord.com/invite/RxGUBvE42d)
@@ -478,7 +475,7 @@
 * ↪️ **[AI / ML Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_ai_.2F_ml_learning)** - Educational AI / ML Resources
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
-* ⭐ **[⁠Unsloth](https://unsloth.ai/)** - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
+* ⭐ **[⁠Unsloth](https://unsloth.ai/)** - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * [ModelScope Finetuning](https://modelscope.ai/civision/modelTraining) - Image Gen Model Finetuning / Up to 100 Images Per LoRA
 * [Markdown Web Browser](https://github.com/Dicklesworthstone/markdown_web_browser) - Webpage > Markdown Converter
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library

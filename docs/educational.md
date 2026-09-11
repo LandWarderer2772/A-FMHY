@@ -36,11 +36,11 @@
 
 ## ▷ Streaming
 
-* 🌐 **[Limnology](https://limnology.co/)** - Educational YouTube Channels
+* 🌐 **[Limnology](https://educational-channels.com//)** - Educational YouTube Channels
 * ↪️ **[Udemy Tools / Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons)**
 * ⭐ **[edX](https://www.edx.org/)** - Courses / [Downloader](https://github.com/rehmatworks/edx-downloader)
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/)** - Courses
-* ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
+* ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses 
 * ⭐ **[Class Central](https://www.classcentral.com/)** - Search for Courses
 * [Course CSE](https://cse.google.com/cse?cx=67ed14bf7b99643e3) - Multi-Site Course Search
 * [⁠Educational Hub](https://educationalhub.in/) - Courses
@@ -177,7 +177,6 @@
 * [WebGL Water](https://madebyevan.com/webgl-water/) - Water Simulation
 * [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
 * [avogadro](https://two.avogadro.cc/index.html), [2](https://sourceforge.net/projects/avogadro/) or [MolView](https://molview.org/) - Molecular Viewers / Editors
-* [Simuwaerm](https://github.com/lennart-finke/simuwaerm) - Heat Simulator
 * [⁠Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/) - ⁠Nuclear Reactor Simulator
 
 ***
@@ -464,7 +463,7 @@
 * [Planet Globe](https://nbremer.github.io/planet-globe/) - Virtual Globes
 * [Sky Calendar](https://www.skycalendar.com/skycal/calendar) - Astronomy Calendar
 * [Nights on Earth](https://nightsonearth.com/) - Astronomical Event Calendar
-* [Space Weather News](https://spaceweathernews.com/), [SolarHam](https://solarham.com/) or [SpaceWeather](https://spaceweather.com/) - Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
+* [Space Weather News](https://spaceweathernews.com/), [SolarHam](https://solarham.com/), [⁠Space Weather (gov)](https://www.spaceweather.gov/) or [SpaceWeather](https://spaceweather.com/) - Space Weather News & Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
 * [SunCalc](https://www.suncalc.org/), [ShadeMap](https://shademap.app/) or [MoonCalc](https://www.mooncalc.org/) - Sun / Moon Position
 * [Earth and Moon Viewer](https://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude and Longitude Viewer
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - Live Sun Feed
@@ -500,7 +499,7 @@
 * ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_aerospace_engineering)**
 * ↪️ **[Satellite / Earth Data](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_satellite_.2F_earth_data)**
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
-* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [Copernicus Browser](https://browser.dataspace.copernicus.eu/), [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
+* ⭐ **[Earth Observatory](https://science.nasa.gov/earth/earth-observatory/)**, [Copernicus Browser](https://browser.dataspace.copernicus.eu/), [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * [NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/) / [X](https://x.com/NASASpaceflight) / [YouTube](https://www.youtube.com/@NASASpaceflight)
 * [⁠Next Spaceflight](https://nextspaceflight.com/) / [X](https://x.com/NextSpaceflight) / [Discord](https://discord.gg/nextspaceflight), [⁠Space Notices](https://space-notices.com/), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch & Spaceflight Schedules / Trackers
 * [TonyBela Infographics](https://tonybela.com/) - Spacecraft / Rocket Infographics / [X](https://x.com/InfographicTony)
@@ -554,12 +553,12 @@
 * [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
 * [Nakka Rocketry](https://nakka-rocketry.net/) - Rocket Technical Archive
 * [JCRocket](https://www.jcrocket.com) - Rocketry Technical Information / [YouTube](https://www.youtube.com/@JohnLCoker)
-* [Half Cat Rocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Guide / Info / Resources / Documentation / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry) 
+* [Half Cat Rocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Guide / Info / Resources / Documentation / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry)
 * [Robert’s Rocket Project](https://watzlavick.com/robert/rocket/) - LOX/Kerosene Liquid Rocket Info / Resources / Documentation
 * [⁠OpenRocket](https://openrocket.info/) - Rocket Simulator / [Wiki](https://wiki.openrocket.info) / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
 * [⁠RocketReviews](https://www.rocketreviews.com/) - Rocket Reviews / Test Results
 * [ThrustCurve](https://www.thrustcurve.org/) - Rocket Motor Performance Database / [GitHub](https://github.com/JohnCoker/thrustcurve3)
-* [⁠MIT Rocket Team](https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home) - Official MIT Rocket Team Wiki / Resources Wikipedia
+* [⁠MIT Rocket Team](https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home) - Official MIT Rocket Team Wiki / Wiki / Resources
 * [⁠Jacobs Rocketry](https://www.jacobsrocketry.com/) - Rocketry Info / Manuals
 * [Tripoli Rocketry](https://www.tripoli.org/) or [⁠NAR](https://www.nar.org/) / [Facebook](https://www.facebook.com/groups/2255560886/) - High-Powered Rocket Resources / Info
 * [⁠Hot Nozzle Society](https://www.hotnozzlesociety.org/) - High-Power Rocketry Guide / Community / [X](https://x.com/HotNozzleSummer) / [Discord](https://discord.gg/ryjP9bUmkY)
@@ -574,7 +573,7 @@
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews / [X](https://x.com/OscarLiang1)
 * [RCPlanes Online](https://rcplanes.online/) - RC Plane Aerodynamics / Guides
 * [⁠My Balsa & Glass Workshop](https://balsaandglass.com/Balsa_Builds.html) - RC Model Builds
-* [OpenDroneMap](https://www.opendronemap.org/) / [GitHub](https://github.com/OpenDroneMap/) or [WebODM](https://webodm.org/) - Drone Mapping Software 
+* [OpenDroneMap](https://www.opendronemap.org/) / [GitHub](https://github.com/OpenDroneMap/) or [WebODM](https://webodm.org/) - Drone Mapping Software
 * [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [X](https://x.com/ArpanDesign) / [Discord](https://discord.gg/YKgKTmSm7B) / [GitHub](https://github.com/arpanghosh8453/drone-logbook)
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 
@@ -607,7 +606,7 @@
 * [⁠Arachne](https://arachne.dainst.org/) - Archaeology Object Database
 * [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
 * [Shorpy](https://shorpy.com/) - Historical Photos
-* [⁠Historic Aerials](https://www.historicaerials.com/) - US Historical Aerial Imagery / Maps 
+* [⁠Historic Aerials](https://www.historicaerials.com/) - US Historical Aerial Imagery / Maps
 * [EyewitnesstoHistory](http://www.eyewitnesstohistory.com/index.html) - Historical Eyewitness Testimonies
 * [HMDB](https://www.hmdb.org/) - Historical Marker Database
 * [⁠London Remembers](https://www.londonremembers.com/) - London Historical Marker Database
@@ -630,7 +629,7 @@
 * [ChinesePosters](https://chineseposters.net/) - Chinese Propaganda Poster History
 * [⁠Fashion History Timeline](https://fashionhistory.fitnyc.edu/) or [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion Resources / History
 * [PessimistsArchive](https://pessimistsarchive.org/) - Historical Technological Pessimism Archive
-* [⁠Anthropeum](https://anthropeum.com/) - Historical Artifact Guessing Game 
+* [⁠Anthropeum](https://anthropeum.com/) - Historical Artifact Guessing Game
 * [Time Portal](https://www.eggnog.ai/entertimeportal), [⁠WenWare](https://wen-ware.com/) or [TimeGuessr](https://timeguessr.com/) - Historical Time-Period GeoGuessr
 * [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
 
@@ -641,7 +640,7 @@
 * ⭐ **[⁠Historical Tech Tree](https://www.historicaltechtree.com/)** / [Discord](https://discord.gg/e96JwQjUmX) or [Calculating Empires](https://calculatingempires.net/) - Historical Discovery / Tech Timelines
 * [ETHW](https://ethw.org/) - Engineering and Technology History Wiki
 * [Museum of Obsolete Media](https://obsoletemedia.org/) - Physical Media Format Wiki / History
-* [BetaWiki](https://betawiki.net/wiki/Main_Page) / [Discord](https://discord.com/invite/XPz5Zm42tR) - Operating System / Software History 
+* [BetaWiki](https://betawiki.net/wiki/Main_Page) / [Discord](https://discord.com/invite/XPz5Zm42tR) - Operating System / Software History
 * [Old Computer Museum](https://oldcomputers.net/) - Computer History
 * [The Retro Web](https://theretroweb.com/) / [Discord](https://discord.gg/HWWH7hsk2p) / [GitLab](https://gitlab.com/ultimateretro/ultimateretro) or [⁠Hardware Museum](https://hw-museum.cz/) - Computer Hardware History
 * [⁠HP Computer Museum](https://www.hpmuseum.net/) or [The HP 9845 Project](https://www.hp9845.net/) - HP Computer History
@@ -676,7 +675,7 @@
 * [Tank Archives](https://www.tankarchives.com/) - WW2 Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
 * [NHHC](https://www.history.navy.mil/), [⁠RNRA](https://www.royalnavyresearcharchive.org.uk/), [⁠NavSource](https://www.navsource.net/), [WarshipsResearch](https://warshipsresearch.blogspot.com/) or [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) / [X](https://x.com/NavyHistorian) - Naval & Maritime History Sites
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
-* [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours 
+* [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours
 * [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Byzantine Military](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
@@ -719,7 +718,7 @@
 * [OpenSanctions](https://www.opensanctions.org/) - Government Sanctions Database / [GitHub](https://github.com/opensanctions/opensanctions)
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
 * [⁠Global Firepower](https://www.globalfirepower.com/) - Global Military Data
-* [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
+* [DataUNODC](https://data.unodc.org/) - Drug / Crime Statistics
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Statistics
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
 * [Climate Data](https://climate-data.org/), [Climate.us](https://www.climate.us/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
@@ -784,7 +783,6 @@
 * [MoveMap](https://www.movemap.io/) - North America Property Costs Map
 * [⁠Opportunity Atlas](https://www.opportunityatlas.org/) - Interactive Future Success Impact Map
 * [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
-* [Wealth, Shown to Scale](https://wealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
@@ -801,7 +799,7 @@
 * [⁠The Internet Classics Archive](https://classics.mit.edu/) - Classic Philosophy Literature
 * [⁠1000-Word Philosophy](https://1000wordphilosophy.com/) - 1000-Word Essays on Philosophical Topics
 * [Untools](https://untools.co/) - Better Thinking Tools
-* [⁠Landscape of Consciousness](https://loc.closertotruth.com/) - Consciousness Theory Index 
+* [⁠Landscape of Consciousness](https://loc.closertotruth.com/) - Consciousness Theory Index
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
@@ -846,7 +844,7 @@
 * [LibraryOfJuggling](https://libraryofjuggling.com/) - Juggling Technique Database
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [⁠Online Coin Club](https://onlinecoin.club/) - Coin Collectors Database / Info
-* [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database 
+* [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
 * [Activist Handbook](https://activisthandbook.org/) or [Privacy Guides Activism](https://www.privacyguides.org/en/activism/) - Campaigning / Activism Guides
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [UER](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Forum / [MAP](https://www.uer.ca/locations/gmaps/)
@@ -868,7 +866,7 @@
 * [LibreTexts Music](https://human.libretexts.org/Bookshelves/Music) - Music Learning
 * [⁠Z-Tonnetz](https://ztonnetz.com/) - Music Visualization Tool
 * [AudioZ](https://audioz.download/tutorials/) - Audio Courses / [Forum](https://audiosex.pro/)
-* [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials 
+* [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials
 * [Helio](https://helio.fm/) / [GitHub](https://github.com/helio-fm/helio-sequencer) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [Circle of Fifths](https://muted.io/circle-of-fifths/) - Visualize Notes, Chords and Keys
 * [ScoreCloud](https://scorecloud.com/), [ChordReader2](https://github.com/AndInTheClouds/chordreader2) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
@@ -878,7 +876,7 @@
 * [Piano Scribe](https://laqieer.github.io/piano-scribe/) - Piano Transcriber
 * [Learning Music](https://learningmusic.ableton.com/) or [Musicca](https://www.musicca.com/) - Music-Making Lessons
 * [Midiano](https://midiano.com/) / [Discord](https://discord.com/invite/SfFdbunEm2), [Piano Trainer](https://midi-piano-trainer.netlify.app/) / [GitHub](https://github.com/Floopdible/piano_trainer), [ZaneH Piano Trainer](https://zaneh.itch.io/piano-trainer) / [GitHub](https://github.com/ZaneH/piano-trainer), [Chord Nebula](https://chords.yottanami.com/), [sightread](https://sightread.dev/), [⁠Playsheet](https://playsheet.app/) or [PianoCheetah](https://pianocheetah.app) - Piano Practice / Learning
-* [⁠Fundamentals of Piano Practice](http://www.pianopractice.org/) - Piano Practice Book 
+* [⁠Fundamentals of Piano Practice](http://www.pianopractice.org/) - Piano Practice Book
 * [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator), [Songsterr](https://www.songsterr.com/) / [Downloader](https://www.songsterr-downloader.com/), [FAChords](https://www.fachords.com/) or [ChordBook](https://chordbook.com/) - Guitar Tools
 * [FretFlip](https://fretflip.com/guitar-scales), [Oolimo](https://www.oolimo.com/en/index.php), [StringScales](https://stringscales.com/), [My Fretboard Trainer](https://myfretboardtrainer.com/home/), [QFGM](https://quinnfetrowsguitarmachines.com/) or [GuitarScale](https://www.guitarscale.org/) - Learn Guitar Scales / Chords
 * [JamStart](https://jamstart.app/) - Spotify Chord Charts
@@ -953,7 +951,7 @@
 ## ▷ Rubiks Cube
 
 * 🌐 **[Cubing.net](https://www.cubing.net/)** - Cubing Tools
-* 🌐 **[Rubiks Cube Guide](https://rentry.co/cubingguide)** - ⁠Guide to Rubiks Cube / Resources
+* 🌐 **[Rubiks Cube Guide](https://rentry.co/cubingguide)** - Guide to Rubiks Cube / Resources
 * ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
 * ⭐ **[J Perm](https://jperm.net/)**, [CubeSkills](https://www.cubeskills.com/), [RubiksTrainer](https://rubikstrainer.com/) or [Easiest Solve](https://easiestsolve.com/) - Cubing Tutorials / Practice Resources
 * ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
@@ -1015,21 +1013,21 @@
 ## ▷ Go / Baduk / Weiqi
 
 * 🌐 **[Go Magic: How to Play Go](https://gomagic.org/how-to-play-go-rules/)** - Beginner Go Tutorial
-* 🌐 **[r/baduk](https://old.reddit.com/r/baduk/)** – Reddit community for Go / Baduk / Weiqi
-* ⭐ **[Online Go Server (OGS)](https://online-go.com/)** – Modern Online Go Platform / [GitHub](https://github.com/online-go)
-* ⭐ **[Sensei's Library](https://senseis.xmp.net/)** – Comprehensive Go Wikipedia 
-* ⭐ **[Sabaki](https://sabaki.yichuanshen.de/)** – Go Board & SGF Editor
+* 🌐 **[r/baduk](https://old.reddit.com/r/baduk/)** - Reddit community for Go / Baduk / Weiqi
+* ⭐ **[Online Go Server (OGS)](https://online-go.com/)** - Modern Online Go Platform / [GitHub](https://github.com/online-go)
+* ⭐ **[Sensei's Library](https://senseis.xmp.net/)** - Comprehensive Go Wikipedia 
+* ⭐ **[Sabaki](https://sabaki.yichuanshen.de/)** - Go Board & SGF Editor
 * [⁠Kaya](https://kayago.app/) - Go (Baduk/Weiqi) Board Analysis Tool / [GitHub](https://github.com/kaya-go/kaya)
 * [Black to Play](https://blacktoplay.com/) - Go Puzzles
-* [KataGo](https://katagotraining.org/) or [KaTrain](https://github.com/sanderland/katrain) – Open-Source Neural Network Go AI
-* [The Interactive Way To Go](https://playgo.to/en) – Interactive Beginner Tutorial 
-* [Josekipedia](https://www.josekipedia.com/) – Dictionary for Corner Openings
-* [Waltheri's Go Pattern Search](http://ps.waltheri.net/) – Pro Game Pattern Search Engine
-* [GoProblems](https://goproblems.com/) – Tactical Puzzle Database
-* [GoKibitz](https://gokibitz.com/) – Game Reviews and Community Feedback
+* [KataGo](https://katagotraining.org/) or [KaTrain](https://github.com/sanderland/katrain) - Open-Source Neural Network Go AI
+* [The Interactive Way To Go](https://playgo.to/en) - Interactive Beginner Tutorial 
+* [Josekipedia](https://www.josekipedia.com/) - Dictionary for Corner Openings
+* [Waltheri's Go Pattern Search](http://ps.waltheri.net/) - Pro Game Pattern Search Engine
+* [GoProblems](https://goproblems.com/) - Tactical Puzzle Database
+* [GoKibitz](https://gokibitz.com/) - Game Reviews and Community Feedback
 * [Baduk.club](https://baduk.club/map/) - Map of Go clubs and Players
-* [KGS Go Server](https://www.gokgs.com/) – Classic server / Teaching Community
-* [Igowin](https://smart-games.com/igowin.html) – 9x9 Desktop Go AI for Beginners
+* [KGS Go Server](https://www.gokgs.com/) - Classic server / Teaching Community
+* [Igowin](https://smart-games.com/igowin.html) - 9x9 Desktop Go AI for Beginners
 
 ***
 
@@ -1067,7 +1065,7 @@
 
 ## ▷ Multi-Language
 
-* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [LibreTexts Languages](https://human.libretexts.org/Bookshelves/Languages), [/int/ Guide](https://4chanint.miraheze.org/), [⁠MondeLibrary](https://library.mondecast.com/?price=free) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - Language Learning Resources
+* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [LibreTexts Languages](https://human.libretexts.org/Bookshelves/Languages), [/int/ Guide](https://4chanint.miraheze.org/), [⁠MondeLibrary](https://library.mondecast.com/?price=free), [⁠Language Link Database](https://universeofmemory.com/language-links-database/) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - Language Learning Resources
 * 🌐 **[Speechling](https://speechling.com/tools)** - Language Learning Tools
 * 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** or [Dictionary Index](https://lyricstranslate.com/en/resources) - Language Dictionary Indexes
 * 🌐 **[Talking Dictionaries](https://talkingdictionary.swarthmore.edu/)** - Endangered Language Dictionary Index
@@ -1080,7 +1078,7 @@
 * ⭐ **[Omniglot](https://omniglot.com/)** - Writing System & Language Encyclopedia
 * [⁠Lute](https://luteorg.github.io/lute-manual) - Learn a Language via Reading / [GitHub](https://github.com/LuteOrg/lute-v3)
 * [⁠Chimahon](https://github.com/sohilsayed/chimahon) - Learn Languages via Manga, Novels & Anime / Android
-* [⁠Lingotype](https://www.lingotype.app/) - Learn Languages via Typing 
+* [⁠Lingotype](https://www.lingotype.app/) - Learn Languages via Typing
 * [Language Learners](https://forum.language-learners.org/) - Language Learning Forum / Community
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings
@@ -1160,7 +1158,6 @@
 ## ▷ Japanese
 
 * 🌐 **[yame dame](https://yameda.me/)**, [Tatsumoto](https://tatsumoto-ren.github.io/), [GaijinRyman](https://github.com/GaijinRyman/LearningJapaneseResources), [Nihongo](https://nihongo-e-na.com/eng/), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/) or [AnimeCards](https://animecards.site/) - Learning Resources
-* 🌐 **[Japanese Pitch Accent Resources](https://github.com/olety/japanese-pitch-accent-resources)** - Japanese Accent Resources
 * ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
 * ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
 * ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
@@ -1228,10 +1225,10 @@
 
 * 🌐 **[Cantonese Sheik](https://www.cantonese.sheik.co.uk/)** - Cantonese Learning Resources
 * [Live Lingua Cantonese](https://www.livelingua.com/courses/Cantonese) - Free Cantonese Courses
-* [⁠A Brief Cantonese Manual](https://schmitztimo.wordpress.com/2026/04/07/a-brief-cantonese-manual/) - Cantonese Beginners Manual 
+* [⁠A Brief Cantonese Manual](https://schmitztimo.wordpress.com/2026/04/07/a-brief-cantonese-manual/) - Cantonese Beginners Manual
 * [EdUHK](https://corpus.eduhk.hk/cantonese/e_index.html), [OpenCantonese](https://opencantonese.org/), [polyu](https://www.polyu.edu.hk/clc/cantonese/home/?lang=en) or [eMini_MOOC2k](https://www.eduhk.hk/cle/resources/Mini_MOOC2/index.htm) - Cantonese Learning / Practice
 * [Cantonese.ca](https://cantonese.ca/) or [CantoScrolls](https://cantoscrolls.com/) - Cantonese Vocabulary
-* [Beginner's Cantonese](https://ywjt2.user.srcf.net/cantonese/) - Cantonese Grammar Lesson 
+* [Beginner's Cantonese](https://ywjt2.user.srcf.net/cantonese/) - Cantonese Grammar Lesson
 * [CantoWords](https://cantowords.com/) or [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp) - Cantonese Dictionary
 * [HKDict](https://hkdict.megaexplorer.net/) - Contemporary Cantonese-English Dictionary
 * [Cantonese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
@@ -1342,7 +1339,7 @@
 * [Ithkuil by Example](https://v8.zsnout.com/ithkuil/learn/) - Ithkuil Learning
 * [Ithkuil](https://ithkuil.net/) - Ithkuil Learning / Focused on Logical Precision
 * [The Toaq Language](https://toaq.net/) - Toaq Learning Wiki / Course / Focused on Formal Logic / [Discord](https://discord.com/invite/BjRry9QtwY)
-* [⁠Viossa Diskordseгver](https://discord.com/invite/g3mG2gYjZD) (discord) - Viossa Language Learning Community / Artificial Pidgin Language 
+* [⁠Viossa Diskordserver](https://discord.com/invite/g3mG2gYjZD) (discord) - Viossa Language Learning Community / Artificial Pidgin Language 
 * [Eberban](https://eberban.github.io/eberban/) / [Discord](https://discord.gg/FChFEHEet8) or [Learn Eberban](https://learn-eberban.github.io/) - Eberban Language Learning / Focused on Simplicity, Expressiveness & Regularity
 * [Xextan](https://xextan.github.io/) - Xextan Language Learning / Focused on Simplicity + Ease of Learning / [Wiki](https://xextan.miraheze.org/wiki/Main_Page) / [Discord](https://discord.gg/4Wz7EeQJ2g)
 * [Learn Na'vi](https://learnnavi.org/) - Na’vi (Avatar) Language Learning / Community / [Forum](https://forum.learnnavi.org/) / [Discord](https://discord.gg/LearnNavi)
@@ -1351,7 +1348,7 @@
 
 # ► Developer Learning
 
-* 🌐 **[Awesome Courses](https://github.com/prakhar1989/awesome-courses/)** or **[Awesome Certificates](https://panx.io/awesome-certificates/)** / [GitHub](https://github.com/PanXProject/awesome-certificates) - Dev Course Indexes
+* 🌐 **[Awesome Certificates](https://panx.io/awesome-certificates/)** / [GitHub](https://github.com/PanXProject/awesome-certificates) - Dev Course Indexes
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
 * 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)**, [r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started), [Programming Learning Index](https://github.com/bobeff/programming-math-science), [⁠awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
 * 🌐 **[Roadmap](https://roadmap.sh/)** - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
@@ -1371,7 +1368,7 @@
 * [DevToolTips](https://devtoolstips.org/) - Developer Tips
 * [Checki0](https://checkio.org/) - Code Learning Games
 * [Scrimba](https://scrimba.com/) or [⁠VittaScience](https://en.vittascience.com/code) - Interactive Programming Learning
-* [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
+* [CloudSkillsBoost](https://www.skills.google/paths) - Programming Courses
 * [⁠MOOC.fi](https://www.mooc.fi/en/) - Programming Courses 
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
@@ -1438,12 +1435,12 @@
 * [Tea Press](https://greenteapress.com/wp) - Python Learning Book
 * [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) - Android Python IDE + Learning
 * [Learn C](https://www.learn-c.org/) - C Tutorials
-* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) / [GitHub](https://github.com/isocpp/CppCoreGuidelines) or [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips 
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) / [GitHub](https://github.com/isocpp/CppCoreGuidelines) or [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips
 * [Learn C++](https://www.learncpp.com/) or [StudyPlan](https://www.studyplan.dev/) - C++ Lessons / Tutorials
 * [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
 * [AmigosCode](https://www.youtube.com/@amigoscode), [Java Design Patterns](https://java-design-patterns.com/), [Modern Java](https://javabook.mccue.dev/) or [learncs.online](https://www.learncs.online/) - Java / Kotlin Guides
 * [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
-* [LearnGo](https://github.com/inancgumus/learngo), [Tour Go](https://go.dev/tour) or [play-with-go](https://github.com/play-with-go/play-with-go) - Learn Go Programming
+* [LearnGo](https://github.com/inancgumus/learngo) or [Tour Go](https://go.dev/tour) - Learn Go Programming
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [Poignant](https://poignant.guide/) or [Try Ruby](https://try.ruby-lang.org/) - Learn Ruby
 * [Learn Perl](https://www.learn-perl.org/) - Learn Perl
@@ -1520,7 +1517,7 @@
 * [Computerphile](https://www.youtube.com/@Computerphile/) or [CSDojo](https://www.youtube.com/@CSDojo) - Computer Science YouTube Channels
 * [ApressOpen](https://link.springer.com/brands/apress/books) - Computer Science Books
 * [Papers We Love](https://paperswelove.org/) - Computer Science Research Papers
-* [⁠System Design Academy](https://github.com/systemdesign42/system-design-academy) - Large Scale System Design Learning 
+* [⁠System Design Academy](https://github.com/systemdesign42/system-design-academy) - Large Scale System Design Learning
 * [CS Academy](https://csacademy.com/) - Interactive Computer Science Lessons
 * [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
 * [Copetti](https://www.copetti.org/) - In-depth Console Architecture Analysis / [GitHub](https://github.com/flipacholas/Architecture-of-consoles)
@@ -1539,7 +1536,7 @@
 ## ▷ Data Science
 
 * 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** - Data Science Resources
-* 🌐 **[⁠Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)** - Data Analysis Resources 
+* 🌐 **[⁠Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)** - Data Analysis Resources
 * 🌐 **[Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - Data Engineer Resources
 * ⭐ **[OSSU Data Science](https://github.com/ossu/data-science)** - Data Science Roadmap / [Discord](https://discord.gg/wuytwK5s9h)
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
@@ -1573,7 +1570,6 @@
 * [Exercism](https://exercism.org/), [HackerRank](https://www.hackerrank.com/) or [CS Circles](https://cscircles.cemc.uwaterloo.ca/) - Programming Lessons
 * [Hello Algo](https://www.hello-algo.com/en/) - Data Structures and Algorithms Course
 * [Algorithms Books](https://algorithmsbook.com/) - MIT Algorithm Focused Books
-* [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
 * [VisuAlgo](https://visualgo.net/) or [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Data Structure & Algorithm Visualizations
@@ -1595,7 +1591,7 @@
 * [Deceptive Patterns](https://www.deceptive.design/) - Deceptive User Experience Examples
 * [UI Coach](https://uicoach.io/) - UI Design Challenge Generator
 * [HTML Dog](https://htmldog.com/) - Frontend Tutorials & Examples
-* [FrontEndMentor](https://www.frontendmentor.io/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
+* [FrontEndMentor](https://www.frontendmentor.io/) - Frontend Design Challenges
 * [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend Learning Index
 * [Frontend Bootcamp](https://microsoft.github.io/frontend-bootcamp/) - Frontend Workshop
 
@@ -1653,7 +1649,6 @@
 * [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
 * [Shadertoy](https://www.shadertoy.com/) - Real-Time Shader Dev Platform
 * [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
-* [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
 * [The Book of Shaders](https://thebookofshaders.com/) - Fragment Shaders Guide
 * [EmuDev](https://emudev.org/) - Emulator Development Information / [Discord](https://discordapp.com/invite/dkmJAes)
 * [⁠EmuDevs](https://afska.github.io/emudevz/) - NES Emulator Development Learning Game 
@@ -1670,13 +1665,11 @@
 * [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3) or [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - Machine Learning Roadmap / Guide
-* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources / Guide
 * [LLM Visualization](https://bbycroft.net/llm), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt) or [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Transformer and LLM Visualizations
 * [ML Visualized](https://ml-visualized.com/) - Machine Learning Visualizations / [GitHub](https://github.com/gavinkhung/machine-learning-visualized)
 * [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems
-* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem-Solving Book
 
 ***
 
@@ -1764,7 +1757,6 @@
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
 * [Wordwall](https://wordwall.net/) - Lesson Creator
-* [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 * [Internet-In-A-Box](https://internet-in-a-box.org/) - Create Free Offline Learning Hotspots / [GitHub](https://github.com/iiab/iiab)
 
 ***

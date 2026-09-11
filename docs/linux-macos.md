@@ -10,7 +10,7 @@
 
 ***
 
-* ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux Guides / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
+* ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux Guides / [Manuals](https://man.archlinux.org/)
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
 * [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
 * [Linux Journey](https://labex.io/linuxjourney) - Interactive Linux Guides
@@ -142,7 +142,7 @@
 * [KDE Applications](https://apps.kde.org/) or [KDE Store](https://store.kde.org/browse/) - KDE Apps & Themes
 * [Flatpak](https://flatpak.org/) - Sandboxed Package Manager / [Manage Permissions](https://github.com/tchx84/flatseal)
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
-* [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [⁠Shelly](https://shellyalpm.com/), [pkgx](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
+* [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [⁠Shelly](https://www.seafoam-labs.org/shelly-alpm), [pkgx](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
 * [Nala](https://gitlab.com/volian/nala), [apt-fast](https://github.com/ilikenwf/apt-fast) or [APTUI](https://github.com/mexirica/aptui) - TUI Frontends for APT Package Manager
 * [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap) or [AM](https://github.com/ivan-hc/AM) - App Image Managers
 * [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Linux Package Database
@@ -282,7 +282,6 @@
 * [Mindfulness at the Computer](https://fswb.codeberg.page/mindfulness-at-the-computer/) - Productivity Managers
 * [GNOME Evolution](https://help.gnome.org/evolution/) - Desktop Calendar
 * [dLine](https://github.com/jazz-it/dline) or [⁠calcurse](https://calcurse.org/) - CLI Calendars
-* [dijo](https://github.com/oppiliappan/dijo) - Activity Tracker
 
 ***
 
@@ -304,7 +303,6 @@
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [⁠GamingOnLinux](https://www.gamingonlinux.com/) - Linux Gaming News
-* [Proton-LinUwUx](https://github.com/xshaduwulfx/proton-linuwux) - Automated Proton Builds for Hypervisor(-less) Denuvo Bypass
 * [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlocker + Auto Online Fix / [GitHub](https://github.com/madoiscool/LuaTools)
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlockers / [Installer](https://github.com/Novattz/creamlinux-installer)
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
@@ -354,7 +352,6 @@
 * [Securely Wipe Disk](https://wiki.archlinux.org/title/Securely_wipe_disk) or [SSD Memory Cell Clearing](https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing) - Linux Disk Wipe Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
-* [Lockigest](https://github.com/elmsec/lockigest) - Screen Locker
 * [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [gufw](https://github.com/costales/gufw) - Linux Firewalls
 * [Tracee](https://aquasecurity.github.io/tracee/latest) - Runtime Security and Forensics
@@ -448,12 +445,11 @@
 
 ## ▷ File Tools
 
-* 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
 * ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [rQuickshare](https://github.com/Martichou/rquickshare), [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/) / [Tray Support](https://martchus.github.io/syncthingtray/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/), [Cattail](https://github.com/nerdyslacker/cattail) or [Sharing](https://github.com/parvardegr/sharing) - File Sync / Transfer
 * ⭐ **[lf](https://github.com/gokcehan/lf)**, [ranger](https://ranger.fm/) / [Source Code](https://codeberg.org/ranger/pages), [⁠broot](https://dystroy.org/broot) / [GitHub](https://github.com/Canop/broot), [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [Yazi](https://yazi-rs.github.io/) / [GitHub](https://github.com/sxyazi/yazi), [fm](https://github.com/mistakenelf/fm), [superfile](https://superfile.dev/) / [GitHub](https://github.com/yorukot/superfile), [walk](https://github.com/antonmedv/walk) or [Joshuto](https://github.com/kamiyaa/joshuto) - Terminal File Managers
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[Filelight](https://apps.kde.org/en-gb/filelight/)** - Disk Usage Analyzers / GUI
 * ⭐ **[dut](https://codeberg.org/201984/dut)**, **[gdu](https://github.com/dundee/gdu)**, **[NCDU](https://dev.yorhel.nl/ncdu)** - Disk Usage Analyzers / CLI
-* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers / Search
+* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls) or [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) - File Explorers / Search
 * [The Filesystem Hierarchy Standard](https://i.ibb.co/Mx53xj3R/image.png), [2](https://files.catbox.moe/2390ha.png), [3](https://i.imgur.com/0vfM4dm.png) - Linux Filesystem Chart
 * [Dolphin](https://userbase.kde.org/Dolphin) / [Source Code](https://invent.kde.org/system/dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
 * [PeaZip](https://peazip.github.io/) / [GitHub](https://github.com/peazip/PeaZip/), [pigz](https://zlib.net/pigz/) / [GitHub](https://github.com/madler/pigz), [p7zip](https://p7zip.sourceforge.net/) or [GNU Gzip](https://www.gnu.org/software/gzip/) - File Archivers / Unzippers / Compression
@@ -493,7 +489,7 @@
 * ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [Plugins](https://github.com/michaelbrusegard/awesome-wezterm) / [GitHub](https://github.com/wezterm/wezterm), [tabby](https://tabby.sh/), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/) or [emacs-eat](https://codeberg.org/akib/emacs-eat) - Linux Terminal Emulators
 * ⭐ **[LinuxCommand](https://www.linuxcommand.org/tlcl.php)**, [Terminal Guide](https://www.terminal.guide/), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [ManKier](https://www.mankier.com/) - Command-Line / Terminal Guides
 * [⁠WebTerm](https://webterm.app/) - Terminal Learning Sandbox
-* [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) or [⁠WTF](https://wtfutil.com/) / [GitHub](https://github.com/wtfutil/wtf) - Terminal Dashboards
+* [⁠WTF](https://wtfutil.com/) / [GitHub](https://github.com/wtfutil/wtf) - Terminal Dashboards
 * [Starship](https://starship.rs/) or [Liquidprompt](https://github.com/liquidprompt/liquidprompt) - Bash / Zsh Prompt
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
 * [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
@@ -531,7 +527,7 @@
 
 # ► Customization
 
-* 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)**, **[⁠Awesome Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)** or [Pling](https://www.pling.com/s/All-Linux/browse/) - Linux Customization Resources
+* 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)**, **[⁠Awesome Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)** or [Pling](https://www.opendesktop.org/s/All-Linux/browse/) - Linux Customization Resources
 * ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)**, **[Aylur's GTK Shell](https://github.com/Aylur/ags)** or [⁠Quickshell](https://quickshell.org/) - Widgeting Systems
 * ⭐ **[unixporn](https://unixporn.github.io/)** - Customization Community / [Subreddit](https://reddit.com/r/unixporn) / [Discord](https://discord.gg/unixporn) / [GitHub](https://github.com/unixporn)
 * [Fetch](https://asdesai.com/p/fetch/) - Custom 3D Rotating Distro Logo / [GitHub](https://github.com/areofyl/fetch)
@@ -644,7 +640,7 @@
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
 * [Later](https://getlater.app/) - Restore App Sessions / [GitHub](https://github.com/alyssaxuu/later)
 * [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/), [AuroraEditor](https://auroraeditor.com/) or [OpenCode](https://opencode.ai/) - Code Editors
-* [SD Buddy](https://github.com/breadthe/sd-buddy), [CHARL-E](https://www.charl-e.com/) or [Swift Core ML Diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Stable Diffusion Apps
+* [CHARL-E](https://www.charl-e.com/) or [Swift Core ML Diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Stable Diffusion Apps
 * [ColorSlurp](https://colorslurp.com/) or [Material-Colors-native](https://github.com/BafS/Material-Colors-native) - Color Picker
 * [Use Contrast](https://usecontrast.com/) - Check Color Contrast Ratios
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
@@ -669,7 +665,7 @@
 
 * 🌐 **[Awesome macOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
-* ⭐ **[Homebrew](https://brew.sh/)** / [X](https://x.com/MacHomebrew), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers / [Homebrew GUI](https://github.com/buresdv/Cork/)
+* ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://github.com/buresdv/Cork/) / [Casks GUI](https://github.com/alielsokary/CaskHub) / [X](https://x.com/MacHomebrew), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers 
 * ⭐ **[AppsTorrent](https://appstorrent.ru/)** - Downloads (not torrents) / Login Required for some Files
 * [nMac](https://nmac.to/)
 * [MacBB](https://macbb.org/)
@@ -742,6 +738,7 @@
 * [CS.RIN.RU](https://cs.rin.ru/forum) - Mac Games / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+* [⁠MacSteam](https://github.com/Selectively11/macSteam) - Steam Game + DLC Unlocker
 * [MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
 * [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
 * [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
@@ -781,7 +778,7 @@
 * [LinkLiar](https://halo.github.io/LinkLiar/) - Spoof MAC Address
 * [Kextviewr](https://objective-see.org/products/kextviewr.html) - View All Kernel Modules
 * [mac_apt](https://github.com/ydkhatri/mac_apt) - Artifact Parsing Tool
-* [Tunnelblick](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
+* [Tunnelblick](https://tunnelblick.net/) or [Passepartout](https://partout.io/passepartout/) - VPN Tunnel
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - Privacy-Based Email Client
 * [Status](https://status.app/) - Encrypted Messaging Client
 
@@ -808,7 +805,7 @@
 * [⁠Mac Terminal for Humans](https://www.macterminal.cc/commands) - macOS Terminal Cheat Sheet 
 * [MuMuPlayer](https://www.mumuplayer.com/), [NoxPlayer](https://www.bignox.com/) or [Genymotion](https://www.genymotion.com/download/) - Android on macOS
 * [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
-* [Conky](https://conky.cc), [eul](https://github.com/gao-sun/eul), [Stats](https://mac-stats.com/) / [GitHub](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors / [Conky Colors](https://github.com/helmuthdu/conky_colors)
+* [Conky](https://conky.cc/) / [GitHub](https://github.com/brndnmtthws/conky), [Stats](https://mac-stats.com/) / [GitHub](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors / [Conky Colors](https://github.com/helmuthdu/conky_colors)
 * [Hot](https://github.com/macmade/hot) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
 * [Mole](https://github.com/tw93/Mole) - System Cleanup / Optimization Multi-Tool
@@ -842,21 +839,19 @@
 * [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
 * [Clocker](https://abhishekbanthia.com/clocker/) or [MeetingBar](https://meetingbar.app/) - Menu Bar Meetings Calendars
 * [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
-* [MacLaunch](https://github.com/hazcod/maclaunch) - Manage Startup Items
-* [⁠Thaw](https://github.com/stonerl/Thaw) - Menu Bar Manager
+* [⁠Thaw](https://github.com/thaw-app/Thaw) - Menu Bar Manager
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
 * [Sloth](https://github.com/sveinbjornt/Sloth) - Process Manager
 * [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704) - Prevent Sleep Mode / Highly Configurable
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevent Sleep Mode / Lightweight
 * [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [1Piece](https://app1piece.com/), [Loop](https://github.com/MrKai77/Loop), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window Managers
 * [Maccy](https://maccy.app/), [ClipBook](https://clipbook.app/), [ClipPocket](https://github.com/dhahd/ClipPocket) or [clipboard-history](https://github.com/SUPERCILEX/clipboard-history) - Clipboard Managers
-* [Pictogram](https://pictogramapp.com/), [IconSet](https://github.com/tale/iconset), [macOSicons](https://macosicons.com/) / [Discord](https://discord.gg/f4mTRyyTkT) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
+* [Pictogram](https://pictogramapp.com/), [macOSicons](https://macosicons.com/) / [Discord](https://discord.gg/f4mTRyyTkT) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
 * [Tintd](https://www.tintd.app/) or [Manila](https://github.com/neilsardesai/Manila) - Change Folder Colors
 * [MacPaper](https://github.com/naomisphere/macpaper/) - Mac Wallpaper Manager
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - Dynamic Wallpaper App
 * [wallpapper](https://github.com/mczachurski/wallpapper) or [Equinox](https://equinoxmac.com/) - Dynamic Wallpaper Creators
 * [Plash](https://sindresorhus.com/plash) - Use Website as Wallpaper
-* [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Performance Analysis with Intel PT
 

@@ -91,7 +91,7 @@
 
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Resources](https://github.com/ahkscript/awesome-AutoHotkey) / [Discord](https://discord.com/invite/Aat7KHmG7v) / [GitHub](https://github.com/AutoHotkey/AutoHotkey)
 * [Scheduler](https://www.splinterware.com/products/scheduler.html), [⁠FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
-* [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt)
+* [AutoIt](https://www.autoitscript.com/)
 * [Tinytask](https://tinytask.net/)
 * [sikulix](http://sikulix.com/)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
@@ -114,7 +114,7 @@
 * [Clink](https://github.com/chrisant996/clink) - Command Line Editing
 * [Nushell](https://www.nushell.sh/) - Alt Shell / [GitHub](https://github.com/nushell/nushell)
 * [⁠procs](https://github.com/dalance/procs) - ps (Process Status) Replacement
-* [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) or [⁠WTF](https://wtfutil.com/) / [GitHub](https://github.com/wtfutil/wtf) - Terminal Dashboards
+* [⁠WTF](https://wtfutil.com/) / [GitHub](https://github.com/wtfutil/wtf) - Terminal Dashboard
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
@@ -235,7 +235,7 @@
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring / Windows
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor / Use Lite Version / Windows
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor / Windows
-* [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / Windows / [GitHub](https://github.com/tarcode-apps/BatteryMode)
+* [BatteryMode](https://en.bmode.tarasovlabs.com/) - System Tray Battery Percentage / Managers / Windows / [GitHub](https://github.com/tarcode-apps/BatteryMode)
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, macOS, Linux, Android
 * [⁠btop4win](https://github.com/aristocratos/btop4win) - System Info & Monitoring / Windows
 * [⁠NeoHtop](https://abdenasser.github.io/neohtop/) or [NeoHtop-cli](https://github.com/Abdenasser/neohtop-cli) - Task Manager Alt / Windows, macOS, Linux
@@ -264,7 +264,6 @@
 ## ▷ Disk Tools
 
 * 🌐 **[Awesome Storage](https://github.com/okhosting/awesome-storage)** - File Storage Resources
-* 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - Data Hoarding Resources
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)**, [TreeSize](https://www.jam-software.com/treesize) or [WinDirStat](https://windirstat.net/) / [GitHub](https://github.com/windirstat/windirstat/) - Disk Usage Analyzers
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (Search) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Partition Managers
@@ -296,7 +295,6 @@
 * [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
 * [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
 * [⁠ICC Profiles Guide](https://gist.github.com/Overimagine1/c0e5ebe60838e7dd0417549ea7aae260) - Guide for Finding ICC Profiles
-* [⁠novideo_srgb](https://github.com/ledoge/novideo_srgb) - Restrict NVIDIA GPUs to sRGB / Prevent Oversaturation
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
@@ -424,7 +422,7 @@
 
 # ► Customization
 
-* 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)**, [Frutiger Aero Archive](https://frutigeraeroarchive.org/) or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Customization Resources
+* 🌐 [Frutiger Aero Archive](https://frutigeraeroarchive.org/) or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Customization Resources
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** / [Discord](https://discord.com/invite/rainmeter) or [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) / [Discord](https://discord.gg/ABfASx5ZAJ) - Desktop Customization Environments
 * ⭐ **[OpenRGB](https://openrgb.org/)**, **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
 * ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Collections
@@ -435,7 +433,7 @@
 * [SecureUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - UX Patcher
 * [MechvibesDX](https://github.com/hainguyents13/mechvibes-dx) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
 * [ElectricSheep](https://electricsheep.org/) or [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Screensavers
-* [⁠Wallpapers Clan](https://wallpapers-clan.com/), [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://flaired-folders.vercel.app/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
+* [⁠Wallpapers Clan](https://wallpapers-clan.com/), [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://www.flaredfolders.com/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) / [Discord](https://discord.gg/translucenttb), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
@@ -464,7 +462,6 @@
 * [Aura Theme](https://github.com/daltonmenezes/aura-theme) - Custom App Theme
 * [theme.park](https://theme-park.dev/) - Custom App Theme
 * [⁠Tokyo Night](https://tokyonight.org/) - Custom App Theme
-* [Solarized](https://ethanschoonover.com/solarized/) - Custom App Theme / [GitHub](https://github.com/altercation/solarized)
 * [gruvbox](https://github.com/morhetz/gruvbox) - Custom App Theme / [GitHub](https://github.com/morhetz/gruvbox-contrib)
 * [⁠Flexoki](https://stephango.com/flexoki/) - Custom App Theme / [GitHub](https://github.com/kepano/flexoki)
 * [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Old School App Themes
@@ -510,7 +507,6 @@
 * ⭐ **Wallpaper Engine Tools** - [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904)
 * ⭐ **[Lively](https://www.rocksdanister.com/lively/)** / [GitHub](https://github.com/rocksdanister/lively) or [ScreenPlay](https://screen-play.app/) - Live Wallpaper Manager
 * [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
-* [wallhaven-desktop](https://github.com/luisflorido/wallhaven-desktop) - Wallhaven Wallpaper Manager
 * [SuperPaper](https://github.com/hhannine/superpaper) - Cross-Platform Multi-Monitor Wallpaper Manager
 * [Background Switcher](https://johnsad.ventures/software/backgroundswitcher/), [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Auto Change Wallpaper
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers

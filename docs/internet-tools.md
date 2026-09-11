@@ -779,7 +779,7 @@
 
 ## ▷ Chrome Extensions
 
-* 🌐 **[Chrome Web Store](https://chromewebstore.google.com/)**, [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) or [Crx4Chrome](https://www.crx4chrome.com/) - Chrome Addon Stores
+* 🌐 **[Chrome Web Store](https://chromewebstore.google.com/)** or [Crx4Chrome](https://www.crx4chrome.com/) - Chrome Addon Stores
 * ⭐ **[chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)** - Add Extensions to Ungoogled Chromium
 * ⭐ **[Clipper](https://clipper.website/)** - Copy Content in Multiple Formats
 * [Extensity](https://chromewebstore.google.com/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) / [GitHub](https://github.com/sergiokas/Extensity) or [Extension Manager](https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - Extension Managers

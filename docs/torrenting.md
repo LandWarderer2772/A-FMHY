@@ -78,7 +78,7 @@
 ***
 
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, macOS, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
-* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Torrent Client / [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer) / Windows, macOS, Linux
+* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Torrent Client / [Plugins](https://deluge-torrent.org/plugins/) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer) / Windows, macOS, Linux
 * ⭐ **[Transmission](https://transmissionbt.com/)** - Torrent Client / Windows, macOS, Linux
 * ⭐ **[rTorrent](https://rtorrent.net/)** - Torrent Client / [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.io/), [2](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / Linux / [GitHub](https://github.com/rakshasa/rtorrent) 
 * [RuTorrent](https://github.com/Novik/ruTorrent) - RTorrent Web Frontend

@@ -84,7 +84,7 @@
 
 ### Subdomains Services
 
-[DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://thedev.id/), [GetFreeDomain](https://www.getfreedomain.name/)
+[DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://upset.dev/), [GetFreeDomain](https://www.getfreedomain.name/)
 
 ***
 
@@ -186,9 +186,9 @@
 ## Internet Archive Tools
 
 * [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm) / [GitHub](https://github.com/Pendonym/Internet-Archival-Bot)
-- [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books in PDF Format
-- [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
-- [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool
+* [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books in PDF Format
+* [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
+* [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool
 
 ***
 
@@ -197,7 +197,6 @@
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j)
 
 [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heylearning.net/), [Renshuu](https://www.renshuu.org/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/), [Tofugu](https://www.tofugu.com/), [KanaDojo](https://kanadojo.com/en) / [GitHub](https://github.com/lingdojo/kana-dojo), [⁠Lingual Ninja](https://www.lingual-ninja.com/), [⁠Ten](https://www.ten.guide/) / [Discord](https://discord.com/invite/immerse)
-
 
 ### YouTube Channels
 
@@ -236,7 +235,7 @@
 
 ## Manga Downloaders
 
-[Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mangodl](https://github.com/liamtoaldo/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl)
+[Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangodl](https://github.com/liamtoaldo/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl)
 
 ***
 
@@ -271,7 +270,7 @@
 
 ### AniList Tools
 
-[Multiple Tools](https://due.moe/tools) / [Desktop](https://github.com/CosmicPredator/AniMoe) / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail) / [List Comparison / Migration](https://animelistdiff.zerolabs.fyi/) / [MPV Sync](https://github.com/hotsno/keroro) / [Tier Lists](https://www.gomitier.tech/)
+[Multiple Tools](https://due.moe/tools) / [Desktop](https://github.com/CosmicPredator/AniMoe) / [Extras](https://greasyfork.org/en/scripts/370473-automail) / [List Comparison / Migration](https://animelistdiff.zerolabs.fyi/) / [MPV Sync](https://github.com/hotsno/keroro) / [Tier Lists](https://www.gomitier.tech/)
 
 ***
 

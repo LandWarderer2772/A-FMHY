@@ -13,7 +13,7 @@
 * ⭐ **[Reincubate Camo](https://camo.com/studio)** - Use Any Camera as Webcam
 * [Kast](https://kast.gg/), [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy), [⁠Broadcast Box](https://b.siobud.com/) / [GitHub](https://github.com/Glimesh/broadcast-box), [Screen Share Party](https://ba.net/screen/), [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/) or [Screen-Sharing](https://share-your-screen.vercel.app/) / [GitHub](https://github.com/tonghohin/screen-sharing) - Web-Based Screen Sharing
 * [⁠LonelyScreen](https://www.lonelyscreen.com/) or [⁠uxplay-windows](https://github.com/leapbtw/uxplay-windows) - AirPlay Receivers
-* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [Rope](https://github.com/Hillobar/Rope), [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
+* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [Rope](https://github.com/Hillobar/Rope) or [SimSwap](https://github.com/neuralchen/SimSwap) - Video Face Swap Tools
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media / Video
 * [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Video Compare](https://github.com/pixop/video-compare) - Video Quality Comparison & Analysis Tools
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
@@ -99,7 +99,6 @@
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, macOS, Linux / [Source Code](https://codeberg.org/mbunkus/mkvtoolnix)
 * ⭐ **[Basics to the Art of Remuxing](https://clarasguide.valeena.workers.dev/Guides/remuxing/)** - Learn How to Remux Videos
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
-* [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos / Windows, Linux
 * [IFME](https://github.com/Anime4000/IFME) - Video Encoding / Windows, Linux
 * [Av1an](https://github.com/rust-av/Av1an) - Video Encoding / Windows, macOS, Linux
 * [FastFlix](https://fastflix.org/) - Video Conversion / Windows, macOS, Linux / [GitHub](https://github.com/cdgriffith/FastFlix)
@@ -162,7 +161,7 @@
 * [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
-* [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [gInk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
+* [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [gInk](https://github.com/geovens/gInk), [Screenshot](https://jpgonline.com/screenshot) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
 * [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
 * [⁠Twitch Poll Overlay](https://poll.ma.pe/) - ⁠Twitch Poll Overlay
@@ -406,7 +405,7 @@
 
 * ⭐ **[r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
 * ⭐ **[Eyecandy](https://eyecannndy.com/)** - Visual Technique Examples / [Discord](https://discord.com/invite/WRyrPkWEzT)
-* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio), [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
+* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio), [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
 
@@ -528,7 +527,6 @@
 * [Viggle](https://viggle.ai/) - Animated Character Creators / [Discord](https://discord.com/invite/viggle)
 * [Mixamo](https://www.mixamo.com/), [Endorphin](https://archive.org/) (search) / [Subreddit](https://www.reddit.com/r/endorphin/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
-* [Talking Face Avatar](https://github.com/Yazdi9/Talking_Face_Avatar) - Talking Avatar Generator
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 
 ***

@@ -174,7 +174,7 @@
 * ⭐ **[piko (Twitter)](https://github.com/crimera/piko)** / [Telegram](https://t.me/pikopatches) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/piko.md), [⁠Nitterium](https://github.com/kaleedtc/Nitterium), [⁠QuaX](https://github.com/Teskann/QuaX) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter / X Apps
 * ⭐ **[piko (Instagram)](https://github.com/crimera/piko)** / [Telegram](https://t.me/pikopatches) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/piko.md) or [⁠Instafel](https://instafel.mamii.dev/) / [GitHub](https://github.com/mamiiblt/instafel/) - Modded Instagram Clients
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients / [Index](https://join-lemmy.org/apps)
-* ⭐ **[Tusky](https://tusky.app/)**, [Dhaaga](https://github.com/suvam0451/dhaaga), [Pachli](https://pachli.app/) / [GitHub](https://github.com/pachli/pachli-android), [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients
+* ⭐ **[Tusky](https://tusky.app/)**, [Dhaaga](https://github.com/suvam0451/dhaaga), [Pachli](https://pachli.app/) / [GitHub](https://github.com/pachli/pachli-android) or [SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon Clients
 * [Watomatic](https://watomatic.app/) / [Subreddit](https://www.reddit.com/r/watomatic/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [⁠Beeper](https://www.beeper.com/) / [GitHub](https://github.com/beeper) or [Openvibe](https://openvibe.social/) / [Discord](https://discord.gg/GduN6fB6NN) - Combine Chat / Social Media Apps
 * [Fedilab](https://fedilab.app/) - Multi-Platform Fediverse Client / [Source Code](https://codeberg.org/tom79/fedilab)
@@ -550,7 +550,7 @@
 * [⁠Ruffle Android](https://github.com/ruffle-rs/ruffle-android) - Android Flash Emulator
 * [SubX](https://play.google.com/store/apps/details?id=com.alkapps.subx) or [SubscriptionManager](https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager) - Track Subscription Services
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey), [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/) / [GitHub](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) or [WLANScanner](https://github.com/bewue/WLANScanner) - Network Scanners
-* [Fing](https://www.fing.com/fing-app/) - Network Toolkit
+* [Fing](https://www.fing.com/app/) - Network Toolkit
 
 ***
 
@@ -700,7 +700,7 @@
 * [SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Productivity / Time Tracker
 * [Success](https://eveningkid.com/success/) - Productivity Tracker
 * [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
-* [timeto.me](https://timeto.me/) - Time Management Tracker / [GitHub](https://github.com/Medvedev91/timeto.me)
+* [timeto.me](https://github.com/Medvedev91/timeto.me) - Time Management Tracker / [GitHub](https://github.com/Medvedev91/timeto.me)
 
 ***
 
@@ -750,7 +750,7 @@
 * 🌐 **[⁠EmuReady](https://www.emuready.com/)** - Mobile Game Emulation Compatibility / Info / [Discord](https://discord.gg/CYhCzApXav) / [GitHub](https://github.com/Producdevity/EmuReady)
 * ⭐ **[Termux](https://termux.dev/)** - Terminal Emulator / [GUI](https://github.com/termux/termux-gui) / [Beautify](https://github.com/mayTermux/myTermux) / [Matrix](https://matrix.to/#/#Termux:matrix.org) / [Subreddit](https://www.reddit.com/r/termux) / [Telegram](https://telegram.me/termux24x7) / [Discord](https://discord.gg/HXpF69X) / [GitHub](https://github.com/termux/)
 * [JoiPlay](https://joiplay.net/) - Game Interpreter for RPG Maker, Ren'Py, & Other Formats
-* [⁠Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) or [Limbo](https://github.com/limboemu/limbo) - Windows Emulator on Android / Terminal Emulators / OS Environments
+* [⁠Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * [TermOne Plus](https://termoneplus.com/) - Terminal Emulator
 * [Ubuntu on Android](https://docs.udroid.org/) - Ubuntu Emulator / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android)
 * [r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
@@ -873,11 +873,12 @@
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
 * [Modded Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify Apps / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
 * Spotify Tools - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/) / [Improved Lyrics](https://github.com/WXRIW/Lyricify-App), [2](https://github.com/LeNerd46/SpotifyPlus)
+* [⁠VRKA Android](https://github.com/MaverickRox/VRKA-Android) - Multi-Site Audio Downloader / Bundled Browser / HLS Capture / Custom Header / Sponsorblock / YT-DLP
+* [Murglar](https://murglar.app/) - Multi-Site Audio Downloader
 * [⁠LibrePods](https://github.com/kavishdevar/librepods) - Add AirPod Features to Android / [Root Requirements](https://github.com/kavishdevar/librepods#root-requirement)
 * [SongSync](https://github.com/Lambada10/SongSync) - Lyrics App
 * [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Live Lyrics Apps
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
-* [Murglar](https://murglar.app/) - Multi-Site Audio Downloader
 * [⁠QobuzDownloaderX-Mobile](https://github.com/JemPH/QobuzDownloaderX-Mobile) - Qobuz Audio Downloader
 * [NewPipe](https://newpipe.net/) - Multi-Platform Streaming / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
@@ -972,8 +973,9 @@
 * ⭐ **[Calm](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Relaxation / Sleep App
 * ⭐ **[Medito](https://meditofoundation.org/medito-app)** - Meditation / Sleep Sounds
 * [Waking Up](https://app.wakingup.com/scholarship) - Sam Harris' Mindfulness Platform
+* [⁠Metiq](https://github.com/metiq-xyz/android-app) - Ambient Noise / Sounds
+* [A Soft Murmur](https://asoftmurmur.com/) - Ambient Sounds
 * [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) - Ambient Rain
-* [A Soft Murmur](https://asoftmurmur.com/) - Mix Ambient Sounds
 * [HealthyMinds](https://www.humin.org/wellbeing-tools/app) - Meditation
 * [Serenity](https://github.com/YajanaRao/Serenity) - Meditation / Sleep Sounds
 * [Noice](https://trynoice.com/) - Meditation / Sleep Sounds
@@ -1025,7 +1027,7 @@
 
 ## ▷ Android Video Players
 
-* ⭐ **[⁠mpvEx](https://github.com/marlboro-advance/mpvEx)**, [⁠mpvRex](https://github.com/sfsakhawat999/mpvRex) or [mpvRx](https://github.com/Riteshp2001/mpvRx)
+* ⭐ **[⁠mpvEx](https://github.com/marlboro-advance/mpvEx)**, [⁠mpvRex](https://github.com/sfsakhawat999/mpvRex) or [mpvRx](https://github.com/Riteshp2001/mpvRx) - Free Open Source Video Players
 * ⭐ **[mpv-android](https://github.com/mpv-android/mpv-android)**
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
@@ -1047,7 +1049,7 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/apps)**, [2](https://everythingmoe.org/section/mobileapp) - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[DailyAL](https://dailyanimelist.web.app/)** / [GitHub](https://github.com/JICA98/DailyAL), [MALClient](https://github.com/Drutol/MALClient), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune) or [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) - Anime Trackers
 * ⭐ **[Anikku](https://anikku-app.github.io/)** / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Discord](https://discord.com/invite/85jB7V5AJR) / [GitHub](https://github.com/komikku-app/anikku)
-* [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
+* [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 * [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/)
 * [⁠AniStation](https://www.anistation.top/)
 * [Animiru](https://github.com/Quickdesh/Animiru)
@@ -1419,7 +1421,7 @@
 
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [Manatan](https://manatan.com/) / [GitHub](https://github.com/KolbyML/Manatan)
-* [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
+* [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 * [⁠Shirox](https://shiroxapp.github.io/) / [TestFlight](https://testflight.apple.com/join/jvGzcXYh) / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/6CuZuYYnKc) / [GitHub](https://github.com/xibrox/Shirox)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) or [Kitsune](https://apps.apple.com/app/id6466716447) - MyAnimeList Clients
 * [Otraku](https://github.com/lotusprey/otraku), [MyAnilist](https://apps.apple.com/us/app/myanilist/id741257899), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps

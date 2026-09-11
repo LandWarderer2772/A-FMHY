@@ -17,7 +17,6 @@
 * ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Site Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
-* ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
 * ⭐ **[Awesome Search](https://awesomelists.calvinjeng.io/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
@@ -94,7 +93,6 @@
 * [FreeCycle](https://www.freecycle.org/), [TrashNothing](https://trashnothing.com/) or [Freegle](https://www.ilovefreegle.org/) - Free Stuff Exchange / Gifting Communities
 * [r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap Apps / Games / [Reddit Bot](https://github.com/a-ton/gpd-bot)
 * [App Sales](https://www.app-sales.net/nowfree/) - Free / Cheap Apps / Games
-* [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap Apps / Games
 * [r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & Apps / Games
 * [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
@@ -220,8 +218,8 @@
 
 ## ▷ Drinks
 
-* ⭐ **[/coffee/](https://rentry.co/coffeeguide)** or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * ⭐ **[Beanconqueror](https://beanconqueror.com/)** / [GitHub](https://github.com/graphefruit/Beanconqueror) or [Timer.Coffee](https://www.timer.coffee) / [GitHub](https://github.com/antonkarliner/timer-coffee) - Coffee Tracking Apps / Timers
+* [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cofi-note.md)
 * [Brew Great Coffee](https://www.brewgreat.coffee/) - Espresso / Pour-Over Brewing Tools + Tips
 * [The Minimal Pour](https://theminimalpour.com/) - Pour-Over Coffee Calculator
@@ -261,7 +259,7 @@
 # ► Household
 
 * ↪️ **[Raspberry Pi Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_raspberry_pi)**
-* ⭐ **[Home Assistant](https://www.home-assistant.io/)** - Home Assistant / IoT / [Tracker](https://github.com/djdevil/person-tracker-card/) / [Appliances](https://github.com/Andre0512/hOn) / [GUI](https://github.com/LAB02-Research/HASS.Agent) / [Mobile Apps](https://companion.home-assistant.io/)
+* ⭐ **[Home Assistant](https://www.home-assistant.io/)** - Home Assistant / IoT / [Tracker](https://github.com/djdevil/person-tracker-card/) / [Appliances](https://github.com/mmalolepszy/hon-revived) / [GUI](https://github.com/LAB02-Research/HASS.Agent) / [Mobile Apps](https://companion.home-assistant.io/)
 * ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy)
 * [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
 * [Esphome](https://esphome.io/) - Home Assistant / IoT / [Discord](https://discord.com/invite/KhAMKrd) / [GitHub](https://github.com/esphome/esphome)
@@ -763,7 +761,7 @@
 
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
 * ⭐ **[BMI Chart](https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png)** - BMI Range Graph
-* ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)**, [CDC Adult](https://www.cdc.gov/bmi/adult-calculator/index.html) or [CDC Teen](https://www.cdc.gov/bmi/child-teen-calculator/index.html) - BMI Calculator
+* ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/calculate-your-bmi)**, [CDC Adult](https://www.cdc.gov/bmi/adult-calculator/index.html) or [CDC Teen](https://www.cdc.gov/bmi/child-teen-calculator/index.html) - BMI Calculator
 * ⭐ **[Sleeping Guide](https://rentry.co/sleepguide)** or **[Insomnia Guide](https://clarasguide.valeena.workers.dev/Guides/insomnia-guide/)** - Sleep Hygiene Guides / Tips
 * [openScale](https://github.com/oliexdev/openscale) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
@@ -845,7 +843,7 @@
 ## ▷ Sexual Health
 
 * ⭐ **[PlannedParenthood](https://www.plannedparenthood.org/)**, [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
-* ⭐ **[WomenOnWeb](https://www.womenonweb.org/en/page/521/who-we-are)** - Free Abortion Pills
+* ⭐ **[WomenOnWeb](https://www.womenonweb.org/en/women-on-web/)** - Free Abortion Pills
 * [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
 * [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
 * [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
@@ -898,7 +896,7 @@
 
 * 🌐 **[Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)** - Interview Questions Index
 * ⭐ **[Comparably](https://www.comparably.com/)** or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
-* ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to Ask Potential Employers
+* ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** - Questions to Ask Potential Employers
 * ⭐ **[Kimai](https://www.kimai.org/)** / [GitHub](https://github.com/kimai/kimai) or [Clockify](https://clockify.me/) - Work Hour Trackers
 * [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/), [Career Dreamer](https://grow.google/career-dreamer/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
 * [r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
@@ -909,12 +907,11 @@
 * [US Job Market Visualizer](https://karpathy.ai/jobs/) - US Job Market Statistics + Visualization / [GitHub](https://github.com/karpathy/jobs)
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
 * [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
-* [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
+* [Contact Card](https://contact-card.murtuzaalisurti.com/) - Contact Card Generator
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
 * [Linkedin Preview](https://www.alarapp.com/en/linkedin-preview) - Preview Linkedin Posts
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
-* [Gerev](https://github.com/GerevAI/gerev) - Search within Workplace Apps
 * [Gale Presents: Udemy](https://www.gale.com/elearning/udemy) - Business Courses / Requires Library Card
 * [Pimp My Money](https://pimpmymoney.net/) (Torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
 * [Statista](https://statista.com/) - Market Statistic Search
@@ -1050,8 +1047,7 @@
 * [Asana](https://asana.com/) - Project / Task Organization
 * [Linear](https://linear.app/) - Project / Task Organization 
 * [Factsplat](https://factsplat.com/) - Project Manager
-* [Mural](https://www.mural.co/) - Project Manager
-* [Taskcafe](https://github.com/JordanKnott/taskcafe) - Task Manager
+* [Mural](https://www.mural.co/) - Project Manager 
 * [Nino](https://nino.app/) - Task Manager
 * [Trello](https://trello.com/) - Task Manager
 * [WeKan](https://github.com/wekan/wekan), [Kanboard](https://kanboard.org/) or [Planka](https://planka.app/) - Kanban Boards / Task Managers
@@ -1112,7 +1108,6 @@
 * [DefiLlama](https://defillama.com/) - TVL Aggregator
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - Crypto Learning Resources
 * [IQ.Wiki](https://iq.wiki/) - Crypto Encyclopedia
-* [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
 * [Traders Video Library](https://t.me/TradersVideo_Library) - Crypto Trading Courses
 * [HiveRSS](https://www.hiverss.com/) - Create Hive RSS Feeds
 
@@ -1300,7 +1295,6 @@
 * [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [App Sales](https://www.app-sales.net/nowfree/) - Android Apps
 * [r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Android Apps
-* [Play-Deals](https://github.com/psuzn/Play-Deals) - Android Apps
 * [r/AppHookup](https://www.reddit.com/r/AppHookup/) - Multi-Store / Multi Platform
 * [⁠r/MacAppStoreDeals](https://www.reddit.com/r/MacAppStoreDeals/) - Apple Apps
 
@@ -1310,6 +1304,7 @@
 
 * [BookFinder](https://bookfinder.com/) - Online Book Price Comparisons
 * [⁠r/ebookdeals](https://www.reddit.com/r/ebookdeals/) - Book Deal Tracking Subreddit 
+* [⁠Kobo Price Tracker](https://bookpricetracker.com/) - Book Price Tracker 
 * [CheapCharts Books](https://www.cheapcharts.com/us/itunes/ebooks/on-sale) - Book Deal Tracking
 * [CheapCharts Audiobooks](https://www.cheapcharts.com/us/itunes/audiobooks/on-sale) - Audiobook Deal Tracking
 * [eReaderIQ](https://www.ereaderiq.com/) - Kindle Book Price Comparisons
@@ -1413,7 +1408,7 @@
 * [Media.io](https://www.media.io/online-tools.html) - Multimedia
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion
 * [Ian Coleman](https://iancoleman.io/) - Cryptography and Encoding Tools
-* [URL Decode](https://url-decode.com/cat/all) - Dev Tools / Web Tools / File Conversion
+* [URL Decode](https://url-decode.com/all-tools) - Dev Tools / Web Tools / File Conversion
 
 ***
 
