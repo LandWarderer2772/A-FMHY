@@ -69,7 +69,6 @@
 * [Pixelcut](https://www.pixelcut.ai/) - Background Remover
 * [Change BG](https://www.change-bg.org/) - Background Remover
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover
-* [remove.bg](https://www.remove.bg/) - Background Remover / [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
 * [Rembg](https://github.com/danielgatis/rembg) - Self-Hosted Background Remover
 * [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation
 
@@ -269,8 +268,10 @@
 * ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
 * ⭐ **[Muzli](https://search.muz.li/)**, [⁠Fuse.kiwi](https://www.fuse.kiwi/) or [⁠Cosmos](https://www.cosmos.so/) - Design Inspiration Sites
 * [CARI](https://cari.institute/) or [CARI Are.na](https://www.are.na/consumer-aesthetics-research-institute/channels) - Design Aesthetics History
-* [People’s Graphic Design Archive](https://peoplesgdarchive.org/) - Graphic Design History
+* [People’s Graphic Design Archive](https://peoplesgdarchive.org/) - Graphic Design History / Archive
+* [⁠AIGA Design Archives](https://designarchives.aiga.org/) - Graphic Design History / Archive
 * [One Page Love](https://onepagelove.com/) - Single Page Site Design Ideas
+* [⁠Packaging of the World](https://packagingoftheworld.com/) - Package Design Archive / Inspiration / [X](https://x.com/packagings/)
 * [SMPoster](https://www.smposter.com/) - Poster Designs
 * [⁠Annual Report Archive](https://annualreport.gallery/) - Vintage Corporate Annual Report Covers
 * [AnotherGraphic](https://anothergraphic.org/) - Typography Designs

@@ -649,7 +649,7 @@
 * [VGA Museum](https://www.vgamuseum.info/) - Graphic Cards History
 * [Virus Encyclopedia](http://virus.wikidot.com/) - Computer Virus History
 * [MobilePhoneMuseum](https://www.mobilephonemuseum.com/) - Mobile Phone History / Info
-* [WalkmanLand](https://walkman.land/) - Walkman History / Database
+* [⁠ObsoleteSony](https://www.obsoletesony.com/) or [WalkmanLand](https://walkman.land/) - Portable Audio Player History / Databases
 * [⁠Web Rewind](https://web-rewind.com/) - Interactive Web History Journey
 * [InfoMesh](https://infomesh.org/) - Web History / Info
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
@@ -663,7 +663,7 @@
 
 * 🌐 **[⁠WW2 Links](https://ww2links.ca/)** - Educational WW2 Resources
 * [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
-* [Royal Armouries Collections](https://royalarmouries.org/collection/) - Ancient Armaments Museum / [X](https://x.com/Royal_Armouries)
+* [Royal Armouries Collections](https://royalarmouries.org/collection/) - Armaments Museum / [X](https://x.com/Royal_Armouries)
 * [⁠TracesOfWar](https://www.tracesofwar.com/) - Military History & Battlefield Landmark Archive / [Subreddit](https://www.reddit.com/r/TracesOfWarHQ/) / [X](https://x.com/tracesofwar)
 * [⁠World War II Database](https://ww2db.com/) or [⁠HyperWar](https://www.ibiblio.org/hyperwar/) - WW2 History Databases
 * [WW2 in 100 Objects](https://www.tweedewereldoorlog.nl/100voorwerpen/en/virtual-tour/) - WW2 Museum Virtual Tour
@@ -986,7 +986,6 @@
 * ⭐	**[OpeningTree](https://www.openingtree.com/)** - Opening Repertoire Tree & Scouting Tool for Lichess & Chess.com
 * [Maia Chess](https://www.maiachess.com/) - Human-Like AI Training Opponent & Blunder Modeling
 * [Listudy](https://listudy.org/en) -  Spaced Repetition Openings, Blind Tactics & Endgames
-* [Maia Chess](https://www.maiachess.com/) - Human-Like AI Training Opponent & Blunder Modeling
 * [Blitz Tactics](https://blitztactics.com/) - Fast-Paced Chess Puzzle Training
 * [Tactic or Not](https://tacticornot.com/) - Evaluate Tactics / [Discord](https://discord.gg/2WWgsuZmag)
 * [Shâh Kur](https://shahkur.specr.net/) - Blindfolded Chess Practice

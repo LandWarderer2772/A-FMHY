@@ -1069,7 +1069,7 @@
 * [Vice City: Multiplayer](https://vc-mp.org/) - Multiplayer GTA:VC
 * [GTA Manager](https://func-vehicle.github.io/gtamanager/) - GTA V Business Manager
 * [GTA Downgraders](http://downgraders.rockstarvision.com/) - GTA Game Downgraders
-* [⁠GTASnP](https://gtasnp.com/) - Upload + Browse GTA Save Files 
+* [⁠GTASnP](https://gtasnp.com/) - Upload + Browse GTA Save Files
 
 ***
 
@@ -1078,6 +1078,7 @@
 * ⭐ **[Doom Wiki](https://doomwiki.org/wiki/Entryway)** - Doom Wiki
 * ⭐ **[UZDoom](https://www.zdoom.org/downloads)** - Doom Source Port
 * ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [Odamex](https://odamex.net/), [DoomUtils](https://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) / [Hosting / WADs](https://allfearthesentinel.com/) - Online Multiplayer Doom
+* [⁠Rip N' Tear Launcher](https://github.com/Zendevve/RNT-Launcher) - DOOM Mod Manager + Launcher / [Discord](https://discord.gg/Y4rDyTScPe)
 * [Classic DOOM](https://classicdoom.com/) - Doom Console Port Encyclopedia / Documents
 * [DoomWorld](https://www.doomworld.com/) - Doom Downloads
 * [Freedoom](https://freedoom.github.io/) - Open-Source Doom Assets

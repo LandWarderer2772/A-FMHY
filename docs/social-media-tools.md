@@ -589,6 +589,7 @@
 # ► Bluesky Tools
 
 * 🌐 **[BlueskyDirectory](https://blueskydirectory.com/)** - Bluesky Resources
+* 🌐 **[⁠ATStore](https://atstore.fyi/)** - AT Protocol Based Web Apps
 * ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alternative 
 * [Follower Bridge](https://github.com/kawamataryo/sky-follower-bridge) - Import Following from Twitter/X
 * [Twitter/X Import](https://tangled.org/marcomaroni.it/twitter-to-bluesky) - Import Tweets from Twitter/X
@@ -640,6 +641,7 @@
 
 * ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - TikToks Insight Tools, Repost Viewer & more / [Telegram](https://t.me/tiktracksite)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
+* [⁠TikTok Control Panel](https://github.com/ElectricArdvark/Tiktok-control-panel) - Control Panel / Extra Functionalities 
 * [TikTok Tools](https://omar-thing.site/) - Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders

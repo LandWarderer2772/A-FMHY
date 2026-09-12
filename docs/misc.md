@@ -762,7 +762,7 @@
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
 * ⭐ **[BMI Chart](https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png)** - BMI Range Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/calculate-your-bmi)**, [CDC Adult](https://www.cdc.gov/bmi/adult-calculator/index.html) or [CDC Teen](https://www.cdc.gov/bmi/child-teen-calculator/index.html) - BMI Calculator
-* ⭐ **[Sleeping Guide](https://rentry.co/sleepguide)** or **[Insomnia Guide](https://clarasguide.valeena.workers.dev/Guides/insomnia-guide/)** - Sleep Hygiene Guides / Tips
+* ⭐ **[Insomnia Guide](https://clarasguide.valeena.workers.dev/Guides/insomnia-guide/)** - Sleep Hygiene Guides / Tips
 * [openScale](https://github.com/oliexdev/openscale) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
@@ -1025,6 +1025,7 @@
 
 * 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)**, [Awesome Launching Platforms](https://github.com/DirectorySurf/awesome-launch-platforms), [Awesome Launch](https://github.com/soGeneri/awesome-launch) or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
 * 🌐 **[moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/)** - Good Companies / Startups Index
+* [Best Pitch Deck](https://bestpitchdeck.com/) - Successful Pitch Deck Examples
 * [⁠Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization/) - Monetization Approaches for OSS Projects
 * [⁠Startups RIP](https://startups.rip/) or [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
@@ -1304,9 +1305,9 @@
 
 * [BookFinder](https://bookfinder.com/) - Online Book Price Comparisons
 * [⁠r/ebookdeals](https://www.reddit.com/r/ebookdeals/) - Book Deal Tracking Subreddit 
-* [⁠Kobo Price Tracker](https://bookpricetracker.com/) - Book Price Tracker 
-* [CheapCharts Books](https://www.cheapcharts.com/us/itunes/ebooks/on-sale) - Book Deal Tracking
-* [CheapCharts Audiobooks](https://www.cheapcharts.com/us/itunes/audiobooks/on-sale) - Audiobook Deal Tracking
+* [⁠Kobo Price Tracker](https://bookpricetracker.com/) - Book Price Tracker
+* [CheapCharts Books](https://www.cheapcharts.com/us/itunes/ebooks/on-sale) - Apple Books Deal Tracking
+* [CheapCharts Audiobooks](https://www.cheapcharts.com/us/itunes/audiobooks/on-sale) - Apple Books Audiobook Deal Tracking
 * [eReaderIQ](https://www.ereaderiq.com/) - Kindle Book Price Comparisons
 
 ***

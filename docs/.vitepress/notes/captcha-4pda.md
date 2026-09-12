@@ -1,3 +1,3 @@
 #### Captcha 4PDA 
 
-Uise AI to translate the captcha.
+You can use AI to translate the captcha.
