@@ -16,7 +16,7 @@
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** - System Tools / [Search](https://github.com/lin-ycv/EverythingPowerToys) / [Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) / [GitHub](https://github.com/microsoft/PowerToys/)
 * ⭐ **[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)** - Advanced System Tools
 * ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** / [GitHub](https://github.com/stefansundin/superf4) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
-* ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Info Tools
+* ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Info Tools
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** / [GitHub](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller), [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage / [GitHub](https://github.com/bleachbit/bleachbit)
@@ -89,14 +89,14 @@
 
 ## ▷ Task Automation
 
-* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Resources](https://github.com/ahkscript/awesome-AutoHotkey) / [Discord](https://discord.com/invite/Aat7KHmG7v) / [GitHub](https://github.com/AutoHotkey/AutoHotkey)
-* [Scheduler](https://www.splinterware.com/products/scheduler.html), [⁠FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
-* [AutoIt](https://www.autoitscript.com/)
-* [Tinytask](https://tinytask.net/)
-* [sikulix](http://sikulix.com/)
-* [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
-* [MacroRecorder](https://www.macrorecorder.com/)
-* [Organize](https://organize.readthedocs.io) - Automated File Manager / [GitHub](https://github.com/tfeldmann/organize)
+* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Resources](https://github.com/ahkscript/awesome-AutoHotkey) / [Discord](https://discord.com/invite/Aat7KHmG7v) / Windows / [GitHub](https://github.com/AutoHotkey/AutoHotkey)
+* [Scheduler](https://www.splinterware.com/products/scheduler.html), [⁠FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler / Windows
+* [AutoIt](https://www.autoitscript.com/) / Windows
+* [Tinytask](https://tinytask.net/) / Windows
+* [OculiX](https://oculix.org/) / Windows, macOS, Linux / [GitHub](https://github.com/oculix-org/Oculix)
+* [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) / Windows
+* [MacroRecorder](https://www.macrorecorder.com/) / Windows, macOS
+* [Organize](https://organize.readthedocs.io) - Automated File Manager / Windows, macOS, Linux, Docker / [GitHub](https://github.com/tfeldmann/organize)
 
 ***
 
@@ -104,20 +104,20 @@
 
 * 🌐 **[Awesome TUI](https://github.com/rothgar/awesome-tuis)** - TUI App Index
 * 🌐 **[⁠Awesome Terminals](https://github.com/cdleon/awesome-terminals)** - Terminal Emulator List
-* 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [Tabby](https://tabby.sh/) / [GitHub](https://github.com/eugeny/tabby), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) / [Plugins](https://github.com/michaelbrusegard/awesome-wezterm) / [GitHub](https://github.com/wezterm/wezterm) - Windows Terminal Emulators
-* [psmux](https://psmux.pages.dev/) (Windows Tmux) / [GitHub](https://github.com/psmux/psmux) or [Zellij](https://zellij.dev/) / [GitHub](https://github.com/zellij-org/zellij) - Terminal Multiplexers
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [GitHub](https://github.com/microsoft/terminal/), [Tabby](https://tabby.sh/) / [GitHub](https://github.com/eugeny/tabby), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) / [Plugins](https://github.com/michaelbrusegard/awesome-wezterm) / [GitHub](https://github.com/wezterm/wezterm) - Terminal Emulators / Windows
+* [psmux](https://psmux.pages.dev/) - Windows Tmux / Windows / [GitHub](https://github.com/psmux/psmux) 
+* [Zellij](https://zellij.dev/) - Terminal Multiplexer / Windows, macOS, Linux / [GitHub](https://github.com/zellij-org/zellij)
 * [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, macOS, Linux
-* [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows / [GitHub](https://github.com/rmyorston/busybox-w32) / [GitLab](https://gitlab.com/rmyorston/busybox-w32)
-* [Clink](https://github.com/chrisant996/clink) - Command Line Editing
-* [Nushell](https://www.nushell.sh/) - Alt Shell / [GitHub](https://github.com/nushell/nushell)
-* [⁠procs](https://github.com/dalance/procs) - ps (Process Status) Replacement
-* [⁠WTF](https://wtfutil.com/) / [GitHub](https://github.com/wtfutil/wtf) - Terminal Dashboard
-* [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
-* [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
-* [GetDNote](https://www.getdnote.com/) - Command Line Notebook
+* [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows / Windows / [GitHub](https://github.com/rmyorston/busybox-w32) / [GitLab](https://gitlab.com/rmyorston/busybox-w32)
+* [Clink](https://github.com/chrisant996/clink) - Command Line Editing / Windows
+* [Nushell](https://www.nushell.sh/) - Alt Shell / Windows, macOS, Linux / [GitHub](https://github.com/nushell/nushell)
+* [⁠procs](https://github.com/dalance/procs) - ps (Process Status) Replacement / Windows, macOS, Linux
+* [⁠WTF](https://wtfutil.com/) - Terminal Dashboard / Windows, macOS, Linux, Docker / [GitHub](https://github.com/wtfutil/wtf)
+* [Command Challenge](https://cmdchallenge.com/) - Command Line Learning / Web
+* [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator / Windows
+* [GetDNote](https://www.getdnote.com/) - Command Line Notebook / Windows, macOS, Linux, Docker / [GitHub](https://github.com/dnote/dnote)
 * [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
 * [PowerShell Scripts](https://github.com/fleschutz/PowerShell), [PowershellGallery](https://www.powershellgallery.com/) or [WindowsPowerShell](https://github.com/stevencohn/WindowsPowerShell) - Shell Scripts
 
@@ -219,8 +219,8 @@
 * ↪️ **[PC Hardware / Building](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_pc_hardware_.2F_building)**
 * ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** - Find Compatible Power Supplies
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
-* [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [BES](https://mion.yosei.fi/BES/), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
-* [Ozone3D](https://www.ozone3d.net/index_softwares.php), [UNIGINE Benchmarks](https://benchmark.unigine.com/) or [OCCT](https://www.ocbase.com/occt/personal) - System Benchmarking
+* [BES](https://mion.yosei.fi/BES/) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
+* [Ozone3D](https://www.ozone3d.net/index_softwares.php), [UNIGINE Benchmarks](https://benchmark.unigine.com/) or [OCCT](https://www.ocbase.com/occt-personal-use) - System Benchmarking
 * [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [⁠SilverBench](https://silver.urih.com/) - In-Browser CPU Stress Test
 * [MemTest](https://www.memtest.org/) or [⁠RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) - Memory Diagnostic Tools / Usage Trackers
@@ -422,7 +422,7 @@
 
 # ► Customization
 
-* 🌐 [Frutiger Aero Archive](https://frutigeraeroarchive.org/) or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Customization Resources
+* 🌐 **[Frutiger Aero Archive](https://frutigeraeroarchive.org/)** or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Customization Resources
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** / [Discord](https://discord.com/invite/rainmeter) or [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) / [Discord](https://discord.gg/ABfASx5ZAJ) - Desktop Customization Environments
 * ⭐ **[OpenRGB](https://openrgb.org/)**, **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
 * ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Collections

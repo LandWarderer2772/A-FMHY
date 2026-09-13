@@ -52,6 +52,8 @@ export default defineConfig({
     'i-qlementine-icons:windows-24',
     'i-simple-icons:ios',
     'i-simple-icons:torbrowser',
+    'i-simple-icons:docker',
+    'i-logos:docker-icon',
     'h-1em',
     'w-1em',
     'text-4xl',

@@ -504,7 +504,6 @@
 * [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) or [Lightning Maps](https://www.lightningmaps.org/) - Lightning / Thunderstorms Maps
 * [ClearOutside](https://clearoutside.com/) - Weather Visibility Tracker
 * [aqicn.org](https://aqicn.org/map/world) - Air Quality Map
-* [Light Pollution Map](https://lightpollutionmap.info/) or [lightpollutionmap](https://lightpollutionmap.app) - Light Pollution Maps
 * [CPRE](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution and Dark Skies
 * [Electricity Maps](https://app.electricitymaps.com/map) - Electricity CO₂ Emissions Map
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality in Ukraine
@@ -1009,7 +1008,7 @@
 * [larajobs](https://larajobs.com/) - Find Laravel Jobs
 * [Python Job Board](https://www.python.org/jobs/) - Find Python Jobs
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
-* [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Interview Preparation Guides
+* [Interviews.school](https://interviews.school/) - Interview Preparation Guides
 * [Interview Warmup](https://grow.google/grow-your-career/articles/interview-tips/) - Interview Practice
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity US Job Market Info
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - Find NICE Cybersecurity Apprenticeship Programs
@@ -1490,6 +1489,7 @@
 * [Monkey](https://www.monkey.app/) - Random Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [MyCast](https://www.mycast.io/) - Dream Casting Discussions
+* [Alchemy Forums](https://alchemyforums.com/index.php) - Alchemy Forum
 * [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
 * [Fora](https://fora.com/communities/) or [Discourse](https://discover.discourse.com/) - Specialty Forums
 * [Resetera](https://www.resetera.com/), [RetroGameTalk](https://retrogametalk.com/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/) or [RacketBoy](https://racketboy.com/forum/) - Gaming Forums

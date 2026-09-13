@@ -198,7 +198,7 @@
 * [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp), [GB-Recompiled](https://github.com/arcanite24/gb-recompiled) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools
 * [⁠V-Alpha](https://discord.com/invite/dqs3VPxbC8) - Mobile PC Ports / [Telegram](https://t.me/VAlpha_Official)
 * [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
-* [⁠Flying With Gauss](https://discord.gg/rjrx3JmQC) - GoldSrc Game Ports for Android + Other Platforms
+* [⁠Flying With Gauss](https://discord.gg/CqgMJC7zsx) - GoldSrc Game Ports for Android + Other Platforms
 * [Undertale: New Hope](https://discord.gg/QMrzvQrSj) - Deltaune + Undertale Mobile Ports
 
 ***

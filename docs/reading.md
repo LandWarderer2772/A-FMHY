@@ -145,7 +145,7 @@
 * [Litera Reader](https://litera-reader.com/)
 * [Readest](https://web.readest.com/)
 * [Speeedy](https://speeedy.pages.dev/) / [GitHub](https://github.com/sami-29/speeedy), [Spreeder](https://www.spreeder.com/app.php?intro=1), [Speed Reader](https://speed-reader.com/), [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://www.playtext.com/), [AccelaReader](https://accelareader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [⁠ogma](https://github.com/0hAodha/ogma) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools / Note These Are Not Good for Comprehension
-* [Cubari](https://cubari.moe/) - Image Proxy / Reader / [JSON Generator](https://github.com/wotakumoe/kaguya)
+* [Cubari](https://cubari.moe/) - Image Proxy / Reader
 * [Firefox Reader](https://support.mozilla.org/en-US/kb/firefox-reader-view-clutter-free-web-pages), [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/), [txtdot](https://txt.dc09.xyz/) / [Instances](https://github.com/TempoWorks/instances) / [GitHub](https://github.com/TempoWorks/txtdot) or [Reader Mode](https://readermode.io/) - Browser Read-Mode / Text-Only Tools
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
 * [⁠Doqment](https://github.com/shivaprsd/doqment) - Firefox PDF Reader Dark Mode
@@ -709,7 +709,6 @@
 * [HAL](https://hal.science/) - Scientific Paper Search
 * [Science.gov](https://www.science.gov/) - Scientific Paper Search
 * [⁠Pidantuan](https://www.pidantuan.com/) - Scientific Paper Sharing Community / Requires Sign-Up
-* [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Computer Vision Research Papers
 * [IDEAS](https://ideas.repec.org/) or [RePEc](http://repec.org/) - Economic Research Papers
 * [PsyArXiv](https://osf.io/preprints/psyarxiv) - Psychology Research Papers
 * [SocArXiv](https://osf.io/preprints/socarxiv) - Social Science Research Papers
@@ -722,7 +721,6 @@
 * [OpenAire](https://explore.openaire.eu/) - Research Papers
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
 * [Local Models Papers](https://rentry.org/LocalModelsPapers) - LLM Related Research Papers
-* [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [Legal Core](https://core.ac.uk/) - Papers / Academic
 * [Dataone](https://www.dataone.org/) - Datasets
 * [Kaggle](https://www.kaggle.com/datasets) - Datasets

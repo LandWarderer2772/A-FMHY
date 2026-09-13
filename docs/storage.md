@@ -8,10 +8,9 @@
 
 * [Mockoops](https://mockoops.mohitya.dev/) - Animated Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
-* [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
 * [Screenshot Rocks](https://screenshot.rocks/) - Create Screenshot Mockups of Websites / [GitHub](https://github.com/daveearley/screenshot.rocks) 
 
-[PostSpark](https://postspark.app/), [Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://getpicasso.com/), [mrmockup](https://mrmockup.com/free-mockups/), [mockupnest](https://mockupnest.com/), [Jam Mockup](http://t.me/+Hp5DjFnpWXdhMTBi)
+[PostSpark](https://postspark.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [shots.so](https://shots.so/), [MockMagic](https://www.mockmagic.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://getpicasso.com/), [mrmockup](https://mrmockup.com/free-mockups/), [mockupnest](https://mockupnest.com/), [Jam Mockup](http://t.me/+Hp5DjFnpWXdhMTBi)
 
 ***
 
@@ -20,11 +19,9 @@
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** - CSS Frameworks Index
 * 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
-* ⭐ **[Tailwind CSS](https://tailwindcss.com/)**, [⁠Panda CSS](https://panda-css.com/) / [GitHub](https://github.com/chakra-ui/panda), [Bulma](https://bulma.io/) or [UnoCSS](https://unocss.dev/) - CSS Frameworks
+* ⭐ **[Tailwind CSS](https://tailwindcss.com/)**, [⁠Panda CSS](https://panda-css.com/) / [GitHub](https://github.com/chakra-ui/panda) or [UnoCSS](https://unocss.dev/) - CSS Frameworks
 * [Tailwind Toolbox](https://windytoolbox.com/) - Tailwind Starter Templates & Components
-* [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
-* [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
-* [Terminal CSS](https://terminalcss.xyz/) - Terminal-style CSS Framework
+* [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui) or [Aceternity UI](https://ui.aceternity.com/) - Tailwind CSS Components
 
 ***
 
@@ -35,16 +32,13 @@
 * ⭐ **[Kroki](https://kroki.io/#try)** - Text to Diagrams / [CLI](https://github.com/yuzutech/kroki-cli)
 * ⭐ **[DataVizCatalogue](https://datavizcatalogue.com/)** - Data Visualization Wiki
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart from Text / [GitHub](https://github.com/tone-row/flowchart-fun)
-* [Pie Chart Maker](https://piechartmaker.co/) - Create Pie Charts
-* [Bar Graph Maker](https://www.bargraphmaker.net/) - Create Bar Graphs
 * [Vinnslu](https://maltsev.github.io/vinnslu/) - Tabular Data Parser
-* [⁠ArrayCat](https://arraycat.com/) - Convert Data to Array / [GitHub](https://github.com/Great-Software-Company/array_cat)
 * [Cascii](https://cascii.app/) / [GitHub](https://github.com/casparwylie/cascii-core), [Bob Editor](https://ivanceras.github.io/bob-editor/), [ASCII Flow](https://asciiflow.com/) or [tree](https://tree.nathanfriend.com/) - Create ASCII Diagrams
 * [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - Convert ASCII Diagrams to SVG Images / [GitHub](https://github.com/ivanceras/svgbob)
 * [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - UML Diagrams Generators / Creators
 * [PlantText](https://www.planttext.com/) - UML Editor
 
-[DGM](https://dgm.sh/), [⁠MakeGraph](https://makegraph.app/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) / [Terminal Render](https://mermaid-ascii.art/) / [GitHub](https://github.com/mermaid-js/mermaid), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com), [PlantUML](https://www.plantuml.com/)
+[DGM](https://dgm.sh/), [⁠MakeGraph](https://makegraph.app/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [ParaView](https://www.paraview.org/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) / [Terminal Render](https://mermaid-ascii.art/) / [GitHub](https://github.com/mermaid-js/mermaid), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [diagramgpt](https://www.eraser.io/diagramgpt), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com), [PlantUML](https://www.plantuml.com/)
 
 ***
 
@@ -52,10 +46,9 @@
 
 * 🌐 **[Evernote.Design](https://www.evernote.design/)** - Design Resources
 * 🌐 **[The People's Design Library](https://rentry.co/FMHYB64#design-resources)** - Design Resources
-* 🌐 **[Design Resources](https://rentry.co/dt92f)**
 * [⁠rentryresource](https://rentryresource.neocities.org/) - Free Site Design / Neocities Resources
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [GFXMountain](https://gfxmountain.com/), [degreeless](https://www.degreeless.design/), [CraftWork](https://craftwork.design/catalog/freebies), [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [GFXMountain](https://gfxmountain.com/), [degreeless](https://www.degreeless.design/), [CraftWork](https://craftwork.design/catalog/freebies), [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
 
 ***
 
@@ -65,13 +58,13 @@
 * ⭐ **[Arts and Culture](https://artsandculture.google.com/)**
 * [poly.booru](https://poly.booru.nl/) - Historical Artifact Images / [Discord](https://discord.gg/jHnYbGJZSn) / [GitHub](https://github.com/cosbooru/cosbooru)
 
-[The Last Museum](https://lastmuseum.com/), [strauh.al](https://strauh.al/), [⁠The Met](https://www.metmuseum.org/art/collection), [rijksstudio](https://www.rijksmuseum.nl/en/collection), [Haltadefinizione](https://www.haltadefinizione.com/en/), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [The Watercolour World](https://www.watercolourworld.org/), [Museo](https://museo.app/), [Arthur](https://arthur.io/), [WGA](https://www.wga.hu/), [Gallerix](https://gallerix.org/), [WikiArt](https://www.wikiart.org/), [Public Work](https://www.cosmos.so/public-work), [Public Domain Image Archive](https://pdimagearchive.org/), [V&A](https://www.vam.ac.uk/), [Louvre](https://collections.louvre.fr/en/), [Artchive](https://www.artchive.com/), [S.D. Cason](https://sdcason.com/categories/), [Frick](https://www.frick.org/art), [RCT](https://www.rct.uk/collection/), [Artic](https://www.artic.edu/collection), [Artvee](https://artvee.com/), [MoMA](https://www.moma.org/collection/), [Guggenheim](https://www.guggenheim.org/collection-online), [Deutsche Digitale](https://www.deutsche-digitale-bibliothek.de/?lang=en), [NGA](https://www.nga.gov), [Semantic Art Search](https://semantic-art-search.com/) / [GitHub](https://github.com/KristianMSchmidt/semantic-art-search), [Gardner Museum](https://www.gardnermuseum.org/experience/collection), [Centre Pompidou](https://www.centrepompidou.fr/en/collection), [NPG](https://www.npg.org.uk/collections/), [Ashmolean](https://www.ashmolean.org/collections-online), [faenum](https://faenum.com/)
+[The Last Museum](https://lastmuseum.com/), [strauh.al](https://strauh.al/), [⁠The Met](https://www.metmuseum.org/art/collection), [rijksstudio](https://www.rijksmuseum.nl/en/collection), [Haltadefinizione](https://www.haltadefinizione.com/en/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [The Watercolour World](https://www.watercolourworld.org/), [Museo](https://museo.app/), [Arthur](https://arthur.io/), [WGA](https://www.wga.hu/), [Gallerix](https://gallerix.org/), [WikiArt](https://www.wikiart.org/), [Public Work](https://www.cosmos.so/public-work), [Public Domain Image Archive](https://pdimagearchive.org/), [V&A](https://www.vam.ac.uk/), [Louvre](https://collections.louvre.fr/en/), [Artchive](https://www.artchive.com/), [S.D. Cason](https://sdcason.com/categories/), [Frick](https://www.frick.org/art), [RCT](https://www.rct.uk/collection/), [Artic](https://www.artic.edu/collection), [Artvee](https://artvee.com/), [MoMA](https://www.moma.org/collection/), [Guggenheim](https://www.guggenheim.org/collection-online), [Deutsche Digitale](https://www.deutsche-digitale-bibliothek.de/?lang=en), [NGA](https://www.nga.gov), [Semantic Art Search](https://semantic-art-search.com/) / [GitHub](https://github.com/KristianMSchmidt/semantic-art-search), [Gardner Museum](https://www.gardnermuseum.org/experience/collection), [Centre Pompidou](https://www.centrepompidou.fr/en/collection), [NPG](https://www.npg.org.uk/collections/), [Ashmolean](https://www.ashmolean.org/collections-online), [faenum](https://faenum.com/)
 
 ***
 
 ## Digital Brushes
 
-[fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/), [tala](https://t.me/tala_photoshop_brushes), [BrushBase](https://t.me/brushbase), [⁠daBrushes](https://dabrushes.com/)
+[brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [tala](https://t.me/tala_photoshop_brushes), [BrushBase](https://t.me/brushbase), [⁠daBrushes](https://dabrushes.com/)
 
 ***
 
@@ -80,7 +73,7 @@
 * ⭐ **[Cloudflare DNS](https://www.cloudflare.com/application-services/products/dns/)**
 * ⭐ **[deSEC](https://desec.io/)**
 
-[DuckDNS](https://www.duckdns.org/), [ClouDNS](https://www.cloudns.net/), [FreeDNS](https://freedns.afraid.org/) / [Warning](https://freedns.afraid.org/queue/explanation.php), [dynu](https://dynu.com/), [NoIP](https://www.noip.com/), [myaddr](https://myaddr.tools/), [nsupdate](https://www.nsupdate.info/) / [GitHub](https://github.com/nsupdate-info/nsupdate.info)
+[DuckDNS](https://www.duckdns.org/), [ClouDNS](https://www.cloudns.net/), [FreeDNS](https://freedns.afraid.org/) / [Warning](https://freedns.afraid.org/queue/explanation.php), [dynu](https://dynu.com/), [myaddr](https://myaddr.tools/), [nsupdate](https://www.nsupdate.info/) / [GitHub](https://github.com/nsupdate-info/nsupdate.info)
 
 ### Subdomains Services
 
@@ -167,7 +160,7 @@
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List / [Discord](https://discord.com/invite/aredl) / [GitHub](https://github.com/All-Rated-Extreme-Demon-List)
 * [⁠EDEL](https://docs.google.com/spreadsheets/d/1-2-n2aU__rQya_IESevHjEU0f1xbegKUZEslk7fV38Q/) - Extreme Demon Enjoyment List / [Discord](https://discord.com/invite/pdeZY2FU3U)
 * [Pemonlist](https://pemonlist.com/) / [Discord](https://discord.com/invite/fZuXFtFzVQ) / [GitHub](https://github.com/TheGElCOgecko/pemonlist) or [Platformer List](https://gdplatformerlist.com/) / [Discord](https://discord.gg/wuf9CZsd9D) - Platformer Demon Lists / Leaderboards
-* [UDL](https://udl.pages.dev/) or [Demonlist](https://demonlist.org/) - Unrated Demons Lists
+* [Demonlist](https://demonlist.org/) or [UDL](https://udl.pages.dev/) - Unrated Demons Lists
 * [IDL](https://insanedemonlist.com/) - Insane Demon List / [Discord](https://discord.com/invite/7JbFjRqSQ4)
 * [⁠HDL](https://hdl.pages.dev/) - Hard Demon List / [Discord](https://discord.gg/fKKWjUBfk7)
 * [MDL](https://mediumdemonslist.pages.dev/) - Medium Demon List / [Discord](https://discord.gg/CwjaCCZvsX)
@@ -212,9 +205,9 @@
 
 ### Kanji Learning
 
-* [KanjiTomo](https://kanjitomo.net/) - Kanji Character Identifier
+* [Poricom](https://github.com/blueaxis/Poricom) - Kanji Character Identifier
 
-[KanjiDamage](https://www.kanjidamage.com/) / [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo), [Koohii](https://kanji.koohii.com/) / [Deck](https://ankiweb.net/shared/info/748570187), [Manji](https://github.com/Livinglist/Manji)
+[KanjiDamage](https://www.kanjidamage.com/) / [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Koohii](https://kanji.koohii.com/) / [Deck](https://ankiweb.net/shared/info/748570187), [Manji](https://github.com/Livinglist/Manji)
 
 ***
 
@@ -235,7 +228,7 @@
 
 ## Manga Downloaders
 
-[Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangodl](https://github.com/liamtoaldo/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl)
+[Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [anime-dl](https://github.com/vrienstudios/anime-dl)
 
 ***
 
@@ -245,11 +238,11 @@
 * ⭐ **[Suwayomi](https://github.com/Suwayomi)**
 * ⭐ **Suwayomi Tools** - [Extensions](https://keiyoushi.github.io/), [2](https://discord.gg/3FbCpdKbdY) / [Desktop Client](https://github.com/Suwayomi/Suwayomi-Server)
 
-[AllMangasReader](https://allmangasreader.com/), [Houdoku](https://houdoku.org/) / [GitHub](https://github.com/xgi/houdoku), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Unyo](https://github.com/K3vinb5/Unyo)
+[AllMangasReader](https://allmangasreader.com/), [Houdoku](https://houdoku.org/) / [GitHub](https://github.com/xgi/houdoku), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Unyo](https://github.com/K3vinb5/Unyo)
 
 ### Self-Hosted
 
-[HappyPanda X](https://happypandax.github.io/), [KavitaReader](https://www.kavitareader.com/), [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu), [atsumeru](https://atsumeru.xyz/)
+[KavitaReader](https://www.kavitareader.com/), [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu), [atsumeru](https://atsumeru.xyz/)
 
 ***
 
@@ -266,11 +259,11 @@
 
 ### MyAnimeList Tools
 
-[Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Profile Extension / Stats](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Stats / Badges](https://www.mal-badges.com/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Tier Lists](https://www.gomitier.tech/)
+[Profile Extension / Stats](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Stats / Badges](https://www.mal-badges.com/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Tier Lists](https://www.gomitier.tech/)
 
 ### AniList Tools
 
-[Multiple Tools](https://due.moe/tools) / [Desktop](https://github.com/CosmicPredator/AniMoe) / [Extras](https://greasyfork.org/en/scripts/370473-automail) / [List Comparison / Migration](https://animelistdiff.zerolabs.fyi/) / [MPV Sync](https://github.com/hotsno/keroro) / [Tier Lists](https://www.gomitier.tech/)
+[Multiple Tools](https://due.moe/tools) / [Extras](https://greasyfork.org/en/scripts/370473-automail) / [List Comparison / Migration](https://animelistdiff.zerolabs.fyi/) / [MPV Sync](https://github.com/hotsno/keroro) / [Tier Lists](https://www.gomitier.tech/)
 
 ***
 
@@ -287,14 +280,10 @@
 * ⭐ **[IMSLP](https://imslp.org/wiki/Main_Page)** - Public Domain Scores
 * ⭐ **[Musescore.com](https://musescore.com/)** / [Downloader](https://github.com/LibreScore/dl-librescore)
 * [8notes](https://www.8notes.com/)
-* [Mutopia Project](https://www.mutopiaproject.org/)
-* [sheetmusiceden](https://sheetmusiceden.com/)
 * [Notes Box](https://notes-box.com/)
 * [Musopen](https://musopen.org/)
 * [Free Scores](https://www.free-scores.com/)
-* [Sheet Music International](https://sheetmusicinternational.com/)
 * [free-scores](https://www.free-scores.com/free-sheet-music.php)
-* [Sheet music for free](https://sheetmusicforfree.com/)
 * [bateristaspt](https://www.bateristaspt.com/membros/drumscores/)
 * [tchunes](https://www.daev.ca/tchunes/)
 
@@ -305,7 +294,6 @@
 * [NinSheetMusic](https://www.ninsheetmusic.org/) - Video Game Sheet Music
 * [ChoralWiki](https://www.cpdl.org/wiki/index.php/Main_Page) - Choral Music Sheets
 * [BandMusic PDF Library](https://bandmusicpdf.org/) - Golden Age Band Music Sheets
-* [Clara](https://clara.imslp.org/) - Classical Music Sheets
 * [A Collection of Christmas Carols](https://acollectionofchristmascarols.com/) - Christmas Carol Sheet Music
 * [Music Manuscripts Online](https://www.themorgan.org/music) or [Silent Film Archive](https://www.sfsma.org/) - Music Manuscripts
 * [DIAMM](https://www.diamm.ac.uk/) - Medieval Manuscripts
@@ -321,13 +309,13 @@
 
 ## PNG Images / Clipart
 
-[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [openclipart](https://openclipart.org), [transparentpng](https://www.transparentpng.com/), [pngfind](https://www.pngfind.com/), [pikpng](https://www.pikpng.com/), [⁠PNGitem](https://www.pngitem.com/)
+[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [AnyRGB](https://www.anyrgb.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [openclipart](https://openclipart.org), [transparentpng](https://www.transparentpng.com/), [pngfind](https://www.pngfind.com/), [⁠PNGitem](https://www.pngitem.com/)
 
 ***
 
 ## Poll Sites
 
-[⁠BetterVoting](https://bettervoting.com/) / [Info](https://www.starvoting.org/), [⁠RCV123](https://www.rcv123.org/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/), [polltab](https://www.polltab.com/), [polling-app](https://xoyondo.com/polling-app), [poal.me](https://poal.me/), [poll.ly](https://poll.ly/), [typeform](https://typeform.com/examples/polls/)
+[⁠BetterVoting](https://bettervoting.com/) / [Info](https://www.starvoting.org/), [⁠RCV123](https://www.rcv123.org/), [minipoll](https://minipoll.co/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/), [polltab](https://www.polltab.com/), [polling-app](https://xoyondo.com/polling-app), [poll.ly](https://poll.ly/)
 
 ### Live Polling
 
@@ -341,10 +329,8 @@
 * [Slidev](https://sli.dev/) - Markdown Presentation Slides / [GitHub](https://github.com/slidevjs/slidev)
 * [Slides](https://maaslalani.com/slides/) - Terminal-Based Presentation Tool / [GitHub](https://github.com/maaslalani/slides)
 * [⁠Z.ai](https://chat.z.ai/), [Presentation](https://presenton.ai/) / [GitHub](https://github.com/presenton/presenton) or [PPTX](https://github.com/AmNotAGoose/PPTX-Presentation-Generator) - AI Presentation Generators
-* [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
-* [Inscribed](https://inscribed.app/) - Sketch-Based Slides / [GitHub](https://github.com/chunrapeepat/inscribed)
 
-[Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/), [Excalideck](https://excalideck.com/), [⁠Bento](https://github.com/nyblnet/bento)
+[Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/), [Excalideck](https://excalideck.com/), [⁠Bento](https://github.com/nyblnet/bento)
 
 ### Presentation Templates
 
@@ -411,18 +397,17 @@
 
 ## SVG Icons
 
-* 🌐 **[Awesome Icons](https://github.com/notlmn/awesome-icons)**, **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#icons)** or **[Free Icons](https://www.iconshock.com/freeicons/)** - Icon Site Indexes
+* 🌐 **[Awesome Icons](https://github.com/notlmn/awesome-icons)** or **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#icons)** - Icon Site Indexes
 * ⭐ **[Iconify](https://iconify.design/)** - Icon Collections 
 * ⭐ **[Icons8](https://icons8.com/icons)** - Icon Collections
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)** - Icon Collections
 * ⭐ **[Noun Project](https://thenounproject.com/)** - Monochrome Icons
 * [⁠3DIcons](https://3dicons.co/) - 3D SVG Icons
 * ⭐ **[SVGL](https://svgl.app/)**, [Dashboard Icons](https://dashboardicons.com/) or [selfh.st](https://selfh.st/icons/) / [GitHub](https://github.com/selfhst/icons) - Company / Program Icons
-* [useAnimations](https://useanimations.com/index.html), [heroicons-animated](https://www.heroicons-animated.com/), [lucide-animated](https://lucide-animated.com/) or [LordIcon](https://lordicon.com/) - Animated Icons
-* [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
+* [heroicons-animated](https://www.heroicons-animated.com/) or [lucide-animated](https://lucide-animated.com/) - Animated Icons
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 
-[Icofont](https://icofont.com/icons), [VisualPharm](https://visualpharm.com/), [Google Icons](https://fonts.google.com/icons), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [Iconbuddy](https://iconbuddy.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Streamline](https://www.streamlinehq.com/), [Icones](https://icones.js.org/) / [GitHub](https://github.com/antfu-collective/icones), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composables.com/icons), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/), [svgstack](https://svgstack.com/), [iconshelf](https://iconshelf.com/), [tabler icons](https://tabler.io/icons), [FreeSVG](https://freesvg.org/), [GriddyIcons](https://griddyicons.com/), [icons-for-free](https://icons-for-free.com/), [Solar](https://github.com/480-Design/Solar-Icon-Set), [Reicon](https://reicon.dev/)
+[Google Icons](https://fonts.google.com/icons), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [Iconbuddy](https://iconbuddy.com/), [Devicon](https://devicon.dev/), [IconDuck](https://iconduck.com/), [Streamline](https://www.streamlinehq.com/), [Icones](https://icones.js.org/) / [GitHub](https://github.com/antfu-collective/icones), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composables.com/icons), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/), [svgstack](https://svgstack.com/), [iconshelf](https://iconshelf.com/), [tabler icons](https://tabler.io/icons), [FreeSVG](https://freesvg.org/), [GriddyIcons](https://griddyicons.com/), [icons-for-free](https://icons-for-free.com/), [Solar](https://github.com/480-Design/Solar-Icon-Set), [Reicon](https://reicon.dev/)
 
 ***
 
@@ -430,7 +415,7 @@
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** or **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)** - Firefox
 
-[OneTab](https://www.one-tab.com/), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.tabdeck.so/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
+[Tab Stash](https://josh-berry.github.io/tab-stash/), [One Tab Group](https://www.tabdeck.so/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
 
 ***
 

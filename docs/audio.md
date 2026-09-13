@@ -15,7 +15,7 @@
 * ⭐ **[⁠Limusic](https://simohypers.github.io/limusic/)** - YouTube Music Client
 * [WAVE](https://waveapp.pages.dev/) - YouTube Music Client / FLAC
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)
-* [Sonora](https://github.com/nolight132/sonora) -  YouTube Music Client
+* [Sonora](https://github.com/nolight132/sonora) -  YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [pulse](https://473999.net/pulse) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
@@ -328,7 +328,6 @@
 
 # ► Spotify Tools
 
-* 🌐 **[Awesome Spotify Stats](https://github.com/hugo9655/awesome-spotify-stats)** - Listening Statistics Index
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
 * ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** or [BlockTheSpot](https://github.com/Nuzair46/BlockTheSpot-Installer) - Ad-Free Spotify Patchers / [Telegram](https://t.me/SpotxCommunity)
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
@@ -378,7 +377,7 @@
 
 * ⭐ **[lucida](https://lucida.to/)** - Amazon Music / Soundcloud / FLAC / AAC / MP3 / [Status](https://status.lucida.to/status/lmbr) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/), [4](https://if-it-runs-ship-it.lol/), [5](https://monochromemusic.pages.dev/) - FLAC / AAC / MP3 / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / Qobuz/ Deezer / Tidal / FLAC / [Telegram](https://t.me/lucidahasmusic)
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / Qobuz / Deezer / Tidal / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [TIDAL DL](https://tidal-dl.pages.dev/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
@@ -540,7 +539,9 @@
 * [Bluegrass Archive](https://rentry.co/FMHYB64#bluegrass-archive) - Bluegrass / FLAC
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 * [⁠Tone and Wave](https://toneandwave.blogspot.com/) - Ska / MP3
+* [⁠Nothin' Sez Somethin'](https://nathannothinsez.blogspot.com/) - Reggae / Dub / MP3
 * [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Indonesian Music
+* [⁠Tape Attack](https://tapeattack.blogspot.com/) - European DIY Cassettes
 * [FondSound](https://www.fondsound.com/) - Experimental / MP3
 * [Bootleg Radioclash](https://rentry.co/FMHYB64#bootleg-radioclash) - Mashups / MP3
 * [⁠1000 Flights](https://1000flights.blogspot.com/) - Underground / MP3
@@ -790,7 +791,7 @@
 * [Museeks](https://museeks.io/) - Simple Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/martpie/museeks)
 * [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/audacious-media-player/audacious)
 * [Strawberry](https://www.strawberrymusicplayer.org/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/strawberrymusicplayer/strawberry) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/strawberry-note.md)
-* [Sonora](https://github.com/nolight132/sonora) - Audio Player / Subsonic Player / Windows, macOS, Linux
+* [Sonora](https://github.com/nolight132/sonora) - Audio Player / Subsonic Player / Windows, macOS, Linux / [Discord](https://discord.gg/a8N8Tx23rV)
 * [Exaile](https://exaile.org/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/exaile/exaile)
 * [quodlibet](https://github.com/quodlibet/quodlibet/) - Audio Manager & Player / Windows, macOS, Linux
 * [deadbeef](https://deadbeef.sourceforge.io/) - Audio Player / [Plugins](https://deadbeef.sourceforge.io/plugins.html) / Windows, macOS, Linux / [GitHub](https://github.com/DeaDBeeF-Player/deadbeef)

@@ -128,7 +128,6 @@
 * [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot) or [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Self-Hostable Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm) / [GitHub](https://github.com/Pendonym/Internet-Archival-Bot)
-* [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti-Phishing Bot
 * [⁠HoneyBot](https://eas.lol/honeybot) - Security / Anti-Spam / Anti-Scam Discord Bot
 * [⁠Honeypot](https://discord.com/discovery/applications/1450060292716494940) - Auto-Ban Spam Bots using Dedicated Channel
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
@@ -491,7 +490,7 @@
 * [⁠Twitch Logs](https://tv.supa.sh/logs) - Twitch Chat History / Logs
 * [Screenshot Twitch](https://github.com/eramdam/userscripts/blob/main/Screenshot%20Twitch.user.js) - Add Screenshot Button to Twitch
 * [⁠Stream Database](https://www.streamdatabase.com/) / [Discord](https://discord.com/invite/streamdatabase) or [⁠BadgeBase](https://badgebase.de/) - Twitch Badge + Emote Databases / Tracking
-* [Twitch Drops Miner](https://github.com/DevilXD/TwitchDropsMiner) [Twitch Drops Miner (Fork)](https://github.com/SimpliAj/twitchdropsminer) - Auto Claim Twitch Drops
+* [Twitch Drops Miner](https://github.com/DevilXD/TwitchDropsMiner) or [Twitch Drops Miner (Fork)](https://github.com/SimpliAj/twitchdropsminer) - Auto Claim Twitch Drops
 * [TwitchRSS](https://twitchrss.appspot.com/) or [twitchrss](https://twitchrss.com/) - Twitch RSS Generators
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs

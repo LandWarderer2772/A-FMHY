@@ -328,7 +328,7 @@
 * 🌐 **[Lua Providers](https://rentry.co/lua-providers)** - Steam Lua Provider Index
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot / Manifest Downloaders
 * ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
-* ⭐ **[LuaTools](https://lua.tools/)** - Steam Multi-Tool / Manifest Tool  / [GitHub](https://github.com/madoiscool/LuaTools)
+* ⭐ **[LuaTools](https://lua.tools/)** - Steam Multi-Tool / Manifest Tool / [GitHub](https://github.com/madoiscool/LuaTools)
 * [Steam Link](https://store.steampowered.com/remoteplay#anywhere) - Stream Steam Library to TV / Devices
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
@@ -1131,7 +1131,8 @@
 * ⭐ **[GDDP](https://gddp.pro/)** / [Discord](https://discord.gg/gddp) or **[GD Demon Ladder](https://gdladder.com/)** / [Discord](https://discord.gg/gddl) - Practice & Improve Your Skills
 * [⁠GD Creator School](https://www.gdcreatorschool.com/) - GD Creator Guide / [Discord](https://discord.gg/gdlevels) / [GitHub](https://github.com/komatic5/gdcs2)
 * [GD Forum](https://gdforum.freeforums.net/) - ⁠Geometry Dash Forum
-* [⁠Global Stats Viewer](https://globalstatsviewer.com/), [⁠EDI](https://edi-d6y.pages.dev/) / [Discord](https://discord.gg/TEqvKS5H5N) or [⁠DashStats](https://dashstats.net/) / [Discord](https://discord.com/invite/Qumx6ZmNG7) - Global Stats / Leaderboards
+* [⁠Global Stats Viewer](https://globalstatsviewer.com/) or [⁠DashStats](https://dashstats.net/) / [Discord](https://discord.com/invite/Qumx6ZmNG7) - Global Stats / Leaderboards
+* [⁠EDI](https://edi-d6y.pages.dev/) - Hardest Completed Achievements / [Discord](https://discord.gg/TEqvKS5H5N)
 * [speedrun.gd](https://speedrun.gd/) - Speedrun Leaderboards / [Discord](https://discord.com/invite/5whXv5Y)
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [⁠Icons Gallery](https://iconsgallery.pages.dev/) - Custom GD Icons

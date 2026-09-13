@@ -348,6 +348,12 @@ const transformLinks = (text: string): string =>
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Web(?=,|[ \t]\/|$)/gm,
         replace:
           ' <span v-tooltip="\'Web\'" alt="Web" class="i-fluent:globe-32-filled" /> '
+      },
+      {
+        name: 'Docker',
+        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Docker(?=,|[ \t]\/|$)/gm,
+        replace:
+          ' <span v-tooltip="\'Docker\'" alt="Docker" class="i-simple-icons:docker inline-block w-3em h-3em align-middle" /> '
       }
     ])
     .getText()
