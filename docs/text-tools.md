@@ -56,6 +56,7 @@
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [⁠Memochō](https://bin.kv2.dev/) / [GitHub](https://github.com/SitiSchu/memocho) or [bin](https://basedbin.fly.dev/) - Minimal Pastebins
 * [txt.fyi](https://txt.fyi/) - Plain Text
+* [⁠paste.sh](https://paste.sh/) - Plain Text / [GitHub](https://github.com/dgl/paste.sh)
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting / [GitHub](https://github.com/sparkedhost/paste)
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin

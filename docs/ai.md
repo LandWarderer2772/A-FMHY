@@ -153,6 +153,10 @@
 
 ***
 
+# ► [AI Coding Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_ai_tools)
+
+***
+
 # ► Video Generation
 
 * **Note** - Keep in mind that most of these will require signup, and in most cases can only generate relatively short videos.
@@ -268,7 +272,6 @@
 * [MusicGen](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1ECmNEoXk8kvnLEMBMF2LY82E7XmIG4yu) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [Waveformer](https://github.com/fofr/waveformer)
 * [SOUNDRAW](https://soundraw.io/) / No Sign-Up
-* [Google Flow Music](https://www.flowmusic.app/)
 * [⁠ACE-Step 1.5](https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5) / No Sign-Up / [GitHub](https://github.com/ace-step/ACE-Step-1.5)
 * [Mubert](https://mubert.com/)
 * [⁠Amuse](https://github.com/saddam213/AmuseAI) - ACE-Step 1.5 / [X](https://x.com/Amuse_AI)
@@ -348,10 +351,6 @@
 * [Vocali.se](https://vocali.se/en)
 * [Mazmazika](https://www.mazmazika.com/)
 * [Ezstems](https://ezstems.com/)
-
-***
-
-# ► [AI Coding Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_ai_tools)
 
 ***
 
@@ -464,21 +463,3 @@
 * [WebDev Arena](https://arena.ai/leaderboard/code/webdev) - Coding AI Leaderboard / Benchmarks
 * [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - Coding AI Leaderboard / Benchmarks
 * [⁠Vals AI](https://www.vals.ai/) - Coding AI Leaderboard / Benchmarks
-
-***
-
-# ► Machine Learning
-
-* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
-* 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)**, [⁠Awesome LLM Resources](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/) or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning / LLM Resources
-* ↪️ **[AI / ML Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_ai_.2F_ml_learning)** - Educational AI / ML Resources
-* ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
-* ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
-* ⭐ **[⁠Unsloth](https://unsloth.ai/)** - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide) / [GitHub](https://github.com/unslothai/unsloth)
-* [ModelScope Finetuning](https://modelscope.ai/civision/modelTraining) - Image Gen Model Finetuning / Up to 100 Images Per LoRA
-* [Markdown Web Browser](https://github.com/Dicklesworthstone/markdown_web_browser) - Webpage > Markdown Converter
-* [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
-* [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
-* [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
-* [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-Platform ChatGPT / Gemini UI
-* [Nixified](https://nixified.ai/) - Nix Flake for AI Projects

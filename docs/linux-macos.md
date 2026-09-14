@@ -325,6 +325,7 @@
 * [⁠LeShade](https://github.com/Ishidawg/LeShade) - ReShade Manager
 * [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-Based Direct3D for Linux / Wine
 * [⁠D7VK](https://github.com/WinterSnowfall/d7vk) - Vulkan-Based D3D7/6/5 for Linux / Wine
+* [DLSS5VKLayer](https://www.phoronix.com/news/DLSS5VKLayer) - Vulkan DLSS 5 Neural Rendering Layer / [GitHub](https://github.com/bmitch87/DLSS5VKLayer)
 * [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) or [DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek/) - DXVK Forks w/ Async / Vulkan-Based Direct3D & D3D3-11 / Stutter Reduction
 * [⁠lsfg-vk](https://lsfg-vk.dev/) - Lossless Scaling for Linux / [Source Code](https://git.lsfg-vk.dev/lsfg-vk)
 * [vkBasalt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer

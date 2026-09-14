@@ -6,11 +6,12 @@
 
 ## App / Site Mockups
 
+* ⭐ **[shots.so](https://shots.so/)** - Mockup Creator / Editor
 * [Mockoops](https://mockoops.mohitya.dev/) - Animated Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [Screenshot Rocks](https://screenshot.rocks/) - Create Screenshot Mockups of Websites / [GitHub](https://github.com/daveearley/screenshot.rocks) 
 
-[PostSpark](https://postspark.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [shots.so](https://shots.so/), [MockMagic](https://www.mockmagic.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://getpicasso.com/), [mrmockup](https://mrmockup.com/free-mockups/), [mockupnest](https://mockupnest.com/), [Jam Mockup](http://t.me/+Hp5DjFnpWXdhMTBi)
+[PostSpark](https://postspark.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [MockMagic](https://www.mockmagic.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://getpicasso.com/), [mrmockup](https://mrmockup.com/free-mockups/), [mockupnest](https://mockupnest.com/), [Jam Mockup](http://t.me/+Hp5DjFnpWXdhMTBi)
 
 ***
 

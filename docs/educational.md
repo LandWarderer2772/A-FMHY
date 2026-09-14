@@ -61,7 +61,7 @@
 ***
 
 * 🌐 **[Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone)** - Course Site Index
-* ⭐ **[Course Busters](https://www.cbusters.com/home)** - Course Busters Access
+* ⭐ **[Course Busters](https://www.cbusters.com/home)** - Course Busters Access / Telegram Required
 * [FreeCourseSite](https://fcsnew.net/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
@@ -180,6 +180,7 @@
 * ⭐ **[Pauls Online Math Notes](https://tutorial.math.lamar.edu/)**, [⁠Immortal's Maths Problems](https://www.math.umd.edu/~immortal/), [⁠Evan Chen](https://web.evanchen.cc/) or [LibreTexts Math](https://math.libretexts.org/Bookshelves) - Math Practice / Guides
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) / [GitHub](https://github.com/ManimCommunity/manim/) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+* ⭐ **[OEIS](https://oeis.org/)** - Encyclopedia of Integer Sequences
 * [Wolfram MathWorld](https://mathworld.wolfram.com/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematics Encyclopedias
 * [⁠Algebrica](https://algebrica.org/) - Mathematical Concept Database
 * [Red Blob Games](https://www.redblobgames.com/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
@@ -189,7 +190,6 @@
 * [Mathcha](https://www.mathcha.io/) or [Corca](https://corca.app/) - Online Math Editors
 * [SequenceDB](https://sequencedb.net/) - Sequence Machine
 * [⁠Erich's Packing Center](https://erich-friedman.github.io/packing/) - Geometric Packing Problem Archive
-* [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
 * [⁠ProofWiki](https://proofwiki.org/) - Mathematical Proofs Encyclopedia
 * [Giac/Xcas](https://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Algebra Rules](https://algebrarules.com/) - Learn Algebra Rules
@@ -197,7 +197,6 @@
 * [Calculus Made Easy](https://calculusmadeeasy.org), [⁠Ximera](https://ximera.osu.edu/mooculus) or [⁠Stitz Zeager](https://www.stitz-zeager.com/) - Learn / Practice Calculus
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Mathematics Roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) or [⁠Learn Mathematics](https://donkuri.github.io/learn-mathematics/) - Mathematics Book Recommendations
-* [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [Rink](https://rinkcalc.app/), [Frink](https://frinklang.org/fsp/frink.fsp) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters / Calculators
 * [MathJax](https://www.mathjax.org/) - JavaScript Math Display
 * [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [MathOnline](http://mathonline.wikidot.com/), [⁠CEMC](https://cemc.uwaterloo.ca/resources/courseware) or [Mathigon](https://mathigon.org/) - Math / Courses
@@ -710,7 +709,8 @@
 
 * 🌐 **[Soar](https://soaratlas.com/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [⁠WorldAtlas](https://www.worldatlas.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
-* ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
+* ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)**
+* ↪️ **[GeoGuessr Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_geoguessr)**
 * ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [JetPunk Geography](https://www.jetpunk.com/tags/geography), [LizardPoint](https://lizardpoint.com/), [Teuteuf](https://teuteuf.fr/), [⁠Memorize Earth](https://memorizeearth.com/), [⁠GeoGrid](https://geographygrid.com/), [⁠OpenGuessr](https://education.openguessr.com/) or [WorldFindr](https://worldfindr.com/) - Geography Quiz / Guessing
 * [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
 * [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
@@ -1808,6 +1808,7 @@
 * ⭐ **[OpenCalc](https://github.com/clementwzk/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
 * ⭐ **[GeoGebra](https://www.geogebra.org/)** or [Desmos](https://www.desmos.com/) - Graphing Calculators
 * [CEmu](https://github.com/CE-Programming/CEmu) or [TI 84 Calculator](https://ti84calc.com/) - TI-84 Calculators
+* ⭐ **[Rink](https://rinkcalc.app/)**, [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [⁠OnlineConversion](https://onlineconversion.com/), [Frink](https://frinklang.org/fsp/frink.fsp) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters / Calculators
 * [numbr.dev](https://numbr.dev/) - Calculators
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [PlanetCalc](https://planetcalc.com/) - Calculators
@@ -1815,7 +1816,6 @@
 * [MatrixCalc](https://matrixcalc.org/en/) - Matrix Calculator
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
-* [⁠OnlineConversion](https://onlineconversion.com/) - Conversion Calculators
 * [Kalker](https://kalker.xyz/), [⁠SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/index.html), [Learnbin Lab](https://lab.learnbin.net/) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [TICalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak

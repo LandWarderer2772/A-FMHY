@@ -546,7 +546,7 @@
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
-* ⭐ **[Nitter](https://github.com/zedeus/nitter/wiki/Instances)**, [2](https://codeberg.org/mv12star/shitter/wiki/Instances) / **[xCancel](https://xcancel.com/)**, [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/), [xPrivate](https://xprivate.lol/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
+* ⭐ **[Nitter](https://codeberg.org/mv12star/shitter/wiki/Instances)** / **[xCancel](https://xcancel.com/)**, [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/), [xPrivate](https://xprivate.lol/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
