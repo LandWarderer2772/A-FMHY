@@ -6,7 +6,7 @@
 
 # ► Social Media Tools
 
-* 🌐 **[Disroot](https://disroot.org/en/#services)**, [Hoffnung für die Zukunft](https://hoffnungfuerdiezukunft.net/) / [2](https://evilasswebsite.com/), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services), [4d2](https://4d2.org/), [bloat.cat](https://bloat.cat/), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
+* 🌐 **[Disroot](https://disroot.org/en/#services)**, [Hoffnung für die Zukunft](https://hoffnungfuerdiezukunft.net/) / [2](https://evilasswebsite.com/), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services), [4d2](https://4d2.org/), [bloat.cat](https://bloat.cat/), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/), [⁠Meowing](https://meowing.de/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
 * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)**
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
@@ -364,7 +364,7 @@
 * [⁠FocusTube](https://focustube.mathy.li/) - YouTube Frontend / [GitHub](https://github.com/helbetmathias/focustube)
 * [Piped](https://piped.private.coffee/) - YouTube Frontend / Requires Sign-Up / [GitHub](https://github.com/TeamPiped/Piped)
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
-* [YouT-ube](https://www.yout-ube.com/) or [⁠MUI](https://muitube.com/) - Use YouTube Full Window Player
+* [YouT-ube](https://www.yout-ube.com/) - Use YouTube Full Window Player
 * [YouTube Cinema](https://greasyfork.org/en/scripts/585902) - Expand YouTube Player to Fill Viewport 
 * [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
 * [VacuumTube](https://github.com/shy1132/VacuumTube) - TV Version of YouTube on PC
