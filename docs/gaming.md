@@ -847,12 +847,12 @@
 * ⭐ **[Eaglercraft](https://eaglercraft.com/)** / [Discord](https://discord.gg/yxpa55BahB), [Eaglercraft.dev](https://eaglercraft.dev/), [q13x's Distros](https://eaglercraft.q13x.com/), [MessCraft](https://mess.eu.org/) / [Site List](https://deev.is/) / [Discord](https://discord.com/invite/kbzUdZQWgd), [Hiracraft](https://craft.hira.im/), [WebMC](https://webmc.xyz/) / [2](https://webmc.colbster937.dev/) / [3](https://webmc-launcher.vercel.app/), [EaglerCraftX](https://client.eaglercraft.win/) or [Minecraft Classic](https://classic.minecraft.net/) - Online Browser Minecraft / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eaglercraft-note.md)
 * ⭐ **Eaglercraft Tools** - [Mod Loader](https://eaglerforge.github.io/) / [Create Mods](https://eaglerforge-builder.vercel.app/), [2](https://eaglerforge.github.io/EaglerForgeBuilderNew/) / [Public Servers](https://topeaglerservers.com/) / [Improved Servers](https://github.com/lax1dude/eaglerxserver), [2](https://modrinth.com/organization/eaglercraftxserver)
 * ⭐ **[NetGames](https://netgames.io/)** - Multiple Games / [Discord](https://discord.com/invite/chgD7WF)
-* ⭐ **[Gidd.io](https://gidd.io/)** - Multiple Games
+* ⭐ **[Gidd.io](https://gidd.io/)** - Multiple Games / [Discord](https://discord.com/invite/gmt2d69DP7)
 * ⭐ **[Gartic Phone](https://garticphone.com/)** - Telephone Game / [Discord](https://discord.gg/gartic)
 * ⭐ **[skribbl](https://skribbl.io/)** / [Extra Features](https://typo.rip/) / [GitHub](https://github.com/toobeeh/skribbltypo), [DrawBattle](https://drawbattle.io/) / [Discord](https://discord.gg/D6aHB4hRhK), [Sketchful](https://sketchful.io/) / [Subreddit](https://reddit.com/r/Sketchful) / [Discord](https://discord.gg/MEvtMCv), [⁠DrawWars](https://drawwars.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * [⁠GuessMe](https://guessme.io/) - Majority Answers Guessing Game / [Discord](https://discord.gg/U9YbWWBJn5)
 * [⁠GamingCouch](https://gamingcouch.com/) / [Discord](https://discord.gg/UqSX9ZGz5u), [⁠Doot](https://doot.games/) or [Couchplay](https://www.couchplay.tv/index_en.php) - Multiplayer Couch Gaming / Phone + Gamepad Controller Games
-* [⁠What's A Mook?](https://whatsamook.games/) - Multiplayer / Party Games
+* [⁠What's A Mook?](https://whatsamook.games/) - Multiplayer / Party Games / [Discord](https://discord.com/invite/NM7x5R6)
 * [Billiards Pool Game](https://billiards.tailuge.workers.dev/lobby) - Multiplayer 3D Billiards, Pool and Snooker / [GitHub](https://github.com/tailuge/billiards)
 * [⁠Tough Love Arena](https://toughlovearena.com/) - Multiplayer Browser Fighting Game / [Discord](https://discord.gg/gMBRaUPDT7)
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
@@ -872,7 +872,7 @@
 * [Yucata](https://www.yucata.de/en/) - Multiple Games
 * [Foony](https://foony.com/) - Multiple Games
 * [Pixoguess](https://pixoguess.io/) - Guess Pixelated Images / [Discord](https://discord.gg/Rbu8uGCyM6)
-* [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
+* [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game / [Discord](https://discord.com/invite/9R2PaHf4RG)
 * [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
 * [Deeeep.io](https://deeeep.io/) - Multiplayer Feeding Frenzy Games / Requires Sign-Up
 * [fsh.zone](https://fsh.zone/) - Multiplayer Fishing Game / [Discord](https://discord.com/invite/FKEzJSf)
