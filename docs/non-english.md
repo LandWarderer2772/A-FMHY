@@ -1352,7 +1352,7 @@
 * ⭐ **[CyberLeninka](https://cyberleninka.ru/)** - Articles / Educational / Scientific / Legal
 * ⭐ **[Lib.ru](http://lib.ru/)** - Books
 * ⭐ **[Flibusta](https://flibusta.is/)** - Books / [.onion](http://flibustaongezhld6dibs2dps6vm4nvqg2kp7vgowbu76tzopgnhazqd.onion/) / [.i2p](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/)
-[Knowledge Base](https://dontaz.com/knowledge-base), [2](https://dontaz.github.io/), [3](https://dontaz.pages.dev/), [4](https://dontaz.vercel.app/) - Educational Recommendations
+* [Knowledge Base](https://dontaz.com/knowledge-base), [2](https://dontaz.github.io/), [3](https://dontaz.pages.dev/), [4](https://dontaz.vercel.app/) - Educational Recommendations
 * [VK Book DL Pages](https://redd.it/kne0ba)
 * [Twirpx](https://www.twirpx.com/) - Books / Educational
 * [alleng](https://www.alleng.org/) - Textbooks
@@ -1429,7 +1429,8 @@
 * [Zinfinal](https://zinfinal.com/) - Video / Audio / Reading / Latino / Castilian / Signup Required / [Discord](https://discord.com/invite/TyxzVb5xPA)
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Castilian
 * [Gun's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
-* [latabernadelcangrejo](https://www.latabernadelcangrejo.eu/) - Video / Audio / Signup Required
+* [latabernadelcangrejo](https://www.latabernadelcangrejo.eu/) - Video / Audio / Signup 
+* [SomosMovies](https://somosmovies.org/) -  Movies / TV / 1080p
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
 * [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian
 * [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 4K / 1080p / Latino

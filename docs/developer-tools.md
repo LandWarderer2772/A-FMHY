@@ -471,7 +471,7 @@
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
 * [ShortCode](https://shortcode.dev/) or [CodeList](https://codelist.cc/v3/) - Script / Code Indexes
 * [AnimateCode](https://www.animate-code.com/) - Create Code Animations
-* [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
+* [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi
 * [⁠Zathura](https://www.zathura.dev/) - GUI Debugger for Assembly
 * [Adrenaline](https://useadrenaline.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging
 * [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Code Debugging
@@ -1116,6 +1116,7 @@
 # ► Cybersecurity Tools
 
 * 🌐 **[⁠Awesome Formal Verification](https://github.com/ElNiak/awesome-formal-verification)** - Verification / Model Checking Techniques Index
+* 🌐 **[⁠Cyber Threat Intelligence](https://www.shenouda.nl/threat-intelligence-platform-comparison/)** - CTI Directory & Pricing Explorer 
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)**, [horsicq](https://ntinfo.biz/) / [GitHub](https://github.com/horsicq/) or [⁠CheckFileType](https://www.checkfiletype.com/) - File Type Identification Tools
 * [Nuclei](https://docs.projectdiscovery.io/opensource/nuclei/overview) / [GitHub](https://github.com/projectdiscovery/nuclei), [Synk](https://security.snyk.io/) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
