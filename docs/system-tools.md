@@ -127,13 +127,12 @@
 ## ▷ Remote Desktop
 
 * ⭐ **[Parsec](https://parsec.app/)** / Windows, macOS, Linux, Android, Web / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/parsec.md)
-* ⭐ **[RustDesk](https://rustdesk.com/)** / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
+* ⭐ **[RustDesk](https://rustdesk.com/)** / All Platforms / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Aspia](https://aspia.org/)** / Windows, macOS, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / Windows, macOS, Linux / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
 * [Moonlight](https://moonlight-stream.org/) or [Artemis](https://github.com/ClassicOldSong/moonlight-android) (android) - Gaming Remote Desktop Client / Windows, macOS, Linux, Android, iOS / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [Kasm](https://kasm.com/) - Container Streaming Platform / Resource Intensive / Windows, Linux / [GitHub](https://github.com/kasmtech/KasmVNC)
 * [HopToDesk](https://www.hoptodesk.com/) / Windows, macOS, Linux, Android, iOS / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
-* [CoScreen](https://www.coscreen.co/) / Windows, macOS
 * [p2p.kiwi](https://p2p.kiwi/) / Windows, macOS, Linux / [GitHub](https://github.com/dont-be-evil-company/p2p.kiwi)
 * [⁠DWS](https://www.dwservice.net/) / Windows, macOS, Linux
 * [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rdc.md)
@@ -301,7 +300,7 @@
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop for Only One Monitor
 * [⁠Virtual Display Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Virtual Display Driver
-* [Deskreen](https://deskreen.com/) / [GitHub](https://github.com/pavlobu/deskreen) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device as Monitor
+* [Deskreen](https://deskreen.com/) / [GitHub](https://github.com/pavlobu/deskreen), [⁠BetterCast](https://bettercast.online/) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device / Tablet as Secondary Monitor
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DaltonLens](https://daltonlens.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Filters
 * [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [GitHub](https://github.com/nvaccess/nvda)
@@ -310,9 +309,9 @@
 
 ## ▷ Mouse / Keyboard
 
-* ↪️ **[Mouse / Keyboard Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_keyboards_.2F_mice)**
 * 🌐 **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** - Mechanical Keyboard Resources
 * 🌐 **[⁠Keebfolio](https://keebfolio.netlify.app/)** - Mechanical Keyboard Project Index / [GitHub](https://github.com/Keycapsss/awesome-mechanical-keyboard)
+* ↪️ **[Mouse / Keyboard Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_keyboards_.2F_mice)**
 * ⭐ **[KeyCombiner](https://keycombiner.com/)** or [Use The Keyboard](https://usethekeyboard.com/) - Hotkey Cheatsheets
 * ⭐ **[VIA](https://www.caniusevia.com/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [keymapper](https://github.com/houmain/keymapper), [Mahou](https://gitea.com/BladeMight/Mahou) - Custom Keyboard Layouts / Remapping
 * ⭐ **[geekhack](https://geekhack.org/)** or [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
@@ -348,7 +347,7 @@
 * ↪️ **[Audio Equipment Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_audio_equipment)**
 * ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) / [7.1 Surround](https://hesuvi.net/) / [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dolby-access-atmos-note.md) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
 * ⭐ **[VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm)** - Audio Mixers / Multi-Device Playback / [Banana](https://vb-audio.com/Voicemeeter/banana.htm)
-* ⭐ **[AutoEQ](https://autoeq.app/)** or [⁠PEQdB](https://peqdb.com/) - Create Custom Equalizer Presets / [Discord](https://discord.gg/B7e8cM76PM)
+* ⭐ **[AutoEQ](https://autoeq.app/)**, [⁠EQ By Ear](https://eqbyear.com/) or [⁠PEQdB](https://peqdb.com/) / [Discord](https://discord.gg/B7e8cM76PM) - Create Custom Equalizer Presets 
 * ⭐ **[AudioRelay](https://audiorelay.net/)** / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sync Audio Input/Output between Devices
 * [⁠IEM EQ Guide](https://iem-eq-guide.pages.dev/) - In-Ear Monitor Equalizer Guide
 * [SteelSeries Sonar](https://steelseries.com/gg/sonar) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Cancelling Software
@@ -461,7 +460,7 @@
 
 * ⭐ **[Catppuccin](https://catppuccin.com/)** - Custom App Theme / [Discord](https://discord.gg/r6Mdz5dpFc)
 * ⭐ **[Dracula](https://draculatheme.com/)** - Custom App Theme / [Discord](https://discord.com/invite/yDcFsrYuq9)
-* [Rosé Pine](https://rosepinetheme.com/) - Custom App Theme / [Discord](https://discord.gg/r6wf35KVJW)
+* [Rosé Pine](https://rosepinetheme.com/) - Custom App Theme
 * [Aura Theme](https://github.com/daltonmenezes/aura-theme) - Custom App Theme
 * [theme.park](https://theme-park.dev/) - Custom App Theme
 * [⁠Tokyo Night](https://tokyonight.org/) - Custom App Theme

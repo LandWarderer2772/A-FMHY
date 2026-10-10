@@ -100,12 +100,13 @@
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://acavalin.com/p/free_dns) / [3](https://publicdnsserver.com/) / [4](https://public-dns.info/)
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection / [GitHub](https://github.com/NLnetLabs/unbound)
+* ⭐ **[Tiarap](https://tiar.app/)** - Privacy-Friendly DNS Resolver
 * [Artemis](https://dns.fuzzing.uk/) - Piracy Site DNS Resolver / [GitHub](https://github.com/PUT-Request/Artemis/)
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) - Self-Hosted, Validating, Recursive, Caching Resolver
 * [Control D](https://controld.com/free-dns) / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns) / [Guide](https://github.com/yokoffing/NextDNS-Config)
 * [Rethink DNS](https://rethinkdns.com/configure)
-* [⁠Tiarap](https://tiar.app/)
+* [DNSBunker](https://dnsbunker.org/)
 * [HaGeZi DNS](https://github.com/hagezi/dns-servers)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
 * [AdGuard](https://adguard-dns.io/en/public-dns.html) / [GitHub](https://github.com/AdguardTeam/AdguardSDNSFilter)
@@ -147,7 +148,7 @@
 ## Geometry Dash Demon Lists
 
 * 🌐 **[⁠GD Demon / Challenge Lists](https://docs.google.com/document/d/1tYM7XWS18B7s2g4lplzF6qU2T8LHi3-kQkybGIhXlqE)**
-* ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/) / [Discord](https://discord.com/invite/hfGJ8jMp) / [GitHub](https://github.com/stadust/pointercrate)
+* ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/) / [GitHub](https://github.com/stadust/pointercrate)
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List / [Discord](https://discord.com/invite/aredl) / [GitHub](https://github.com/All-Rated-Extreme-Demon-List)
 * [⁠EDEL](https://docs.google.com/spreadsheets/d/1-2-n2aU__rQya_IESevHjEU0f1xbegKUZEslk7fV38Q/) - Extreme Demon Enjoyment List / [Discord](https://discord.com/invite/pdeZY2FU3U)
 * [Pemonlist](https://pemonlist.com/) / [Discord](https://discord.com/invite/fZuXFtFzVQ) / [GitHub](https://github.com/TheGElCOgecko/pemonlist) or [Platformer List](https://gdplatformerlist.com/) / [Discord](https://discord.gg/wuf9CZsd9D) - Platformer Demon Lists / Leaderboards
@@ -159,7 +160,7 @@
 * [NWL](https://docs.google.com/spreadsheets/d/1YxUE2kkvhT2E6AjnkvTf-o8iu_shSLbuFkEFcZOvieA) - Non-Listworthy Extreme Demon List / [Discord](https://discord.gg/vW88ZFtTY2)
 * [HPPL](https://docs.google.com/document/d/1RZ524Gsou0w4djb3I13vvYV6Q9pp77UjlJkS_Et8b28/) - Hardest Physically Possible Levels List / [Discord](https://discord.com/invite/CGxaTGJaGV)
 * [HTPL](https://docs.google.com/document/d/1GvNWez3Vh3Q6AQXLshYOmA3sXG-9JbV6Zf7ZzRpba0o/) - Hardest Theoretically Possible Levels List / [Discord](https://discord.com/invite/F5U8CQshJv)
-* [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List / [Discord](https://discord.com/invite/q3GNPb7X)
+* [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
 * [LRR Demonlist](https://gdlrrlist.com/) - Low Refresh Rate Demon List / [Discord](https://discord.gg/PCQ5V3e)
 * [Impossible Levels List](https://impossiblelevels.com/) / [Discord](https://discord.gg/MHx4Nbp)
 * [Nine Circles Demonlist](https://ninecirclesdemonlist.com/) / [Doc](https://sites.google.com/view/nine-circles-demonlist/home) / [Discord](https://discord.com/invite/aA9Q54jNXy)
@@ -347,7 +348,7 @@
 
 * 🌐 **[Instance Scores](https://searx.neocities.org/instancescores)** or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
 * ⭐ **[searx.space](https://searx.space/)**
-* ⭐ **[OpenXNG](https://opnxng.com/)**
+* ⭐ **[OpnXNG](https://opnxng.com/)**
 * [searx.party](https://searx.party/)
 * https://searx.fmhy.net/
 * https://search.fuckoffgoogle.net/
@@ -356,7 +357,6 @@
 * https://searx.oloke.xyz/
 * https://searxng.canine.tools/
 * https://searloc.org/
-* https://search.2b9t.xyz/
 * https://search.mdosch.de/
 * https://www.gruble.de/
 
@@ -364,13 +364,13 @@
 
 ## SMS Verification Sites
 
-* ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Requires Sign-Up
+* ⭐ **[gettempnumber](https://gettempnumber.com/)**
 * ⭐ **[us-phone-number](https://us-phone-number.com/)** or [mianfeijiema](https://mianfeijiema.com/) 
 * ⭐ **[sms24](https://www.sms24.me/)**
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[⁠SMSOnline](https://www.smsonline.cloud/)**
 
-[TemporaryNumber](https://temporarynumber.com/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [7sim](https://7sim.net/), [yunjiema](https://yunjiema.net/), [yunduanxin](https://yunduanxin.net/), [free-sms-receive](https://www.free-sms-receive.com/), [receivefreesms](https://receivefreesms.co.uk/), [smspinverify](https://smspinverify.com/), [receivefreesms.net](https://receivefreesms.net/), [smspool](https://www.smspool.net/free-sms-verification), [receive-smss](https://receive-smss.live/), [⁠eSIM Plus](https://esimplus.me/temporary-numbers), [receivesms](https://www.receivesms.co/), [PVAPins](https://pvapins.com/free-numbers), [⁠OnlineSim](https://onlinesim.io/), [⁠ReceiveSMSFast](https://receivesmsfast.com/), [Receive-SMS](https://receive-sms.io/), [⁠Verify SMS](https://verifysmsfree.com/), [⁠TempSMSOnline](https://tempsmsonline.com/), [SMSReceiveFree](https://smsreceivefree.xyz/), [⁠Sanalonay](https://sanalonay.com/), [⁠Text Verification](https://text-verification.net/), [⁠Online Sim](https://online-sim.pro/), [⁠FreePhone](https://freephone.io/), [⁠FreeReceiveSMS](https://freereceivesms.top/), [⁠TempBoxPro](https://tempboxpro.com/temp-number), [gettempnumber](https://gettempnumber.com/), [ZUSMS](https://www.zusms.com/en), [PVAcodes](https://pvacodes.com/free-number), [Anosim](https://www.anosim.net/freenumbers), [⁠Receive SMS](https://receive-sms-number.com/), [⁠Online Sim](https://online-sim.org/)
+[TemporaryNumber](https://temporarynumber.com/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [7sim](https://7sim.net/), [yunjiema](https://yunjiema.net/), [yunduanxin](https://yunduanxin.net/), [free-sms-receive](https://www.free-sms-receive.com/), [receivefreesms](https://receivefreesms.co.uk/), [smspinverify](https://smspinverify.com/), [receivefreesms.net](https://receivefreesms.net/), [smspool](https://www.smspool.net/free-sms-verification), [receive-smss](https://receive-smss.live/), [⁠eSIM Plus](https://esimplus.me/temporary-numbers), [receivesms](https://www.receivesms.co/), [PVAPins](https://pvapins.com/free-numbers), [⁠OnlineSim](https://onlinesim.io/), [⁠ReceiveSMSFast](https://receivesmsfast.com/), [Receive-SMS](https://receive-sms.io/), [⁠Verify SMS](https://verifysmsfree.com/), [⁠TempSMSOnline](https://tempsmsonline.com/), [SMSReceiveFree](https://smsreceivefree.xyz/), [⁠Sanalonay](https://sanalonay.com/), [⁠Text Verification](https://text-verification.net/), [⁠Online Sim](https://online-sim.pro/), [⁠FreePhone](https://freephone.io/), [⁠FreeReceiveSMS](https://freereceivesms.top/), [⁠TempBoxPro](https://tempboxpro.com/temp-number), [ZUSMS](https://www.zusms.com/en), [PVAcodes](https://pvacodes.com/free-number), [Anosim](https://www.anosim.net/freenumbers), [⁠Receive SMS](https://receive-sms-number.com/), [⁠Online Sim](https://online-sim.org/), [⁠GetSMS](https://getsms.online/temporary-phone-numbers/)
 
 ***
 

@@ -14,7 +14,7 @@
 * [IndieHackers](https://www.indiehackers.com/) - Developer Forum
 * [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
 * [⁠late.sh](https://late.sh/) - Command-Line Style Clubhouse / [GitHub](https://github.com/mpiorowski/late-sh)
-* [⁠Graphics Programming](https://discord.gg/graphicsprogramming) - Graphics Programming Discord Server
+* [⁠Graphics Programming](https://discord.gg/graphicsprogramming) - Graphics Programming Discord Server / [Subreddit](https://www.reddit.com/r/GraphicsProgramming/)
 * [⁠Functional Programming](https://discord.gg/K6XHBSh) - Functional Programming Community / Discord
 * [Tech-Blogs](https://tech-blogs.dev/) or [HN Popularity](https://popularity.refactoringenglish.com/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
@@ -40,10 +40,10 @@
 
 # ► Developer Tools
 
+* 🌐 **[⁠Awesome Minimalist](https://github.com/neiesc/awesome-minimalist)** - Curated Minimal Dev Frameworks
 * ↪️ **[Data Visualization / Diagrams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
 * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
 * ↪️ **[Markup Tools / Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_markup_tools)**
-* 🌐 **[⁠Awesome Minimalist](https://github.com/neiesc/awesome-minimalist)** - Curated Minimal Dev Frameworks
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App / Windows, macOS, Linux / [GitHub](https://github.com/DevToys-app/DevToys)
 * ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation / Windows, macOS, Linux /
 * ⭐ **[ImHex](https://imhex.werwolv.net/)** / [Web Version](https://web.imhex.werwolv.net/) / Windows, macOS, Linux, Web / [GitHub](https://github.com/WerWolv/ImHex) or [HexEd.it](https://hexed.it/) - Hex Editors
@@ -70,7 +70,7 @@
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [⁠bin](https://github.com/marcosnils/bin) - Binary Manager / Windows, macOS, Linux
-* [N8N](https://n8n.io/) / [Workflow Index](https://github.com/Zie619/n8n-workflows) - Workflow Automation
+* [N8N](https://github.com/n8n-io/n8n) / [Workflow Index](https://github.com/Zie619/n8n-workflows) - Workflow Automation
 * [⁠lastversion](https://github.com/dvershinin/lastversion) - Find / Download Latest Project Releases 
 * [Sentry](https://sentry.io/) or [Darkly](https://launchdarkly.com/) - Error Tracking Platforms
 * [Mockaroo](https://mockaroo.com/) or [Mockium](https://softwium.com/mockium/) - Generate Test Data
@@ -201,7 +201,7 @@
 * [Imgbot](https://imgbot.net/) - GitHub Image Compression / [GitHub](https://github.com/imgbot/Imgbot)
 * [Octobox](https://octobox.io/), [Gitify](https://www.gitify.io/) or [CatLight](https://catlight.io/) - GitHub Notifications
 * [Download Directory](https://download-directory.github.io/) - Download GitHub Repo Sub-Folders / Files
-* [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) or [Active-Forks](https://techgaun.github.io/active-forks/index.html) / [GitHub](https://github.com/techgaun/active-forks) - Find Active GitHub Forks
+* [useful-forks](https://useful-forks.github.io/), [GitPop3](https://andremiras.github.io/gitpop3/) or [Active-Forks](https://techgaun.github.io/active-forks/index.html) / [GitHub](https://github.com/techgaun/active-forks) - Find Active GitHub Forks
 * [Graphite](https://graphite.com/) or [Stacking](https://stacking.dev/) - Improve Pull Request Workflow
 * [SemanticDiff](https://app.semanticdiff.com/) - Review Pull Requests using Language Aware Diff
 * [Mirrobot](https://mirrowel.github.io/Mirrobot-agent/?bot=Mirrobot-Agent) - Customizable AI GitHub Pull Request Review / [GitHub](https://github.com/Mirrowel/Mirrobot-agent)
@@ -234,7 +234,7 @@
 * 🌐 **[Selfhosted-Apps-Docker](https://github.com/DoTheEvo/selfhosted-apps-docker)** - Self-Hosted Docker Apps / Guides
 * ⭐ **[Docker](https://www.docker.com/)** / [Desktop App](https://www.docker.com/products/docker-desktop/) - Build, Manage and Run Apps in Containers
 * ⭐ **[Podman](https://podman.io/)** / [2](https://podman-desktop.io/) - Root-less, Daemon-less, Open Source Docker Alternative / [GitHub](https://github.com/containers/podman) / [Compose](https://github.com/containers/podman-compose)
-* ⭐ **[Portainer](https://portainer.io/)**, [Dockhand](https://dockhand.pro/) / [GitHub](https://github.com/Finsys/dockhand), [DockGE](https://dockge.kuma.pet/) or [moncho](https://moncho.github.io/dry/) - Container Managers
+* ⭐ **[Portainer](https://portainer.io/)** / [GitHub](https://github.com/portainer/portainer), [Dockhand](https://dockhand.pro/) / [GitHub](https://github.com/Finsys/dockhand), [DockGE](https://dockge.kuma.pet/) or [moncho](https://moncho.github.io/dry/) - Container Managers
 * ⭐ **[Composerize](https://www.composerize.com/)** - Compose Docker Files
 * ⭐ **[Docker Hub](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [LazyDocker](https://github.com/jesseduffield/lazydocker), [oxker](https://github.com/mrjackwills/oxker), [Arcane](https://getarcane.app/) / [GitHub](https://github.com/getarcaneapp/arcane) or [Isaiah](https://github.com/will-moss/isaiah) - Docker Managers / TUIs
@@ -528,8 +528,8 @@
 
 * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
 * ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / Muse Spark 1.3 / MiMo-2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
-* ⭐ **[Aider](https://aider.chat/)** - Terminal Coding Agent / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Subreddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
+* [OpenChamber](https://openchamber.dev/) - Coding AI Client / [GitHub](https://github.com/openchamber/openchamber)
 * [OpenHands](https://www.openhands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
@@ -540,7 +540,6 @@
 * [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/) / [GitHub](https://github.com/robertpiosik/CodeWebChat)
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Qodo](https://www.qodo.ai/) - Coding AI
-* [OpenChamber](https://openchamber.dev/) - Coding AI  / [GitHub](https://github.com/openchamber/openchamber)
 * [⁠ZCode](https://zcode.z.ai/) - Coding AI / [GitHub](https://github.com/zai-org/ZCode)
 * [Ampcode](https://ampcode.com/) - Coding AI
 * [⁠FreeBuff](https://freebuff.com/) - Coding Agent / Cloud Sandbox / MiMo 2.5
@@ -567,7 +566,7 @@
 * [Qwen](https://chat.qwen.ai/) - Qwen 3.8 Max (Thinking) / Qwen 3.7 Plus / Coding AI / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [MiniMax AI](https://agent.minimax.io/) - MiniMax M3 (Thinking) / Coding AI / Sign-Up [GitHub](https://github.com/MiniMax-AI/)
 * [⁠Cloud CLI](https://github.com/siteboon/claudecodeui) - AI Coding Agent Web Manager
-* [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Discord](https://discord.gg/websim) / [Subreddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
+* [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Subreddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
 * [v0](https://v0.app/) - Text to Site Code
 * [Bolt.new](https://bolt.new/) - AI Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
 
@@ -773,7 +772,7 @@
 * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * ⭐ **[Formulaer](https://formulaer.com/)**, **[Tally](https://tally.so/)**, [FormBricks](https://github.com/formbricks/formbricks) or [Deformity](https://deformity.ai/) - Form Builders
-* ⭐ **[Playwright](https://playwright.dev/)**, [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
+* ⭐ **[Playwright](https://playwright.dev/)**, [Browser Use](https://browser-use.com/) / [Harness](https://browser-harness.com/) / [GitHub](https://github.com/browser-use/browser-use), [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Automa](https://www.goautoma.com/extension/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
 * [⁠cron-job](https://cron-job.org/) - Web-Based Cron Job / Automation Scheduler
 * [Flounder](https://flounder.online/) - Website Building Discussion
@@ -1002,21 +1001,20 @@
 
 # ► Hosting Tools
 
-* ↪️ **[Dynamic DNS Services / Subdomains](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dynamic_dns_services_.2F_subdomains)**
-* ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_self-hosted_wiki_alts)**
 * 🌐 **[FreeHosts](https://freehosts.eu/)** or **[Awesome-Web-Hosting](https://nuhmanpk.github.io/Awesome-Web-Hosting/)** / [GitHub](https://github.com/nuhmanpk/Awesome-Web-Hosting) - Free Hosting Provider Indexes
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resource Index
 * 🌐 **[VPS Comparison Chart](https://vpsfilter.com/)**, [VPS Rentals](https://vps.rentals/), [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
-* ⭐ **[TLDES](https://tldes.com/)**, [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
-* ⭐ **[censys](https://search.censys.io/)**, [WebDNA](https://webdna.xtra.wtf/), [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
+* ↪️ **[Dynamic DNS Services / Subdomains](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dynamic_dns_services_.2F_subdomains)**
+* ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_self-hosted_wiki_alts)**
+* ⭐ **[TLDES](https://tldes.com/)**, [TLDHub](https://tldhub.com/), [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
+* ⭐ **[censys](https://search.censys.io/)**, [WebDNA](https://webdna.xtra.wtf/), [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [DNSlytics](https://dnslytics.com/), [WhoisRequest](https://whoisrequest.com/), [⁠W.is](https://w.is/) or [Whois Lookup](https://whois.domaintools.com/) - Domain Info / Whois Search
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
 * [Secure Backend Guide](https://rentry.co/FMHYB64#backend-guide) - Secure Backend Guide
 * [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
 * [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [⁠Micro Domains](https://micro.domains/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domains
-* [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App
+* [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App / [GitHub](https://github.com/funilrys/PyFunceble)
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://www.dnstwister.com/) - Typosquatting Checkers
-* [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
 * [OONI](https://ooni.org/) - Check Site Location Availability
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
@@ -1024,24 +1022,23 @@
 * [⁠Instances (Vantage)](https://instances.vantage.sh/) - Compare AWS, Azure, and GCP Instances / [GitHub](https://github.com/vantage-sh/ec2instances.info) 
 * [⁠Val Town](https://www.val.town/) - Serverless Scripting and Sharing
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
-* [Sandstorm](https://sandstorm.org/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
-* [overscript](https://overscript.net/) - Imageboard Hosting
+* [Sandstorm](https://sandstorm.org/) / [GitHub](https://github.com/sandstorm-io/sandstorm), [Cosmos](https://cosmos-cloud.io/) / [GitHub](https://github.com/azukaar/cosmos-server) or [Cloudron](https://www.cloudron.io/) - Web App Hosts
+* [overscript](https://overscript.net/) - Imageboard Hosting / [GitHub](https://github.com/tanami/overscript)
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
-* [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
-* [HumHub](https://www.humhub.com), [HubZilla](https://hubzilla.org/page/info/discover) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
+* [MyBB](https://www.mybb.com/) / [GitHub](https://github.com/mybb), [FreeFlarum](https://freeflarum.com/) or [phpBB](https://www.phpbb.com/) / [GitHub](https://github.com/phpbb) - Forum Hosting
+* [HumHub](https://www.humhub.com) / [GitHub](https://github.com/humhub), [Hubzilla](https://hubzilla.org/page/info/home) / [GitLab](https://framagit.org/hubzilla/core) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
 * [UNIT3D](https://github.com/HDInnovations/UNIT3D) - Private Tracker Hosting
-* [OpenPanel](https://openpanel.com/) / [GitHub](https://github.com/stefanpejcic/openpanel) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
+* [OpenPanel](https://openpanel.com/) / [GitHub](https://github.com/stefanpejcic/openpanel) or [Moonlight](https://moonlightpanel.xyz/) / [GitHub](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
 * [24x7](https://www.site24x7.com/tools.html) - Various Hosting Tools
-* [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Checkmate](https://github.com/bluewave-labs/Checkmate), [⁠Gatus](https://gatus.io/) / [GitHub](https://github.com/TwiN/gatus) or [UptimeRobot](https://uptimerobot.com/) - Uptime Monitors
-* [Kener](https://kener.ing/) or [cstate](https://github.com/cstate/cstate) - Self-Hosted Status Pages
-* [redirect.name](https://redirect.name/) - URL Forwarding
+* [Uptime Kuma](https://uptime.kuma.pet/) / [GitHub](https://github.com/louislam/uptime-kuma), [Checkmate](https://checkmate.so/) / [GitHub](https://github.com/bluewave-labs/Checkmate), [⁠Gatus](https://gatus.io/) / [GitHub](https://github.com/TwiN/gatus) or [UptimeRobot](https://uptimerobot.com/) - Uptime Monitors
+* [Kener](https://kener.ing/) / [GitHub](https://github.com/rajnandan1/kener) or [cState](https://cstate.uncascade.com/) / [GitHub](https://github.com/cstate/cstate) - Self-Hosted Status Pages
+* [redirect.name](https://redirect.name/) - URL Forwarding / [GitHub](https://github.com/frolic/redirect.name)
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
-* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [SD Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
 * [AtSameIP](https://intercode.info/webtools/atsameip/) - Find Websites on the Same IP
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
 * [CloudFlare DDNS Updater](https://github.com/K0p1-Git/cloudflare-ddns-updater/) - Cloudflare Dynamic DNS Auto-Update Script
-* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
+* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) / [GitHub](https://github.com/lewdev/meta-tag-gen), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
 
 ***
 
@@ -1176,6 +1173,7 @@
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - Encrypted DNS Providers & Resources / [Public Servers](https://github.com/curl/curl/wiki/DNS-over-HTTPS#publicly-available-servers) / [iOS + macOS Configs](https://github.com/paulmillr/encrypted-dns)
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [DNS Propagation](https://dnsaudit.io/tools/dns-propagation-check) - DNS Checker
+* [⁠DNS.is](https://dns.is/) - DNS Resolution Check
 * [⁠DNS Coffee](https://dns.coffee/) - DNS Search History Tool 
 * [MXToolBox](https://mxtoolbox.com/) - MX Record Lookup Tool
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info), [DNSHistory](https://dnshistory.org/) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
@@ -1187,10 +1185,12 @@
 
 * ⭐ **[Cap](https://trycap.dev/)** / [GitHub](https://github.com/tiagozip/cap), [LibreCaptcha](https://github.com/librecaptcha/lc-core), [mCaptcha](https://mcaptcha.org/) / [GitHub](https://github.com/mCaptcha/mCaptcha) or [Anubis](https://anubis.techaro.lol/) / [GitHub](https://github.com/TecharoHQ/anubis) - Bot Protection / Captchas
 * [⁠Iocaine](https://iocaine.madhouse-project.org/) - Anti-Web Crawler Software / [Source Code](https://git.madhouse-project.org/iocaine/iocaine)
+* [⁠The Crawler Zoo](https://crawlerzoo.com/) - Web Crawler Database / Bot Blocking Guides
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [SuperTokens](https://supertokens.com/), [⁠Better Auth](https://better-auth.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
 * [⁠crt.name](https://crt.name/) - Passive Subdomain Index / Search
+* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [SD Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
 * [SupaBase](https://supabase.com/) - Database / Authentication Service
 * [⁠GNUnet](https://www.gnunet.org/en/) - Decentralized P2P Framework
 * [ZAP](https://www.zaproxy.org/) - Web App Security Testing
@@ -1206,7 +1206,7 @@
 
 * ⭐ **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)** - Cryptography Resources
 * [mitmproxy](https://mitmproxy.org/) - Analyze and modify HTTPS traffic / [OpenAPI Converter](https://github.com/alufers/mitmproxy2swagger) / [GitHub](https://github.com/mitmproxy/mitmproxy)
-* [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
+* [HTTPToolkit](https://httptoolkit.com/) / [Pro](https://github.com/xenos1337/httptoolkit-patcher) - Intercept, Debug, and Mock HTTP(S)
 * [TLSRef](https://configurator.tlsref.org/) - SSL Configuration Generator
 * [SSLLabs](https://www.ssllabs.com/) - SSL Testing
 * [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)

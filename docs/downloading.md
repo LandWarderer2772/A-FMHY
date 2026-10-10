@@ -18,8 +18,8 @@
 * ⭐ **[CracksURL](https://cracksurl.com/)** / [Download Guide](https://cracksurl.com/how-to-download/) / [Telegram](https://t.me/+Fu_l5ukw7wNkMDll), [2](https://t.me/+8zQaYybFs_wyMzhl)
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* ⭐ **[Mobilism](https://forum.mobilism.org/)** - Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Requires Sign-Up
+* ⭐ **[Mobilism](https://forum.mobilism.org/)** - Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Moum](https://moum.top/en/)
@@ -130,6 +130,7 @@
 * [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
 * [downTURK](https://www.downturk.net/) - Audio / Books
 * [SoftArchive](https://softarchive.download/), [2](https://softarchive.is/), [3](https://sanet.lc/), [4](https://sanet.st/), [5](https://sanet.sb/), [6](https://soft.ac/), [7](https://sanet.ws/) - Audio / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sanet-warning.md)
+* [⁠ReleaseHive](https://releasehive.com/) - Video / Audio / Books / Requires [Debrid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)
 
 ***
 
@@ -222,23 +223,24 @@
 
 * 🌐 **[Debrid Services Comparison](https://debridcompare.pages.dev/)** / [GitHub](https://github.com/fynks/debrid-services-comparison)
 * ↪️ **[Debrid Compatible Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
-* ⭐ **[TorBox](https://torbox.app/)** - Paid / Requires Sign-Up / [Hosters](https://torbox.app/hosters) / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
+* ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB + 10 Monthly DDL Free / Requires Sign-Up / [Hosters](https://torbox.app/hosters) / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba), [2](https://gitlab.com/forgiving/yatba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
 * [Real-Debrid](https://real-debrid.com/) - Paid / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
 * [⁠NullBeat](https://nullbeat.thevolecitor.qzz.io/) - TorBox-Based Hi-Res Audio & CD FLAC Ripper
-* [⁠Debridr](https://debridr.com/) or [⁠Get4All](https://get4all.org/) - Bypass Premium Link Limits
-* [iTeraPlay](https://iteraplay.com/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/), [TeraFetch](https://terafetch.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
+* [⁠Debridr](https://debridr.com/) or [⁠Get4All](https://get4all.org/) (use ubo) - Premium Link Bypass / Use UBO + [Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)
+* [⁠Rip Anything From Anywhere](https://anything.rip/) - Multi-Site Bypass
+* [iTeraPlay](https://iteraplay.com/), [Terabox Downloader](https://getindevice.com/terabox-downloader/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/), [TeraFetch](https://terafetch.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [Debrid Media Manager](https://debridmediamanager.com/), [⁠Debrid Vault](https://debridvault.elfhosted.com/) or [Debrid Vault + Eclipse](https://discord.gg/B3QKzPRjhM) - ⁠Debrid Managers / Cloud Managers
-* [Pixeldrain Limit Bypass](https://pixeldrain-bypass.gamedrive.to/), [2](https://pixeldrain-bypass.gamedrive.to/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pixeldrain.md)
+* [Pixeldrain Limit Bypass](https://pixeldrain-bypass.gamedrive.to/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pixeldrain.md)
 
 ***
 
 # ► IRC Tools
 
-* ⭐ **[Android IRC Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_internet)**
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 * 🌐 **[NetSplit](https://netsplit.de/)** - IRC Channel Index
 * 🌐 **[IRC Client Comparisons](https://wikipedia.org/wiki/Comparison_of_IRC_clients)**
+* ↪️ **[Android IRC Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_internet)**
 * [IRC Guide](https://rentry.org/ircfmhyguide), [Libera Guides](https://libera.chat/guides/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
 * [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), or [Halloy](https://github.com/squidowl/halloy) - IRC Clients / Windows, macOS, Linux
 * [Konversation](https://konversation.kde.org/) - IRC Client / Windows, Linux / [GitHub](https://github.com/KDE/konversation)

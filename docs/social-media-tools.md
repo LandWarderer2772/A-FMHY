@@ -140,8 +140,8 @@
 
 * 🌐 **[Discord Servers](https://discord.com/servers)** - Server Index
 * 🌐 **[Disdex](https://disdex.io/)** - Server Index / [Discord](https://discord.gg/C5M7ZGHDhH)
-* 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
-* [GuildFinder](https://www.guildfinder.org/) - Server Index / [Discord](https://discord.com/invite/unfocused)
+* 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives
+* [GuildFinder](https://www.guildfinder.org/) - Server Index
 * [DISBOARD](https://disboard.org/) - Server Index
 * [Discords.com](https://discords.com/) - Server / Bot Index
 * [Discord Me](https://discord.me/) - Server / Bot Index
@@ -240,7 +240,7 @@
 
 # ► Telegram Tools
 
-* 🌐 **[TDirectory](https://tdirectory.me/)**, [TGStat](https://tgstat.com/), [Awesome Telegram](https://github.com/ebertti/awesome-telegram) or [TelegramChannels](https://telegramchannels.me/) - Telegram Channel Indexes
+* 🌐 **[TDirectory](https://tdirectory.me/)**, [Awesome Telegram](https://github.com/ebertti/awesome-telegram) or [TelegramChannels](https://telegramchannels.me/) - Telegram Channel Indexes
 * 🌐 **[ComBot Groups](https://combot.org/top/telegram/groups)** - Top Telegram Groups Index
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0), [2](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa), [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TG-ME](https://www.tg-me.com/) - Telegram CSEs
 * [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Save Restricted Content
@@ -312,6 +312,7 @@
 * [YouTube Subscription History](https://xxluke.de/subscription-history/) - Subscription History Tracker
 * [MassYoutubeUnsubscriber](https://github.com/DomHeadroom/MassYoutubeUnsubscriber) - Bulk Remove YouTube Subscriptions
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
+* [YT Data Tools](https://ytdt.digitalmethods.net/) - ⁠YouTube Data Tools
 * [Playboard](https://playboard.co) - YouTube Channel Stats
 * [vidIQ](https://vidiq.com/extension/) - YouTube Viewership Data
 * [⁠Thumbs Up](https://thumbsup.tv/) - Preview YouTube Thumbnails / Titles
@@ -356,6 +357,7 @@
 * ⭐ **[FreeTube](https://freetubeapp.io/)** - Local YouTube Frontend / [GitHub](https://github.com/FreeTubeApp/FreeTube)
 * ⭐ **[Invidious](https://invidious.io/)** or [Materialious](https://materialio.us/) - YouTube Frontend / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [TUI](https://github.com/darkhz/invidtui) / [GitHub](https://github.com/iv-org/invidious/)
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
+* [YouT-ube](https://www.yout-ube.com/) or [MUI Tube](https://muitube.com/) - Use YouTube Full Window Player / Bypass uBO Delay 
 * [YTCH](https://ytch.tv/), [Channel Surfer](https://channelsurfer.tv/) or [FreeTVz](https://freetvz.com/) - Random TV Style YouTube / Custom Channels
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
 * [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
@@ -364,7 +366,6 @@
 * [⁠FocusTube](https://focustube.mathy.li/) - YouTube Frontend / [GitHub](https://github.com/helbetmathias/focustube)
 * [Piped](https://piped.private.coffee/) - YouTube Frontend / Requires Sign-Up / [GitHub](https://github.com/TeamPiped/Piped)
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
-* [YouT-ube](https://www.yout-ube.com/) - Use YouTube Full Window Player
 * [YouTube Cinema](https://greasyfork.org/en/scripts/585902) - Expand YouTube Player to Fill Viewport 
 * [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
 * [VacuumTube](https://github.com/shy1132/VacuumTube) - TV Version of YouTube on PC
@@ -411,10 +412,10 @@
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)** 
 * ⭐ **[Parabolic](https://github.com/NickvisionApps/Parabolic)**, [Tartube](https://tartube.sourceforge.io/) / [GitHub](https://github.com/axcore/tartube/), [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
 * ⭐ **[JDownloader](https://jdownloader.org/)** - YouTube Downloader App
-* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r) or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLIs
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r) or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YT-DL CLIs / TUIs
 * ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 * [Stacher](https://stacher.io/), [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) or [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - YT-DL GUIs
-* [⁠YT1s](https://yt1s.com.co/) or [CNVMP3](https://cnvmp3.com/) / [Subreddit](https://www.reddit.com/r/cnvmp3) - Online YT-DL Downloaders
+* [⁠YT1s](https://yt1s.com.co/), [CNVMP3](https://cnvmp3.com/) / [Subreddit](https://www.reddit.com/r/cnvmp3) or [AudioFetcher (MP4)](https://audiofetcher.com/) / [Subreddit](https://www.reddit.com/r/AudioFetcherHQ/) / [Discord](https://discord.com/invite/DFZaejcJfg) - Online YT-DL Downloaders
 * [⁠Wayback YouTube](https://www.waybackyt.download/) - Download Deleted YouTube Videos via Wayback Machine
 * [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
 * [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader
@@ -511,6 +512,7 @@
 
 * ⭐ **[Chatterino](https://chatterino.com/)** / [2](https://github.com/SevenTV/chatterino7), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Clients
 * [Twitch App](https://gitlab.com/linuxbombay/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
+* [⁠TwitchUnblock](https://test2-fawn-eta.vercel.app/) - Twitch Frontend / Web / [GitHub](https://github.com/MXFia19/TwitchUnblock-Web)
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
 * [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [⁠100 Multiview](https://www.100multiview.com/twitch), [Twitch3D](https://hjjg200.github.io/twitch3d/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.tv/), [⁠Viewington](https://viewington.com/watch) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
@@ -589,7 +591,8 @@
 
 * 🌐 **[BlueskyDirectory](https://blueskydirectory.com/)** - Bluesky Resources
 * 🌐 **[⁠ATStore](https://atstore.fyi/)** - AT Protocol Based Web Apps
-* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alternative 
+* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alternative
+* [⁠WitchSky](https://witchsky.app/) - Bluesky Frontend
 * [Follower Bridge](https://github.com/kawamataryo/sky-follower-bridge) - Import Following from Twitter/X
 * [Twitter/X Import](https://tangled.org/marcomaroni.it/twitter-to-bluesky) - Import Tweets from Twitter/X
 * [Tuisky](https://github.com/sugyan/tuisky) - TUI Client
@@ -638,11 +641,11 @@
 
 # ► TikTok Tools
 
-* ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - User Archive / Lookup / Monitor / Viewer / Link Tracker & more / [Telegram](https://t.me/tiktracksite)
+* ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - TikTok User Lookup & Archive / Monitor / Viewer / Link Tracker / Comment & Video Exporter & more / [Telegram](https://t.me/tiktracksite)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
-* [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders
 * [⁠BXD Enhancer](https://method.billoxd.site/) - Bypass TikTok Compression
+* [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [⁠TikTok Control Panel](https://github.com/ElectricArdvark/Tiktok-control-panel) - Control Panel / Extra Functionalities 
 * [TikTok Tools](https://omar-thing.site/) - Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
@@ -653,7 +656,7 @@
 
 # ► Blogging Tools
 
-* ⭐ **[Bear Blog](https://bearblog.dev/)** / [GitHub](https://github.com/HermanMartinus/bearblog), **[⁠TinyBones](https://tinybones.pages.dev/)** / [GitHub](https://github.com/itzcozi/tinybones), [Mataroa](https://mataroa.blog/), [btw](https://www.btw.so/) / [Discord](https://discord.com/invite/vbDysPXJuF) / [GitHub](https://github.com/btw-so/btw)
+* ⭐ **[Bear Blog](https://bearblog.dev/)** / [GitHub](https://github.com/HermanMartinus/bearblog), **[⁠TinyBones](https://tinybones.pages.dev/)**, [Mataroa](https://mataroa.blog/), [btw](https://www.btw.so/) / [Discord](https://discord.com/invite/vbDysPXJuF) / [GitHub](https://github.com/btw-so/btw)
  or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
 * [Telescope](https://telescope.ac/) - Publishing Platform
 * [Dreamwidth](https://www.dreamwidth.org/) - Blogging Platform
@@ -761,8 +764,8 @@
 
 # ► 4chan Tools
 
-* [⁠4chan-neXT](https://4chan-next.com/) - 4chan Features Userscript 
-* [Chan](https://github.com/moffatman/chan) - 4chan Mobile Apps
+* [⁠4chan-neXT](https://4chan-next.com/) - 4chan Features Userscript
+* [Chance](https://github.com/moffatman/chan) - 4chan Mobile App
 * [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client
 * [4Webm](https://www.4webm.org/) - Load All Webm Videos in 4chan Thread
 * [4stats](https://4stats.io/) - 4chan Board / Thread Stats

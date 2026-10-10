@@ -11,29 +11,30 @@
 * ↪️ **[YouTube Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_youtube_tools)**
 * ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
 * ⭐ **[Reincubate Camo](https://camo.com/studio)** - Use Any Camera as Webcam
-* [Kast](https://kast.gg/), [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy), [⁠Broadcast Box](https://b.siobud.com/) / [GitHub](https://github.com/Glimesh/broadcast-box), [Screen Share Party](https://ba.net/screen/), [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/) or [Screen-Sharing](https://share-your-screen.vercel.app/) / [GitHub](https://github.com/tonghohin/screen-sharing) - Web-Based Screen Sharing
-* [⁠LonelyScreen](https://www.lonelyscreen.com/) or [⁠uxplay-windows](https://github.com/leapbtw/uxplay-windows) - AirPlay Receivers
-* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [Rope](https://github.com/Hillobar/Rope) or [SimSwap](https://github.com/neuralchen/SimSwap) - Video Face Swap Tools
-* [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media / Video
-* [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Video Compare](https://github.com/pixop/video-compare) - Video Quality Comparison & Analysis Tools
-* [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
-* [MkvDefaultTrackChanger](https://mkvdefaulttrackchanger.pages.dev/) - Easily Change Default MKV Subtitle / Audio Tracks / [GitHub](https://github.com/MikeMoolenaar/MkvDefaultTrackChanger)
-* [⁠MP4Recover](https://github.com/ActiveTK/MP4Recover) - Recover Broken MP4 Files
-* [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
-* [VidClue](https://vidclue.com/) - Short Form Video Inspiration
+* [⁠Broadcast Box](https://b.siobud.com/) / [GitHub](https://github.com/Glimesh/broadcast-box), [Screen Share Party](https://ba.net/screen/), [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/) or [Screen-Sharing](https://share-your-screen.vercel.app/) / [GitHub](https://github.com/tonghohin/screen-sharing) - Web-Based Screen Sharing
+* [⁠uxplay-windows](https://github.com/leapbtw/uxplay-windows) - AirPlay Receiver / Windows
+* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - Video Face Swap / Windows, macOS, Linux
+* [Rope](https://github.com/Hillobar/Rope) - Video Face Swap Tools / Windows / [Discord](https://discord.com/invite/EcdVAFJzqp)
+* [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media Discussion / Web
+* [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Video Compare](https://github.com/pixop/video-compare) - Video Quality Comparison & Analysis Tools / Windows
+* [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder / Windows, macOS, Linux, Docker
+* [MkvDefaultTrackChanger](https://mkvdefaulttrackchanger.pages.dev/) - Change Default MKV Subtitle / Audio Tracks / Windows, macOS, Linux / [GitHub](https://github.com/MikeMoolenaar/MkvDefaultTrackChanger)
+* [untrunc](https://github.com/anthwlock/untrunc) or [⁠MP4Recover](https://github.com/ActiveTK/MP4Recover) - Recover Broken MP4 Files / Docker
 
 ***
 
-## ▷ Disc Utilities
+## ▷ Physical Media Tools
 
-* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://sourceforge.net/projects/dvdstyler/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
-* [VidCoder](https://vidcoder.net/) or [XReveal](https://www.xreveal.com/) - DVD / Blu-ray Ripping
-* [MakeMKV](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053), [2](https://cable.ayra.ch/makemkv/) - Create MKV from Blu-ray / DVD
-* [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-ray/UHD Disk Demuxer
-* [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
-* [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-ray Ripping
-* [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)
-* [Redump](https://redump.info/) - Disc Preservation Info Project
+* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html) - CD / DVD Burning / Windows
+* [DVDStyler](https://sourceforge.net/projects/dvdstyler/) - CD / DVD Burning / Windows, macOS, Linux
+* [VidCoder](https://vidcoder.net/) or [XReveal](https://www.xreveal.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) - DVD / Blu-ray Ripping / Windows
+* [MakeMKV](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053), [2](https://cable.ayra.ch/makemkv/) - Create MKV from Blu-ray / DVD / Windows
+* [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-ray/UHD Disk Demuxer / Windows, Linux
+* [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer / Windows
+* [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-ray Ripping / Windows
+* [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634) / Web
+* [Redump](https://redump.info/) - Disc Preservation Info Project / Web
+* [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder / Windows, macOS, Linux
 
 ***
 
@@ -47,7 +48,7 @@
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Requires Sign-Up / Use Adblock
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever (w/ Account) / Allows Hotlinking
-* ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
+* ⭐ **[Gofile](https://gofile.io/)** - 1TB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 15 Days After Last View (w/ Account)
 * [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Requires Sign-Up
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Requires Sign-Up
@@ -75,7 +76,7 @@
 ## ▷ Screen Recording
 
 * ⭐ **[OBS Studio](https://obsproject.com/)** / Windows, macOS, Linux / [Discord](https://discord.com/invite/obsproject) / [GitHub](https://github.com/obsproject/obs-studio)
-* [SteelSeries Moments](https://steelseries.com/gg/moments), [⁠Ascent](https://www.tryascent.gg/), [Medal](https://medal.tv/) / [Watermark Remover](https://rentry.co/FMHYB64#medal), [Segra](https://segra.tv/) / [GitHub](https://github.com/Segergren/Segra) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
+* [SteelSeries Moments](https://steelseries.com/gg/moments), [⁠Ascent](https://www.tryascent.gg/), [Medal](https://medal.tv/) / [Watermark Remover](https://rentry.co/FMHYB64#medal), [Segra](https://segra.tv/) / [GitHub](https://github.com/Segergren/Segra), [Vice](https://eklonofficial.github.io/Vice-Website/) / [GitHub](https://github.com/eklonofficial/Vice) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
 * [Shinobi](https://shinobi.video/) - Network Video Recorder / macOS, Linux / [Discord](https://discord.com/invite/mdhmvuH) / [GitLab](https://gitlab.com/Shinobi-Systems/Shinobi)
 * [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR) / Windows, macOS, Linux / [GitHub](https://github.com/MythTV/mythtv)
 * [FFmpeg](https://ffmpeg.org/) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
@@ -87,7 +88,7 @@
 * [ScreenREC](https://screen-rec.vercel.app/) / Web / [GitHub](https://github.com/heysagnik/screenREC)
 * [RecordScreen](https://recordscreen.io/) / Web
 * [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/) / Web
-* [⁠Cursorful](https://cursorful.com/) - Browser Screen Recording
+* [⁠Cursorful](https://cursorful.com/) / Web
 
 ***
 
@@ -382,6 +383,7 @@
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Windows, macOS, Linux / [Discord](https://discord.gg/uFNUXvFFmg)
 * [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
 * [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
+* [⁠Rip Anything From Anywhere](https://anything.rip/) - Multi-Site / Online
 * [vdwn.cloud](https://vdwn.cloud/), [2](https://imov.life/) - Multi-Site / Online
 * [yoink.tools](https://yoink.tools/) - Multi-Site / Online
 * [AMP4](https://amp4.cc/) - Multi-Site / Online
@@ -392,7 +394,7 @@
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
 * [Piner](https://piner.io/) - Pinterest / Online
 * [⁠ReelSave](https://reelsave.app/) - Instagram
-* [iTeraPlay](https://iteraplay.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox
+* [iTeraPlay](https://iteraplay.com/), [Terabox Downloader](https://getindevice.com/terabox-downloader/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/), [TeraFetch](https://terafetch.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
 * [hls-downloader](https://github.com/puemos/hls-downloader), [⁠cat-catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 * [DRM Bypass Toolkit](https://rentry.co/FMHYB64#dbt) - DRM Bypass Guide
@@ -412,6 +414,7 @@
 ## ▷ Video Editors
 
 * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)
+* ↪️ **[Linux Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video)** / [macOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_video)
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows, macOS, Linux / [X](https://x.com/Blackmagic_News) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
 * ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows, macOS, Linux / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, macOS, Linux
@@ -436,9 +439,9 @@
 
 ## ▷ Online Editors
 
+* ⭐ **[Mastershot](https://mastershot.app/)**
 * ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
 * ⭐ **[Pikimov](https://pikimov.com/)** - Use Chromium Browser
-* ⭐ **[Mastershot](https://mastershot.app/)** - Requires Sign-Up
 * [Klippy](https://www.klippy.pro/) / [Discord](https://discord.gg/xJVXbQVPZP)
 * [FreeCut](https://www.freecut.net/), [2](https://freecut-sandy.vercel.app/) / [GitHub](https://github.com/walterlow/freecut)
 * [Panzoid](https://panzoid.com/)
@@ -461,7 +464,7 @@
 ## ▷ Effects / Enhancements
 
 * [⁠Grainrad](https://grainrad.com/) or [effect.app](https://effect.app/) - Online Video Effects
-* [Topaz](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_vfx_sites) or [UniFab](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_site) (search) - AI Video Enhancement Tools
+* [Topaz](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_vfx_sites) or [UniFab](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - AI Video Enhancement Tools
 * [Gyroflow](https://gyroflow.xyz/) / [Discord](https://discord.com/invite/YaUtNpWTUh) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
 * [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
 * [⁠ntsc-rs](https://ntsc.rs/) - TV + VHS Artifact Video Effect Editor / [Web Version](https://web.ntsc.rs/) / [GitHub](https://github.com/ntsc-rs/ntsc-rs)

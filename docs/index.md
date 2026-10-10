@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: September Updates ⚡
-    link: /posts/sept-2026
+    title: October Updates 🎃
+    link: /posts/oct-2026
   image:
     src: test.png
     alt: FMHY Icon
@@ -128,16 +128,19 @@ onMounted(() => {
   } catch (err) {}
   const urlParams = new URLSearchParams(window.location.search)
   const kawaii = urlParams.get('uwu')
+  const isOctober = new Date().getMonth() === 9
+  const heroSrc = isOctober ? '/hall.png' : '/test.png'
+  const kawaiiSrc = isOctober ? '/uwu-hall.png' : '/logo-uwu.svg'
   const setKawaii = () => {
     const images = document.querySelectorAll('.VPImage.image-src')
     images.forEach((img) => {
-      img.src = '/logo-uwu.svg'
+      img.src = kawaiiSrc
     })
   }
   const resetKawaii = () => {
     const images = document.querySelectorAll('.VPImage.image-src')
     images.forEach((img) => {
-      img.src = '/test.png'
+      img.src = heroSrc
     })
   }
   if (kawaii === 'true') {
@@ -153,6 +156,8 @@ onMounted(() => {
     resetKawaii()
   } else if (preferredKawaii) {
     setKawaii()
+  } else {
+    resetKawaii()
   }
 
   let clickCount = 0;

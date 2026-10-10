@@ -26,7 +26,7 @@ const STORAGE_KEY_VARS = 'vitepress-theme-vars'
 function resolveThemeName(name?: string | null): string {
   if (name && themeRegistry[name]) return name
   if (name && themeRegistry[`color-${name}`]) return `color-${name}`
-  return 'color-swarm'
+  return new Date().getMonth() === 9 ? 'halloween' : 'color-swarm'
 }
 
 export class ThemeHandler {
@@ -157,7 +157,7 @@ export class ThemeHandler {
     if (this.state.value.currentMode === 'dark' && this.amoledEnabled.value) {
       bgColor = '#000000'
       bgAltColor = '#000000'
-      bgElvColor = 'rgba(0, 0, 0, 0.9)'
+      bgElvColor = '#121212'
     }
 
     // Apply brand colors
